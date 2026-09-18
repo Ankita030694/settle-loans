@@ -4,10 +4,10 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Received a Lok Adalat Notice for Loan Default? Here is What You Must Do",
+  title: "Received a Lok Adalat Notice for Loan Default? | SettleLoans",
   description: "Demystifying the intimidating Lok Adalat Summons for loan defaults. Learn how to respond, why ignoring it is a mistake, and how to negotiate a massive discount.",
   alternates: {
-    canonical: "https://www.settleloan.in/received-lok-adalat-notice-for-loan-default-what-should-borrowers-do",
+    canonical: "https://www.settleloans.in/received-lok-adalat-notice-for-loan-default-what-should-borrowers-do",
   }
 };
 
@@ -18,7 +18,7 @@ export default function LokAdalatNoticePage() {
       "@type": "WebPage",
       "name": "Received a Lok Adalat Notice for Loan Default? Here is What You Must Do",
       "description": "Demystifying the intimidating Lok Adalat Summons for loan defaults. Learn how to respond, why ignoring it is a mistake, and how to negotiate a massive discount.",
-      "url": "https://www.settleloan.in/received-lok-adalat-notice-for-loan-default-what-should-borrowers-do"
+      "url": "https://www.settleloans.in/received-lok-adalat-notice-for-loan-default-what-should-borrowers-do"
     },
     {
       "@context": "https://schema.org",
@@ -28,13 +28,13 @@ export default function LokAdalatNoticePage() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.settleloan.in/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Received a Lok Adalat Notice for Loan Default? Here is What You Must Do",
-          "item": "https://www.settleloan.in/received-lok-adalat-notice-for-loan-default-what-should-borrowers-do"
+          "item": "https://www.settleloans.in/received-lok-adalat-notice-for-loan-default-what-should-borrowers-do"
         }
       ]
     },
@@ -44,19 +44,19 @@ export default function LokAdalatNoticePage() {
       "headline": "Received a Lok Adalat Notice for Loan Default? Here is What You Must Do",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.settleloan.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/received-lok-adalat-notice-for-loan-default-what-should-borrowers-do"
+        "@id": "https://www.settleloans.in/received-lok-adalat-notice-for-loan-default-what-should-borrowers-do"
       }
     },
     {

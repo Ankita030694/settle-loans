@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementDelhiNcrClient from './PersonalLoanSettlementDelhiNcrClient';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Lawyer in Delhi NCR: Legal Defense & Lok Adalat (2026)',
+  title: 'Loan Settlement Lawyer in Delhi NCR | SettleLoans',
   description: 'Facing personal loan default, court summons, or recovery harassment in Delhi NCR? Connect with experienced debt settlement lawyers for Tis Hazari, Saket, Karkardooma, Rohini, Dwarka & Gurugram courts. RBI-compliant legal defense & Lok Adalat settlements.',
   keywords: [
     'personal loan settlement lawyer in delhi ncr',

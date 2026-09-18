@@ -6,7 +6,7 @@ import TableOfContents from '@/components/TableOfContents';
 export const metadata: Metadata = {
   title: "RBI IRACP Norms & Loan Classification | SMA & NPA Meaning",
   description: "Decode the RBI's complex IRACP norms. Learn what SMA-0, SMA-1, SMA-2, and NPA mean, and understand exactly how banks classify your financial stress level.",
-  alternates: { canonical: "https://yourdomain.com/rbi-iracp-norms-loan-classification" }
+  alternates: { canonical: "https://www.settleloans.in/rbi-iracp-norms-loan-classification" }
 };
 
 const tocItems = [
@@ -24,19 +24,19 @@ export default function RbiIracpNormsPage() {
       {
         "@type": "WebPage",
         "name": "RBI IRACP Norms & Loan Classification",
-        "url": "https://yourdomain.com/rbi-iracp-norms-loan-classification"
+        "url": "https://www.settleloans.in/rbi-iracp-norms-loan-classification"
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://yourdomain.com" },
-          { "@type": "ListItem", "position": 2, "name": "RBI IRACP Norms & Loan Classification", "item": "https://yourdomain.com/rbi-iracp-norms-loan-classification" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "RBI IRACP Norms & Loan Classification", "item": "https://www.settleloans.in/rbi-iracp-norms-loan-classification" }
         ]
       },
       {
         "@type": "Article",
         "headline": "RBI IRACP Norms & Loan Classification",
-        "author": { "@type": "Organization", "name": "Your Brand" }
+        "author": { "@type": "Organization", "name": "SettleLoans" }
       },
       {
         "@type": "Product",

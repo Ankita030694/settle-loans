@@ -34,7 +34,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'IndusInd Bank Personal Loan Settlement: OTS Process, Haircut & Legal Guide (2026)',
+  title: 'IndusInd Bank Personal Loan Settlement | SettleLoans',
   description: 'Comprehensive legal guide to IndusInd Bank personal loan and credit card settlement. Understand recovery calls, Section 25 PSSA notices, NPA provisioning, and how to negotiate up to 60% haircut under RBI rules.',
   keywords: [
     'indusind bank personal loan settlement',

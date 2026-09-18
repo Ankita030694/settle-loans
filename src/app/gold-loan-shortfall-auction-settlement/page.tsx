@@ -37,7 +37,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Gold Loan Shortfall Notice Settlement: Legal Defense & ₹0 Residual Debt Guide (2026)',
+  title: 'Gold Loan Shortfall Notice Settlement Guide | SettleLoans',
   description: 'Received a gold loan shortfall notice from Muthoot, Manappuram, or bank after auction? Learn your legal rights under RBI Master Directions, civil suit defenses under Order 37 CPC, and how to settle residual debt for ₹0.',
   keywords: [
     'gold loan shortfall notice settlement',

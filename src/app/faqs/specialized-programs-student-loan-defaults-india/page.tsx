@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Student Loan Settlement Programs India | Vidya Lakshmi & OTS 2024-25",
+    title: "Student Loan Settlement Programs in India | SettleLoans",
     description: "Learn about specialized programs for settling student loan defaults in India. Explore Vidya Lakshmi, CGFSEL guarantee, and bank OTS schemes for 2024-25.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india",

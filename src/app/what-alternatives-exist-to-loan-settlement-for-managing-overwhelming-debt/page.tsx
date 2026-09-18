@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
-  title: "What Alternatives Exist to Loan Settlement for Managing Overwhelming Debt? | 2024 Guide",
+  title: "Alternatives to Loan Settlement for Debt | SettleLoans",
   description: "Discover the best alternatives to loan settlement in India. Learn about debt consolidation, restructuring, and moratoriums to manage your debt without ruining your CIBIL score.",
   alternates: {
     canonical: "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt",

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-    title: "Bad Loan Recovery Strategy in India | Expert Legal Debt Resolution Guide",
+    title: "Bad Loan Recovery Strategy in India | SettleLoans",
     description: "Comprehensive guide on bad loan recovery strategies in India. Learn about SARFAESI Act, DRT, Lok Adalats, and RBI guidelines. Expert legal help for bank debt resolution and loan settlement.",
     alternates: {
         canonical: "https://www.settleloans.in/bad-loan-recovery-strategy",

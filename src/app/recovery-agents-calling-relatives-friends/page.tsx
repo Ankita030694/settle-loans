@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import RecoveryAgentsCallingRelativesFriendsClient from './RecoveryAgentsCallingRelativesFriendsClient';
 
 export const metadata: Metadata = {
-  title: 'Bank Recovery Agent Calling My Family? Stop Harassment & Know RBI Rules (2026)',
+  title: 'Recovery Agents Calling Family? RBI Rules | SettleLoans',
   description: 'Is a bank recovery agent calling your family, parents, or friends? Discover strict RBI guidelines prohibiting third-party contact, legal rights, and immediate action to stop harassment.',
   keywords: [
     'bank recovery agent calling my family',

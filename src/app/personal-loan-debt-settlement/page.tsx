@@ -5,7 +5,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const url = "https://www.settleloans.in/personal-loan-debt-settlement";
   
   return {
-    title: "Personal Loan Debt Settlement vs Consolidation in India | SettleLoans",
+    title: "Loan Debt Settlement vs Consolidation in India | SettleLoans",
     description: "Compare personal loan debt settlement and debt consolidation in India. Learn which debt relief strategy works best for your financial situation with SettleLoans.",
     alternates: {
       canonical: url,

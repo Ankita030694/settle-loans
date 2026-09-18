@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "How Can I Initiate a Full and Final Settlement Discussion with My Bank? (2026 Guide)",
+  title: "How to Initiate Loan Settlement with Bank | SettleLoans",
   description: "Comprehensive guide on initiating a full and final loan settlement with your bank in India. Learn the process, documentation, and negotiation strategies for debt relief.",
   alternates: {
     canonical: "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank",

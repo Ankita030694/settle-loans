@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CheckCibilDefaulterListClient from './CheckCibilDefaulterListClient';
 
 export const metadata: Metadata = {
-  title: 'How to Check My Name in CIBIL Defaulter List? Myth vs Reality (2026)',
+  title: 'How to Check Name in CIBIL Defaulter List | SettleLoans',
   description: 'Wondering how to check your name in CIBIL defaulter list? Learn why a public blacklist is a myth, what DPD & Written-Off mean, how to get your CIR, and rebuild to 750+.',
   alternates: {
     canonical: 'https://www.settleloans.in/check-cibil-defaulter-list',

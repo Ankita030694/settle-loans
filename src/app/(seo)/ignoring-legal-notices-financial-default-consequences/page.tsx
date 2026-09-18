@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Ignoring Legal Notices: Financial & Default Consequences",
   description: "Throwing bank notices in the trash? Discover what happens if you ignore bank notices, Section 138 notices, and the risks of an Ex-Parte order for loan default.",
   alternates: {
-    canonical: "https://www.settleloan.in/ignoring-legal-notices-financial-default-consequences"
+    canonical: "https://www.settleloans.in/ignoring-legal-notices-financial-default-consequences"
   }
 };
 
@@ -28,8 +28,8 @@ export default function IgnoringLegalNoticesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/ignoring-legal-notices-financial-default-consequences/#webpage",
-        "url": "https://www.settleloan.in/ignoring-legal-notices-financial-default-consequences",
+        "@id": "https://www.settleloans.in/ignoring-legal-notices-financial-default-consequences/#webpage",
+        "url": "https://www.settleloans.in/ignoring-legal-notices-financial-default-consequences",
         "name": "Ignoring Legal Notices: Financial & Default Consequences",
         "description": "Discover what happens if you ignore bank notices, Section 138 notices, and the risks of an Ex-Parte order for loan default.",
         "inLanguage": "en-IN"
@@ -37,19 +37,19 @@ export default function IgnoringLegalNoticesPage() {
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloan.in/" },
-          { "@type": "ListItem", "position": 2, "name": "Loan Defaults", "item": "https://www.settleloan.in/all-queries" },
-          { "@type": "ListItem", "position": 3, "name": "Ignoring Legal Notices", "item": "https://www.settleloan.in/ignoring-legal-notices-financial-default-consequences" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 2, "name": "Loan Defaults", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 3, "name": "Ignoring Legal Notices", "item": "https://www.settleloans.in/ignoring-legal-notices-financial-default-consequences" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://www.settleloan.in/ignoring-legal-notices-financial-default-consequences/#article",
+        "@id": "https://www.settleloans.in/ignoring-legal-notices-financial-default-consequences/#article",
         "headline": "Ignoring Legal Notices: Financial & Default Consequences",
         "description": "Throwing bank notices in the trash? Ignoring legal summons will lead to an 'Ex-Parte' court order against you. Act now before you lose your defense.",
-        "author": { "@type": "Organization", "name": "SettleLoan" },
-        "publisher": { "@type": "Organization", "name": "SettleLoan", "logo": { "@type": "ImageObject", "url": "https://www.settleloan.in/logo.png" } },
-        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloan.in/ignoring-legal-notices-financial-default-consequences/#webpage" }
+        "author": { "@type": "Organization", "name": "SettleLoans" },
+        "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" } },
+        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/ignoring-legal-notices-financial-default-consequences/#webpage" }
       },
       {
         "@type": "FAQPage",

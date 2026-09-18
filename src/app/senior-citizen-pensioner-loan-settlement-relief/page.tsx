@@ -40,7 +40,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Rules for Senior Citizens & Pensioners: Pension Attachment Protection & OTS Guide',
+  title: 'Senior Citizen & Pensioner Loan Settlement | SettleLoans',
   description: 'Can banks deduct EMI from a pensioner account or seize retirement funds? Learn Section 60 CPC pension attachment protections, compassionate OTS relief, and RBI rules.',
   keywords: [
     'loan settlement rules for senior citizens pensioners',
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief',
   },
   openGraph: {
-    title: 'Loan Settlement Rules for Senior Citizens & Pensioners: Pension Attachment Protection & OTS Guide',
+    title: 'Senior Citizen & Pensioner Loan Settlement | SettleLoans',
     description: 'Comprehensive legal guide for senior citizens and retired pensioners facing unmanageable debt, unlawful pension account debits, and recovery agent coercion in India.',
     url: 'https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief',
     siteName: 'SettleLoans',

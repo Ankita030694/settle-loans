@@ -36,7 +36,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Police Complaint Against Recovery Agent Format | Legal Draft & Rights',
+  title: 'Police Complaint Against Recovery Agent Format | SettleLoans',
   description: 'Facing recovery agent harassment? Access the statutory police complaint format against loan recovery agents under IPC Sections 506, 509 & RBI rules to file with your local SHO.',
   keywords: [
     'police complaint against recovery agent format',

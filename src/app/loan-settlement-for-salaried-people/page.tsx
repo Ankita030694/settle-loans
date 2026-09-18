@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement for Salaried People | Expert Debt Relief & Negotiation",
+  title: "Loan Settlement for Salaried People | SettleLoans",
   description: "Comprehensive guide to loan settlement for salaried individuals in India. Learn about the process, legal rights, credit score impact, and how to negotiate with banks to settle your debt for less.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-for-salaried-people",

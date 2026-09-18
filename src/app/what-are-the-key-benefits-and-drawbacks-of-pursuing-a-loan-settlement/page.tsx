@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Key Benefits and Drawbacks of Pursuing a Loan Settlement in India (2026)",
+  title: "Benefits & Drawbacks of Loan Settlement | SettleLoans",
   description: "Explore the comprehensive guide on the benefits and drawbacks of loan settlement in India. Understand the impact on CIBIL scores, legal protections, and the path to financial freedom.",
   alternates: {
     canonical: "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement",

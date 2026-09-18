@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Expert Loan Settlement in Gurgaon | Cyber City Debt Relief Specialists - SettleLoans",
+  title: "Loan Settlement Services in Gurgaon | SettleLoans",
   description: "Overleveraged with credit cards in Gurgaon or Udyog Vihar? Our lawyers help IT professionals settle loans legally. Stop recovery harassment at Golf Course Road society gates.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/gurgaon",

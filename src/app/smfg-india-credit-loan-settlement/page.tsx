@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
+  title: 'SMFG India Credit Loan Settlement Guide | SettleLoans',
   description: 'Comprehensive guide to SMFG India Credit (formerly Fullerton India) loan settlement. Learn how to settle high-ticket personal and business loans, navigate SARB recovery collections, halt aggressive NACH bounce fees, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI compromise rules.',
   keywords: [
     'smfg india credit loan settlement',

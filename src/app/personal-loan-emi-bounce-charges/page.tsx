@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Personal Loan EMI Bounce Charges Explained | RBI Limits',
   description: 'Is your bank charging you ₹750 every time your EMI bounces? Know the RBI limits on bounce charges, bank penalties for missed EMIs, and how to claim a refund.',
   alternates: {
-    canonical: 'https://example.com/personal-loan-emi-bounce-charges',
+    canonical: 'https://www.settleloans.in/personal-loan-emi-bounce-charges',
   },
 };
 
@@ -29,8 +29,8 @@ export default function PersonalLoanEmiBounceChargesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://example.com/personal-loan-emi-bounce-charges",
-        "url": "https://example.com/personal-loan-emi-bounce-charges",
+        "@id": "https://www.settleloans.in/personal-loan-emi-bounce-charges",
+        "url": "https://www.settleloans.in/personal-loan-emi-bounce-charges",
         "name": "Personal Loan EMI Bounce Charges Explained | RBI Limits",
         "description": "Know the RBI limits on bounce charges, bank penalties for missed EMIs, and how to claim a refund for overcharging.",
       },
@@ -41,13 +41,13 @@ export default function PersonalLoanEmiBounceChargesPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://example.com/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Personal Loan EMI Bounce Charges",
-            "item": "https://example.com/personal-loan-emi-bounce-charges"
+            "item": "https://www.settleloans.in/personal-loan-emi-bounce-charges"
           }
         ]
       },
@@ -57,14 +57,14 @@ export default function PersonalLoanEmiBounceChargesPage() {
         "description": "Learn about bounce charges on personal loans, RBI limits, and how to handle them.",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan"
+          "name": "SettleLoans"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan",
+          "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://example.com/logo.png"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         }
       },

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement for Traders in India | Settle CC, OD & Business Loans",
+  title: "Loan Settlement for Traders in India | SettleLoans",
   description: "Expert loan settlement services for traders in India. Settle your Cash Credit (CC), Overdraft (OD), and business loans for 40-70% less. Protect your business and personal assets today.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-for-traders",

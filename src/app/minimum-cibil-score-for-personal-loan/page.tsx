@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import MinimumCibilScoreForPersonalLoanClient from './MinimumCibilScoreForPersonalLoanClient';
 
 export const metadata: Metadata = {
-  title: 'Minimum CIBIL Score for Personal Loan: Eligibility & Low Score Solutions (2026)',
+  title: 'Minimum CIBIL Score for Personal Loan | SettleLoans',
   description: 'Discover the minimum CIBIL score for personal loan approval in India. Find out why loans get rejected below 750, bank-wise cutoffs, and how to fix your score or settle debt.',
   alternates: {
     canonical: 'https://www.settleloans.in/minimum-cibil-score-for-personal-loan',

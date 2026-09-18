@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agent Calling From Police Station: Legal Rights, Fake Notice Verification & Anti-Extortion Guide (2026)',
+  title: 'Recovery Agent Police Call: Legal Rights & Protection',
   description: 'Received a fake police call or Crime Branch notice from a loan recovery agent? Learn your legal protections, how to verify FIR status, file Section 384/419 criminal complaints, and settle debt safely.',
   keywords: [
     'recovery agent calling from police station',
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/police-station-call-for-loan-default',
   },
   openGraph: {
-    title: 'Recovery Agent Calling From Police Station: Legal Rights & Anti-Extortion Guide',
+    title: 'Recovery Agent Police Call: Legal Rights & Protection',
     description: 'Master the legal defense against recovery agents posing as police officers. Understand Supreme Court civil debt protections, verify fake FIRs, and file criminal extortion complaints against rogue agencies.',
     url: 'https://www.settleloans.in/police-station-call-for-loan-default',
     siteName: 'SettleLoans',

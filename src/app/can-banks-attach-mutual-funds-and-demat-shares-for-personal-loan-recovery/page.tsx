@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Can Banks Attach Mutual Funds & Demat Shares for Loan Recovery?",
   description: "Learn if banks can freeze your Demat account or attach mutual funds for an unsecured loan default. Understand the legal procedures, court orders, and how to protect investments.",
   alternates: {
-    canonical: "https://example.com/can-banks-attach-mutual-funds-and-demat-shares-for-personal-loan-recovery"
+    canonical: "https://www.settleloans.in/can-banks-attach-mutual-funds-and-demat-shares-for-personal-loan-recovery"
   }
 };
 
@@ -33,17 +33,17 @@ export default function AssetAttachmentPage() {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://example.com" },
-        { "@type": "ListItem", "position": 2, "name": "Debt Settlement", "item": "https://example.com/debt-settlement" },
-        { "@type": "ListItem", "position": 3, "name": "Asset Attachment", "item": "https://example.com/can-banks-attach-mutual-funds-and-demat-shares-for-personal-loan-recovery" }
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+        { "@type": "ListItem", "position": 2, "name": "Debt Settlement", "item": "https://www.settleloans.in" },
+        { "@type": "ListItem", "position": 3, "name": "Asset Attachment", "item": "https://www.settleloans.in/can-banks-attach-mutual-funds-and-demat-shares-for-personal-loan-recovery" }
       ]
     },
     {
       "@context": "https://schema.org",
       "@type": "Article",
       "headline": "Asset Attachment: Can Banks Seize Mutual Funds and Demat Shares for Loan Recovery?",
-      "author": { "@type": "Organization", "name": "Legal Defense Team" },
-      "publisher": { "@type": "Organization", "name": "Legal Defense Team", "logo": { "@type": "ImageObject", "url": "https://example.com/logo.png" } },
+      "author": { "@type": "Organization", "name": "SettleLoans" },
+      "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" } },
       "datePublished": "2024-06-21T08:00:00+08:00",
       "dateModified": "2024-06-21T08:00:00+08:00"
     },

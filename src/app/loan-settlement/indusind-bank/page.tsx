@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "IndusInd Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
+  title: "IndusInd Bank Loan Settlement | SettleLoans",
   description: "Struggling with IndusInd Bank debt? Learn the expert process for IndusInd Bank loan settlement and credit card OTS. Settle for 40-70% less and stop harassment legally.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/indusind-bank",

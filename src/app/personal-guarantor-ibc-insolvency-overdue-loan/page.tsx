@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Personal Guarantor IBC Insolvency for Overdue Loans",
   description: "Did you stand as a personal guarantor for a failed corporate loan? The bank can now drag you into personal insolvency. Understand your risks under the IBC.",
   alternates: {
-    canonical: "https://settleloan.in/personal-guarantor-ibc-insolvency-overdue-loan"
+    canonical: "https://www.settleloans.in/personal-guarantor-ibc-insolvency-overdue-loan"
   }
 };
 
@@ -30,23 +30,23 @@ export default function PersonalGuarantorIBCPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloan.in/personal-guarantor-ibc-insolvency-overdue-loan",
-        "url": "https://settleloan.in/personal-guarantor-ibc-insolvency-overdue-loan",
+        "@id": "https://www.settleloans.in/personal-guarantor-ibc-insolvency-overdue-loan",
+        "url": "https://www.settleloans.in/personal-guarantor-ibc-insolvency-overdue-loan",
         "name": "Personal Guarantor IBC Insolvency for Overdue Loans",
         "description": "Did you stand as a personal guarantor for a failed corporate loan? The bank can now drag you into personal insolvency. Understand your risks under the IBC."
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloan.in/" },
-          { "@type": "ListItem", "position": 2, "name": "Personal Guarantor IBC Insolvency", "item": "https://settleloan.in/personal-guarantor-ibc-insolvency-overdue-loan" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 2, "name": "Personal Guarantor IBC Insolvency", "item": "https://www.settleloans.in/personal-guarantor-ibc-insolvency-overdue-loan" }
         ]
       },
       {
         "@type": "Article",
         "headline": "Personal Guarantor IBC Insolvency for Overdue Loans",
         "description": "Understand the legal implications and process of personal guarantor insolvency under Section 95 of the IBC for overdue corporate loans.",
-        "author": { "@type": "Organization", "name": "SettleLoan" }
+        "author": { "@type": "Organization", "name": "SettleLoans" }
       },
       {
         "@type": "Product",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "When Does Your Loan Become an NPA? | The 90-Day Default Timeline",
   description: "Understand the exact timeline of when your personal or business loan turns into a full-blown NPA. Learn about the 90-day default rules and what happens on Day 91.",
   alternates: {
-    canonical: "https://www.settleloan.in/loan-npa-status",
+    canonical: "https://www.settleloans.in/loan-npa-status",
   },
 };
 
@@ -29,21 +29,21 @@ export default function LoanNPAStatusPage() {
         "@type": "WebPage",
         "name": "When Does Your Loan Become an NPA? | The 90-Day Default Timeline",
         "description": "Understand the exact timeline of when your loan turns into a full-blown NPA. Learn about the 90-day default rules and what happens on Day 91.",
-        "url": "https://www.settleloan.in/loan-npa-status",
+        "url": "https://www.settleloans.in/loan-npa-status",
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloan.in/" },
-          { "@type": "ListItem", "position": 2, "name": "Resources", "item": "https://www.settleloan.in/resources/" },
-          { "@type": "ListItem", "position": 3, "name": "Loan NPA Status Explained", "item": "https://www.settleloan.in/loan-npa-status" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 2, "name": "Resources", "item": "https://www.settleloans.in/resources/" },
+          { "@type": "ListItem", "position": 3, "name": "Loan NPA Status Explained", "item": "https://www.settleloans.in/loan-npa-status" }
         ]
       },
       {
         "@type": "Article",
         "headline": "When Does Your Loan Become an NPA?",
-        "author": { "@type": "Organization", "name": "SettleLoan" },
-        "publisher": { "@type": "Organization", "name": "SettleLoan", "logo": { "@type": "ImageObject", "url": "https://www.settleloan.in/logo.png" } },
+        "author": { "@type": "Organization", "name": "SettleLoans" },
+        "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" } },
         "datePublished": "2026-07-25",
         "dateModified": "2026-07-25",
       },

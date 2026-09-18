@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Loan Penalty Waiver Request: A Complete Guide | Bank Late Fees Reversal',
+  title: 'Loan Penalty Waiver Request: Complete Guide | SettleLoans',
   description: 'Did you know bank managers have the power to reverse 100% of your late fees? Learn the exact process to submit a successful loan penalty waiver request.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-penalty-waiver-request',

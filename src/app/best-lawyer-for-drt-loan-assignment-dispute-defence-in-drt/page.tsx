@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFileShield, faGavel, faBuildingColumns, faUserShield, faScaleBalanced, faShieldHalved } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Best Lawyer for DRT Loan Assignment Dispute Defence | ARC Recovery Help",
+    title: "Lawyer for DRT Loan Assignment Disputes | SettleLoans",
     description: "Get expert legal defense against loan assignment disputes in DRT. Challenge ARC actions, assignment deeds, and stay recovery orders with India's top DRT lawyers. Protect your assets from Asset Reconstruction Companies today.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt",

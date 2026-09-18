@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CaseStudyAxisBankBusinessLoanSettlementClient from './CaseStudyAxisBankBusinessLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'Axis Bank Business Loan Settlement Case Study: ₹15L SME Debt Settled for ₹5.5L',
+  title: 'Axis Bank Business Loan Settlement Case Study | SettleLoans',
   description: 'Real case study: How an ₹15 Lakh unsecured Axis Bank business loan was settled for ₹5.5 Lakhs (63.3% waiver) following SME failure. Learn commercial debt negotiation, personal guarantor asset protection, and RBI OTS rules.',
   keywords: [
     'unsecured business loan settlement case study',

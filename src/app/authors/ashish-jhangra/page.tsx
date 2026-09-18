@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Ashish Jhangra - Legal & Debt Resolution Professional | AMA Legal Solutions',
+  title: 'Ashish Jhangra - Debt Resolution Expert | SettleLoans',
   description: 'Ashish Jhangra is a legal and debt resolution professional at AMA Legal Solutions, specializing in personal loan settlement, credit card debt resolution, and recovery harassment.',
 };
 

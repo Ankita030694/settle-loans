@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'EMI Payment After Due Date: Charges and Solutions',
   description: "Paying your EMI a few days late? Beware of the hidden 'Penal Interest' trap. Learn how to request a penalty waiver from your bank manager.",
   alternates: {
-    canonical: 'https://www.yourdomain.com/emi-payment-after-due-date-charges-and-solutions',
+    canonical: 'https://www.settleloans.in/emi-payment-after-due-date-charges-and-solutions',
   },
 };
 
@@ -29,8 +29,8 @@ export default function EmiPaymentAfterDueDatePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.yourdomain.com/emi-payment-after-due-date-charges-and-solutions/#webpage",
-        "url": "https://www.yourdomain.com/emi-payment-after-due-date-charges-and-solutions",
+        "@id": "https://www.settleloans.in/emi-payment-after-due-date-charges-and-solutions/#webpage",
+        "url": "https://www.settleloans.in/emi-payment-after-due-date-charges-and-solutions",
         "name": "EMI Payment After Due Date: Charges and Solutions",
         "description": "Paying your EMI a few days late? Beware of the hidden 'Penal Interest' trap. Learn how to request a penalty waiver from your bank manager.",
         "inLanguage": "en-IN"
@@ -42,25 +42,25 @@ export default function EmiPaymentAfterDueDatePage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.yourdomain.com/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loans",
-            "item": "https://www.yourdomain.com/loans/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "EMI Payment After Due Date",
-            "item": "https://www.yourdomain.com/emi-payment-after-due-date-charges-and-solutions"
+            "item": "https://www.settleloans.in/emi-payment-after-due-date-charges-and-solutions"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://www.yourdomain.com/emi-payment-after-due-date-charges-and-solutions/#article",
+        "@id": "https://www.settleloans.in/emi-payment-after-due-date-charges-and-solutions/#article",
         "headline": "EMI Payment After Due Date: Charges and Solutions",
         "author": {
           "@type": "Organization",
@@ -71,10 +71,10 @@ export default function EmiPaymentAfterDueDatePage() {
           "name": "Legal Debt Clinic",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.yourdomain.com/logo.png"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
-        "mainEntityOfPage": "https://www.yourdomain.com/emi-payment-after-due-date-charges-and-solutions",
+        "mainEntityOfPage": "https://www.settleloans.in/emi-payment-after-due-date-charges-and-solutions",
         "articleSection": "Personal Finance",
         "keywords": ["late payment penalty personal loan", "waive off late payment charges", "EMI paid after due date CIBIL"]
       },

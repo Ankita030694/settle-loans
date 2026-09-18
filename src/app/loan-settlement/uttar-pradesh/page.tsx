@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Legal Loan Settlement Services in Uttar Pradesh | 40-70% Debt Waiver",
+  title: "Loan Settlement Services in Uttar Pradesh | SettleLoans",
   description: "Struggling with debt in Lucknow, Kanpur, or Noida? Expert legal representation for loan settlement in Uttar Pradesh. Settle credit cards & personal loans with 70% waiver. No more harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/uttar-pradesh",

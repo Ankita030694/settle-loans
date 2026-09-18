@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Stop the EMI Bounce Cycle for Good | Break the Debt Trap",
   description: "Are you paying thousands in bounce charges every month but your loan principal isn't going down? Learn how to break the toxic bounce cycle permanently and restructure your personal loan.",
   alternates: {
-    canonical: "https://www.settleloan.in/stop-emi-bounce-cycle-for-good"
+    canonical: "https://www.settleloans.in/stop-emi-bounce-cycle-for-good"
   }
 };
 
@@ -30,7 +30,7 @@ export default function StopEmiBounceCyclePage() {
       "@type": "WebPage",
       "name": "Stop the EMI Bounce Cycle for Good",
       "description": "Learn how to break the toxic EMI bounce cycle permanently, stop recurring charges, and restructure your personal loan effectively.",
-      "url": "https://www.settleloan.in/stop-emi-bounce-cycle-for-good"
+      "url": "https://www.settleloans.in/stop-emi-bounce-cycle-for-good"
     },
     {
       "@context": "https://schema.org",
@@ -40,13 +40,13 @@ export default function StopEmiBounceCyclePage() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.settleloan.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Stop EMI Bounce Cycle",
-          "item": "https://www.settleloan.in/stop-emi-bounce-cycle-for-good"
+          "item": "https://www.settleloans.in/stop-emi-bounce-cycle-for-good"
         }
       ]
     },
@@ -57,19 +57,19 @@ export default function StopEmiBounceCyclePage() {
       "description": "Are you paying thousands in bounce charges every month but your loan principal isn't going down? Learn how to break the toxic bounce cycle permanently.",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.settleloan.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/stop-emi-bounce-cycle-for-good"
+        "@id": "https://www.settleloans.in/stop-emi-bounce-cycle-for-good"
       }
     },
     {

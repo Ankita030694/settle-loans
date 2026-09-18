@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Bank Filed Civil Suit for Loan Recovery: Order 37 CPC Summons Guide",
+  title: "Bank Civil Suit: Order 37 CPC Summons Guide | SettleLoans",
   description: "A technical legal breakdown for borrowers who have received a court summons under Order 37 of the CPC (Summary Suit). Learn how to reply to an Order 37 summons and seek leave to defend within 10 days.",
   alternates: {
     canonical: "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons",

@@ -4,10 +4,10 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Credit Life Insurance Claim for Overdue Loan EMIs | Step-by-Step Guide",
+  title: "Credit Life Insurance Claim for Overdue EMIs | SettleLoans",
   description: "Learn the complete loan insurance claim process. Discover how to use credit shield for a personal loan default and claim insurance for job loss to cover overdue EMIs.",
   alternates: {
-    canonical: "https://www.settleloan.in/credit-life-insurance-claim-overdue-loan-emi",
+    canonical: "https://www.settleloans.in/credit-life-insurance-claim-overdue-loan-emi",
   },
 };
 
@@ -36,7 +36,7 @@ export default function Page() {
             "@type": "WebPage",
             "name": "Credit Life Insurance Claim for Overdue Loan EMIs",
             "description": "Learn the complete loan insurance claim process. Discover how to use credit shield for a personal loan default and claim insurance for job loss to cover overdue EMIs.",
-            "url": "https://www.settleloan.in/credit-life-insurance-claim-overdue-loan-emi"
+            "url": "https://www.settleloans.in/credit-life-insurance-claim-overdue-loan-emi"
           },
           {
             "@context": "https://schema.org",
@@ -46,13 +46,13 @@ export default function Page() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": "https://www.settleloan.in/"
+                "item": "https://www.settleloans.in/"
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Credit Life Insurance Claim",
-                "item": "https://www.settleloan.in/credit-life-insurance-claim-overdue-loan-emi"
+                "item": "https://www.settleloans.in/credit-life-insurance-claim-overdue-loan-emi"
               }
             ]
           },
@@ -62,14 +62,14 @@ export default function Page() {
             "headline": "Credit Life Insurance Claim for Overdue Loan EMIs",
             "author": {
               "@type": "Organization",
-              "name": "SettleLoan"
+              "name": "SettleLoans"
             },
             "publisher": {
               "@type": "Organization",
-              "name": "SettleLoan",
+              "name": "SettleLoans",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://www.settleloan.in/logo.png"
+                "url": "https://www.settleloans.in/logo/logo.svg"
               }
             },
             "mainEntityOfPage": {

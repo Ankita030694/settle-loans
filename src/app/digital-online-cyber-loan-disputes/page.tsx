@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-    title: "Digital Online Cyber Loan Disputes India | Stop Harassment & Legal Help",
+    title: "Digital Loan Disputes in India | SettleLoans",
     description: "Expert legal help for digital online cyber loan disputes in India. Stop loan app harassment, understand RBI guidelines, and protect your data privacy with our technical guide.",
     alternates: {
         canonical: "https://www.settleloans.in/digital-online-cyber-loan-disputes",

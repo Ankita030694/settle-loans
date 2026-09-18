@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import NoDuesCertificateAfterLoanSettlementClient from './NoDuesCertificateAfterLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'How to Get No Dues Certificate After Loan Settlement: Verification, RBI Rules & Legal Guide (2026)',
+  title: 'No Dues Certificate After Loan Settlement | SettleLoans',
   description: 'Paid your loan settlement? Learn how to get and verify an authentic No Dues Certificate (NDC/NOC), RBI 30-day rules, ₹5,000/day compensation penalty, and avoid recovery scams.',
   keywords: [
     'how to get no dues certificate after settlement',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/no-dues-certificate-after-loan-settlement',
   },
   openGraph: {
-    title: 'How to Get No Dues Certificate After Loan Settlement: Verification & RBI Rules Guide',
+    title: 'No Dues Certificate After Loan Settlement | SettleLoans',
     description: 'A complete step-by-step procedural manual on obtaining, verifying, and legally enforcing a No Dues Certificate (NDC) post loan settlement. Avoid fraud, claim delayed compensation, and update CIBIL.',
     url: 'https://www.settleloans.in/no-dues-certificate-after-loan-settlement',
     siteName: 'SettleLoans',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Get No Dues Certificate After Settlement: RBI Rules & Verification (2026)',
+    title: 'No Dues Certificate After Loan Settlement | SettleLoans',
     description: 'Essential post-settlement legal guide: How to verify your bank NDC, hold lenders accountable under RBI Circular RBI/2023-24/60, and ensure complete debt extinguishment.',
     images: ['https://www.settleloans.in/images/infographics/no-dues-certificate-after-loan-settlement.jpg'],
   },

@@ -22,7 +22,7 @@ import {
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-    title: 'Best Lawyer for MSME & Business Loans in India | Small Business Debt Defense',
+    title: 'Lawyer for MSME & Business Loans in India | SettleLoans',
     description: 'Protect your MSME from SARFAESI and loan defaults. Expert legal defense under the MSMED Act 2006. India\'s top lawyers for small business recovery defense.',
     keywords: 'best lawyer for msme and business loans, msme debt recovery defense, sarfaesi defense for small business, msme act section 15 lawyer, msme samadhaan legal help',
 };

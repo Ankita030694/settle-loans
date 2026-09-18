@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
-  title: "Can I Settle My Credit Card Dues Using Third-Party Loan Settlement Companies? | 2024 Guide",
+  title: "Settle Credit Card Dues with Debt Settlement Companies",
   description: "Learn how to settle credit card dues in India using third-party companies. Explore benefits, risks, RBI guidelines, and how firms like SettleLoans can help you.",
   alternates: {
     canonical: "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies",

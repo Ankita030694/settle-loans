@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Best Loan Settlement Services in Pune | PCMC Debt Relief Experts - SettleLoans",
+  title: "Loan Settlement Services in Pune | SettleLoans",
   description: "Legal help for loan settlement in Pune & Pimpri-Chinchwad. Negotiate credit card waivers at Shivajinagar Lok Adalat. Stop recovery agent visits in Baner, Kothrud & Hinjewadi.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/pune",

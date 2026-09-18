@@ -431,6 +431,951 @@ const nextConfig: NextConfig = {
         destination: '/services/personal-loan-settlement',
         permanent: true,
       },
+      {
+        source: '/20-lakh-personal-loan-settlement',
+        destination: '/10-lakh-personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/all-legal-notices',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/anti-harassment-letter',
+        destination: '/police-complaint-format-recovery-agent-harassment',
+        permanent: true,
+      },
+      {
+        source: '/auto-loan',
+        destination: '/overdue-payment-for-auto-loan',
+        permanent: true,
+      },
+      {
+        source: '/auto-loan-settlement',
+        destination: '/overdue-payment-for-auto-loan',
+        permanent: true,
+      },
+      {
+        source: '/auto-loans',
+        destination: '/overdue-payment-for-auto-loan',
+        permanent: true,
+      },
+      {
+        source: '/bajaj-finance-npa-status',
+        destination: '/loan-npa-status',
+        permanent: true,
+      },
+      {
+        source: '/bank-filed-fir-for-loan-default-reality-check',
+        destination: '/bank-fir-for-loan-default-reality-check',
+        permanent: true,
+      },
+      {
+        source: '/bank-ots-settlement-process',
+        destination: '/loan-settlement-process-in-india',
+        permanent: true,
+      },
+      {
+        source: '/bank-recovery-agent-pareshan-kare-to-kya-kare',
+        destination: '/bank-recovery-agent-threatening-me',
+        permanent: true,
+      },
+      {
+        source: '/bankers-right-of-set-off-explained',
+        destination: '/bank-set-off-clause-loan-recovery',
+        permanent: true,
+      },
+      {
+        source: '/banking-ombudsman-complaint',
+        destination: '/rbi-ombudsman-complaint-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/best-personal-loan-settlement-company',
+        destination: '/personal-loan-settlement-company',
+        permanent: true,
+      },
+      {
+        source: '/blog/138-ni-act-cheque-bounce',
+        destination: '/cheque-bounce',
+        permanent: true,
+      },
+      {
+        source: '/blog/credit-card-default',
+        destination: '/legal-action-for-credit-card-default',
+        permanent: true,
+      },
+      {
+        source: '/blog/fake-legal-notice-format',
+        destination: '/bank-sent-legal-notice-for-loan-what-to-do',
+        permanent: true,
+      },
+      {
+        source: '/blog/negotiate-late-payment-fees',
+        destination: '/late-payment-charges-waiver-request-format',
+        permanent: true,
+      },
+      {
+        source: '/blog/rbi-guidelines-for-recovery-agents',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/blog/what-is-loan-settlement',
+        destination: '/what-is-personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/bnpl-default-legal-notice-settlement-guide',
+        destination: '/wilful-defaulter-notice-reply-and-settlement-defense',
+        permanent: true,
+      },
+      {
+        source: '/business-loan',
+        destination: '/business-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/business-loan-recovery-process',
+        destination: '/flexiloans-business-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/business-loans',
+        destination: '/business-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/can-another-bank-freeze-my-salary-account-for-a-different-bank-loan-default',
+        destination: '/can-bank-freeze-salary-account-for-credit-card-payment-default',
+        permanent: true,
+      },
+      {
+        source: '/can-bajaj-finace-contact-guarantor-for-recovery',
+        destination: '/can-banks-contact-guarantor-for-recovery',
+        permanent: true,
+      },
+      {
+        source: '/can-banks-sue-for-unpaid-loans',
+        destination: '/can-bank-file-case-for-personal-loan',
+        permanent: true,
+      },
+      {
+        source: '/check-free-cibil',
+        destination: '/check-free-cibil-score',
+        permanent: true,
+      },
+      {
+        source: '/cibil-defaulter-list',
+        destination: '/check-cibil-defaulter-list',
+        permanent: true,
+      },
+      {
+        source: '/cibil-score-after-default',
+        destination: '/credit-score-improvement',
+        permanent: true,
+      },
+      {
+        source: '/cibil-score-after-settlement',
+        destination: '/credit-score-improvement',
+        permanent: true,
+      },
+      {
+        source: '/consultation',
+        destination: '/contact',
+        permanent: true,
+      },
+      {
+        source: '/consumer-court-bank-harassment',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/corporate-veil-in-banking-law',
+        destination: '/can-bank-freeze-company-current-account-for-directors-personal-loan-default',
+        permanent: true,
+      },
+      {
+        source: '/credit-card-debt-relief',
+        destination: '/services/credit-card-settlement',
+        permanent: true,
+      },
+      {
+        source: '/credit-card-debt-settlement',
+        destination: '/services/credit-card-settlement',
+        permanent: true,
+      },
+      {
+        source: '/credit-card-debt-settlement-process',
+        destination: '/services/credit-card-settlement',
+        permanent: true,
+      },
+      {
+        source: '/credit-card-default-legal-action',
+        destination: '/credit-card-partial-payment',
+        permanent: true,
+      },
+      {
+        source: '/credit-card-settlement-process',
+        destination: '/services/credit-card-settlement',
+        permanent: true,
+      },
+      {
+        source: '/credit-card-settlement-process-india',
+        destination: '/services/credit-card-settlement',
+        permanent: true,
+      },
+      {
+        source: '/credit-education',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/credit-repair',
+        destination: '/credit-score-improvement',
+        permanent: true,
+      },
+      {
+        source: '/credit-scores',
+        destination: '/credit-score-improvement',
+        permanent: true,
+      },
+      {
+        source: '/cybercrime-complaint-process',
+        destination: '/how-to-file-cyber-crime-complaint-for-loan-app-harassment',
+        permanent: true,
+      },
+      {
+        source: '/dealing-with-harassment',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/dealing-with-recovery-agents',
+        destination: '/ignoring-calls-of-recovery-agent',
+        permanent: true,
+      },
+      {
+        source: '/debt-settlement',
+        destination: '/services/personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/debt-settlement-services',
+        destination: '/services/personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/defamation-by-recovery-agents',
+        destination: '/how-to-identify-fake-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/difference-between-civil-and-criminal-liability-in-loans',
+        destination: '/faqs/difference-between-loan-write-off-and-loan-settlements',
+        permanent: true,
+      },
+      {
+        source: '/difference-between-settled-and-written-off-cibil',
+        destination: '/remove-post-write-off-settled-remark-cibil',
+        permanent: true,
+      },
+      {
+        source: '/dispute-credit-score',
+        destination: '/cibil-dispute-wrong-overdue-entry',
+        permanent: true,
+      },
+      {
+        source: '/drt-appeal-process',
+        destination: '/how-to-challenge-sarfaesi-auction-in-drt-section-17-appeal',
+        permanent: true,
+      },
+      {
+        source: '/drt-lawyer',
+        destination: '/best-lawyer-for-drt-case-defence-for-bank-loan-recovery',
+        permanent: true,
+      },
+      {
+        source: '/drt-stay-order',
+        destination: '/drt-stay-order-on-bank-auction-process',
+        permanent: true,
+      },
+      {
+        source: '/drt-stay-order-process',
+        destination: '/drt-stay-order-on-bank-auction-process',
+        permanent: true,
+      },
+      {
+        source: '/drt-stay-order-rules-and-deposit-requirements',
+        destination: '/drt-stay-order-on-bank-auction-process',
+        permanent: true,
+      },
+      {
+        source: '/duplicate-noc-application',
+        destination: '/download-noc-for-secured-loan',
+        permanent: true,
+      },
+      {
+        source: '/emi-bounce-charges',
+        destination: '/personal-loan-emi-bounce-charges',
+        permanent: true,
+      },
+      {
+        source: '/federal-bank-loan-settlement',
+        destination: '/federal-bank-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/filing-defamation-cases',
+        destination: '/defamation-case-against-bank-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/guidelines',
+        destination: '/bank-loan-settlement-guidelines',
+        permanent: true,
+      },
+      {
+        source: '/guides',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/guides/business-loan-foreclosure',
+        destination: '/business-loan-foreclosure-letter',
+        permanent: true,
+      },
+      {
+        source: '/guides/how-to-file-ombudsman-complaint',
+        destination: '/rbi-ombudsman-complaint-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/guides/how-to-get-noc',
+        destination: '/download-noc-for-secured-loan',
+        permanent: true,
+      },
+      {
+        source: '/guides/personal-loan-closure',
+        destination: '/personal-loan-settlement-vs-closure',
+        permanent: true,
+      },
+      {
+        source: '/guides/personal-loan-settlement',
+        destination: '/services/personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/guides/rbi-guidelines-recovery-agents',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/guides/what-is-npa',
+        destination: '/loan-npa-status',
+        permanent: true,
+      },
+      {
+        source: '/harassment-by-recovery-agents-rights',
+        destination: '/can-recovery-agents-come-home',
+        permanent: true,
+      },
+      {
+        source: '/home-loan-one-time-settlement',
+        destination: '/loan-settlement-process-in-india',
+        permanent: true,
+      },
+      {
+        source: '/home-loan-settlement-process-before-auction',
+        destination: '/cashe-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/how-does-settlement-affect-cibil',
+        destination: '/does-settlement-impact-a-co-borrower',
+        permanent: true,
+      },
+      {
+        source: '/how-to-deal-with-loan-recovery-agents',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/how-to-deal-with-recovery-agent-harassment',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/how-to-deal-with-recovery-agents',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/how-to-file-a-complaint-with-banking-ombudsman',
+        destination: '/rbi-ombudsman-complaint-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/how-to-file-banking-ombudsman-complaint',
+        destination: '/rbi-ombudsman-complaint-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/how-to-file-case-in-drt',
+        destination: '/best-lawyer-for-drt-case-defence-for-bank-loan-recovery',
+        permanent: true,
+      },
+      {
+        source: '/how-to-file-complaint-against-recovery-agents',
+        destination: '/police-complaint-format-recovery-agent-harassment',
+        permanent: true,
+      },
+      {
+        source: '/how-to-file-cybercrime-fir',
+        destination: '/how-to-file-cyber-crime-complaint-for-loan-app-harassment',
+        permanent: true,
+      },
+      {
+        source: '/how-to-file-rbi-ombudsman-complaint',
+        destination: '/rbi-ombudsman-complaint-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/how-to-file-sa-in-drt',
+        destination: '/how-to-challenge-sarfaesi-auction-in-drt-section-17-appeal',
+        permanent: true,
+      },
+      {
+        source: '/how-to-file-securitisation-application-under-section-17-of-sarfaesi',
+        destination: '/how-to-challenge-sarfaesi-auction-in-drt-section-17-appeal',
+        permanent: true,
+      },
+      {
+        source: '/how-to-file-writ-petition-against-bank',
+        destination: '/high-court-writ-petition-against-bank-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/how-to-negotiate-loan-settlement',
+        destination: '/faqs/how-to-negotiate-personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/how-to-read-cibil-report-for-loans',
+        destination: '/how-to-improve-cibil-score-after-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/how-to-remove-settled-status-from-cibil',
+        destination: '/remove-settled-status-from-cibil',
+        permanent: true,
+      },
+      {
+        source: '/how-to-reply-to-arbitration-notice',
+        destination: '/bank-arbitration-notice-loan',
+        permanent: true,
+      },
+      {
+        source: '/how-to-reply-to-section-138-notice',
+        destination: '/reply-to-section-138-notice-format-download',
+        permanent: true,
+      },
+      {
+        source: '/how-to-settle-a-personal-loan',
+        destination: '/services/personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/how-to-settle-loan',
+        destination: '/loan-settlement-process-in-india',
+        permanent: true,
+      },
+      {
+        source: '/how-to-settle-personal-loan',
+        destination: '/faqs/how-to-settle-loan',
+        permanent: true,
+      },
+      {
+        source: '/how-to-stop-recovery-agents',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/illegal-bank-recovery-agent-harassment',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/illegal-possession-by-bank',
+        destination: '/what-to-do-when-bank-issues-sarfaesi-symbolic-possession-notice',
+        permanent: true,
+      },
+      {
+        source: '/impact-of-loan-settlement-on-credit-score',
+        destination: '/personal-loan-settlement-cibil-impact',
+        permanent: true,
+      },
+      {
+        source: '/improve-cibil-score',
+        destination: '/credit-score-improvement',
+        permanent: true,
+      },
+      {
+        source: '/it-professional-debt-settlement-guide',
+        destination: '/it-professionals-personal-loan-debt-settlement',
+        permanent: true,
+      },
+      {
+        source: '/kisan-credit-card-loan-default-rules',
+        destination: '/loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/legal',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/legal-guides',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/legal-heir-liability-for-personal-loan-default',
+        destination: '/loan-guarantor-legal-liability-when-primary-borrower-defaults-in-india',
+        permanent: true,
+      },
+      {
+        source: '/legal-notice-for-loan-default',
+        destination: '/legal-notice-for-loan-recovery',
+        permanent: true,
+      },
+      {
+        source: '/legal-notice-for-personal-loan-default',
+        destination: '/lok-adalat-notice-for-personal-loan',
+        permanent: true,
+      },
+      {
+        source: '/legal-notice-format',
+        destination: '/legal-notice-for-loan-recovery',
+        permanent: true,
+      },
+      {
+        source: '/legal-notices',
+        destination: '/personal-loan-legal-notice',
+        permanent: true,
+      },
+      {
+        source: '/legal-rights',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/legal-rights-of-defaulters',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/loan-closure',
+        destination: '/personal-loan-settlement-vs-closure',
+        permanent: true,
+      },
+      {
+        source: '/loan-default',
+        destination: '/loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-foreclosure-letter',
+        destination: '/business-loan-foreclosure-letter',
+        permanent: true,
+      },
+      {
+        source: '/loan-guides',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/loan-relief',
+        destination: '/services/personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-after-bank-files-civil-suit',
+        destination: '/loan-settlement-after-settlement-failed',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-process',
+        destination: '/loan-settlement-process-in-india',
+        permanent: true,
+      },
+      {
+        source: '/loans',
+        destination: '/loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/lok-adalat-loan-settlement',
+        destination: '/lok-adalat-me-loan-settlement-kaise-kare',
+        permanent: true,
+      },
+      {
+        source: '/npa-account-regularisation',
+        destination: '/loan-npa-status',
+        permanent: true,
+      },
+      {
+        source: '/npa-account-rules',
+        destination: '/loan-npa-status',
+        permanent: true,
+      },
+      {
+        source: '/npa-account-settlement',
+        destination: '/loan-settlement-process-in-india',
+        permanent: true,
+      },
+      {
+        source: '/npa-classification',
+        destination: '/loan-npa-status',
+        permanent: true,
+      },
+      {
+        source: '/one-time-settlement-process',
+        destination: '/loan-settlement-process-in-india',
+        permanent: true,
+      },
+      {
+        source: '/one-time-settlement-process-for-loans',
+        destination: '/loan-settlement-process-in-india',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-default',
+        destination: '/personal-loan-legal-notice',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-default-legal-action',
+        destination: '/personal-loan-legal-notice',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-negotiation',
+        destination: '/faqs/how-to-negotiate-personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-prepayment-calculator',
+        destination: '/loan-settlement-amount-calculator',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-recovery-harassment',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/personal-loan-vs-line-of-credit',
+        destination: '/services/personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/personal-loans',
+        destination: '/services/personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/pnb-personal-loan-settlement',
+        destination: '/pnb-personal-loan-settlement-process',
+        permanent: true,
+      },
+      {
+        source: '/property-auction',
+        destination: '/auction-notice-challenge',
+        permanent: true,
+      },
+      {
+        source: '/rbi-guidelines-for-loan-recovery-agents',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/rbi-guidelines-for-loan-recovery-agents-in-india',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/rbi-guidelines-loan-closure',
+        destination: '/personal-loan-settlement-vs-closure',
+        permanent: true,
+      },
+      {
+        source: '/rbi-guidelines-loan-default',
+        destination: '/bank-loan-settlement-guidelines',
+        permanent: true,
+      },
+      {
+        source: '/rbi-guidelines-loan-recovery',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/rbi-guidelines-on-fair-recovery-practices',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/rbi-guidelines-on-loan-recovery',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/rbi-guidelines-on-loan-recovery-agents',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/rbi-guidelines-on-recovery-agents',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/rbi-guidelines-recovery-agents',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/rbi-ombudsman-complaint',
+        destination: '/rbi-ombudsman-complaint-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/rbi-ombudsman-complaint-guide',
+        destination: '/rbi-ombudsman-complaint-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/rbi-recovery-agent-guidelines',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/recovery-agent-threatening-me',
+        destination: '/bank-recovery-agent-threatening-me',
+        permanent: true,
+      },
+      {
+        source: '/right-to-privacy-loan-defaults',
+        destination: '/recording-recovery-agent-calls-legal-evidence',
+        permanent: true,
+      },
+      {
+        source: '/rto-form-35-guide',
+        destination: '/download-noc-for-secured-loan',
+        permanent: true,
+      },
+      {
+        source: '/sarfaesi-act-defense',
+        destination: '/auction-notice-challenge',
+        permanent: true,
+      },
+      {
+        source: '/sarfaesi-act-guide',
+        destination: '/auction-notice-challenge',
+        permanent: true,
+      },
+      {
+        source: '/sarfaesi-act-guidelines',
+        destination: '/auction-notice-challenge',
+        permanent: true,
+      },
+      {
+        source: '/sarfaesi-act-notice',
+        destination: '/how-to-reply-sarfaesi-notice',
+        permanent: true,
+      },
+      {
+        source: '/sarfaesi-act-property-auction',
+        destination: '/sarfaesi-act-bajaj-finance-property-action-notice',
+        permanent: true,
+      },
+      {
+        source: '/sarfaesi-act-property-possession',
+        destination: '/auction-notice-challenge',
+        permanent: true,
+      },
+      {
+        source: '/sarfaesi-act-rules',
+        destination: '/auction-notice-challenge',
+        permanent: true,
+      },
+      {
+        source: '/section-138-cheque-bounce',
+        destination: '/section-138-cheque-bounce-loan-default',
+        permanent: true,
+      },
+      {
+        source: '/section-60-cpc-protection-from-attachment',
+        destination: '/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons',
+        permanent: true,
+      },
+      {
+        source: '/send-a-legal-notice',
+        destination: '/legal-notice-for-loan-recovery',
+        permanent: true,
+      },
+      {
+        source: '/send-legal-notice',
+        destination: '/legal-notice-for-loan-recovery',
+        permanent: true,
+      },
+      {
+        source: '/services/cibil-repair',
+        destination: '/credit-score-improvement',
+        permanent: true,
+      },
+      {
+        source: '/services/cibil-score-after-loan-settlement',
+        destination: '/how-to-improve-cibil-score-after-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/services/credit-card-settlement-process',
+        destination: '/services/credit-card-settlement',
+        permanent: true,
+      },
+      {
+        source: '/services/how-to-stop-recovery-agent-harassment',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/services/legal-notice',
+        destination: '/legal-notice-for-loan-recovery',
+        permanent: true,
+      },
+      {
+        source: '/services/rbi-guidelines-for-loan-defaulters',
+        destination: '/top-10-rbi-rules-for-loan-defaulters-rights',
+        permanent: true,
+      },
+      {
+        source: '/settle-loan-legally',
+        destination: '/startup-loan-legal-advisory',
+        permanent: true,
+      },
+      {
+        source: '/settled-vs-closed-cibil-status',
+        destination: '/personal-loan-settlement-vs-closure',
+        permanent: true,
+      },
+      {
+        source: '/settlement-impact-on-cibil-score',
+        destination: '/does-settlement-impact-a-co-borrower',
+        permanent: true,
+      },
+      {
+        source: '/settlement-request-letter',
+        destination: '/personal-loan-settlement-letter-format',
+        permanent: true,
+      },
+      {
+        source: '/stop-bank-auction',
+        destination: '/auction-notice-challenge',
+        permanent: true,
+      },
+      {
+        source: '/stop-bank-harassment',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/stop-recovery-agent-harassment',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/stop-recovery-agents',
+        destination: '/rbi-rules-for-recovery-agents',
+        permanent: true,
+      },
+      {
+        source: '/stop-recovery-harassment',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/supreme-court-judgments-on-cheque-bounce',
+        destination: '/section-138-cheque-bounce-loan-default',
+        permanent: true,
+      },
+      {
+        source: '/supreme-court-judgments-on-section-65b',
+        destination: '/recording-recovery-agent-calls-legal-evidence',
+        permanent: true,
+      },
+      {
+        source: '/symbolic-possession-rules',
+        destination: '/what-to-do-when-bank-issues-sarfaesi-symbolic-possession-notice',
+        permanent: true,
+      },
+      {
+        source: '/symbolic-vs-physical-possession',
+        destination: '/what-to-do-when-bank-issues-sarfaesi-symbolic-possession-notice',
+        permanent: true,
+      },
+      {
+        source: '/templates',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/understanding-co-borrower-vs-guarantor',
+        destination: '/can-banks-contact-guarantor-for-recovery',
+        permanent: true,
+      },
+      {
+        source: '/understanding-emi-calculations',
+        destination: '/arrear-emi-meaning-vs-overdue',
+        permanent: true,
+      },
+      {
+        source: '/understanding-sarfaesi-act-rules',
+        destination: '/auction-notice-challenge',
+        permanent: true,
+      },
+      {
+        source: '/unsecured-loan-settlement',
+        destination: '/unsecured-business-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/what-is-loan-settlement',
+        destination: '/what-is-personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/what-to-do-if-bank-account-frozen-for-loan-default',
+        destination: '/bank-freeze-salary-account-loan-default',
+        permanent: true,
+      },
+      {
+        source: '/what-to-do-when-loan-recovery-agents-harass-you',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/what-to-do-when-recovery-agents-harass-you',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/what-to-do-when-you-receive-sarfaesi-act-section-13-4-possession-notice',
+        destination: '/what-to-do-when-bank-issues-sarfaesi-symbolic-possession-notice',
+        permanent: true,
+      },
     ];
 
   },

@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Lawyer in Indore: Settle Personal & Business Debt (2026)',
+  title: 'Loan Settlement Lawyer in Indore | SettleLoans',
   description: 'Facing loan default in Indore or MP? Consult experienced loan settlement lawyers in Indore to halt recovery harassment, defend Section 138/25 PSSA notices in District Court, represent at DLSA Lok Adalat, and negotiate 45%–65% RBI OTS debt waivers.',
   keywords: [
     'loan settlement lawyer in indore',

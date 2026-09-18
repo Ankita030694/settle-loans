@@ -4,9 +4,9 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Foreclosure and Part-Prepayment Charges on Personal Loans: RBI Rules',
+  title: 'Foreclosure & Prepayment Charges on Loans | SettleLoans',
   description: 'A detailed financial and legal breakdown of the RBI rules governing foreclosure (pre-closure) and part-prepayment charges on personal loans. Learn how to challenge illegal bank fees.',
-  alternates: { canonical: 'https://www.settleloan.in/foreclosure-and-part-prepayment-charges-on-personal-loan' }
+  alternates: { canonical: 'https://www.settleloans.in/foreclosure-and-part-prepayment-charges-on-personal-loan' }
 };
 
 const tocItems = [
@@ -27,22 +27,22 @@ export default function ForeclosureChargesPage() {
       "@type": "WebPage",
       "name": "Foreclosure and Part-Prepayment Charges on Personal Loans: RBI Rules",
       "description": "A detailed financial and legal breakdown of the RBI rules governing foreclosure (pre-closure) and part-prepayment charges on personal loans.",
-      "url": "https://www.settleloan.in/foreclosure-and-part-prepayment-charges-on-personal-loan"
+      "url": "https://www.settleloans.in/foreclosure-and-part-prepayment-charges-on-personal-loan"
     },
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloan.in" },
-        { "@type": "ListItem", "position": 2, "name": "Personal Loan Foreclosure Charges", "item": "https://www.settleloan.in/foreclosure-and-part-prepayment-charges-on-personal-loan" }
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+        { "@type": "ListItem", "position": 2, "name": "Personal Loan Foreclosure Charges", "item": "https://www.settleloans.in/foreclosure-and-part-prepayment-charges-on-personal-loan" }
       ]
     },
     {
       "@context": "https://schema.org",
       "@type": "Article",
       "headline": "Foreclosure and Part-Prepayment Charges on Personal Loans: RBI Rules",
-      "author": { "@type": "Organization", "name": "SettleLoan" },
-      "publisher": { "@type": "Organization", "name": "SettleLoan", "logo": { "@type": "ImageObject", "url": "https://www.settleloan.in/logo.png" } },
+      "author": { "@type": "Organization", "name": "SettleLoans" },
+      "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" } },
       "datePublished": "2024-05-15T08:00:00+08:00",
       "dateModified": "2024-05-15T08:00:00+08:00"
     },

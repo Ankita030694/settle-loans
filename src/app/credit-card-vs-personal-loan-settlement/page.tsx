@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CreditCardVsPersonalLoanSettlementClient from './CreditCardVsPersonalLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'Credit Card vs Personal Loan Settlement: Difference & Priority (2026)',
+  title: 'Credit Card vs Personal Loan Settlement | SettleLoans',
   description:
     'Confused between credit card vs personal loan settlement? Compare 50%–75% card haircuts vs 35%–60% loan discounts, legal risks, CIBIL impact, and payoff priority.',
   keywords: [

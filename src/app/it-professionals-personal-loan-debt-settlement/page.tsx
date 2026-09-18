@@ -36,7 +36,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement for IT Professionals: Tech Layoff Debt Relief & Legal OTS Guide',
+  title: 'Loan Settlement for IT Professionals | SettleLoans',
   description: 'Comprehensive guide to loan settlement for IT professionals in Bengaluru, Hyderabad & Pune facing layoffs or salary cuts. Learn how to settle personal loans and credit cards confidentially, eliminate recovery harassment, protect workplace privacy, and negotiate 45%–65% OTS waivers under RBI rules.',
   keywords: [
     'loan settlement for it professionals',

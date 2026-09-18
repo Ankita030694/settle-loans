@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "How to Manage Loan With No Job in India: Ultimate Survival Guide 2025",
+  title: "How to Manage Loan With No Job in India | SettleLoans",
   description: "Drowning in debt after job loss? Learn how to manage loans with no income, understand RBI guidelines 2025, handle recovery agents, and find legal paths to loan settlement.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-manage-loan-with-no-job",

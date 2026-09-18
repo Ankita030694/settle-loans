@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Education Loan Default Consequences in India & Co-Signer Liability",
   description: "Struggling with student loan non-payment? Learn the severe education loan default consequences in India and how to protect yourself and your parent co-signers from legal action.",
   alternates: {
-    canonical: "https://example.com/education-loan-default-consequences",
+    canonical: "https://www.settleloans.in/education-loan-default-consequences",
   },
 };
 
@@ -28,7 +28,7 @@ export default function EducationLoanDefaultPage() {
       "@type": "WebPage",
       "name": "Education Loan Default Consequences in India",
       "description": "Learn the severe education loan default consequences in India and how to protect yourself and your parent co-signers from legal action.",
-      "url": "https://example.com/education-loan-default-consequences"
+      "url": "https://www.settleloans.in/education-loan-default-consequences"
     },
     {
       "@context": "https://schema.org",
@@ -38,19 +38,19 @@ export default function EducationLoanDefaultPage() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://example.com/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Default",
-          "item": "https://example.com/loan-default"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Education Loan Default Consequences",
-          "item": "https://example.com/education-loan-default-consequences"
+          "item": "https://www.settleloans.in/education-loan-default-consequences"
         }
       ]
     },
@@ -60,14 +60,14 @@ export default function EducationLoanDefaultPage() {
       "headline": "Education Loan Default Consequences in India & Co-Signer Liability",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan Expert Team"
+        "name": "SettleLoans Expert Team"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://example.com/logo.png"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       },
       "datePublished": "2024-05-15T08:00:00+08:00",

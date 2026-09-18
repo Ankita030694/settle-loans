@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'DMI Finance Loan Settlement Process: OTS Rules, Fintech Legal Defense & Haircut (2026)',
+  title: 'DMI Finance Loan Settlement Process Guide | SettleLoans',
   description: 'Comprehensive guide to DMI Finance loan settlement for Samsung Finance+, Google Pay, and Airtel loans. Learn how to stop automated WhatsApp notices, halt e-NACH bounce fees, defend Section 25 PSSA summons, and negotiate a 40% to 60% OTS debt haircut under RBI rules.',
   keywords: [
     'dmi finance loan settlement',

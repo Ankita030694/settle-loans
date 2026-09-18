@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import MultipleAppLoanSettlementClient from './MultipleAppLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'Instant App Loan Settlement Success: How We Settled 5 App Loans & Stopped 50+ Daily Calls',
+  title: 'Instant App Loan Settlement Case Study | SettleLoans',
   description: 'Real case study: How SettleLoans stopped 50+ daily harassment calls across 5 instant loan apps (Navi, KreditBee, MoneyView) totaling ₹2 Lakhs, consolidated negotiations, and settled the debt for ₹85,000.',
   keywords: [
     'instant app loan settlement success',

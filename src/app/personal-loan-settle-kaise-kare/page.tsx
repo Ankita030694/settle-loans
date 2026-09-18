@@ -44,7 +44,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settle Kaise Kare: Bank Se Baat Karne Ka Tarika, Haircut Formula & Legal Rules (2026)',
+  title: 'Personal Loan Settle Kaise Kare: Full Guide | SettleLoans',
   description: 'Jane personal loan settle kaise kare step-by-step. Bank negotiation strategies, 40%-60% OTS haircut calculation, legal notice reply, authentic settlement letter audit, aur CIBIL score recovery process.',
   keywords: [
     'personal loan settle kaise kare',
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settle-kaise-kare',
   },
   openGraph: {
-    title: 'Personal Loan Settle Kaise Kare: Bank Se Baat Karne Ka Tarika, Haircut Formula & Legal Rules (2026)',
+    title: 'Personal Loan Settle Kaise Kare: Full Guide | SettleLoans',
     description: 'Complete legal and financial guide on personal loan settlement in India. Understand RBI compromise settlement policies, NPA provisioning timelines, harassment defense, and step-by-step negotiation protocols.',
     url: 'https://www.settleloans.in/personal-loan-settle-kaise-kare',
     siteName: 'SettleLoans',

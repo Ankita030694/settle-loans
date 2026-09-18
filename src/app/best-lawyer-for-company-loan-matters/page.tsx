@@ -20,7 +20,7 @@ import {
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-    title: 'Best Lawyer for Company Loan Matters in India | Corporate Debt Defense',
+    title: 'Best Lawyer for Company Loan Matters | SettleLoans',
     description: 'Expert legal counsel for company loan defaults, NCLT, IBC proceedings, and corporate debt restructuring. Protect your business with India\'s top corporate lawyers.',
     keywords: 'best lawyer for company loan matters, corporate loan defense, NCLT lawyer, IBC law firm India, debt restructuring lawyer, corporate insolvency defense',
 };

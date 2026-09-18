@@ -33,7 +33,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'CIBIL Score Kaise Sudhare Settlement Ke Baad (550 to 750+ Guide 2026)',
+  title: 'CIBIL Score Kaise Sudhare Settlement Ke Baad | SettleLoans',
   description: 'Loan settlement ke baad CIBIL score kaise sudhare? Complete legal and financial guide on converting Settled status to Closed, secured credit cards, and credit mix.',
   keywords: [
     'cibil score kaise sudhare settlement ke baad',

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Debt Settlement vs Bankruptcy in India: Which is Better for You? (2025)",
+  title: "Debt Settlement vs Bankruptcy in India | SettleLoans",
   description: "A comprehensive comparison of Debt Settlement and Bankruptcy/Insolvency for Indian borrowers. Compare credit score impact (CIBIL), legal protections, and resolution speed.",
   alternates: {
     canonical: "https://www.settleloans.in/debt-settlement-vs-bankruptcy",

@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faScaleBalanced, faShieldHeart, faTriangleExclamation, faStar, faCheck, faChartLine, faHandHoldingHand, faGavel } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Key Benefits & Drawbacks of Loan Settlement in India | 2024 Expert Guide",
+    title: "Benefits & Drawbacks of Loan Settlement | SettleLoans",
     description: "Discover the critical benefits and hidden drawbacks of pursuing a loan settlement in India. Master the trade-offs between debt relief and CIBIL impact.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement",

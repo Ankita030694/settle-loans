@@ -42,7 +42,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Services in Chennai: Legal Notice Defense & OTS Haircut (2026)',
+  title: 'Loan Settlement Services in Chennai | SettleLoans',
   description: 'Expert loan settlement services in Chennai and Tamil Nadu. Stop recovery harassment under RBI rules, defend against Egmore & George Town Section 138/25 notices, and negotiate 40%–65% OTS haircuts.',
   keywords: [
     'loan settlement services in chennai',

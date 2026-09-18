@@ -4,10 +4,10 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Time-Barred Debts: What is the Limitation Period for Loan Recovery in India?",
+  title: "Limitation Period for Loan Recovery in India | SettleLoans",
   description: "Learn about the Limitation Act 1963 and the limitation period for personal loan recovery in India. Can a bank recover a 5-year-old loan? Find out here.",
   alternates: {
-    canonical: 'https://www.settleloan.in/what-is-the-limitation-period-for-bank-loan-recovery-in-india-time-barred-debt',
+    canonical: 'https://www.settleloans.in/what-is-the-limitation-period-for-bank-loan-recovery-in-india-time-barred-debt',
   },
 };
 
@@ -18,7 +18,7 @@ export default function TimeBarredDebtPage() {
       "@type": "WebPage",
       "name": "Time-Barred Debts: What is the Limitation Period for Loan Recovery in India?",
       "description": "A comprehensive guide on the Limitation Act of 1963 and time-barred debts for bank loans in India.",
-      "url": "https://www.settleloan.in/what-is-the-limitation-period-for-bank-loan-recovery-in-india-time-barred-debt"
+      "url": "https://www.settleloans.in/what-is-the-limitation-period-for-bank-loan-recovery-in-india-time-barred-debt"
     },
     {
       "@context": "https://schema.org",
@@ -28,13 +28,13 @@ export default function TimeBarredDebtPage() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.settleloan.in/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "What is the Limitation Period for Bank Loan Recovery in India?",
-          "item": "https://www.settleloan.in/what-is-the-limitation-period-for-bank-loan-recovery-in-india-time-barred-debt"
+          "item": "https://www.settleloans.in/what-is-the-limitation-period-for-bank-loan-recovery-in-india-time-barred-debt"
         }
       ]
     },
@@ -44,14 +44,14 @@ export default function TimeBarredDebtPage() {
       "headline": "Time-Barred Debts: What is the Limitation Period for Loan Recovery in India?",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.settleloan.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "datePublished": "2024-05-15T08:00:00+08:00",

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CanIGoToJailForLoanDefaultClient from './CanIGoToJailForLoanDefaultClient';
 
 export const metadata: Metadata = {
-  title: 'Can I Go to Jail for Loan Default in India? What Really Happens If You Stop Paying (2026)',
+  title: 'Can I Go to Jail for Loan Default in India? | SettleLoans',
   description: 'Terrified of going to jail for personal loan default in India? Discover the legal reality: Civil debt vs criminal fraud, Supreme Court protections, Section 138/NACH facts, RBI anti-harassment rules, and debt settlement clean exits.',
   alternates: {
     canonical: 'https://www.settleloans.in/can-i-go-to-jail-for-loan-default',

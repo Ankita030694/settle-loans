@@ -6,7 +6,7 @@ import TableOfContents from '@/components/TableOfContents';
 export const metadata: Metadata = {
   title: 'Missed EMI? A Complete Guide to Regain Control',
   description: 'Missed your first EMI and feeling overwhelmed? Take a deep breath and follow our 5-step crisis management guide to regain control of your finances.',
-  alternates: { canonical: 'https://settleloan.in/missed-emi-guide-to-regain-control' },
+  alternates: { canonical: 'https://www.settleloans.in/missed-emi-guide-to-regain-control' },
 };
 
 export default function MissedEmiGuidePage() {
@@ -37,8 +37,8 @@ export default function MissedEmiGuidePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloan.in/missed-emi-guide-to-regain-control/#webpage",
-        "url": "https://settleloan.in/missed-emi-guide-to-regain-control",
+        "@id": "https://www.settleloans.in/missed-emi-guide-to-regain-control/#webpage",
+        "url": "https://www.settleloans.in/missed-emi-guide-to-regain-control",
         "name": "Missed EMI? A Complete Guide to Regain Control",
         "description": "Missed your first EMI and feeling overwhelmed? Take a deep breath and follow our 5-step crisis management guide to regain control of your finances.",
         "inLanguage": "en-IN"
@@ -50,13 +50,13 @@ export default function MissedEmiGuidePage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloan.in/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Missed EMI Guide to Regain Control",
-            "item": "https://settleloan.in/missed-emi-guide-to-regain-control"
+            "item": "https://www.settleloans.in/missed-emi-guide-to-regain-control"
           }
         ]
       },

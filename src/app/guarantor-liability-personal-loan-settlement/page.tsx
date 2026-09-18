@@ -37,7 +37,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Guarantor & Co-Applicant Liability in Personal Loan Settlement: Section 128 Protections & Full OTS Discharge',
+  title: 'Guarantor Liability in Loan Settlement | SettleLoans',
   description: 'Worried about guarantor liability in personal loan default? Understand Section 128 Indian Contract Act co-extensive liability, stop recovery harassment against aging parents or spouse, and secure a simultaneous dual OTS discharge.',
   keywords: [
     'guarantor liability in personal loan default',
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/guarantor-liability-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Guarantor & Co-Applicant Liability in Personal Loan Default: Legal Protections & Full OTS Discharge',
+    title: 'Guarantor Liability in Loan Settlement | SettleLoans',
     description: 'Comprehensive legal analysis on co-signer and guarantor liability under Section 128 of the Indian Contract Act. Learn how to halt collection harassment against family members and execute a comprehensive dual OTS discharge.',
     url: 'https://www.settleloans.in/guarantor-liability-personal-loan-settlement',
     siteName: 'SettleLoans',

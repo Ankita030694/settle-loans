@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanLegalNoticeClient from './PersonalLoanLegalNoticeClient';
 
 export const metadata: Metadata = {
-  title: 'Legal Notice for Personal Loan Default: Real Consequences & Reply Guide (2026)',
+  title: 'Legal Notice for Personal Loan Default | SettleLoans',
   description: 'Received a legal notice for personal loan default in India? Discover if you can go to jail, Section 138 vs Section 25 PSS Act, 15-day reply procedure, fake notice identification, and RBI-backed settlement options.',
   keywords: [
     'legal notice for personal loan default',

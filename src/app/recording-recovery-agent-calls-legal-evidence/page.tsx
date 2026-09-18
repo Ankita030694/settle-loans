@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to Record Recovery Agent Calls for Court Evidence: Section 65B Guide',
+  title: 'Record Recovery Agent Calls for Evidence | SettleLoans',
   description: 'Learn how to legally record loan recovery agent calls, CCTV footage, and WhatsApp threats for court evidence in India. Understand Section 65B Evidence Act / Section 63 BSA authentication, police FIR procedures, and legal protections.',
   keywords: [
     'how to record recovery agent calls for court evidence',

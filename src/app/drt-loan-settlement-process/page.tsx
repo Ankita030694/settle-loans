@@ -36,7 +36,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'DRT Loan Settlement Process in India: High-Ticket Legal Procedure, OA Defense & OTS Guide (2026)',
+  title: 'DRT Loan Settlement Process in India | SettleLoans',
   description: 'Master the DRT loan settlement process in India for debts exceeding ₹20 Lakhs. Learn how to contest bank Original Applications (OA), file interim stay petitions, leverage RDB Act protections, and secure a DRT-supervised One Time Settlement (OTS) with significant principal waivers.',
   keywords: [
     'drt loan settlement process in india',
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/drt-loan-settlement-process',
   },
   openGraph: {
-    title: 'DRT Loan Settlement Process in India: High-Ticket Legal Procedure, OA Defense & OTS Guide',
+    title: 'DRT Loan Settlement Process in India | SettleLoans',
     description: 'Received a DRT summons or OA notice for debt over ₹20 Lakhs? Discover how advocates challenge bank claims, file interim stays, and negotiate a binding DRT-supervised One Time Settlement.',
     url: 'https://www.settleloans.in/drt-loan-settlement-process',
     siteName: 'SettleLoans',

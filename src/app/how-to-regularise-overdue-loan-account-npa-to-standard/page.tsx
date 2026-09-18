@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "How to Regularise an Overdue Loan Account (NPA to Standard)",
   description: "Has your loan been classified as a Non-Performing Asset (NPA)? Discover the exact mathematical formula to regularise your account back to 'Standard'.",
   alternates: {
-    canonical: "https://www.settleloan.in/how-to-regularise-overdue-loan-account-npa-to-standard"
+    canonical: "https://www.settleloans.in/how-to-regularise-overdue-loan-account-npa-to-standard"
   }
 };
 
@@ -27,8 +27,8 @@ export default function RegulariseLoanAccountPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/how-to-regularise-overdue-loan-account-npa-to-standard",
-        "url": "https://www.settleloan.in/how-to-regularise-overdue-loan-account-npa-to-standard",
+        "@id": "https://www.settleloans.in/how-to-regularise-overdue-loan-account-npa-to-standard",
+        "url": "https://www.settleloans.in/how-to-regularise-overdue-loan-account-npa-to-standard",
         "name": "How to Regularise an Overdue Loan Account (NPA to Standard)",
         "description": "Has your loan been classified as a Non-Performing Asset (NPA)? Discover the exact mathematical formula to regularise your account back to 'Standard'."
       },
@@ -39,19 +39,19 @@ export default function RegulariseLoanAccountPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.settleloan.in/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Queries",
-            "item": "https://www.settleloan.in/all-queries"
+            "item": "https://www.settleloans.in/all-queries"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Regularise Overdue Loan Account (NPA to Standard)",
-            "item": "https://www.settleloan.in/how-to-regularise-overdue-loan-account-npa-to-standard"
+            "item": "https://www.settleloans.in/how-to-regularise-overdue-loan-account-npa-to-standard"
           }
         ]
       },
@@ -59,20 +59,20 @@ export default function RegulariseLoanAccountPage() {
         "@type": "Article",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://www.settleloan.in/how-to-regularise-overdue-loan-account-npa-to-standard"
+          "@id": "https://www.settleloans.in/how-to-regularise-overdue-loan-account-npa-to-standard"
         },
         "headline": "How to Regularise an Overdue Loan Account (NPA to Standard)",
         "description": "Has your loan been classified as a Non-Performing Asset (NPA)? Discover the exact mathematical formula to regularise your account back to 'Standard'.",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan"
+          "name": "SettleLoans"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan",
+          "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.settleloan.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         }
       },

@@ -40,7 +40,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Default Rules for Government Employees: Salary Attachment, CCS Rules & Legal Defense',
+  title: 'Govt Employee Loan Default & Salary Attachment Rules',
   description: 'Can banks attach a government employee salary or report loan default to your department? Understand Section 60 CPC exemptions, CCS Conduct Rules, CAT precedents, and legal settlement.',
   keywords: [
     'loan default rules for government employees',

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "What is an Arrear EMI? Meaning, Overdue Differences & How to Clear",
   description: "Your bank statement shows an 'Arrear EMI'—what does this actually mean? Understand the crucial banking terminology that determines if your account turns into an NPA.",
   alternates: {
-    canonical: "https://example.com/what-is-arrear-emi",
+    canonical: "https://www.settleloans.in/what-is-arrear-emi",
   },
 };
 
@@ -17,26 +17,26 @@ export default function ArrearEMIPage() {
       "@type": "WebPage",
       "name": "What is an Arrear EMI? Meaning, Overdue Differences & How to Clear",
       "description": "Understand the arrear EMI meaning, the difference between overdue and arrear, and crucial loan default terminology before your account turns into an NPA.",
-      "url": "https://example.com/what-is-arrear-emi"
+      "url": "https://www.settleloans.in/what-is-arrear-emi"
     },
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://example.com/" },
-        { "@type": "ListItem", "position": 2, "name": "Loan Guides", "item": "https://example.com/loan-guides" },
-        { "@type": "ListItem", "position": 3, "name": "What is an Arrear EMI?", "item": "https://example.com/what-is-arrear-emi" }
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+        { "@type": "ListItem", "position": 2, "name": "Loan Guides", "item": "https://www.settleloans.in/" },
+        { "@type": "ListItem", "position": 3, "name": "What is an Arrear EMI?", "item": "https://www.settleloans.in/what-is-arrear-emi" }
       ]
     },
     {
       "@context": "https://schema.org",
       "@type": "Article",
       "headline": "What is an Arrear EMI? Meaning & How to Clear Loan Arrears",
-      "author": { "@type": "Organization", "name": "Financial Solutions" },
+      "author": { "@type": "Organization", "name": "SettleLoans" },
       "publisher": {
         "@type": "Organization",
-        "name": "Financial Solutions",
-        "logo": { "@type": "ImageObject", "url": "https://example.com/logo.png" }
+        "name": "SettleLoans",
+        "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
       },
       "datePublished": "2024-03-20",
       "dateModified": "2024-03-20"

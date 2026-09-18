@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CreditCardBillNaBharneKeNuksanClient from './CreditCardBillNaBharneKeNuksanClient';
 
 export const metadata: Metadata = {
-  title: 'Credit Card Bill Na Bharne Ke Nuksan: 42% APR Trap, Legal Reality & 60-70% Settlement (2026)',
+  title: 'Credit Card Bill Na Bharne Ke Nuksan: Legal Guide',
   description: 'Complete legal & financial guide on credit card bill na bharne par kya hota hai. Learn about 42% compounding finance charges, recovery harassment defense, legal notice replies, and negotiating 60%–70% OTS debt settlement under RBI rules.',
   keywords: [
     'credit card bill na bharne par kya hota hai',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan',
   },
   openGraph: {
-    title: 'Credit Card Bill Na Bharne Ke Nuksan: 42% APR Trap, Legal Reality & 60-70% Settlement (2026)',
+    title: 'Credit Card Bill Na Bharne Ke Nuksan: Legal Guide',
     description: 'Understand the hidden dangers of credit card default in India: 42% APR compounding, collection agency escalation, civil legal notices, and how to negotiate a structured 60%–70% One-Time Settlement under RBI frameworks.',
     url: 'https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan',
     siteName: 'SettleLoans',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Credit Card Bill Na Bharne Ke Nuksan: 42% APR Trap & Settlement Guide',
+    title: 'Credit Card Bill Na Bharne Ke Nuksan: Legal Guide',
     description: 'Technical and legal manual for managing defaulted credit card debt across Indian banks, stopping recovery harassment, and securing 60%–70% OTS waivers.',
     images: ['https://www.settleloans.in/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg'],
   },

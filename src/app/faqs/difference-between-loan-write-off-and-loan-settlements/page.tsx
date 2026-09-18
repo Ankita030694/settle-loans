@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck, faChartPie, faGavel, faClock, faCircleExclamation } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Loan Write-Off vs. Loan Settlement: Differences & CIBIL Impact | 2025 Guide",
+    title: "Loan Write-Off vs. Loan Settlement Guide | SettleLoans",
     description: "Understand the critical differences between a loan write-off and a loan settlement in India. Learn about RBI guidelines, legal implications, and how each affects your credit score.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Overdue Payment Consequences for Auto Loans | SettleLoan',
   description: 'Falling behind on your car loan payments? Understand the strict timeline before the bank sends recovery agents to seize your vehicle.',
   alternates: {
-    canonical: 'https://www.example.com/overdue-payment-for-auto-loan',
+    canonical: 'https://www.settleloans.in/overdue-payment-for-auto-loan',
   },
 };
 
@@ -35,7 +35,7 @@ export default function Page() {
               "@type": "WebPage",
               "name": "Overdue Payment Consequences for Auto Loans",
               "description": "Falling behind on your car loan payments? Understand the strict timeline before the bank sends recovery agents to seize your vehicle.",
-              "url": "https://www.example.com/overdue-payment-for-auto-loan"
+              "url": "https://www.settleloans.in/overdue-payment-for-auto-loan"
             },
             {
               "@context": "https://schema.org",
@@ -45,19 +45,19 @@ export default function Page() {
                   "@type": "ListItem",
                   "position": 1,
                   "name": "Home",
-                  "item": "https://www.example.com/"
+                  "item": "https://www.settleloans.in/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "Auto Loans",
-                  "item": "https://www.example.com/auto-loans"
+                  "item": "https://www.settleloans.in"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "Auto Loan Overdue Consequences",
-                  "item": "https://www.example.com/overdue-payment-for-auto-loan"
+                  "item": "https://www.settleloans.in/overdue-payment-for-auto-loan"
                 }
               ]
             },
@@ -68,19 +68,19 @@ export default function Page() {
               "description": "A comprehensive guide on the timeline, consequences, and recovery process of a vehicle loan late payment.",
               "author": {
                 "@type": "Organization",
-                "name": "SettleLoan"
+                "name": "SettleLoans"
               },
               "publisher": {
                 "@type": "Organization",
-                "name": "SettleLoan",
+                "name": "SettleLoans",
                 "logo": {
                   "@type": "ImageObject",
-                  "url": "https://www.example.com/logo.png"
+                  "url": "https://www.settleloans.in/logo/logo.svg"
                 }
               },
               "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": "https://www.example.com/overdue-payment-for-auto-loan"
+                "@id": "https://www.settleloans.in/overdue-payment-for-auto-loan"
               }
             },
             {

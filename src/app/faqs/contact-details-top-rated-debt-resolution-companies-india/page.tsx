@@ -8,7 +8,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
 
 export const metadata: Metadata = {
-    title: "Contact Details for Top-Rated Debt Resolution Companies in India | 2025 Directory",
+    title: "Top Debt Resolution Companies in India | SettleLoans",
     description: "Get verified contact details, phone numbers, and addresses for India's leading debt resolution companies including SettleLoans, AMA Legal, and Freed. Professional debt relief starts here.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india",

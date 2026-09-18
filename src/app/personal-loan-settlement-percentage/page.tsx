@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementPercentageClient from './PersonalLoanSettlementPercentageClient';
 
 export const metadata: Metadata = {
-  title: 'What Percentage is Personal Loan Settlement in India? (2026 OTS Guide)',
+  title: 'Personal Loan Settlement Percentage Guide | SettleLoans',
   description:
     'Wondering what percentage is personal loan settlement in India? Discover average settlement percentages (30%–50%), bank discount formulas, NPA timelines & fund planning guide.',
   keywords: [

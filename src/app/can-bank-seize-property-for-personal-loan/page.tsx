@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CanBankSeizePropertyForPersonalLoanClient from './CanBankSeizePropertyForPersonalLoanClient';
 
 export const metadata: Metadata = {
-  title: 'Can Bank Attach Property for Personal Loan in India? Legal Reality & Rules (2026)',
+  title: 'Can Bank Seize Property for Personal Loan? | SettleLoans',
   description: 'Terrified that a bank will seize your house, car, or salary for an unpaid personal loan? Learn why personal loans are unsecured, why SARFAESI does not apply, and your legal protections.',
   keywords: [
     'can bank attach property for personal loan',

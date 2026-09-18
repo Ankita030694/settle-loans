@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement for Borrowers Planning Financial Reset | Path to Freedom",
+  title: "Loan Settlement for Financial Reset | SettleLoans",
   description: "A comprehensive 5000-word guide on loan settlement for borrowers planning a financial reset. Learn how to negotiate with banks, rebuild your CIBIL score, and regain financial freedom with SettleLoans and Ama Legal Solutions.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset",

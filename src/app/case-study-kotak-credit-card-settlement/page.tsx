@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CaseStudyKotakCreditCardSettlementClient from './CaseStudyKotakCreditCardSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'Kotak Credit Card Settlement Case Study: ₹4.2L Debt Settled for ₹1.35L',
+  title: 'Kotak Credit Card Settlement Case Study | SettleLoans',
   description: 'Real case study: How a ₹4.2 Lakh Kotak Mahindra Bank credit card debt (₹1.55L principal + ₹2.65L interest/penalties) was settled for ₹1.35 Lakhs (68% total waiver). Learn the high-interest relief process, NPA accounting rules, and how to obtain a formal No Dues Certificate on bank letterhead.',
   keywords: [
     'kotak mahindra bank credit card settlement',

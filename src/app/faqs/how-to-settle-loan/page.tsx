@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Ultimate Guide: How to Settle Your Loan in India (2024-25) | SettleLoans",
+  title: "How to Settle Your Loan in India: Guide | SettleLoans",
   description: "Learn how to settle your loan legally and ethically in India. Step-by-step guide on debt negotiation, RBI guidelines, Lok Adalat, and rebuilding CIBIL score. Get 40-70% waiver.",
   alternates: {
     canonical: "https://www.settleloans.in/faqs/how-to-settle-loan",

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "What Questions Should I Ask a Debt Settlement Consultant? | SettleLoans Guide",
+  title: "Questions to Ask a Debt Settlement Consultant | SettleLoans",
   description: "Crucial questions to ask before hiring a debt settlement consultant in India. Learn about fees, RBI compliance, CIBIL impact, and how to spot potential scams.",
   alternates: {
     canonical: "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant",

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "What is the Success Rate of Debt Settlement Programs? | 2024-2025 Stats",
+  title: "Success Rate of Debt Settlement Programs | SettleLoans",
   description: "Explore the real success rate of debt settlement programs in India for 2024-2025. Learn about average savings, account resolution rates, and factors that influence your path to debt freedom.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs",

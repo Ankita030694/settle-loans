@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
-    title: "Loan Agreement Drafting & Review India | Essential Clauses & Checklists",
+    title: "Loan Agreement Drafting & Review in India | SettleLoans",
     description: "Expert legal guide on drafting and reviewing loan agreements in India. Learn about essential clauses, RBI guidelines, hidden charges, and borrower protection.",
     alternates: {
         canonical: "https://www.settleloans.in/loan-agreement-drafting-review",

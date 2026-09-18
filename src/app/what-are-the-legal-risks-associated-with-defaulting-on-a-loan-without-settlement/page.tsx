@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Legal Risks of Loan Default in India | Penalties, Court Cases & RBI Rules",
+  title: "Legal Risks of Loan Default in India | SettleLoans",
   description: "Understand the legal risks of defaulting on a loan in India without settlement. Explore RBI rules, Section 138 NI Act, SARFAESI Act, and how to protect yourself from legal action.",
   alternates: {
     canonical: "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement",

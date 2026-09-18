@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFileShield, faScaleBalanced, faShieldHalved, faEnvelopeOpenText, faLandmark, faHandHoldingDollar, faCircleExclamation, faGavel, faBriefcase, faStar, faHandshakeSimple } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Best Lawyer for Notice for Default on Mortgage or Loan Repayment | Legal Help",
+    title: "Lawyer for Mortgage Default Notice Defense | SettleLoans",
     description: "Received a default notice on your mortgage? Get expert legal help. Best lawyer for loan repayment default notices in India. SARFAESI & Recall notice defense.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment",

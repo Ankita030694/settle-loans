@@ -34,7 +34,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Services in Surat: Settle Unsecured & Business Loans (2026)',
+  title: 'Loan Settlement Services in Surat | SettleLoans',
   description: 'Struggling with unsecured personal loans, business loans, or OD facilities in Surat? Discover how diamond merchants, textile traders, and salaried professionals in Surat legally settle bank debt with 45%–65% OTS waivers, halt harassment, and obtain RBI No Dues Certificates.',
   keywords: [
     'loan settlement services in surat',

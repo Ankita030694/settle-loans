@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "DRT Case Defence for Borrowers | SARFAESI & RDDBFI Legal Guide 2025",
+  title: "DRT Case Defence for Borrowers: Legal Guide | SettleLoans",
   description: "Are you facing a case in the Debt Recovery Tribunal? Learn the best DRT case defence strategies, your rights under the SARFAESI Act, and how to stop auctions legally. Expert guide for borrowers in India.",
   alternates: {
     canonical: "https://www.settleloans.in/drt-case-defence-for-borrowers",

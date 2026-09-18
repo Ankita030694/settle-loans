@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-    title: "Best Microfinance Loan Settlement Lawyer in India | Legal Debt Relief Experts",
+    title: "Microfinance Loan Settlement Lawyer in India | SettleLoans",
     description: "Find the best microfinance loan settlement lawyer in India. Expert legal help for MFI debt resolution, stopping recovery agent harassment, and legal negotiation under RBI norms.",
     alternates: {
         canonical: "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer",

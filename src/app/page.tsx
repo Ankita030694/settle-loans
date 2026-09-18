@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Hero from "@/components/Hero";
 import SettlementLetters from "@/components/SettlementLetters";
 import ProcessSection from "@/components/ProcessSection";
@@ -5,6 +6,29 @@ import Services from "@/components/Services";
 import BankGrid from "@/components/BankGrid";
 import FAQ from "@/components/FAQ";
 import ContactForm from "@/components/ContactForm";
+
+export const metadata: Metadata = {
+  title: "Loan Settlement & Debt Relief Services | SettleLoans",
+  description:
+    "Resolve personal loans, credit card dues, and recovery harassment with legal debt settlement and RBI-compliant advisory across India.",
+  alternates: {
+    canonical: "https://www.settleloans.in",
+  },
+  openGraph: {
+    title: "Loan Settlement & Debt Relief Services | SettleLoans",
+    description:
+      "Resolve personal loans, credit card dues, and recovery harassment with legal debt settlement and RBI-compliant advisory across India.",
+    url: "https://www.settleloans.in",
+    siteName: "SettleLoans",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Loan Settlement & Debt Relief Services | SettleLoans",
+    description:
+      "Resolve personal loans, credit card dues, and recovery harassment with legal debt settlement and RBI-compliant advisory across India.",
+  },
+};
 
 export default function Home() {
   return (

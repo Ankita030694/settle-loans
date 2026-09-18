@@ -19,8 +19,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const location = getLocationBySlug(slug);
   if (!location) return { title: "Not Found" };
 
+  const titleText = `Loan Settlement in ${location.name}`;
+  const metaTitle = titleText.length <= 46 ? `${titleText} | SettleLoans` : titleText;
+
   return {
-    title: `${location.title} | SettleLoans`,
+    title: metaTitle,
     description: location.description,
     keywords: [
       `loan settlement ${location.name}`,
@@ -38,7 +41,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       canonical: `https://www.settleloans.in/loan-settlement-by-city/${location.slug}`,
     },
     openGraph: {
-      title: location.title,
+      title: metaTitle,
       description: location.description,
       url: `https://www.settleloans.in/loan-settlement-by-city/${location.slug}`,
       type: "website",

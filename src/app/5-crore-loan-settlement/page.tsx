@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-    title: "5 Crore Loan Settlement India | Strategic Debt Resolution & Legal Shield",
+    title: "5 Crore Loan Settlement in India | SettleLoans",
     description: "Expert guide to 5 Crore loan settlement in India. Master forensic audits, Zonal Office negotiations, and legal protections under SARFAESI & IBC frameworks.",
     alternates: {
         canonical: "https://www.settleloans.in/5-crore-loan-settlement",

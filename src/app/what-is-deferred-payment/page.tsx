@@ -4,7 +4,7 @@ import TableOfContents from '@/components/TableOfContents';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'What is Deferred Payment? Meaning, Moratorium & BNPL Vs Deferred Payment',
+  title: 'What is Deferred Payment? Meaning & Guide | SettleLoans',
   description: 'Understand the deferred payment loan meaning, how a moratorium on loan works, and the key differences between BNPL vs deferred payment to avoid defaulting during a financial crisis.',
   alternates: {
     canonical: 'https://www.settleloans.in/what-is-deferred-payment',

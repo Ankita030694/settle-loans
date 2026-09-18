@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Company in Chandigarh: Tricity & NRI Debt Relief (2026)',
+  title: 'Loan Settlement Company in Chandigarh | SettleLoans',
   description: 'Leading loan settlement company in Chandigarh, Mohali & Panchkula. Expert advocate representation for high-ticket personal loans, credit cards & NRI debt under RBI OTS rules.',
   keywords: [
     'loan settlement company in chandigarh',

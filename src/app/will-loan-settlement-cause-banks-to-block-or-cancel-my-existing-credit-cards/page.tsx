@@ -3,10 +3,10 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Will a Loan Settlement Cause Banks to Block or Cancel My Existing Credit Cards?",
+  title: "Will Loan Settlement Block Your Credit Cards?",
   description: "Understand the impact of a personal loan settlement on your active credit cards. Learn how the Cross-Default Clause affects your credit limit and CIBIL score.",
   alternates: {
-    canonical: "https://www.settleloan.in/will-loan-settlement-cause-banks-to-block-or-cancel-my-existing-credit-cards",
+    canonical: "https://www.settleloans.in/will-loan-settlement-cause-banks-to-block-or-cancel-my-existing-credit-cards",
   },
 };
 
@@ -28,7 +28,7 @@ export default function CreditCardBlockAfterSettlement() {
       "@type": "WebPage",
       "name": "Will a Loan Settlement Cause Banks to Block or Cancel My Existing Credit Cards?",
       "description": "Understand the impact of a personal loan settlement on your active credit cards. Learn how the Cross-Default Clause affects your credit limit and CIBIL score.",
-      "url": "https://www.settleloan.in/will-loan-settlement-cause-banks-to-block-or-cancel-my-existing-credit-cards"
+      "url": "https://www.settleloans.in/will-loan-settlement-cause-banks-to-block-or-cancel-my-existing-credit-cards"
     },
     {
       "@context": "https://schema.org",
@@ -38,13 +38,13 @@ export default function CreditCardBlockAfterSettlement() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.settleloan.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Will a Loan Settlement Cause Banks to Block or Cancel My Existing Credit Cards?",
-          "item": "https://www.settleloan.in/will-loan-settlement-cause-banks-to-block-or-cancel-my-existing-credit-cards"
+          "item": "https://www.settleloans.in/will-loan-settlement-cause-banks-to-block-or-cancel-my-existing-credit-cards"
         }
       ]
     },
@@ -54,14 +54,14 @@ export default function CreditCardBlockAfterSettlement() {
       "headline": "Will a Loan Settlement Cause Banks to Block or Cancel My Existing Credit Cards?",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.settleloan.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "datePublished": "2024-05-15T08:00:00+08:00",

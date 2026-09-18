@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import HowToSettleCreditCardDebtClient from './HowToSettleCreditCardDebtClient';
 
 export const metadata: Metadata = {
-  title: 'How to Settle Credit Card Debt in India: 40%–70% Waivers & Legal Guide (2026)',
+  title: 'How to Settle Credit Card Debt in India | SettleLoans',
   description:
     'Trapped in 36%–42% APR credit card minimum dues? Learn how to legally settle credit card debt in India with 40%–70% waivers, stop recovery agent harassment, and rebuild your CIBIL score under RBI rules.',
   keywords: [

@@ -28,8 +28,11 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   
   if (!bank) return { title: "Bank Not Found" };
 
+  const titleText = `${bank.company} Loan Settlement`;
+  const metaTitle = titleText.length <= 46 ? `${titleText} | SettleLoans` : titleText;
+
   return {
-    title: `Loan Settlement for ${bank.company} | Settle Credit Card & Loans - SettleLoans`,
+    title: metaTitle,
     description: `Expert assistance for loan settlement for ${bank.company}. Settle your credit card and personal loans for 40-70% less. Professional debt relief for ${bank.company} customers.`,
     alternates: {
         canonical: `https://www.settleloans.in/loan-settlement-by-bank/${slug}`,

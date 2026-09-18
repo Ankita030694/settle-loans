@@ -38,7 +38,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Does SARFAESI Act Apply to Personal Loans? Rules, Exemption & Legal Rights (2026)',
+  title: 'Does SARFAESI Act Apply to Personal Loans? | SettleLoans',
   description: 'Does the SARFAESI Act apply to personal loans or credit cards? Understand the legal reality behind Section 13(2) notices, security interest rules, home seizure myths, and how to settle unsecured debt safely.',
   keywords: [
     'does sarfaesi act apply to personal loans',

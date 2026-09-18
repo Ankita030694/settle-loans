@@ -7,7 +7,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
 
 export const metadata: Metadata = {
-    title: "Find Debt Settlement Services Known for Effective Negotiation | Expert Guide",
+    title: "Debt Settlement Services for Negotiation | SettleLoans",
     description: "Discover the best debt settlement services in India known for effective negotiation. Learn how top agencies like SettleLoans secure deep waivers from banks.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation",

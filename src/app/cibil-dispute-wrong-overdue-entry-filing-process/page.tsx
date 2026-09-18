@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'CIBIL Dispute: Wrong Overdue Entry Filing Process | Ultimate Guide',
   description: 'Did a bank update wrong CIBIL data? Learn how to file a CIBIL dispute online and permanently remove a false overdue from your CIBIL report.',
   alternates: {
-    canonical: 'https://www.settleloan.in/cibil-dispute-wrong-overdue-entry-filing-process',
+    canonical: 'https://www.settleloans.in/cibil-dispute-wrong-overdue-entry-filing-process',
   },
 };
 
@@ -17,49 +17,49 @@ export default function CibilDisputePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/cibil-dispute-wrong-overdue-entry-filing-process/#webpage",
-        "url": "https://www.settleloan.in/cibil-dispute-wrong-overdue-entry-filing-process",
+        "@id": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry-filing-process/#webpage",
+        "url": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry-filing-process",
         "name": "CIBIL Dispute: Wrong Overdue Entry Filing Process",
         "description": "Step-by-step guide to filing a CIBIL dispute online to remove a false overdue entry and fix wrong bank reporting on your credit score.",
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://www.settleloan.in/cibil-dispute-wrong-overdue-entry-filing-process/#breadcrumb",
+        "@id": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry-filing-process/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.settleloan.in/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "CIBIL Dispute: Wrong Overdue Entry",
-            "item": "https://www.settleloan.in/cibil-dispute-wrong-overdue-entry-filing-process"
+            "item": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry-filing-process"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://www.settleloan.in/cibil-dispute-wrong-overdue-entry-filing-process/#article",
-        "isPartOf": { "@id": "https://www.settleloan.in/cibil-dispute-wrong-overdue-entry-filing-process/#webpage" },
+        "@id": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry-filing-process/#article",
+        "isPartOf": { "@id": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry-filing-process/#webpage" },
         "headline": "CIBIL Dispute: Wrong Overdue Entry Filing Process",
         "datePublished": "2024-05-20T08:00:00+05:30",
         "dateModified": "2024-05-20T08:00:00+05:30",
-        "mainEntityOfPage": { "@id": "https://www.settleloan.in/cibil-dispute-wrong-overdue-entry-filing-process/#webpage" },
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry-filing-process/#webpage" },
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan",
+          "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.settleloan.in/logo.png"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan Expert Team"
+          "name": "SettleLoans Expert Team"
         }
       },
       {

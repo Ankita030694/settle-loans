@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Company in Mysore Karnataka: Legal Debt Relief (2026)',
+  title: 'Loan Settlement Company in Mysore | SettleLoans',
   description: 'Top personal loan settlement company in Mysore & Mandya. Senior advocate representation for IT professionals, silk & sandalwood merchants, and MSMEs. Settle bank loans at 40%–65% under RBI OTS rules.',
   keywords: [
     'personal loan settlement company in mysore karnataka',

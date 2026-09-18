@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Education Loan Defaults: Legal Liability of Parents as Co-Signers",
   description: "When a child defaults on an education loan due to joblessness, parents face severe legal liability. Learn how banks target retirement savings and how to settle the debt.",
   alternates: {
-    canonical: "https://www.settleloan.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan"
+    canonical: "https://www.settleloans.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan"
   }
 };
 
@@ -28,8 +28,8 @@ export default function ParentsLegalLiabilityPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan",
-        "url": "https://www.settleloan.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan",
+        "@id": "https://www.settleloans.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan",
+        "url": "https://www.settleloans.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan",
         "name": "Education Loan Defaults: Legal Liability of Parents as Co-Signers",
         "description": "Understand the legal liability of parents as co-signers when a child defaults on an education loan and how to protect your family from bank harassment."
       },
@@ -40,13 +40,13 @@ export default function ParentsLegalLiabilityPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.settleloan.in/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Education Loan Defaults: Legal Liability of Parents as Co-Signers",
-            "item": "https://www.settleloan.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan"
+            "item": "https://www.settleloans.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan"
           }
         ]
       },
@@ -55,14 +55,14 @@ export default function ParentsLegalLiabilityPage() {
         "headline": "Education Loan Defaults: Legal Liability of Parents as Co-Signers",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan"
+          "name": "SettleLoans"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan",
+          "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.settleloan.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         },
         "datePublished": "2024-10-15T08:00:00+08:00",
@@ -70,7 +70,7 @@ export default function ParentsLegalLiabilityPage() {
         "description": "When a child defaults on an education loan due to joblessness, parents face severe legal liability. Learn how banks target retirement savings and how to settle the debt.",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://www.settleloan.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan"
+          "@id": "https://www.settleloans.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan"
         }
       },
       {

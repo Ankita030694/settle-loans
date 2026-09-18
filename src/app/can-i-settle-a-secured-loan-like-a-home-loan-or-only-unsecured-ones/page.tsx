@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Can I Settle a Secured Loan in India? Secured vs Unsecured Settlement Guide",
+  title: "Can I Settle a Secured Loan in India? | SettleLoans",
   description: "Can you settle a secured loan like a home loan in India? Learn the differences between secured and unsecured loan settlement, RBI rules, SARFAESI Act, and how to negotiate an OTS for mortgage debt.",
   alternates: {
     canonical: "https://www.settleloans.in/can-i-settle-a-secured-loan-like-a-home-loan-or-only-unsecured-ones",

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "IDFC First Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
+  title: "IDFC First Bank Loan Settlement | SettleLoans",
   description: "Struggling with IDFC First Bank debt? Learn the expert process for IDFC First Bank loan settlement and credit card OTS. Settle for 40-70% less and stop harassment legally.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/idfc-first-bank",

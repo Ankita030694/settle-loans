@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Settling Credit Card Dues Using Third Party Loan Companies in India | 2024-25",
+    title: "Settle Credit Card Dues with Debt Settlement Companies",
     description: "Learn how to settle credit card dues with third party companies like SettleLoans. Expert guide on negotiation, legal protection, and stopping harassment in 2024-25.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies",

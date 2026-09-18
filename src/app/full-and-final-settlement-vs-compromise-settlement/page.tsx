@@ -33,7 +33,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Full and Final Settlement vs Compromise Settlement: Complete Guide (2026)',
+  title: 'Full Settlement vs Compromise Settlement | SettleLoans',
   description: 'Understand the technical financial difference between full and final loan closure, compromise settlement (OTS), and credit write-offs under RBI guidelines. Learn how to secure legally binding ₹0 liability documentation.',
   keywords: [
     'difference between full and final settlement and compromise settlement',

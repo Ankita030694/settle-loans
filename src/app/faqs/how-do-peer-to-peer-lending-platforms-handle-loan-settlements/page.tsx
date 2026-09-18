@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck, faShieldHalved, faHandshake, faScaleBalanced, faCircleInfo } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "How Peer-to-Peer (P2P) Lending Platforms Handle Loan Settlements | India 2025",
+    title: "How P2P Lending Platforms Handle Loan Settlements",
     description: "Discover how P2P platforms like Faircent and Lendbox handle loan settlements. Learn about individual lender negotiations, RBI recovery guidelines, and settlement strategies.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements",

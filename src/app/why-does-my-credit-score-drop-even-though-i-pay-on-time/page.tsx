@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight, faCircleCheck, faShieldHalved, faScaleBalanced, faClock, faAddressCard, faHandHoldingDollar, faExclamationTriangle } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-  title: "Why Does My Credit Score Drop Even Though I Pay on Time- India Guide",
+  title: "Why Credit Score Drops Despite On-Time Pay | SettleLoans",
   description: "Confused why your CIBIL score is dropping despite timely payments? Discover the hidden factors like utilization, credit mix, and report errors. Expert guide for 2026.",
   alternates: {
     canonical: "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time",

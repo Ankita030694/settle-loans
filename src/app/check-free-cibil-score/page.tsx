@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Check Free CIBIL Score Online | Official Report Without Impact",
   description: "Stop paying for expensive credit reports. Learn how to legally download your full, official CIBIL report for absolutely free.",
   alternates: {
-    canonical: "https://www.settleloan.in/check-free-cibil-score",
+    canonical: "https://www.settleloans.in/check-free-cibil-score",
   },
 };
 
@@ -27,26 +27,26 @@ export default function CheckFreeCibilScorePage() {
       "@type": "WebPage",
       "name": "Check Free CIBIL Score Online | Official Report Without Impact",
       "description": "Stop paying for expensive credit reports. Learn how to legally download your full, official CIBIL report for absolutely free.",
-      "url": "https://www.settleloan.in/check-free-cibil-score"
+      "url": "https://www.settleloans.in/check-free-cibil-score"
     },
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloan.in/" },
-        { "@type": "ListItem", "position": 2, "name": "Credit Education", "item": "https://www.settleloan.in/credit-education" },
-        { "@type": "ListItem", "position": 3, "name": "Check Free CIBIL Score", "item": "https://www.settleloan.in/check-free-cibil-score" }
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+        { "@type": "ListItem", "position": 2, "name": "Credit Education", "item": "https://www.settleloans.in" },
+        { "@type": "ListItem", "position": 3, "name": "Check Free CIBIL Score", "item": "https://www.settleloans.in/check-free-cibil-score" }
       ]
     },
     {
       "@context": "https://schema.org",
       "@type": "Article",
       "headline": "How to Check Your Free CIBIL Score Online",
-      "author": { "@type": "Organization", "name": "SettleLoan" },
+      "author": { "@type": "Organization", "name": "SettleLoans" },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
-        "logo": { "@type": "ImageObject", "url": "https://www.settleloan.in/logo.png" }
+        "name": "SettleLoans",
+        "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
       },
       "datePublished": "2024-03-15T08:00:00+08:00",
       "dateModified": "2024-03-15T08:00:00+08:00"

@@ -6,7 +6,7 @@ import TableOfContents from '@/components/TableOfContents';
 export const metadata: Metadata = {
   title: "Forgot EMI Payment? Travel & Festival Grace Periods",
   description: "Forgot your EMI date because you were traveling or busy with festivals? See if your bank offers a hidden 'Grace Period' to avoid CIBIL damage.",
-  alternates: { canonical: "https://yourdomain.com/forgot-emi-payment-travel-festival-grace-period" }
+  alternates: { canonical: "https://www.settleloans.in/forgot-emi-payment-travel-festival-grace-period" }
 };
 
 const tocItems = [
@@ -27,14 +27,14 @@ export default function ForgotEMIPaymentPage() {
       {
         "@type": "WebPage",
         "name": "Forgot EMI Payment? Travel & Festival Grace Periods",
-        "url": "https://yourdomain.com/forgot-emi-payment-travel-festival-grace-period"
+        "url": "https://www.settleloans.in/forgot-emi-payment-travel-festival-grace-period"
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://yourdomain.com" },
-          { "@type": "ListItem", "position": 2, "name": "Loan Guides", "item": "https://yourdomain.com/loan-guides" },
-          { "@type": "ListItem", "position": 3, "name": "Forgot EMI Payment", "item": "https://yourdomain.com/forgot-emi-payment-travel-festival-grace-period" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Loan Guides", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 3, "name": "Forgot EMI Payment", "item": "https://www.settleloans.in/forgot-emi-payment-travel-festival-grace-period" }
         ]
       },
       {

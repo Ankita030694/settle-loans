@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "How to Check if a Loan Settlement Offer is Genuine on Digital Platforms (2026)",
+  title: "How to Check if a Loan Settlement Offer is Genuine",
   description: "Learn how to verify if a loan settlement offer is genuine on digital platforms. Identify red flags, follow RBI guidelines, and protect yourself from debt settlement scams in India.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms",

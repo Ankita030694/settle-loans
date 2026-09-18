@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CreditCardSettlementAbove1LakhClient from './CreditCardSettlementAbove1LakhClient';
 
 export const metadata: Metadata = {
-  title: 'Credit Card Settlement Above 1 Lakh: Haircut Matrix & Legal Guide (2026)',
+  title: 'Credit Card Settlement Above 1 Lakh | SettleLoans',
   description:
     'Settling a credit card bill above ₹1 Lakh? Learn why balances inflate from ₹1L to ₹1.65L through compounding interest, how to secure 60%–70% settlement discounts, and stop recovery harassment.',
   keywords: [

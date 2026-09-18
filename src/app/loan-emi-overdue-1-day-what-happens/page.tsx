@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Loan EMI Overdue by 1 Day: What Actually Happens?',
   description: 'Missed your loan EMI by 1 day? Find out if there is a grace period for personal loans, the exact impact on your CIBIL score, and how to avoid late payment charges.',
   alternates: {
-    canonical: 'https://www.settleloan.in/loan-emi-overdue-1-day-what-happens',
+    canonical: 'https://www.settleloans.in/loan-emi-overdue-1-day-what-happens',
   },
 };
 
@@ -18,7 +18,7 @@ export default function LoanEMIOverdue1Day() {
       "@type": "WebPage",
       "name": "Loan EMI Overdue by 1 Day: What Actually Happens?",
       "description": "Missed your loan EMI by 1 day? Find out if there is a grace period for personal loans, the exact impact on your CIBIL score, and how to avoid late payment charges.",
-      "url": "https://www.settleloan.in/loan-emi-overdue-1-day-what-happens"
+      "url": "https://www.settleloans.in/loan-emi-overdue-1-day-what-happens"
     },
     {
       "@context": "https://schema.org",
@@ -28,13 +28,13 @@ export default function LoanEMIOverdue1Day() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.settleloan.in/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan EMI Overdue by 1 Day: What Actually Happens?",
-          "item": "https://www.settleloan.in/loan-emi-overdue-1-day-what-happens"
+          "item": "https://www.settleloans.in/loan-emi-overdue-1-day-what-happens"
         }
       ]
     },
@@ -45,14 +45,14 @@ export default function LoanEMIOverdue1Day() {
       "description": "Missed your loan EMI by 1 day? Find out if there is a grace period for personal loans, the exact impact on your CIBIL score, and how to avoid late payment charges.",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.settleloan.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "datePublished": "2024-05-15",

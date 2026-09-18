@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement for Self-Employed in India | Business Debt Relief Guide",
+  title: "Loan Settlement for Self-Employed in India | SettleLoans",
   description: "Are you self-employed and struggling with business debt? Learn the legal process of loan settlement for entrepreneurs. Get experts tips on business loan negotiation and debt relief.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-for-self-employed",

@@ -16,7 +16,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement in Chhattisgarh | Stop Bank Harassment & Settle Debt',
+  title: 'Loan Settlement in Chhattisgarh | SettleLoans',
   description: 'Struggling with debt in Chhattisgarh? Professional loan settlement services in Raipur, Bilaspur & Bhilai. Stop recovery harassment, reduce debt by up to 50% legally.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/chhattisgarh',

@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck, faPeopleGroup, faHandshakeSlash, faFileSignature, faScaleUnbalanced } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Settling Joint Loans: Implications for Co-borrowers & Legal Guide 2025",
+    title: "Settling Joint Loans: Implications & Guide | SettleLoans",
     description: "Can you settle a joint loan? Discover the legal implications for co-borrowers, how settlements affect both credit scores, and strategies for shared debt resolution.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers",

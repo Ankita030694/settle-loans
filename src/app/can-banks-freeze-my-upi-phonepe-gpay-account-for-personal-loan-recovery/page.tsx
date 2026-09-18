@@ -3,10 +3,10 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Can Banks Freeze My UPI, GPay, or PhonePe Account for a Loan Recovery?",
+  title: "Can Banks Freeze UPI Accounts for Loan Recovery?",
   description: "Learn the truth about bank freeze UPI account loan default actions. Can recovery agents block Paytm or GPay? Understand the NPCI guidelines and DRT rules.",
   alternates: {
-    canonical: "https://www.settleloan.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery",
+    canonical: "https://www.settleloans.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery",
   },
 };
 
@@ -26,56 +26,56 @@ export default function CanBanksFreezeUPIAccountPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#webpage",
-        "url": "https://www.settleloan.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery",
+        "@id": "https://www.settleloans.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#webpage",
+        "url": "https://www.settleloans.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery",
         "name": "Can Banks Freeze My UPI, GPay, or PhonePe Account for a Loan Recovery?",
         "description": "Learn the truth about bank freeze UPI account loan default actions. Can recovery agents block Paytm or GPay? Understand the NPCI guidelines and DRT rules.",
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://www.settleloan.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#breadcrumb",
+        "@id": "https://www.settleloans.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.settleloan.in/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Resources",
-            "item": "https://www.settleloan.in/resources"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Can Banks Freeze UPI Accounts?",
-            "item": "https://www.settleloan.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery"
+            "item": "https://www.settleloans.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://www.settleloan.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#article",
+        "@id": "https://www.settleloans.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#article",
         "headline": "Can Banks Freeze My UPI, GPay, or PhonePe Account for a Loan Recovery?",
         "description": "Learn the truth about bank freeze UPI account loan default actions. Can recovery agents block Paytm or GPay? Understand the NPCI guidelines and DRT rules.",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan",
-          "url": "https://www.settleloan.in/"
+          "name": "SettleLoans",
+          "url": "https://www.settleloans.in/"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan",
+          "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.settleloan.in/logo.png"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "mainEntityOfPage": {
-          "@id": "https://www.settleloan.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#webpage"
+          "@id": "https://www.settleloans.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#webpage"
         }
       },
       {

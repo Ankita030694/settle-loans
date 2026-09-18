@@ -4,10 +4,10 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Absconding from Banks: The Legal Consequences of Changing Your Number and Address",
+  title: "Avoid Recovery Agents: Legal Risks of Changing Number",
   description: "Learn why changing your SIM card to avoid loan recovery agents can turn a civil default into a criminal fraud case (Section 420 IPC) and how skip tracing works in India.",
   alternates: {
-    canonical: "https://www.settleloan.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents"
+    canonical: "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents"
   }
 };
 
@@ -30,50 +30,50 @@ export default function LegalConsequencesChangingNumberPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#webpage",
-        "url": "https://www.settleloan.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents",
+        "@id": "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#webpage",
+        "url": "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents",
         "name": "Absconding from Banks: The Legal Consequences of Changing Your Number and Address",
         "description": "Learn why changing your SIM card to avoid loan recovery agents can turn a civil default into a criminal fraud case (Section 420 IPC) and how skip tracing works in India.",
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://www.settleloan.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#breadcrumb",
+        "@id": "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.settleloan.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Absconding from Banks: Legal Consequences",
-            "item": "https://www.settleloan.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents"
+            "item": "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://www.settleloan.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#article",
+        "@id": "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#article",
         "headline": "Absconding from Banks: The Legal Consequences of Changing Your Number and Address",
         "description": "Running away from bank loan default by changing numbers? Understand skip tracing recovery agents India use, and the absconding from personal loan punishment.",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan",
-          "url": "https://www.settleloan.in"
+          "name": "SettleLoans",
+          "url": "https://www.settleloans.in"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan",
+          "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.settleloan.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         },
         "mainEntityOfPage": {
-          "@id": "https://www.settleloan.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#webpage"
+          "@id": "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#webpage"
         }
       },
       {

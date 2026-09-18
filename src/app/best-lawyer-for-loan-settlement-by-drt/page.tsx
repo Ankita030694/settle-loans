@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGavel, faScaleBalanced, faShieldHalved, faHandshake, faLandmark, faCircleExclamation, faFileSignature, faBuildingShield, faUserTie, faStar, faBalanceScaleLeft } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Best Lawyer for Loan Settlement by DRT | Debt Recovery Tribunal Defense",
+    title: "Lawyer for Loan Settlement by DRT | SettleLoans",
     description: "Facing a DRT case? Connect with the best lawyer for loan settlement by DRT in India. Expert defense for SARFAESI, SA filing, and bank settlement through tribunal.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt",

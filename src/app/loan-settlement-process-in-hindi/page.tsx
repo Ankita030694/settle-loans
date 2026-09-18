@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "लोन सेटलमेंट प्रक्रिया हिंदी में | Loan Settlement Process Guide 2025",
+  title: "लोन सेटलमेंट प्रक्रिया हिंदी में | SettleLoans",
   description: "लोन सेटलमेंट की पूरी प्रक्रिया हिंदी में समझें। पर्सनल लोन, क्रेडिट कार्ड और बिज़नेस लोन को कैसे सेटल करें, लोक अदालत, एनपीए और आरबीआई (RBI) के नए नियम 2025।",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-process-in-hindi",

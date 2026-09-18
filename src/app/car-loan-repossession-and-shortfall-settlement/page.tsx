@@ -37,7 +37,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Car Loan Repossession Rules & Shortfall Settlement: Stop Harassment & Settle Residual Debt (2026)',
+  title: 'Car Loan Repossession & Shortfall Settlement | SettleLoans',
   description: 'Vehicle seized or facing a car loan shortfall recovery notice? Learn Supreme Court rulings against forceful repossession, how banks undervalue auction sales, and how advocates settle residual shortfall balances to ₹0 with full NDC.',
   keywords: [
     'car loan repossession rules and settlement',
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement',
   },
   openGraph: {
-    title: 'Car Loan Repossession Rules & Shortfall Settlement: Legal Protections & ₹0 Residual OTS Guide',
+    title: 'Car Loan Repossession & Shortfall Settlement | SettleLoans',
     description: 'Master the legal defense against illegal vehicle seizure and inflated loan shortfall demands. Understand Supreme Court rulings, RBI Fair Practices Code, auction transparency, and advocate-led ₹0 shortfall settlements.',
     url: 'https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement',
     siteName: 'SettleLoans',

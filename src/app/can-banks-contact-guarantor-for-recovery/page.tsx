@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Can Banks & Lenders Contact Your Guarantor for Recovery?',
   description: 'Are recovery agents harassing the friend or family member who stood as your loan guarantor? Understand their exact legal liability under RBI rules.',
   alternates: {
-    canonical: 'https://settleloan.in/can-banks-contact-guarantor-for-recovery',
+    canonical: 'https://www.settleloans.in/can-banks-contact-guarantor-for-recovery',
   }
 };
 
@@ -16,8 +16,8 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloan.in/can-banks-contact-guarantor-for-recovery",
-      "url": "https://settleloan.in/can-banks-contact-guarantor-for-recovery",
+      "@id": "https://www.settleloans.in/can-banks-contact-guarantor-for-recovery",
+      "url": "https://www.settleloans.in/can-banks-contact-guarantor-for-recovery",
       "name": "Can Banks & Lenders Contact Your Guarantor for Recovery?",
       "description": "Are recovery agents harassing the friend or family member who stood as your loan guarantor? Understand their exact legal liability under RBI rules."
     },
@@ -28,13 +28,13 @@ const jsonLd = {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloan.in/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Can Banks & Lenders Contact Your Guarantor for Recovery?",
-          "item": "https://settleloan.in/can-banks-contact-guarantor-for-recovery"
+          "item": "https://www.settleloans.in/can-banks-contact-guarantor-for-recovery"
         }
       ]
     },
@@ -44,7 +44,7 @@ const jsonLd = {
       "description": "Are recovery agents harassing the friend or family member who stood as your loan guarantor? Understand their exact legal liability under RBI rules.",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       }
     },
     {

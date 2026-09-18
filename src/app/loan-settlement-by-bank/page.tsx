@@ -15,7 +15,7 @@ function slugify(text: string) {
 }
 
 export const metadata: Metadata = {
-  title: "Loan Settlement for Banks in India | Expert Debt Relief - SettleLoans",
+  title: "Loan Settlement for Banks in India | SettleLoans",
   description: "Comprehensive list of banks and NBFCs for loan settlement in India. Professional help to settle your credit card and personal loans for 40-70% less.",
 };
 

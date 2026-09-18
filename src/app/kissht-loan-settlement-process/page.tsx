@@ -33,7 +33,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Kissht App Loan Settlement: Stop Harassment, RBI Rules & OTS Guide (2026)',
+  title: 'Kissht App Loan Settlement Guide | SettleLoans',
   description: 'Trapped in Kissht or Ring app debt? Learn how to stop aggressive recovery harassment, halt WhatsApp threats, invoke RBI Digital Lending Guidelines, defend Section 25 notices, and negotiate a 40% to 60% OTS settlement haircut.',
   keywords: [
     'kissht app loan settlement',

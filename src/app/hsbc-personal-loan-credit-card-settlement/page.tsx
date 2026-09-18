@@ -35,7 +35,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'HSBC Loan Settlement Process in India: Premier Card & Loan OTS (2026)',
+  title: 'HSBC Loan Settlement Process in India | SettleLoans',
   description: 'Exhaustive legal guide to HSBC personal loan and Premier credit card settlement in India. Learn corporate workplace privacy defense, cease-and-desist rules under RBI directives, and how to negotiate up to 60% OTS debt haircut.',
   keywords: [
     'hsbc loan settlement process in india',

@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to Waive Penal Interest and Charges on Loan Default | SettleLoans',
+  title: 'Waive Penal Interest & Charges on Loan Default | SettleLoans',
   description: 'Complete legal guide to financial statement forensic audits for loan default. Learn how to isolate genuine principal, leverage RBI fair lending directions, and waive 100% of penal charges.',
   keywords: [
     'how to waive penal interest and charges on loan default',

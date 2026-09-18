@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Loan Auction Notice: Stop, Postpone, or Cancel Options",
   description: "Auction date announced? You still have options. Discover the 3 legal methods to postpone, cancel, or indefinitely delay a bank auction under SARFAESI.",
   alternates: {
-    canonical: "https://www.settleloan.in/loan-auction-notice-stop-postpone-cancel-options",
+    canonical: "https://www.settleloans.in/loan-auction-notice-stop-postpone-cancel-options",
   },
 };
 
@@ -30,7 +30,7 @@ export default function Page() {
       "@type": "WebPage",
       "name": "Loan Auction Notice: Stop, Postpone, or Cancel Options",
       "description": "Discover the 3 legal methods to postpone, cancel, or indefinitely delay a bank auction under SARFAESI.",
-      "url": "https://www.settleloan.in/loan-auction-notice-stop-postpone-cancel-options"
+      "url": "https://www.settleloans.in/loan-auction-notice-stop-postpone-cancel-options"
     },
     {
       "@context": "https://schema.org",
@@ -40,19 +40,19 @@ export default function Page() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.settleloan.in/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Relief",
-          "item": "https://www.settleloan.in/loan-relief"
+          "item": "https://www.settleloans.in/loan-relief"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Loan Auction Notice",
-          "item": "https://www.settleloan.in/loan-auction-notice-stop-postpone-cancel-options"
+          "item": "https://www.settleloans.in/loan-auction-notice-stop-postpone-cancel-options"
         }
       ]
     },
@@ -63,14 +63,14 @@ export default function Page() {
       "description": "Auction date announced? You still have options. Discover the 3 legal methods to postpone, cancel, or indefinitely delay a bank auction.",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.settleloan.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },

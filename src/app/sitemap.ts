@@ -677,12 +677,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 1.0,
         },
         {
-            url: `${baseUrl}/loan-settlement-after-bank-files-civil-suit`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 1.0,
-        },
-        {
             url: `${baseUrl}/personal-loan-settlement-kochi`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -893,12 +887,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 1.0,
         },
         {
-            url: `${baseUrl}/bank-recovery-agent-pareshan-kare-to-kya-kare`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 1.0,
-        },
-        {
             url: `${baseUrl}/personal-loan-settle-kaise-kare`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -912,12 +900,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/loan-settlement-for-salaried-vs-self-employed`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 1.0,
-        },
-        {
-            url: `${baseUrl}/bnpl-default-legal-notice-settlement-guide`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 1.0,
@@ -3351,12 +3333,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
-            url: `${baseUrl}/can-another-bank-freeze-my-salary-account-for-a-different-bank-loan-default`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 0.9,
-        },
-        {
             url: `${baseUrl}/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -3885,12 +3861,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
-            url: `${baseUrl}/can-bajaj-finace-contact-guarantor-for-recovery`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 0.9,
-        },
-        {
             url: `${baseUrl}/how-to-reply-sarfaesi-notice`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -4018,12 +3988,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/rbi-iracp-norms-loan-classification`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 0.9,
-        },
-        {
-            url: `${baseUrl}/bajaj-finance-npa-status`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,

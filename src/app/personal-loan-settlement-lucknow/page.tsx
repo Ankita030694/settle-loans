@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Advocates in Lucknow: Legal Defense & OTS (2026)',
+  title: 'Loan Settlement Advocates in Lucknow | SettleLoans',
   description:
     'Struggling with loan default, recovery harassment, or court summons in Lucknow, Gomti Nagar, or Kanpur? Get senior advocate defense, salary protection, and 40%–70% OTS waivers.',
   keywords: [

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "What Can I Do If I am Unable to Pay My Bank Loan EMI? | Guide 2024-2025",
+  title: "Unable to Pay Bank Loan EMI? What to Do | SettleLoans",
   description: "Facing difficulty in paying your bank loan EMI in India? Discover RBI guidelines for 2024-2025, loan restructuring options, legal rights, and how to stop recovery agent harassment legally.",
   alternates: {
     canonical: "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi",

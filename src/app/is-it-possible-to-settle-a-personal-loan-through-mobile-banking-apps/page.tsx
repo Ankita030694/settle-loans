@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Is it Possible to Settle a Personal Loan Through Mobile Banking Apps?",
+  title: "Settle Personal Loan via Mobile Banking Apps | SettleLoans",
   description: "Can you settle a personal loan via mobile banking in India? Explore the digital loan settlement process, bank-specific app rules (SBI, HDFC, ICICI, Axis), RBI's 2025 digital lending guidelines, and legal protections.",
   alternates: {
     canonical: "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps",

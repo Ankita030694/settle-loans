@@ -40,7 +40,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Top 10 RBI Rules for Loan Defaulters Rights: Harassment Ban, Calling Hours & OTS Guidelines',
+  title: "Top 10 RBI Rules for Loan Defaulters' Rights",
   description: 'Master guide on RBI guidelines for loan defaulters rights in India. Discover statutory rules on 8 AM-7 PM calling hours, privacy protection, harassment penalties, One-Time Settlement (OTS) circulars, and Ombudsman remedies.',
   keywords: [
     'rbi guidelines for loan defaulters rights',
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights',
   },
   openGraph: {
-    title: 'Top 10 RBI Rules for Loan Defaulters Rights | Master Authority Guide',
+    title: "Top 10 RBI Rules for Loan Defaulters' Rights",
     description: 'Definitive regulatory analysis of RBI Master Directions protecting loan defaulters in India. Learn about recovery agent limits, privacy bans, criminal threat immunity, OTS frameworks, and 30-day NDC rules.',
     url: 'https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights',
     siteName: 'SettleLoans',

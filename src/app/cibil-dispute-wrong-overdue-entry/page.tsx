@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CibilDisputeWrongOverdueEntryClient from './CibilDisputeWrongOverdueEntryClient';
 
 export const metadata: Metadata = {
-  title: 'How to Raise CIBIL Dispute for Wrong Entry? Step-by-Step Guide (2026)',
+  title: 'How to Raise CIBIL Dispute for Wrong Entry | SettleLoans',
   description: 'Learn how to raise a CIBIL dispute for wrong overdue entries, paid loans not updated, or fraudulent PAN accounts. Step-by-step CICRA 2005 & RBI resolution guide.',
   keywords: [
     'how to raise cibil dispute for wrong entry',

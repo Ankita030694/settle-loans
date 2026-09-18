@@ -4,7 +4,7 @@ import TableOfContents from '@/components/TableOfContents';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Does a Loan Default Affect Passport Renewal and Visa Applications in India?',
+  title: 'Does Loan Default Affect Passport & Visa? | SettleLoans',
   description: 'Understand the impact of a loan default on passport renewal and visa applications. Discover if a low CIBIL score leads to visa rejection and if defaulters can travel abroad.',
   alternates: {
     canonical: 'https://www.settleloans.in/does-loan-default-affect-passport-renewal-and-visa-application',

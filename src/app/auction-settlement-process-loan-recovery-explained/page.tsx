@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Property Auction Settlement Process & Loan Recovery Rules Explained",
+  title: "Property Auction Settlement Process & Rules | SettleLoans",
   description: "Is the bank threatening to auction your property? Learn the strict legal DRT auction settlement process and discover how to stop bank auction loan recovery.",
   alternates: {
     canonical: "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained",

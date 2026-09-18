@@ -39,7 +39,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Lawyer in Ahmedabad: Legal Defense & Business Debt Relief (2026)',
+  title: 'Loan Settlement Lawyer in Ahmedabad | SettleLoans',
   description: 'Facing loan default, court summons, or recovery harassment in Ahmedabad, Surat, or Gujarat? Consult an experienced loan settlement lawyer in Ahmedabad for Section 138 NI Act defense, GSLSA Lok Adalat representation, and 45%–65% One-Time Settlement (OTS) waivers under RBI regulations.',
   keywords: [
     'loan settlement lawyer in ahmedabad',

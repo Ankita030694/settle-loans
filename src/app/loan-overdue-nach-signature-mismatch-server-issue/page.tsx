@@ -4,10 +4,10 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Loan Overdue Due to NACH Signature Mismatch or Server Issue | Fight Bounce Charges',
+  title: 'Loan Overdue: NACH Signature Mismatch | SettleLoans',
   description: "Did your EMI bounce because of the bank's server issue or a signature mismatch? You are NOT liable for the bounce charges. Learn how to fight it.",
   alternates: {
-    canonical: 'https://www.settleloan.in/loan-overdue-nach-signature-mismatch-server-issue',
+    canonical: 'https://www.settleloans.in/loan-overdue-nach-signature-mismatch-server-issue',
   },
 };
 
@@ -18,7 +18,7 @@ export default function NachBounceGuidePage() {
       "@type": "WebPage",
       "name": "Loan Overdue Due to NACH Signature Mismatch or Server Issue",
       "description": "Did your EMI bounce because of the bank's server issue or a signature mismatch? You are NOT liable for the bounce charges. Learn how to fight it.",
-      "url": "https://www.settleloan.in/loan-overdue-nach-signature-mismatch-server-issue"
+      "url": "https://www.settleloans.in/loan-overdue-nach-signature-mismatch-server-issue"
     },
     {
       "@context": "https://schema.org",
@@ -28,13 +28,13 @@ export default function NachBounceGuidePage() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.settleloan.in/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Overdue Due to NACH Signature Mismatch or Server Issue",
-          "item": "https://www.settleloan.in/loan-overdue-nach-signature-mismatch-server-issue"
+          "item": "https://www.settleloans.in/loan-overdue-nach-signature-mismatch-server-issue"
         }
       ]
     },
@@ -44,19 +44,19 @@ export default function NachBounceGuidePage() {
       "headline": "Loan Overdue Due to NACH Signature Mismatch or Server Issue",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.settleloan.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/loan-overdue-nach-signature-mismatch-server-issue"
+        "@id": "https://www.settleloans.in/loan-overdue-nach-signature-mismatch-server-issue"
       }
     },
     {

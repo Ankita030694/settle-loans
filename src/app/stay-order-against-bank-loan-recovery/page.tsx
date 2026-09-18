@@ -39,7 +39,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to Get Stay Order Against Loan Recovery: Civil Injunctions & Legal Guide',
+  title: 'Stay Order Against Loan Recovery: Guide | SettleLoans',
   description: 'Facing unlawful physical harassment by bank recovery agents? Learn how to get a court stay order and interim civil injunction under Order 39 CPC prohibiting agents from approaching your home or office.',
   keywords: [
     'how to get stay order against loan recovery',

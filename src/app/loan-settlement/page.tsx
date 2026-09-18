@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Services in India | Legal Debt Negotiation - SettleLoans",
+  title: "Loan Settlement Services in India | SettleLoans",
   description: "Don't let debt take over your life. SettleLoans provides professional loan settlement and anti-harassment services across India. Settle credit cards & personal loans for 40-70% less.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement",

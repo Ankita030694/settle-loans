@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Legal Notice for Loan Settlement Harassment | RBI Rules & IPC Guide 2026",
+  title: "Legal Notice for Loan Harassment: Guide | SettleLoans",
   description: "Facing harassment from loan recovery agents? Learn how to send a legal notice for loan settlement harassment in India. A complete guide on RBI rules, IPC Section 506/384, and Banking Ombudsman complaints.",
   alternates: {
     canonical: "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment",

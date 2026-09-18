@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CaseStudyHdfcClient from './CaseStudyHdfcClient';
 
 export const metadata: Metadata = {
-  title: 'HDFC Personal Loan Settlement Success Story: ₹8 Lakh Settled for ₹3.2L',
+  title: 'HDFC Personal Loan Settlement Case Study | SettleLoans',
   description: 'Real case study: How an ₹8 Lakh HDFC Bank personal loan was settled for ₹3.2 Lakhs (60% waiver) following job loss. Learn the step-by-step OTS negotiation process, NPV recovery formula, and legal defense.',
   keywords: [
     'hdfc personal loan settlement success story',

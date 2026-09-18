@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Professional Loan Foreclosure Charges: Doctor & CA Closure Fees",
   description: "Are you a Doctor or CA trying to foreclose your professional loan? Banks often hide massive penalties in the fine print. Learn how to negotiate them.",
   alternates: {
-    canonical: "https://example.com/professional-loan-foreclosure-charges",
+    canonical: "https://www.settleloans.in/professional-loan-foreclosure-charges",
   },
 };
 
@@ -28,25 +28,25 @@ export default function ProfessionalLoanForeclosurePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://example.com/professional-loan-foreclosure-charges/#webpage",
-        "url": "https://example.com/professional-loan-foreclosure-charges",
+        "@id": "https://www.settleloans.in/professional-loan-foreclosure-charges/#webpage",
+        "url": "https://www.settleloans.in/professional-loan-foreclosure-charges",
         "name": "Professional Loan Foreclosure Charges: Doctor & CA Closure Fees",
         "description": "Are you a Doctor or CA trying to foreclose your professional loan? Banks often hide massive penalties in the fine print. Learn how to negotiate them."
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://example.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Loan Guides", "item": "https://example.com/guides" },
-          { "@type": "ListItem", "position": 3, "name": "Professional Loan Foreclosure", "item": "https://example.com/professional-loan-foreclosure-charges" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 2, "name": "Loan Guides", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 3, "name": "Professional Loan Foreclosure", "item": "https://www.settleloans.in/professional-loan-foreclosure-charges" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://example.com/professional-loan-foreclosure-charges/#article",
+        "@id": "https://www.settleloans.in/professional-loan-foreclosure-charges/#article",
         "headline": "Professional Loan Foreclosure Charges: Doctor & CA Closure Fees",
         "description": "Banks often hide massive penalties in the fine print. Learn how to negotiate and reduce closure fees.",
-        "author": { "@type": "Organization", "name": "SettleLoan" }
+        "author": { "@type": "Organization", "name": "SettleLoans" }
       },
       {
         "@type": "FAQPage",

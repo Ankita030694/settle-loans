@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "How to Identify Fake Recovery Agents in India | RBI Guidelines & Safety Tips",
+  title: "How to Identify Fake Recovery Agents | SettleLoans",
   description: "Learn how to differentiate between genuine and fake recovery agents in India. Stay protected with RBI guidelines, identification tips, and legal rights for borrowers.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-identify-fake-recovery-agents",

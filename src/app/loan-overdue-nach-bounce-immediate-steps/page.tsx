@@ -6,7 +6,7 @@ import TableOfContents from '@/components/TableOfContents';
 export const metadata: Metadata = {
   title: "Loan Overdue NACH Bounce: Immediate Steps to Take",
   description: "Did your auto-debit NACH mandate just bounce? Take these 3 immediate steps to stop the bank from charging you heavy penalty fees like NACH bounce charges.",
-  alternates: { canonical: "https://www.settleloan.in/loan-overdue-nach-bounce-immediate-steps" }
+  alternates: { canonical: "https://www.settleloans.in/loan-overdue-nach-bounce-immediate-steps" }
 };
 
 const pageItems = [
@@ -26,7 +26,7 @@ export default function NachBouncePage() {
       "@type": "WebPage",
       "name": "Loan Overdue NACH Bounce: Immediate Steps to Take",
       "description": "Did your auto-debit NACH mandate just bounce? Take these 3 immediate steps to stop the bank from charging you heavy penalty fees.",
-      "url": "https://www.settleloan.in/loan-overdue-nach-bounce-immediate-steps"
+      "url": "https://www.settleloans.in/loan-overdue-nach-bounce-immediate-steps"
     },
     {
       "@context": "https://schema.org",
@@ -36,13 +36,13 @@ export default function NachBouncePage() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.settleloan.in/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Overdue NACH Bounce",
-          "item": "https://www.settleloan.in/loan-overdue-nach-bounce-immediate-steps"
+          "item": "https://www.settleloans.in/loan-overdue-nach-bounce-immediate-steps"
         }
       ]
     },
@@ -52,14 +52,14 @@ export default function NachBouncePage() {
       "headline": "Loan Overdue NACH Bounce: Immediate Steps to Take",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.settleloan.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "datePublished": new Date().toISOString()

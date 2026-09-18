@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-    title: "Legal Help for Non-Closure of Settled Loan India | Expert Debt Lawyers",
+    title: "Legal Help for Non-Closure of Settled Loan | SettleLoans",
     description: "Facing issues with non-closure of a settled loan in India? Get expert legal help for NOC issuance, CIBIL update disputes, and RBI Ombudsman complaints. Learn your rights today.",
     alternates: {
         canonical: "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan",

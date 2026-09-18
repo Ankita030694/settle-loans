@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Experian Credit History vs CIBIL | Check & Fix Errors Free',
   description: 'Your CIBIL is fine but your loan got rejected? Learn why banks check your Experian report, how to get your score for free, and fix Experian credit history errors.',
   alternates: {
-    canonical: 'https://settleloan.in/experian-credit-history',
+    canonical: 'https://www.settleloans.in/experian-credit-history',
   },
 };
 
@@ -32,7 +32,7 @@ export default function ExperianCreditHistoryPage() {
               "@type": "WebPage",
               "name": "Experian Credit History vs CIBIL | Check & Fix Errors Free",
               "description": "Learn why banks check your Experian report, how to get your score for free, and fix Experian credit history errors.",
-              "url": "https://settleloan.in/experian-credit-history"
+              "url": "https://www.settleloans.in/experian-credit-history"
             },
             {
               "@context": "https://schema.org",
@@ -42,13 +42,13 @@ export default function ExperianCreditHistoryPage() {
                   "@type": "ListItem",
                   "position": 1,
                   "name": "Home",
-                  "item": "https://settleloan.in/"
+                  "item": "https://www.settleloans.in/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "Experian Credit History",
-                  "item": "https://settleloan.in/experian-credit-history"
+                  "item": "https://www.settleloans.in/experian-credit-history"
                 }
               ]
             },
@@ -58,16 +58,16 @@ export default function ExperianCreditHistoryPage() {
               "headline": "Experian Credit History vs CIBIL | Check & Fix Errors Free",
               "author": {
                 "@type": "Organization",
-                "name": "SettleLoan"
+                "name": "SettleLoans"
               },
               "datePublished": "2024-07-23",
               "dateModified": "2024-07-23",
               "publisher": {
                 "@type": "Organization",
-                "name": "SettleLoan",
+                "name": "SettleLoans",
                 "logo": {
                   "@type": "ImageObject",
-                  "url": "https://settleloan.in/logo.png"
+                  "url": "https://www.settleloans.in/logo/logo.svg"
                 }
               }
             },

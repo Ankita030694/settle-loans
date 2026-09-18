@@ -4,10 +4,10 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Business Loan Foreclosure Letter Format | Request MSME Loan Closure',
+  title: 'Business Loan Foreclosure Letter Format | SettleLoans',
   description: 'Download the legally vetted Business Loan Foreclosure Letter Format to request the foreclosure of your business or MSME loan and ensure the bank doesn\'t stall the process.',
   alternates: {
-    canonical: 'https://settleloan.in/business-loan-foreclosure-letter',
+    canonical: 'https://www.settleloans.in/business-loan-foreclosure-letter',
   },
 };
 
@@ -27,16 +27,16 @@ export default function BusinessLoanForeclosurePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloan.in/business-loan-foreclosure-letter",
-        "url": "https://settleloan.in/business-loan-foreclosure-letter",
+        "@id": "https://www.settleloans.in/business-loan-foreclosure-letter",
+        "url": "https://www.settleloans.in/business-loan-foreclosure-letter",
         "name": "Business Loan Foreclosure Letter Format",
         "description": "Legally vetted business loan foreclosure letter format to close your MSME loan quickly without unnecessary delays.",
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan",
+          "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloan.in/logo.png"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         }
       },
@@ -47,7 +47,7 @@ export default function BusinessLoanForeclosurePage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloan.in/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",

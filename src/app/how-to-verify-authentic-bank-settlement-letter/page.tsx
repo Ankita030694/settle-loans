@@ -32,7 +32,7 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "How to Verify Authentic Bank Settlement Letter: 7 Forensic Checks to Avoid Fake OTS Scams (2026)",
+  title: "Verify Authentic Bank Settlement Letter | SettleLoans",
   description: "Learn how to verify a bank loan settlement letter authenticity. Discover 7 critical forensic checks, official domain email verification, branch seal checks, RBI safe remittance rules, and how to avoid fake WhatsApp OTS fraud.",
   keywords: [
     "how to verify bank loan settlement letter",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter",
   },
   openGraph: {
-    title: "How to Verify Authentic Bank Settlement Letter: 7 Forensic Checks to Avoid Fake OTS Scams",
+    title: "Verify Authentic Bank Settlement Letter | SettleLoans",
     description: "Protect yourself from rogue collection agent scams. Comprehensive legal guide to verifying bank OTS sanction letters, official domain headers, Credit Committee seals, and RBI-mandated remittance protocols.",
     url: "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter",
     siteName: "SettleLoans",

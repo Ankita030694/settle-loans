@@ -36,7 +36,7 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Medical Emergency Loan Default Settlement Guide: Settle Debt on Compassionate Grounds (2026)",
+  title: "Medical Emergency Loan Default Settlement Guide",
   description: "Learn how to settle personal loans and credit cards after critical illness or hospitalization in India. Use medical discharge summaries and bills as irrefutable evidence for bank OTS committees, stop recovery harassment under RBI rules, and negotiate 50%–75% debt waivers.",
   keywords: [
     "loan settlement due to medical emergency",
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     canonical: "https://www.settleloans.in/medical-emergency-loan-default-settlement",
   },
   openGraph: {
-    title: "Medical Emergency Loan Default Settlement Guide: Settle Debt on Compassionate Grounds (2026)",
+    title: "Medical Emergency Loan Default Settlement Guide",
     description: "Comprehensive legal and financial manual on settling defaulted personal loans following critical illnesses, surgeries, or prolonged hospitalization in India. Discover how hospital discharge summaries and medical bills serve as irrefutable legal evidence for bank OTS committees.",
     url: "https://www.settleloans.in/medical-emergency-loan-default-settlement",
     siteName: "SettleLoans",

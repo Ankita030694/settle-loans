@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Gold Loan Auction Process After Default: Claim Surplus Funds",
   description: "Learn about the gold loan auction notice period, how to stop a gold loan auction, and your legal rights to claim surplus money after a gold auction in India.",
   alternates: {
-    canonical: "https://www.settleloan.in/gold-loan-auction-process-after-default",
+    canonical: "https://www.settleloans.in/gold-loan-auction-process-after-default",
   },
 };
 
@@ -70,8 +70,8 @@ export default function GoldLoanAuctionPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/gold-loan-auction-process-after-default",
-        "url": "https://www.settleloan.in/gold-loan-auction-process-after-default",
+        "@id": "https://www.settleloans.in/gold-loan-auction-process-after-default",
+        "url": "https://www.settleloans.in/gold-loan-auction-process-after-default",
         "name": "Gold Loan Auction Process After Default: Claim Surplus Funds",
         "description": "Learn about the gold loan auction notice period, how to stop a gold loan auction, and your legal rights to claim surplus money after a gold auction in India."
       },
@@ -82,13 +82,13 @@ export default function GoldLoanAuctionPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.settleloan.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Gold Loan Auction Process After Default",
-            "item": "https://www.settleloan.in/gold-loan-auction-process-after-default"
+            "item": "https://www.settleloans.in/gold-loan-auction-process-after-default"
           }
         ]
       },
@@ -97,14 +97,14 @@ export default function GoldLoanAuctionPage() {
         "headline": "Gold Loan Auction Process After Default: Notice Period & Surplus Claims",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan"
+          "name": "SettleLoans"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan",
+          "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.settleloan.in/logo.png"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-15T08:00:00+08:00",

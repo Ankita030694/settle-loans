@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Can the Bank Deduct Loan EMI from a Joint Account if Only One Person Defaulted?",
+  title: "Can Bank Deduct EMI from Joint Account? | SettleLoans",
   description: "A legal analysis of the Banker's Right of Set-Off in India. Learn if banks can legally deduct EMI from a joint account without permission or freeze a spouse's account for a personal loan default.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults",

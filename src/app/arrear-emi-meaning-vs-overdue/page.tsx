@@ -6,7 +6,7 @@ import TableOfContents from '@/components/TableOfContents';
 export const metadata: Metadata = {
   title: "Arrear EMI Meaning vs Overdue: How to Clear Loan Arrears",
   description: "Your bank statement shows 'Arrear EMI'—what does this actually mean? Understand the banking terminology that determines your default status and how to clear loan arrears.",
-  alternates: { canonical: "https://yourdomain.com/arrear-emi-meaning-vs-overdue" }
+  alternates: { canonical: "https://www.settleloans.in/arrear-emi-meaning-vs-overdue" }
 };
 
 const tocItems = [
@@ -27,16 +27,16 @@ export default function ArrearEmiPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://yourdomain.com/arrear-emi-meaning-vs-overdue",
-        "url": "https://yourdomain.com/arrear-emi-meaning-vs-overdue",
+        "@id": "https://www.settleloans.in/arrear-emi-meaning-vs-overdue",
+        "url": "https://www.settleloans.in/arrear-emi-meaning-vs-overdue",
         "name": "Arrear EMI Meaning vs Overdue: How to Clear Loan Arrears"
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://yourdomain.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Loans", "item": "https://yourdomain.com/loans" },
-          { "@type": "ListItem", "position": 3, "name": "Arrear EMI Meaning", "item": "https://yourdomain.com/arrear-emi-meaning-vs-overdue" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 2, "name": "Loans", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 3, "name": "Arrear EMI Meaning", "item": "https://www.settleloans.in/arrear-emi-meaning-vs-overdue" }
         ]
       },
       {

@@ -42,7 +42,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Advocates in Kolkata: Legal Defense & Lok Adalat OTS (2026)',
+  title: 'Loan Settlement Advocates in Kolkata | SettleLoans',
   description: 'Struggling with personal loan default, recovery harassment, or Bankshall / Alipore court summons in Kolkata & West Bengal? Get premier legal defense and 40%–70% OTS debt waivers.',
   keywords: [
     'loan settlement advocates in kolkata',

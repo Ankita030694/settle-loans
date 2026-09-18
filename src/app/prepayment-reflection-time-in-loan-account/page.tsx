@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Prepayment Reflection Time in Loan Account | Part Payment Not Updated",
+  title: "Prepayment Reflection Time in Loan Account | SettleLoans",
   description: "Made a massive part-payment but your principal hasn't reduced? Learn the exact time taken to reflect loan prepayment and how to handle a banking ombudsman prepayment delay.",
   alternates: {
     canonical: "https://www.settleloans.in/prepayment-reflection-time-in-loan-account",

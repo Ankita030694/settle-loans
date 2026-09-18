@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'ECS/NACH Bounce Legal Notice: Section 25 Payment & Settlement Act',
   description: 'Understand the legal implications of an ECS or NACH bounce under Section 25 of the Payment and Settlement Systems Act, and how to defend against criminal charges for auto debit bounce in India.',
   alternates: {
-    canonical: 'https://www.settleloan.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide',
+    canonical: 'https://www.settleloans.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide',
   }
 };
 
@@ -17,8 +17,8 @@ export default function Section25NoticePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide",
-        "url": "https://www.settleloan.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide",
+        "@id": "https://www.settleloans.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide",
+        "url": "https://www.settleloans.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide",
         "name": "ECS/NACH Bounce Legal Notice: Section 25 Payment & Settlement Act",
         "description": "Understand the legal implications of an ECS bounce, Section 25 of the Payment and Settlement Act, and NACH mandate bounce punishments in India."
       },
@@ -29,19 +29,19 @@ export default function Section25NoticePage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.settleloan.in/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Legal Notices",
-            "item": "https://www.settleloan.in/legal-notices"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Section 25 NACH Bounce Guide",
-            "item": "https://www.settleloan.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide"
+            "item": "https://www.settleloans.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide"
           }
         ]
       },
@@ -51,19 +51,19 @@ export default function Section25NoticePage() {
         "description": "A comprehensive guide on defending against criminal charges stemming from a bounced digital mandate under Section 25.",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan"
+          "name": "SettleLoans"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan",
+          "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.settleloan.in/logo.png"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://www.settleloan.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide"
+          "@id": "https://www.settleloans.in/ecs-nach-bounce-legal-notice-section-25-payment-settlement-act-guide"
         }
       },
       {

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Missed Car Loan EMI More Than 90 Days? RBI Rules on Vehicle Seizure",
   description: "Have you missed your car loan EMI for more than 90 days? Learn about RBI vehicle seizure rules, auto loan default consequences, and how to stop illegal towing.",
   alternates: {
-    canonical: "https://example.com/missed-car-loan-emi-more-than-90-days",
+    canonical: "https://www.settleloans.in/missed-car-loan-emi-more-than-90-days",
   },
 };
 
@@ -17,45 +17,45 @@ export default function MissedCarLoanEmiPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://example.com/missed-car-loan-emi-more-than-90-days/#webpage",
-        "url": "https://example.com/missed-car-loan-emi-more-than-90-days",
+        "@id": "https://www.settleloans.in/missed-car-loan-emi-more-than-90-days/#webpage",
+        "url": "https://www.settleloans.in/missed-car-loan-emi-more-than-90-days",
         "name": "Missed Car Loan EMI More Than 90 Days? Stop Illegal Vehicle Seizure",
         "description": "Have you missed your car loan EMI for more than 90 days? Learn about RBI vehicle seizure rules, auto loan default consequences, and how to stop illegal towing.",
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://example.com/missed-car-loan-emi-more-than-90-days/#breadcrumb",
+        "@id": "https://www.settleloans.in/missed-car-loan-emi-more-than-90-days/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://example.com"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Auto Loan Settlement",
-            "item": "https://example.com/auto-loan-settlement"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Missed Car Loan EMI > 90 Days",
-            "item": "https://example.com/missed-car-loan-emi-more-than-90-days"
+            "item": "https://www.settleloans.in/missed-car-loan-emi-more-than-90-days"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://example.com/missed-car-loan-emi-more-than-90-days/#article",
+        "@id": "https://www.settleloans.in/missed-car-loan-emi-more-than-90-days/#article",
         "headline": "Missed Car Loan EMI More Than 90 Days? Stop Illegal Vehicle Seizure",
         "description": "Comprehensive guide on what happens when you miss 3 months of car loan EMIs, RBI guidelines on repossession, and how to stop unlawful recovery agents.",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan Legal Team",
-          "url": "https://example.com"
+          "name": "SettleLoans Legal Team",
+          "url": "https://www.settleloans.in"
         }
       },
       {
@@ -146,7 +146,7 @@ export default function MissedCarLoanEmiPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://example.com/missed-car-loan-emi-more-than-90-days/#service",
+        "@id": "https://www.settleloans.in/missed-car-loan-emi-more-than-90-days/#service",
         "name": "Auto Loan Default Legal Protection Service",
         "description": "Expert legal consultation and protection against illegal vehicle repossession by banks and recovery agents.",
         "brand": {

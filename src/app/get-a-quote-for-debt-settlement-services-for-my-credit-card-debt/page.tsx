@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
-  title: "Get a Quote for Credit Card Debt Settlement Services in India | Real Savings",
+  title: "Credit Card Debt Settlement Services Quote | SettleLoans",
   description: "Learn how to get a personalized quote for credit card debt settlement. Explore fee models, saving potentials, and expert negotiation strategies to settle for 40-60%.",
   alternates: {
     canonical: "https://www.settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt",

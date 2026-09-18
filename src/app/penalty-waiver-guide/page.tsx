@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Penalty Waiver Guide for Indian Borrowers | Stop Unfair Bank Charges',
+  title: 'Penalty Waiver Guide for Indian Borrowers | SettleLoans',
   description: 'The ultimate guide to fighting unfair banking penalties. Learn how to use the latest RBI guidelines to force banks to waive unjust penal interest and late fees.',
   alternates: {
     canonical: 'https://www.settleloans.in/penalty-waiver-guide',

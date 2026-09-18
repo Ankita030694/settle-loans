@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Download NOC for Secured Loans Online | Home & Car Loan Guide',
   description: "Closed your home or car loan but don't have the time to visit the branch? Learn the step-by-step process to legally track and download your official NOC online.",
   alternates: {
-    canonical: 'https://settleloan.in/download-noc-for-secured-loan',
+    canonical: 'https://www.settleloans.in/download-noc-for-secured-loan',
   },
 };
 
@@ -29,22 +29,22 @@ export default function DownloadNOCPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloan.in/download-noc-for-secured-loan",
+        "@id": "https://www.settleloans.in/download-noc-for-secured-loan",
         "name": "Download NOC for Secured Loans Online",
         "description": "Closed your home or car loan but don't have the time to visit the branch? Learn the step-by-step process to legally track and download your official NOC online."
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloan.in" },
-          { "@type": "ListItem", "position": 2, "name": "Download NOC for Secured Loans", "item": "https://settleloan.in/download-noc-for-secured-loan" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 2, "name": "Download NOC for Secured Loans", "item": "https://www.settleloans.in/download-noc-for-secured-loan" }
         ]
       },
       {
         "@type": "Article",
         "headline": "Download NOC for Secured Loans",
-        "author": { "@type": "Organization", "name": "SettleLoan" },
-        "publisher": { "@type": "Organization", "name": "SettleLoan", "logo": { "@type": "ImageObject", "url": "https://settleloan.in/logo.png" } }
+        "author": { "@type": "Organization", "name": "SettleLoans" },
+        "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" } }
       },
       {
         "@type": "FAQPage",

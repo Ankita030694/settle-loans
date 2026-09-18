@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "SettleLoans Support for Avoiding Aggressive Recovery Practices | RBI Guidelines 2025",
+  title: "Stop Aggressive Recovery Practices | SettleLoans",
   description: "Stop aggressive recovery practices with SettleLoans. Learn about RBI guidelines for recovery agents, your rights as a borrower, and how to stop harassment legally. Get expert support from Amalegal Solutions.",
   alternates: {
     canonical: "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices",

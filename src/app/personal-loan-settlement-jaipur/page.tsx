@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Debt Settlement Services in Jaipur: Legal Defense & OTS Advocates (2026)',
+  title: 'Debt Settlement Services in Jaipur | SettleLoans',
   description:
     'Facing personal loan default, recovery harassment, or court notices in Jaipur, Mansarovar, or Vaishali Nagar? Senior debt settlement advocates offer legal defense, salary protection, and 40%–70% OTS waivers.',
   keywords: [

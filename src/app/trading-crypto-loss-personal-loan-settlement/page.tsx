@@ -29,7 +29,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Taken for Trading Loss Settlement: F&O & Crypto Debt Relief (2026)',
+  title: 'Trading & Crypto Loss Loan Settlement | SettleLoans',
   description: 'Took personal loans for F&O stock options or crypto trading and lost the capital? Learn legal defense strategies, RBI compromise settlement rules, and 40%–60% OTS haircuts.',
   keywords: [
     'personal loan taken for trading loss settlement',

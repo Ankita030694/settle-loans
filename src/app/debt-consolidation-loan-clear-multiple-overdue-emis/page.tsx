@@ -4,10 +4,10 @@ import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Debt Consolidation Loan to Clear Multiple Overdue EMIs | Fast Approval',
+  title: 'Debt Consolidation to Clear Overdue EMIs | SettleLoans',
   description: 'Drowning in 5 different personal loans and credit cards? Find out if a Debt Consolidation Loan is the lifeline you need to clear your overdue EMIs and save your CIBIL score.',
   alternates: {
-    canonical: 'https://www.settleloan.in/debt-consolidation-loan-clear-multiple-overdue-emis',
+    canonical: 'https://www.settleloans.in/debt-consolidation-loan-clear-multiple-overdue-emis',
   },
 };
 
@@ -34,8 +34,8 @@ export default function DebtConsolidationLoanPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/debt-consolidation-loan-clear-multiple-overdue-emis/#webpage",
-        "url": "https://www.settleloan.in/debt-consolidation-loan-clear-multiple-overdue-emis",
+        "@id": "https://www.settleloans.in/debt-consolidation-loan-clear-multiple-overdue-emis/#webpage",
+        "url": "https://www.settleloans.in/debt-consolidation-loan-clear-multiple-overdue-emis",
         "name": "Debt Consolidation Loan to Clear Multiple Overdue EMIs",
         "description": "Drowning in 5 different personal loans and credit cards? Find out if a Debt Consolidation Loan is the lifeline you need to clear your overdue EMIs and save your CIBIL score.",
         "inLanguage": "en-IN"
@@ -43,16 +43,16 @@ export default function DebtConsolidationLoanPage() {
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloan.in/" },
-          { "@type": "ListItem", "position": 2, "name": "Debt Consolidation Loan", "item": "https://www.settleloan.in/debt-consolidation-loan-clear-multiple-overdue-emis" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 2, "name": "Debt Consolidation Loan", "item": "https://www.settleloans.in/debt-consolidation-loan-clear-multiple-overdue-emis" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://www.settleloan.in/debt-consolidation-loan-clear-multiple-overdue-emis/#article",
+        "@id": "https://www.settleloans.in/debt-consolidation-loan-clear-multiple-overdue-emis/#article",
         "headline": "Debt Consolidation Loan to Clear Multiple Overdue EMIs",
         "description": "Learn how to use a personal loan consolidation strategy to clear multiple overdue EMIs and restructure your debt in India.",
-        "author": { "@type": "Organization", "name": "SettleLoan", "url": "https://www.settleloan.in/" }
+        "author": { "@type": "Organization", "name": "SettleLoans", "url": "https://www.settleloans.in/" }
       },
       {
         "@type": "FAQPage",

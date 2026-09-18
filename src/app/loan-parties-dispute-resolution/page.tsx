@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-    title: "Loan Parties Dispute Resolution India | Legal Help for Recovery Conflicts",
+    title: "Loan Parties Dispute Resolution India | SettleLoans",
     description: "Expert legal advisory for loan party disputes in India. Navigate DRT procedures, Banking Ombudsman complaints, and ADR mechanisms. Settle your loan conflicts with professional legal representation.",
     alternates: {
         canonical: "https://www.settleloans.in/loan-parties-dispute-resolution",

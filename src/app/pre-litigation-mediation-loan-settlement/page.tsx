@@ -36,7 +36,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Pre-Litigation Mediation for Bank Loan Default: Free DLSA Process & Settlement Guide (2026)',
+  title: 'Pre-Litigation Mediation for Loan Default | SettleLoans',
   description: 'Discover how to proactively initiate free, court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan defaults. Stop recovery harassment, force banks into compromise negotiations, and secure a binding Lok Adalat consent decree.',
   keywords: [
     'pre litigation mediation for bank loan default',
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/pre-litigation-mediation-loan-settlement',
   },
   openGraph: {
-    title: 'Pre-Litigation Mediation for Bank Loan Default: Free DLSA Settlement Guide',
+    title: 'Pre-Litigation Mediation for Loan Default | SettleLoans',
     description: 'Proactively initiate free, court-backed pre-litigation mediation through DLSA for unsecured personal loans and credit cards. Halt recovery harassment and secure an official Lok Adalat compromise decree with 45%–60% principal waivers.',
     url: 'https://www.settleloans.in/pre-litigation-mediation-loan-settlement',
     siteName: 'SettleLoans',

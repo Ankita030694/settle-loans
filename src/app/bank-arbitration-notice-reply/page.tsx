@@ -36,7 +36,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to Reply to Bank Arbitration Notice: Legal Process, Unilateral Defense & 60% Settlement Guide (2026)',
+  title: 'How to Reply to Bank Arbitration Notice | SettleLoans',
   description: 'Learn how to reply to a bank arbitration notice for personal loans and credit cards. Discover why unilateral arbitrator appointments by ICICI, Axis, HDFC, and Kotak violate Supreme Court rulings, how to challenge bias under Section 12(5), and how advocates force a 50%–65% OTS settlement.',
   keywords: [
     'how to reply to bank arbitration notice',
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bank-arbitration-notice-reply',
   },
   openGraph: {
-    title: 'How to Reply to Bank Arbitration Notice: Legal Process, Unilateral Defense & 60% Settlement Guide',
+    title: 'How to Reply to Bank Arbitration Notice | SettleLoans',
     description: 'Master the legal defense against bank arbitration notices. Understand Section 12(5) invalidation, Perkins Eastman precedent, and how advocate representation converts aggressive arbitration claims into a compromised One-Time Settlement.',
     url: 'https://www.settleloans.in/bank-arbitration-notice-reply',
     siteName: 'SettleLoans',

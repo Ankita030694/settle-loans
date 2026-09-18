@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "How to Improve CIBIL Score Fast | Rebuild Credit After Default",
   description: "Did a past loan default ruin your credit? Follow these exact steps to rebuild your CIBIL score back to 750+ and regain your financial freedom.",
   alternates: {
-    canonical: "https://settleloan.in/how-to-improve-cibil-score",
+    canonical: "https://www.settleloans.in/how-to-improve-cibil-score",
   },
 };
 
@@ -28,7 +28,7 @@ export default function ImproveCibilScorePage() {
       "@type": "WebPage",
       "name": "How to Improve CIBIL Score Fast | Rebuild Credit After Default",
       "description": "Did a past loan default ruin your credit? Follow these exact steps to rebuild your CIBIL score back to 750+ and regain your financial freedom.",
-      "url": "https://settleloan.in/how-to-improve-cibil-score"
+      "url": "https://www.settleloans.in/how-to-improve-cibil-score"
     },
     {
       "@context": "https://schema.org",
@@ -38,13 +38,13 @@ export default function ImproveCibilScorePage() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloan.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "How to Improve CIBIL Score",
-          "item": "https://settleloan.in/how-to-improve-cibil-score"
+          "item": "https://www.settleloans.in/how-to-improve-cibil-score"
         }
       ]
     },
@@ -54,14 +54,14 @@ export default function ImproveCibilScorePage() {
       "headline": "How to Improve CIBIL Score Fast After Default",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloan.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "datePublished": "2024-05-15T08:00:00+08:00",
@@ -70,7 +70,7 @@ export default function ImproveCibilScorePage() {
     {
       "@context": "https://schema.org",
       "@type": "Product",
-      "name": "SettleLoan Credit Rebuilding Program",
+      "name": "SettleLoans Credit Rebuilding Program",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",

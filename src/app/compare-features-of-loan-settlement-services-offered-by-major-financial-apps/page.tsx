@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Compare Loan Settlement Apps India | Features & Services Comparison 2025",
+  title: "Compare Loan Settlement Apps in India | SettleLoans",
   description: "Comprehensive comparison of major loan settlement apps in India including AMA Connect, FREED, SingleDebt, and more. Find the best digital debt relief platform for your needs.",
   alternates: {
     canonical: "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps",

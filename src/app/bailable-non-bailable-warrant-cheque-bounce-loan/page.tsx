@@ -29,7 +29,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Bailable & Non-Bailable Warrant for Cheque Bounce Loan Default: Cancel Warrant & Settle Under Sec 138 NI Act (2026)',
+  title: 'Cheque Bounce Warrant for Loan Default | SettleLoans',
   description: 'Received a bailable or non-bailable warrant for cheque bounce loan default? Learn how advocates file an urgent application under Section 70(2) CrPC / BNSS to cancel warrants, secure bail, and negotiate out-of-court loan compounding under Section 147 NI Act.',
   keywords: [
     'warrant issued for cheque bounce loan default',
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan',
   },
   openGraph: {
-    title: 'Bailable & Non-Bailable Warrant for Cheque Bounce Loan Default: Cancel Warrant & Settle',
+    title: 'Cheque Bounce Warrant for Loan Default | SettleLoans',
     description: 'Master the legal procedure to cancel bailable (BW) and non-bailable warrants (NBW) issued by Magistrate courts in Section 138 cheque bounce loan default cases. Protect against arrest and compound the debt through advocate-led One-Time Settlement.',
     url: 'https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan',
     siteName: 'SettleLoans',

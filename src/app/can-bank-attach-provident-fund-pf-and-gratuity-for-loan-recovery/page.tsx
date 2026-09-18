@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Can Banks Attach Provident Fund (EPF) and Gratuity for Loan Recovery?",
+  title: "Can Banks Attach EPF & Gratuity for Loan Recovery?",
   description: "Is the bank threatening to seize your EPF or Gratuity funds for loan default? Learn about Section 60 CPC and EPF Act protections against attachment.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery",

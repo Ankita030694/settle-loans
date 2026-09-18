@@ -7,7 +7,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
 
 export const metadata: Metadata = {
-    title: "Which Companies Offer Professional Debt Settlement Services for Personal Loans? | Expert Rankings",
+    title: "Professional Debt Settlement Companies | SettleLoans",
     description: "Compare the top professional debt settlement services for personal loans in India. Ratings and reviews for SettleLoans, AMA Legal, and more.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans",

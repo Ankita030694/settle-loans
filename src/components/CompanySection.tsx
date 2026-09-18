@@ -50,7 +50,7 @@ export default function CompanySection() {
               Settle your loans
             </Link>
             <Link 
-              href="/personal-loan-negotiation" 
+              href="/faqs/how-to-negotiate-personal-loan-settlement" 
               className="flex-1 flex items-center justify-center text-center p-3 rounded-lg border border-[#1F5EFF] text-[#1F5EFF] hover:bg-[#1F5EFF] hover:text-white transition-all duration-200 font-semibold text-sm bg-white"
             >
               Reduce your EMIs
@@ -66,7 +66,7 @@ export default function CompanySection() {
           {/* Bottom Row */}
           <div className="flex flex-col md:flex-row gap-3">
             <Link 
-              href="/personal-loan-recovery-harassment" 
+              href="/how-to-stop-loan-recovery-harassment" 
               className="flex-1 flex items-center justify-center text-center p-3 rounded-lg border border-[#1F5EFF] text-[#1F5EFF] hover:bg-[#1F5EFF] hover:text-white transition-all duration-200 font-semibold text-sm bg-white"
             >
               Support against Harassment

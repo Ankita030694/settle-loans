@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Bank Delaying Original Property Documents After Home Loan Settlement: RBI Rules",
+  title: "Bank Delaying Property Documents: RBI Rules | SettleLoans",
   description: "Bank not returning your original property papers after home loan settlement? Learn about the RBI rule mandating a ₹5,000/day penalty for delays over 30 days.",
   alternates: {
     canonical: "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules",

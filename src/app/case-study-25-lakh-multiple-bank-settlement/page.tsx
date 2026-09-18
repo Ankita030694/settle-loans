@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import CaseStudy25LakhMultipleBankSettlementClient from './CaseStudy25LakhMultipleBankSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'How to Settle Multiple Personal Loans: ₹25 Lakh Multi-Bank Case Study',
+  title: 'Settle Multiple Personal Loans: Case Study | SettleLoans',
   description: 'Real case study: How a distressed borrower settled ₹25 Lakhs across 3 personal loans and 4 credit cards for ₹10.5 Lakhs (58% waiver). Learn multi-bank prioritization, legal shields, and OTS negotiations.',
   keywords: [
     'how to settle multiple personal loans',

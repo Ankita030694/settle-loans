@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-    title: "Can I Go to Jail for Loan Default in India? | My Legal Rights 2024-25",
+    title: "Can I Go to Jail for Loan Default in India? | SettleLoans",
     description: "Are you worried about jail for loan default in India? Learn the strict RBI guidelines, the difference between civil and criminal default, and how to legally handle debt recovery without fear.",
     alternates: {
         canonical: "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india",

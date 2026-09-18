@@ -25,7 +25,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-  title: "Loan App Settlement | Settlement for KreditBee, MoneyView, Navi & More",
+  title: "Loan App Settlement Services in India | SettleLoans",
   description: "Trapped by instant loan apps? We settle loans for legal apps (KreditBee, MoneyView, CASHe) and help you handle harassment from illegal Chinese loan apps. Expert legal protection.",
   alternates: {
     canonical: "https://www.settleloans.in/app-loan-settlement",

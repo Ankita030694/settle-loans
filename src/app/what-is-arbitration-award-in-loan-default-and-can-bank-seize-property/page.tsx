@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "What is an Arbitration Award in a Loan Default and Can the Bank Seize My Property?",
+  title: "Arbitration Award in Loan Default & Property Rights",
   description: "Received an ex-parte arbitration award for loan default? Learn how banks try to execute an arbitration award against your property and how to challenge it under Section 34.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property",

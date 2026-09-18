@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-    title: "Business & Corporate Loan Matters India | IBC, NCLT & Debt Resolution",
+    title: "Business & Corporate Loan Matters in India | SettleLoans",
     description: "Expert legal guidance on business corporate loan matters in India. Navigate IBC, NCLT proceedings, CIRP, and personal guarantor liability with our comprehensive technical guide.",
     alternates: {
         canonical: "https://www.settleloans.in/business-corporate-loan-matters",

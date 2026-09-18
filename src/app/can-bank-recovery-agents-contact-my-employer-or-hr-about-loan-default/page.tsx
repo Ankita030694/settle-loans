@@ -3,10 +3,10 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Can Bank Recovery Agents Contact My Employer or HR About My Personal Loan Default?",
+  title: "Can Recovery Agents Contact Your Employer? | SettleLoans",
   description: "Learn the strict RBI rules that prohibit recovery agents from contacting your workplace, HR, or manager regarding your personal loan default. Discover how to stop harassment.",
   alternates: {
-    canonical: "https://www.settleloan.in/can-bank-recovery-agents-contact-my-employer-or-hr-about-loan-default",
+    canonical: "https://www.settleloans.in/can-bank-recovery-agents-contact-my-employer-or-hr-about-loan-default",
   },
 };
 
@@ -40,24 +40,24 @@ export default function WorkplaceHarassmentPage() {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "Can Bank Recovery Agents Contact My Employer or HR About My Personal Loan Default?",
-      "url": "https://www.settleloan.in/can-bank-recovery-agents-contact-my-employer-or-hr-about-loan-default",
+      "url": "https://www.settleloans.in/can-bank-recovery-agents-contact-my-employer-or-hr-about-loan-default",
       "description": "A comprehensive guide on RBI guidelines and legal steps to stop recovery agents from contacting your employer, HR, or colleagues about your personal loan default."
     },
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloan.in/" },
-        { "@type": "ListItem", "position": 2, "name": "Legal Rights", "item": "https://www.settleloan.in/legal-rights" },
-        { "@type": "ListItem", "position": 3, "name": "Can Bank Recovery Agents Contact My Employer?", "item": "https://www.settleloan.in/can-bank-recovery-agents-contact-my-employer-or-hr-about-loan-default" }
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+        { "@type": "ListItem", "position": 2, "name": "Legal Rights", "item": "https://www.settleloans.in" },
+        { "@type": "ListItem", "position": 3, "name": "Can Bank Recovery Agents Contact My Employer?", "item": "https://www.settleloans.in/can-bank-recovery-agents-contact-my-employer-or-hr-about-loan-default" }
       ]
     },
     {
       "@context": "https://schema.org",
       "@type": "Article",
       "headline": "Can Bank Recovery Agents Contact My Employer or HR About My Personal Loan Default?",
-      "author": { "@type": "Organization", "name": "SettleLoan" },
-      "publisher": { "@type": "Organization", "name": "SettleLoan" },
+      "author": { "@type": "Organization", "name": "SettleLoans" },
+      "publisher": { "@type": "Organization", "name": "SettleLoans" },
       "datePublished": "2024-05-15T08:00:00+08:00",
       "dateModified": "2024-05-15T08:00:00+08:00"
     },

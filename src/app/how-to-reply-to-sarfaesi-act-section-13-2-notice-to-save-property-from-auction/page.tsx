@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "SARFAESI Act Section 13(2) Demand Notice: How to Reply and Save Your House from Auction",
+  title: "Reply to SARFAESI Section 13(2) Notice | SettleLoans",
   description: "Received a 60 days notice period home loan default under SARFAESI Act 13(2)? Learn the correct notice reply format, how to stop property auction under SARFAESI, and get a DRT stay order.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction",

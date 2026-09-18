@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Microfinance Loan Settlement Process: RBI Master Directions, JLG Relief & Debt Haircut (2026)',
+  title: 'Microfinance Loan Settlement Process & RBI Rules',
   description: 'Comprehensive guide to microfinance loan settlement rules under RBI Master Directions (2022). Learn how to halt Joint Liability Group (JLG) coercion, stop social harassment from MFI recovery agents, and negotiate a 40% to 65% OTS debt haircut with Bandhan, Fusion, Spandana, and CreditAccess Grameen.',
   keywords: [
     'microfinance loan settlement rules',
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/microfinance-loan-settlement-process',
   },
   openGraph: {
-    title: 'Microfinance Loan Settlement Process: RBI Master Directions, JLG Relief & Debt Haircut (2026)',
+    title: 'Microfinance Loan Settlement Process & RBI Rules',
     description: 'Strategic and legal manual for resolving defaulted Joint Liability Group (JLG) and NBFC-MFI microfinance loans under Reserve Bank of India regulatory frameworks with maximum debt waivers and anti-harassment protections.',
     url: 'https://www.settleloans.in/microfinance-loan-settlement-process',
     siteName: 'SettleLoans',

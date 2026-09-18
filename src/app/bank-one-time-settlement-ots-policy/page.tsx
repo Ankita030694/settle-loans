@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import BankOneTimeSettlementOtsPolicyClient from './BankOneTimeSettlementOtsPolicyClient';
 
 export const metadata: Metadata = {
-  title: 'Bank One-Time Settlement (OTS) Policy: How to Negotiate & RBI Haircut Calculation Guide (2026)',
+  title: 'Bank One-Time Settlement (OTS) Policy & Haircut Guide',
   description: 'Understand internal bank One-Time Settlement (OTS) policies, RBI haircut guidelines, and NPA settlement formulas. Learn step-by-step how to negotiate a compromise settlement.',
   keywords: [
     'how to negotiate a one-time settlement',
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bank-one-time-settlement-ots-policy',
   },
   openGraph: {
-    title: 'Bank One-Time Settlement (OTS) Policy: How to Negotiate & RBI Haircut Calculation Guide',
+    title: 'Bank One-Time Settlement (OTS) Policy & Haircut Guide',
     description: 'Learn internal bank NPA settlement mechanics, RBI haircut limits, NPV recovery formulas, and proven negotiation strategies to settle personal, business, and credit card debts.',
     url: 'https://www.settleloans.in/bank-one-time-settlement-ots-policy',
     siteName: 'SettleLoans',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bank One-Time Settlement (OTS) Policy: How to Negotiate & RBI Rules (2026)',
+    title: 'Bank One-Time Settlement (OTS) Policy & Haircut Guide',
     description: 'A comprehensive technical breakdown of how Indian banks calculate OTS amounts for NPAs, RBI compromise settlement rules, and how to negotiate maximum debt haircuts.',
     images: ['https://www.settleloans.in/images/infographics/bank-one-time-settlement-ots-policy.jpg'],
   },

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'How to Reply to a SARFAESI 13(2) Notice | Stall Bank Auction',
   description: 'Received a 60-day SARFAESI demand notice? Ignoring it will cost you your home. Learn how to reply, raise objections, and stall bank actions with a DRT lawyer.',
   alternates: {
-    canonical: 'https://www.yourdomain.com/how-to-reply-sarfaesi-notice',
+    canonical: 'https://www.settleloans.in/how-to-reply-sarfaesi-notice',
   },
 };
 
@@ -28,8 +28,8 @@ export default function SarfaesiReplyPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.yourdomain.com/how-to-reply-sarfaesi-notice/#webpage",
-        "url": "https://www.yourdomain.com/how-to-reply-sarfaesi-notice",
+        "@id": "https://www.settleloans.in/how-to-reply-sarfaesi-notice/#webpage",
+        "url": "https://www.settleloans.in/how-to-reply-sarfaesi-notice",
         "name": "How to Reply to a SARFAESI Notice",
         "description": "Expert guide on how to reply to a SARFAESI 13(2) demand notice, raise objections under 13(3A), and stall bank auctions.",
         "inLanguage": "en-IN"
@@ -41,25 +41,25 @@ export default function SarfaesiReplyPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.yourdomain.com/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Legal Guides",
-            "item": "https://www.yourdomain.com/legal-guides/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "How to Reply to SARFAESI Notice",
-            "item": "https://www.yourdomain.com/how-to-reply-sarfaesi-notice"
+            "item": "https://www.settleloans.in/how-to-reply-sarfaesi-notice"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://www.yourdomain.com/how-to-reply-sarfaesi-notice/#article",
+        "@id": "https://www.settleloans.in/how-to-reply-sarfaesi-notice/#article",
         "headline": "How to Reply to a SARFAESI 13(2) Notice and Stall Bank Actions",
         "description": "Expert legal strategies to reply to SARFAESI notices, raise valid objections, and halt illegal bank auctions.",
         "author": {
@@ -71,12 +71,12 @@ export default function SarfaesiReplyPage() {
           "name": "SettleLoan",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.yourdomain.com/logo.png"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://www.yourdomain.com/how-to-reply-sarfaesi-notice/#webpage"
+          "@id": "https://www.settleloans.in/how-to-reply-sarfaesi-notice/#webpage"
         }
       },
       {

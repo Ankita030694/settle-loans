@@ -29,7 +29,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'RBL Bank Credit Card Settlement: High-Risk Debt, Co-Branded Cards & OTS Guide (2026)',
+  title: 'RBL Bank Credit Card Settlement Guide | SettleLoans',
   description:
     'Exhaustive guide to RBL Bank credit card settlement. Understand Bajaj SuperCard, Zomato & BookMyShow card debt traps, 48% APR compounding, NPA provisioning, and how to negotiate up to 65% OTS waivers under RBI rules.',
   keywords: [

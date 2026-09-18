@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Best Lawyer for Loan Settlement During DRT | Expert OTS Negotiation",
+    title: "Lawyer for Loan Settlement During DRT | SettleLoans",
     description: "Facing Debt Recovery Tribunal proceedings? Settle your bank loan during DRT. Specialized legal defense, OTS negotiation, and SARFAESI stay strategies for borrowers.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt",

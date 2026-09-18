@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Best Lawyers for Bounced Security Check | Loan & Credit Card Disputes 2025",
+    title: "Lawyers for Bounced Security Checks | SettleLoans",
     description: "Expert legal representation for Section 138 cheque bounce cases in India. Defence for security checks, loan disputes, and credit card irregularities. 2025 NI Act updates.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes",

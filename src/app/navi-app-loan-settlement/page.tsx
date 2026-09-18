@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import NaviAppLoanSettlementClient from './NaviAppLoanSettlementClient';
 
 export const metadata: Metadata = {
-  title: 'Navi App Personal Loan Settlement: OTS Rules, Bounce Fees & Legal Defense (2026)',
+  title: 'Navi App Personal Loan Settlement Guide | SettleLoans',
   description: 'Exhaustive legal guide to Navi app personal loan settlement. Learn how Navi Finserv NBFC lending works, stop automated calling & NACH bounce fees, handle Section 25 PSSA notices, and negotiate up to 65% OTS haircut under RBI guidelines.',
   keywords: [
     'navi app personal loan settlement',

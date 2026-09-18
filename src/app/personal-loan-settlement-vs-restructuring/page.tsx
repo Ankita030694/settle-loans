@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementVsRestructuringClient from './PersonalLoanSettlementVsRestructuringClient';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement vs Restructuring: CIBIL Score Impact & Decision Guide (2026)',
+  title: 'Personal Loan Settlement vs Restructuring | SettleLoans',
   description: 'Confused between personal loan settlement vs restructuring? Compare EMI reduction vs one-time settlement haircut, CIBIL score drop (-50 vs -120 pts), RBI guidelines, total repayment cost & recovery roadmap.',
   keywords: [
     'personal loan settlement vs restructuring',

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Best Loan Settlement Services in Bengaluru | Legal Debt Relief Specialists - SettleLoans",
+  title: "Loan Settlement Services in Bengaluru | SettleLoans",
   description: "Struggling with debt in Bengaluru or Karnataka? Get professional legal help for loan settlement. Expert negotiation at MG Road banks & Mayo Hall courts. Zero harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/bengaluru",

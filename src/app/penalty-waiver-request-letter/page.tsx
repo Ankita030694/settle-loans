@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Penalty Waiver Request Letter Format | Reverse Late Fees",
   description: "Suffered a genuine medical or financial crisis that caused you to miss a payment? Copy our proven Penalty Waiver Request Letter to get the bank to reverse thousands in late fees.",
   alternates: {
-    canonical: "https://www.settleloan.in/penalty-waiver-request-letter",
+    canonical: "https://www.settleloans.in/penalty-waiver-request-letter",
   },
 };
 
@@ -17,7 +17,7 @@ export default function PenaltyWaiverPage() {
       "@type": "WebPage",
       "name": "Penalty Waiver Request Letter Format",
       "description": "Download our proven request letter for waiver of penal interest and application to waive bounce charges.",
-      "url": "https://www.settleloan.in/penalty-waiver-request-letter"
+      "url": "https://www.settleloans.in/penalty-waiver-request-letter"
     },
     {
       "@context": "https://schema.org",
@@ -27,13 +27,13 @@ export default function PenaltyWaiverPage() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://www.settleloan.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Penalty Waiver Request Letter",
-          "item": "https://www.settleloan.in/penalty-waiver-request-letter"
+          "item": "https://www.settleloans.in/penalty-waiver-request-letter"
         }
       ]
     },
@@ -43,14 +43,14 @@ export default function PenaltyWaiverPage() {
       "headline": "Penalty Waiver Request Letter Format",
       "author": {
         "@type": "Organization",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "SettleLoan",
+        "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://www.settleloan.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "datePublished": "2024-01-01",

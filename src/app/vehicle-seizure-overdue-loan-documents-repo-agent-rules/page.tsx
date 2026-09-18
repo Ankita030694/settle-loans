@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Vehicle Seizure Rules: Overdue Loans & Repo Agents",
   description: "Did goons seize your car from the middle of the road? This is completely illegal. Know the strict RBI rules that repo agents must follow and how to stop car repossession.",
   alternates: {
-    canonical: "https://www.settleloan.in/vehicle-seizure-overdue-loan-documents-repo-agent-rules",
+    canonical: "https://www.settleloans.in/vehicle-seizure-overdue-loan-documents-repo-agent-rules",
   },
 };
 
@@ -30,22 +30,22 @@ export default function Page() {
       "@type": "WebPage",
       "name": "Vehicle Seizure Rules: Overdue Loans & Repo Agents",
       "description": "Know the strict RBI rules that repo agents must follow regarding car repossession.",
-      "url": "https://www.settleloan.in/vehicle-seizure-overdue-loan-documents-repo-agent-rules"
+      "url": "https://www.settleloans.in/vehicle-seizure-overdue-loan-documents-repo-agent-rules"
     },
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloan.in/" },
-        { "@type": "ListItem", "position": 2, "name": "Vehicle Seizure Rules", "item": "https://www.settleloan.in/vehicle-seizure-overdue-loan-documents-repo-agent-rules" }
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+        { "@type": "ListItem", "position": 2, "name": "Vehicle Seizure Rules", "item": "https://www.settleloans.in/vehicle-seizure-overdue-loan-documents-repo-agent-rules" }
       ]
     },
     {
       "@context": "https://schema.org",
       "@type": "Article",
       "headline": "Stop Illegal Vehicle Seizure by Repo Agents",
-      "author": { "@type": "Organization", "name": "SettleLoan" },
-      "publisher": { "@type": "Organization", "name": "SettleLoan", "logo": { "@type": "ImageObject", "url": "https://www.settleloan.in/logo.png" } },
+      "author": { "@type": "Organization", "name": "SettleLoans" },
+      "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" } },
       "datePublished": "2024-05-15T08:00:00+08:00",
       "dateModified": "2024-05-15T08:00:00+08:00"
     },

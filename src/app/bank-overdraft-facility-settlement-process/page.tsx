@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to Settle Bank Overdraft Loan: Unsecured & Dropline OD OTS Guide (2026)',
+  title: 'How to Settle Bank Overdraft Loan | SettleLoans',
   description: 'Learn how to settle bank overdraft loans, unsecured OD limits, and dropline credit facilities in India. Discover how to freeze compounding interest, convert irregular OD accounts into a formal One-Time Settlement (OTS), negotiate 45%–65% principal haircuts, and obtain a zero-balance No Dues Certificate.',
   keywords: [
     'how to settle bank overdraft loan',

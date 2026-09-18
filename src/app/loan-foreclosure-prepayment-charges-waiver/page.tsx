@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Loan Foreclosure and Prepayment Charges Waiver Guide",
   description: "Don't pay the 4% foreclosure penalty! Discover the negotiation tactics you can use to get the branch manager to waive your pre-closure charges.",
   alternates: {
-    canonical: "https://example.com/loan-foreclosure-prepayment-charges-waiver",
+    canonical: "https://www.settleloans.in/loan-foreclosure-prepayment-charges-waiver",
   },
 };
 
@@ -28,25 +28,25 @@ export default function LoanForeclosureWaiverPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://example.com/loan-foreclosure-prepayment-charges-waiver/#webpage",
-        "url": "https://example.com/loan-foreclosure-prepayment-charges-waiver",
+        "@id": "https://www.settleloans.in/loan-foreclosure-prepayment-charges-waiver/#webpage",
+        "url": "https://www.settleloans.in/loan-foreclosure-prepayment-charges-waiver",
         "name": "Loan Foreclosure and Prepayment Charges Waiver",
         "description": "Don't pay the 4% foreclosure penalty! Discover the negotiation tactics you can use to get the branch manager to waive your pre-closure charges."
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://example.com/" },
-          { "@type": "ListItem", "position": 2, "name": "Loan Guides", "item": "https://example.com/guides" },
-          { "@type": "ListItem", "position": 3, "name": "Loan Foreclosure Waiver", "item": "https://example.com/loan-foreclosure-prepayment-charges-waiver" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 2, "name": "Loan Guides", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 3, "name": "Loan Foreclosure Waiver", "item": "https://www.settleloans.in/loan-foreclosure-prepayment-charges-waiver" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://example.com/loan-foreclosure-prepayment-charges-waiver/#article",
+        "@id": "https://www.settleloans.in/loan-foreclosure-prepayment-charges-waiver/#article",
         "headline": "Loan Foreclosure and Prepayment Charges Waiver: Negotiation Guide",
         "description": "Learn how to waive foreclosure charges and negotiate your loan pre-closure penalty using RBI guidelines and proven tactics.",
-        "author": { "@type": "Organization", "name": "SettleLoan" }
+        "author": { "@type": "Organization", "name": "SettleLoans" }
       },
       {
         "@type": "FAQPage",

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "OTS Full Form in Banking: Everything You Need to Know (2024-25) | SettleLoans",
+  title: "OTS Full Form in Banking: Guide | SettleLoans",
   description: "What is the OTS full form in banking? Learn about One Time Settlement process, RBI rules, eligibility, and how to get maximum waivers on your loan in India.",
   alternates: {
     canonical: "https://www.settleloans.in/faqs/ots-full-form",

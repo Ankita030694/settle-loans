@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
-  title: "Which Professional Services Assist in Negotiating Loan Settlement Terms?",
+  title: "Services That Assist in Loan Settlement | SettleLoans",
   description: "Discover the top professional services in India for loan settlement negotiation. Compare Amalegal, CredSettle, and SettleLoans to find the right ally for your debt recovery.",
   alternates: {
     canonical: "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms",

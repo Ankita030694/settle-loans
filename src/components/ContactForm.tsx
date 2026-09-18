@@ -11,12 +11,14 @@ interface ContactFormProps {
     variant?: 'section' | 'simple';
     onCancel?: () => void;
     showCloseButton?: boolean;
+    titleAs?: 'h1' | 'div';
 }
 
 export default function ContactForm({
     variant = 'section',
     onCancel,
-    showCloseButton = false
+    showCloseButton = false,
+    titleAs = 'div',
 }: ContactFormProps) {
     const router = useRouter();
     const [formData, setFormData] = useState({
@@ -167,12 +169,21 @@ export default function ContactForm({
             )}
 
             <div className={`${variant === 'section' ? 'mb-8' : 'mb-6 pr-8'}`}>
-                <div className={`${variant === 'section' ? 'text-[32px] md:text-[48px]' : 'text-2xl'} font-bold leading-[1.1] text-[#2E2E2E]`} style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
-                    Breathe Easy.
-                </div>
-                <div className={`${variant === 'section' ? 'text-[32px] md:text-[48px]' : 'text-2xl'} font-bold leading-[1.1] text-[#6D6D6D]`} style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
-                    Let’s Move Forward.
-                </div>
+                {titleAs === 'h1' ? (
+                    <h1 className={`${variant === 'section' ? 'text-[32px] md:text-[48px]' : 'text-2xl'} font-bold leading-[1.1] text-[#2E2E2E]`} style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+                        Breathe Easy. <br />
+                        <span className="text-[#6D6D6D]">Let’s Move Forward.</span>
+                    </h1>
+                ) : (
+                    <>
+                        <div className={`${variant === 'section' ? 'text-[32px] md:text-[48px]' : 'text-2xl'} font-bold leading-[1.1] text-[#2E2E2E]`} style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+                            Breathe Easy.
+                        </div>
+                        <div className={`${variant === 'section' ? 'text-[32px] md:text-[48px]' : 'text-2xl'} font-bold leading-[1.1] text-[#6D6D6D]`} style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+                            Let’s Move Forward.
+                        </div>
+                    </>
+                )}
             </div>
 
             <form onSubmit={handleSubmit} className={`${variant === 'section' ? 'space-y-6' : 'space-y-5'}`}>

@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGavel, faScaleBalanced, faShieldHalved, faHandshake, faBuildingShield, faCircleExclamation, faLandmark, faUsersBetweenLines, faUserTie, faStar, faFileLines } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Best Lawyer for Consortium Loan Recovery Defence | Multi-Bank Debt Resolution",
+    title: "Lawyer for Consortium Loan Recovery Defence | SettleLoans",
     description: "Facing recovery from multiple banks? Consult the best lawyer for consortium loan recovery defence in India. Expert help for ICA, SARFAESI, and DRT cases.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence",

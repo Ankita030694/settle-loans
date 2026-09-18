@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Home Loan SARFAESI Auction: Reserve Price Process",
   description: "Is the bank trying to auction your house for pennies? Learn how to legally challenge a low 'Reserve Price' and protect your property's true value.",
   alternates: {
-    canonical: "https://www.settleloan.in/home-loan-sarfaesi-auction-reserve-price-process",
+    canonical: "https://www.settleloans.in/home-loan-sarfaesi-auction-reserve-price-process",
   },
 };
 
@@ -29,8 +29,8 @@ export default function Page() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/home-loan-sarfaesi-auction-reserve-price-process/#webpage",
-        "url": "https://www.settleloan.in/home-loan-sarfaesi-auction-reserve-price-process",
+        "@id": "https://www.settleloans.in/home-loan-sarfaesi-auction-reserve-price-process/#webpage",
+        "url": "https://www.settleloans.in/home-loan-sarfaesi-auction-reserve-price-process",
         "name": "Home Loan SARFAESI Auction: Reserve Price Process",
         "description": "Is the bank trying to auction your house for pennies? Learn how to legally challenge a low 'Reserve Price' and protect your property's true value.",
         "inLanguage": "en-IN"
@@ -42,43 +42,43 @@ export default function Page() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.settleloan.in/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "SARFAESI Guide",
-            "item": "https://www.settleloan.in/sarfaesi-act-guide"
+            "item": "https://www.settleloans.in/sarfaesi-act-guide"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Auction Reserve Price Process",
-            "item": "https://www.settleloan.in/home-loan-sarfaesi-auction-reserve-price-process"
+            "item": "https://www.settleloans.in/home-loan-sarfaesi-auction-reserve-price-process"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://www.settleloan.in/home-loan-sarfaesi-auction-reserve-price-process/#article",
+        "@id": "https://www.settleloans.in/home-loan-sarfaesi-auction-reserve-price-process/#article",
         "headline": "Home Loan SARFAESI Auction: Reserve Price Process",
         "description": "How to legally challenge a low 'Reserve Price' and protect your property's true value during a SARFAESI auction.",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan",
-          "url": "https://www.settleloan.in/"
+          "name": "SettleLoans",
+          "url": "https://www.settleloans.in/"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan",
+          "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.settleloan.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://www.settleloan.in/home-loan-sarfaesi-auction-reserve-price-process/#webpage"
+          "@id": "https://www.settleloans.in/home-loan-sarfaesi-auction-reserve-price-process/#webpage"
         }
       },
       {

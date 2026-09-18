@@ -18,8 +18,8 @@ const satoshi = localFont({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.settleloans.in"),
-  title: "Loan Settlement Services - Debt Relief & Legal Assistance in India",
-  description: "Professional loan settlement services to help you manage debt, handle recovery agents, and find a structured legal path to financial freedom. Expert help for personal, business, and credit card loans.",
+  title: "Loan Settlement & Debt Relief Services | SettleLoans",
+  description: "Resolve personal loans, credit card dues, and recovery harassment with legal debt settlement and RBI-compliant advisory across India.",
   keywords: ["loan settlement", "debt settlement India", "debt relief services", "legal help for loan defaults", "bank loan settlement", "NPA settlement experts", "credit score improvement"],
   authors: [{ name: "SettleLoans" }],
   creator: "SettleLoans",
@@ -29,12 +29,9 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  alternates: {
-    canonical: "https://www.settleloans.in", // Adjust to your actual domain
-  },
   openGraph: {
-    title: "Loan Settlement Services - Debt Relief & Legal Assistance",
-    description: "Expert assistance for loan settlement and debt management. We help you deal with recovery agents and find a lawful way out of debt.",
+    title: "Loan Settlement & Debt Relief Services | SettleLoans",
+    description: "Resolve personal loans, credit card dues, and recovery harassment with legal debt settlement and RBI-compliant advisory across India.",
     url: "https://www.settleloans.in",
     siteName: "SettleLoans",
     images: [
@@ -50,8 +47,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Loan Settlement Services - Debt Relief & Legal Assistance",
-    description: "Expert assistance for loan settlement and debt management. We help you deal with recovery agents and find a lawful way out of debt.",
+    title: "Loan Settlement & Debt Relief Services | SettleLoans",
+    description: "Resolve personal loans, credit card dues, and recovery harassment with legal debt settlement and RBI-compliant advisory across India.",
     images: ["https://www.settleloans.in/twitter-image.jpg"], // Ensure this image exists
   },
   robots: {
@@ -119,6 +116,8 @@ export default function RootLayout({
             width="1"
             style={{ display: 'none' }}
             src="https://www.facebook.com/tr?id=1508348043563735&ev=PageView&noscript=1"
+            alt=""
+            aria-hidden="true"
           />
         </noscript>
       </head>

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Free Loan Settlement Consultation | Expert Debt Relief Advice",
   description: "Book a free consultation for loan settlement to understand your rights and options. Speak to our legal and financial experts to stop harassment and plan your debt freedom journey.",
   alternates: {
-    canonical: "https://www.settleloans.in/free-consultation-loan-settlement",
+    canonical: "https://www.settleloans.in/faqs/free-consultation-loan-settlement",
   },
 };
 

@@ -7,7 +7,7 @@ export const metadata = {
   title: 'How to Declare Personal Bankruptcy for Unsecured Loans in India',
   description: 'Learn the individual bankruptcy process under IBC in India. Understand how to file for personal insolvency, Fresh Start process, and legal protection from creditors.',
   alternates: {
-    canonical: 'https://www.settleloan.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india',
+    canonical: 'https://www.settleloans.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india',
   }
 };
 
@@ -17,8 +17,8 @@ export default function PersonalBankruptcyIndia() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloan.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india/#webpage",
-        "url": "https://www.settleloan.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india",
+        "@id": "https://www.settleloans.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india/#webpage",
+        "url": "https://www.settleloans.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india",
         "name": "How to Declare Personal Bankruptcy for Unsecured Loans in India",
         "description": "Learn the individual bankruptcy process under IBC in India. Understand how to file for personal insolvency, Fresh Start process, and legal protection from creditors.",
         "inLanguage": "en-IN"
@@ -26,17 +26,17 @@ export default function PersonalBankruptcyIndia() {
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloan.in/" },
-          { "@type": "ListItem", "position": 2, "name": "How to Declare Personal Bankruptcy for Unsecured Loans in India", "item": "https://www.settleloan.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in/" },
+          { "@type": "ListItem", "position": 2, "name": "How to Declare Personal Bankruptcy for Unsecured Loans in India", "item": "https://www.settleloans.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india" }
         ]
       },
       {
         "@type": "Article",
         "headline": "How to Declare Personal Bankruptcy for Unsecured Loans in India",
         "description": "A comprehensive guide to filing for individual insolvency under IBC in India for unsecured loans.",
-        "author": { "@type": "Organization", "name": "SettleLoan" },
-        "publisher": { "@type": "Organization", "name": "SettleLoan", "logo": { "@type": "ImageObject", "url": "https://www.settleloan.in/logo.png" } },
-        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloan.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india" }
+        "author": { "@type": "Organization", "name": "SettleLoans" },
+        "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" } },
+        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india" }
       },
       {
         "@type": "FAQPage",

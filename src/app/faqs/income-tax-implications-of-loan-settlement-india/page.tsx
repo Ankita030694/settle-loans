@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCoins, faFileInvoiceDollar, faBuildingColumns, faGavel, faScaleBalanced, faCalculator, faSection, faHandHoldingDollar, faStar, faChartLine, faCheck } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Income Tax Implications of Loan Settlement in India | 2024 Expert Guide",
+    title: "Tax Implications of Loan Settlement | SettleLoans",
     description: "Understand the taxability of settled debt in India. Master Section 28(iv), 41(1), and 194R. Expert guide on how loan waivers impact your tax liability.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india",

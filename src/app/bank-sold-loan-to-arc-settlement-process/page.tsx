@@ -29,7 +29,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Bank Sold Loan to ARC Settlement Process: Settle Debt Assigned to ARCs (2026)',
+  title: 'Bank Sold Loan to ARC Settlement Process | SettleLoans',
   description: 'Has your bank sold your defaulted loan to an Asset Reconstruction Company (ARC)? Learn the debt assignment framework under Section 5 of SARFAESI, why ARCs purchase NPAs at 15%–25% discounts, and how to negotiate a 70%–80% haircut settlement with Phoenix, ARCIL, Edelweiss, or CFM ARC.',
   keywords: [
     'bank sold loan to arc settlement process',
