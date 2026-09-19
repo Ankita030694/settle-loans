@@ -123,7 +123,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "Can a bank directly seize my house or land for an unpaid personal loan?",
       answer: (
         <p>
-          <strong>No. Personal loans are 100% unsecured debts where no property, house, or land is pledged as collateral or mortgaged.</strong> The SARFAESI Act, 2002 does NOT apply to unsecured personal credit. A lending bank or NBFC has zero legal authority to enter your property, seal your premises, change door locks, or conduct an auction without first obtaining a formal money recovery decree from a civil court through a multi-year judicial trial.
+          <strong>No. Personal loans are 100% unsecured debts where no property, house, or land is pledged as collateral or mortgaged.</strong> The SARFAESI Act, 2002 does NOT apply to unsecured personal credit. A lending bank or NBFC has zero legal authority to enter your property or seal your premises. They cannot change door locks or conduct an auction without a court order. They must first obtain a formal money recovery decree from a civil court through a multi-year judicial trial.
         </p>
       )
     },
@@ -131,7 +131,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "Why does the SARFAESI Act, 2002 not apply to personal loans?",
       answer: (
         <p>
-          The SARFAESI Act empowers commercial lenders to enforce security interests and take physical possession of assets without court intervention <strong>only when an underlying security interest has been legally created</strong> (such as an equitable mortgage or registered hypothecation charge under Section 2(1)(zf)). Because personal loan agreements do not create any charge or mortgage over any specific asset, SARFAESI provisions are completely inapplicable under Indian law.
+          The SARFAESI Act empowers commercial lenders to enforce security interests and take physical possession of assets without court intervention. However, this applies <strong>only when an underlying security interest has been legally created</strong> (such as an equitable mortgage or registered hypothecation charge under Section 2(1)(zf)). Personal loan agreements do not create any charge or mortgage over any specific asset. Therefore, SARFAESI provisions are completely inapplicable under Indian law.
         </p>
       )
     },
@@ -139,7 +139,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "Can recovery agents tow away my car or confiscate household items?",
       answer: (
         <p>
-          <strong>No, absolutely not. Third-party collection agents have zero judicial power to seize your vehicle, furniture, electronics, or personal belongings.</strong> Any recovery agent who attempts to forcefully enter your residence or tow away a vehicle for an unsecured loan default commits serious criminal offences under Indian law, including Criminal Trespass (Section 441 IPC / Section 329 BNS), Theft (Section 378 IPC / Section 303 BNS), and Extortion (Section 384 IPC / Section 308 BNS).
+          <strong>No, absolutely not. Third-party collection agents have zero judicial power to seize your vehicle, furniture, electronics, or personal belongings.</strong> Recovery agents cannot forcefully enter your residence or tow away a vehicle for an unsecured loan default. Doing so constitutes serious criminal offences under Indian law. These offences include Criminal Trespass (Section 441 IPC / Section 329 BNS), Theft (Section 378 IPC / Section 303 BNS), and Extortion (Section 384 IPC / Section 308 BNS).
         </p>
       )
     },
@@ -147,7 +147,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "What is Attachment Before Judgment under Order 38 Rule 5 of CPC?",
       answer: (
         <p>
-          Under Order 38 Rule 5 of the Code of Civil Procedure, 1908, a creditor can apply for conditional property attachment during an ongoing civil suit only if they prove to the court with concrete documentary evidence that the defendant is actively attempting to dispose of or fraudulently remove assets outside court jurisdiction to defeat the decree. Indian civil courts apply strict scrutiny and rarely grant Order 38 attachment for routine personal loan defaults.
+          Under Order 38 Rule 5 of the Code of Civil Procedure, 1908, a creditor can apply for conditional property attachment during a civil suit. However, they must prove their claim with concrete documentary evidence. They must establish that the defendant is actively attempting to dispose of or fraudulently remove assets outside court jurisdiction to defeat the decree. Indian civil courts apply strict scrutiny and rarely grant Order 38 attachment for routine personal loan defaults.
         </p>
       )
     },
@@ -155,7 +155,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "Which assets are completely protected from attachment under Section 60 of CPC?",
       answer: (
         <p>
-          Section 60 of the Code of Civil Procedure, 1908 grants absolute statutory exemption from court attachment for essential assets, including: 1) Necessary wearing apparel, cooking vessels, and bedding; 2) Tools of artisans and agricultural implements; 3) Sole residential house of an agriculturist or laborer; 4) Mandatory portions of salary (the first ₹1,000 plus two-thirds of the remainder are completely exempt); 5) Statutory Employee Provident Fund (EPF), Gratuity, and life insurance policy proceeds.
+          Section 60 of the Code of Civil Procedure, 1908 grants absolute statutory exemption from court attachment for essential assets, including: 1) Necessary wearing apparel, cooking vessels, and bedding. 2) Tools of artisans and agricultural implements. 3) Sole residential house of an agriculturist or laborer. 4) Mandatory portions of salary (the first ₹1,000 plus two-thirds of the remainder are completely exempt). 5) Statutory Employee Provident Fund (EPF), Gratuity, and life insurance policy proceeds.
         </p>
       )
     },
@@ -171,7 +171,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "What legitimate legal steps can a bank take to recover personal loan dues?",
       answer: (
         <p>
-          For personal loans, banks can: 1) Report the default to credit information companies (CIBIL, Experian, Equifax), lowering your credit score; 2) Issue formal statutory demand notices; 3) File a Civil Summary Suit under Order 37 of the Code of Civil Procedure, 1908; 4) Initiate Section 138 NI Act or Section 25 PSSA proceedings if cheques or NACH auto-debits bounced; 5) Refer the dispute to National Lok Adalat for an amicable compromise settlement.
+          For personal loans, banks can: 1) Report the default to credit information companies (CIBIL, Experian, Equifax), lowering your credit score. 2) Issue formal statutory demand notices. 3) File a Civil Summary Suit under Order 37 of the Code of Civil Procedure, 1908. 4) Initiate Section 138 NI Act or Section 25 PSSA proceedings if cheques or NACH auto-debits bounced. 5) Refer the dispute to National Lok Adalat for an amicable compromise settlement.
         </p>
       )
     },
@@ -179,7 +179,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "Why do banks prefer a One-Time Settlement (OTS) over filing property attachment suits?",
       answer: (
         <p>
-          Filing a civil recovery suit in Indian civil courts requires banks to pay upfront ad-valorem court fees (5% to 8% of the claimed sum), incur heavy advocate retainer fees, and endure 3 to 7 years of contested litigation with uncertain recovery. Through Net Present Value (NPV) recovery calculations, banks achieve vastly superior financial recovery by granting a 40% to 70% OTS waiver to recover immediate liquid cash rather than pursuing long civil execution suits.
+          Filing a civil recovery suit in Indian civil courts is burdensome for banks. They must pay upfront ad-valorem court fees (5% to 8% of the claim). They also incur heavy advocate retainers and must endure 3 to 7 years of contested litigation with uncertain recovery outcomes. Through Net Present Value (NPV) recovery calculations, banks achieve vastly superior financial recovery by granting a 40% to 70% OTS waiver to recover immediate liquid cash rather than pursuing long civil execution suits.
         </p>
       )
     },
@@ -187,7 +187,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
       question: "What should I do if a recovery agent sends a fake property attachment notice on WhatsApp?",
       answer: (
         <p>
-          Never make a panic payment. Indian civil courts never serve attachment orders or auction notices over informal WhatsApp chats. Preserve screenshots, document the agent&apos;s phone number and call recordings, and engage SettleLoans advocates to issue a formal Cease &amp; Desist legal notice to the bank&apos;s Principal Nodal Officer and lodge a complaint on the RBI CMS Portal.
+          Never make a panic payment. Indian civil courts never serve attachment orders or auction notices over informal WhatsApp chats. Preserve all evidence, including screenshots, agent phone numbers, and call recordings. Next, engage SettleLoans advocates to issue a formal Cease &amp; Desist legal notice to the bank&apos;s Principal Nodal Officer. We also lodge a formal complaint on the RBI CMS Portal to protect your rights.
         </p>
       )
     }
@@ -397,7 +397,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 1. Can a Bank Attach Property for an Unsecured Personal Loan?
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
-                When unexpected financial turmoil strikes—whether due to sudden job termination, severe medical emergencies, or enterprise insolvency—defaulting on a personal loan is one of the most stressful life events a borrower can endure. In this vulnerable state, third-party recovery agents frequently exploit borrowers&apos; lack of legal knowledge by making terrifying claims: that the bank will arrive with local police to seal the borrower&apos;s residential apartment, auction ancestral land, or tow away their family vehicle.
+                When unexpected financial turmoil strikes—whether due to sudden job termination, severe medical emergencies, or enterprise insolvency—defaulting on a personal loan is one of the most stressful life events a borrower can endure. In this vulnerable state, third-party recovery agents frequently exploit borrowers&apos; lack of legal knowledge. They make terrifying claims that the bank will arrive with police. They often threaten to seal the borrower&apos;s residential apartment, auction ancestral land, or tow away their family vehicle.
               </p>
 
               {/* Highlighted Statutory Callout Box */}
@@ -476,10 +476,10 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 The Statutory Definition of &quot;Security Interest&quot; under SARFAESI
               </h3>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                Under Section 2(1)(zf) of the SARFAESI Act, a &quot;security interest&quot; is defined as any right, title, or interest of any kind upon property created in favour of any secured creditor, including any mortgage, charge, hypothecation, or assignment. Section 13(2) explicitly mandates that enforcement notices can only be served where a security interest exists.
+                Under Section 2(1)(zf) of the SARFAESI Act, a &quot;security interest&quot; has a specific definition. It means any right, title, or interest upon property created in favour of a secured creditor. This includes any mortgage, charge, hypothecation, or assignment. Section 13(2) explicitly mandates that enforcement notices can only be served where a security interest exists.
               </p>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                Because personal loan contracts do not establish a security interest over your flat, residential house, agricultural land, or motor vehicle, any recovery agent or collection officer claiming to invoke SARFAESI against your property is making a fraudulent and legally baseless misrepresentation.
+                Personal loan contracts do not establish any security interest over your flat, residential house, agricultural land, or motor vehicle. Therefore, any recovery agent or collection officer claiming to invoke SARFAESI against your property is making a fraudulent and legally baseless misrepresentation.
               </p>
             </section>
 
@@ -507,7 +507,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
               </div>
 
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                When a recovery agent arrives at your home or workplace claiming they have the right to inspect or attach your personal belongings, you have the absolute legal right to demand their official Direct Recovery Agent (DRA) accreditation, bank authorization letter, and government identity card. You are under no obligation to allow them inside your residential premises.
+                A recovery agent might arrive at your home or workplace claiming the right to inspect personal belongings. When this happens, you have the absolute legal right to demand their credentials. Ask for their official Direct Recovery Agent (DRA) accreditation, bank authorization letter, and government identity card. You are under no obligation to allow them inside your residential premises.
               </p>
             </section>
 
@@ -530,7 +530,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                   <span>The High Evidentiary Threshold of Order 38 Rule 5 (Attachment Before Judgment)</span>
                 </h3>
                 <p className="text-sm text-slate-700 leading-relaxed mb-3">
-                  During an ongoing civil recovery suit, a bank may attempt to file an interim application under Order 38 Rule 5 of the CPC seeking &quot;Attachment Before Judgment.&quot; However, the Supreme Court of India in <em>Raman Tech. &amp; Process Engg. Co. v. Solanki Traders (2008)</em> laid down that Order 38 Rule 5 is a drastic power and cannot be exercised casually.
+                  During a civil recovery suit, a bank may file an interim application under Order 38 Rule 5 CPC for &quot;Attachment Before Judgment.&quot; However, the Supreme Court of India in <em>Raman Tech. &amp; Process Engg. Co. v. Solanki Traders (2008)</em> laid down clear boundaries. The Court ruled that Order 38 Rule 5 is a drastic power and cannot be exercised casually.
                 </p>
                 <p className="text-sm text-slate-600 leading-relaxed">
                   The bank must prove with concrete, unassailable evidence that the borrower is actively attempting to dispose of their entire property with the fraudulent intent of obstructing the execution of any decree. Mere inability to pay or normal living asset ownership does NOT justify attachment before judgment.
@@ -611,7 +611,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 6. Statutory Immunity: Protected Assets Under Section 60 CPC
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                Even in the extreme, improbable scenario where a bank pursues a civil suit to completion and obtains an execution decree under Order 21 CPC, Indian law establishes powerful statutory safeguards to ensure that debtors and their families are not deprived of their fundamental means of survival.
+                Suppose a bank pursues a civil suit to completion and obtains an execution decree under Order 21 CPC. Even in this rare scenario, Indian law establishes powerful statutory safeguards. These protections ensure that debtors and their families are never deprived of their fundamental means of survival.
               </p>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 <strong>Section 60(1) of the Code of Civil Procedure, 1908</strong> contains a comprehensive list of properties that are explicitly exempt from attachment or sale in the execution of any civil court decree:
@@ -758,7 +758,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 9. One-Time Settlement: Permanent Legally Binding Resolution
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
-                While understanding that your property cannot be seized eliminates immediate fear, leaving an unpaid loan in indefinite default causes severe long-term damage to your credit profile (CIBIL score drops) and leaves you exposed to periodic collection escalations. The definitive, legally binding exit is a structured <strong>One-Time Settlement (OTS)</strong>.
+                Understanding that your property cannot be seized eliminates immediate fear. However, leaving an unpaid loan in indefinite default causes severe long-term damage to your credit profile. Your CIBIL score drops, and you remain exposed to periodic collection escalations. The definitive, legally binding exit is a structured <strong>One-Time Settlement (OTS)</strong>.
               </p>
 
               {/* SettleLoans 4-Step Resolution Blueprint */}

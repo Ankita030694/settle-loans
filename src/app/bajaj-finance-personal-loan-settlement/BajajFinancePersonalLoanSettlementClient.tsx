@@ -122,7 +122,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
       question: "How can borrowers stop Bajaj Finance NACH bounce charges and repeated automated debit attempts?",
       answer: (
         <p>
-          Bajaj Finance frequently presents electronic NACH mandates multiple times a month, multiplying return fees. To stop these charges: (1) Instruct your destination bank in writing or online to cancel or suspend the e-NACH mandate under NPCI guidelines; (2) Send a formal hardship notice to Bajaj requesting a pause on electronic debit sweeps; (3) Demand a 100% waiver of all accumulated bounce fees and penal interest under RBI penal charge directives during One-Time Settlement negotiations.
+          Bajaj Finance frequently presents electronic NACH mandates multiple times a month, multiplying return fees. To stop these charges: (1) Instruct your destination bank in writing or online to cancel or suspend the e-NACH mandate under NPCI guidelines. (2) Send a formal hardship notice to Bajaj requesting a pause on electronic debit sweeps. (3) Demand a 100% waiver of all accumulated bounce fees and penal interest under RBI penal charge directives during One-Time Settlement negotiations.
         </p>
       )
     },
@@ -138,7 +138,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
       question: "How do you handle aggressive Bajaj Finance recovery agents and stop home or workplace harassment?",
       answer: (
         <p>
-          Under <strong>RBI Master Directions on Recovery Agents</strong> and Fair Practices Code, borrowers have enforceable protections: (a) Agents can only call or visit between 08:00 AM and 07:00 PM; (b) Contacting employers, colleagues, or non-guarantor relatives is strictly illegal; (c) Abusive language, threats, or persistent calling is prohibited. To stop harassment, serve a formal cease-and-desist notice to the Bajaj Principal Nodal Officer and file an RBI CMS complaint.
+          Under <strong>RBI Master Directions on Recovery Agents</strong> and Fair Practices Code, borrowers have enforceable protections: (a) Agents can only call or visit between 08:00 AM and 07:00 PM. (b) Contacting employers, colleagues, or non-guarantor relatives is strictly illegal. (c) Abusive language, threats, or persistent calling is prohibited. To stop harassment, serve a formal cease-and-desist notice to the Bajaj Principal Nodal Officer and file an RBI CMS complaint.
         </p>
       )
     },
@@ -178,7 +178,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
       question: "What precautions should you take before paying any settlement amount to Bajaj Finance?",
       answer: (
         <p>
-          Follow five safety rules: (1) Never pay on verbal or WhatsApp promises; (2) Demand an authentic OTS Sanction Letter on Bajaj Finance Limited letterhead with employee code and seal; (3) Verify the full debt discharge clause; (4) Deposit funds solely into your official Bajaj loan account via NEFT/RTGS; (5) Retain bank payment receipts and secure the formal No Dues Certificate.
+          Follow five safety rules: (1) Never pay on verbal or WhatsApp promises. (2) Demand an authentic OTS Sanction Letter on Bajaj Finance Limited letterhead with employee code and seal. (3) Verify the full debt discharge clause. (4) Deposit funds solely into your official Bajaj loan account via NEFT/RTGS. (5) Retain bank payment receipts and secure the formal No Dues Certificate.
         </p>
       )
     },
@@ -377,7 +377,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 Bajaj Finance Delinquency Stages
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) accounting standards under Ind AS 109, Bajaj Finance categorizes overdue retail loans into operational Days Past Due (DPD) buckets. Timing your settlement petition to match these stages is critical for maximizing debt waivers.
+                Bajaj Finance follows RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP). It also applies Expected Credit Loss (ECL) standards under Ind AS 109. Using these guidelines, Bajaj categorizes overdue retail loans into operational Days Past Due (DPD) buckets. Timing your settlement petition to match these stages is critical for maximizing debt waivers.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 During the initial 60 days (Bucket 1 and 2), automated tele-callers push aggressively for overdue regularisation. Once default crosses 90 days, the account transitions into Non-Performing Asset (NPA) status. Bajaj Finance must then allocate balance-sheet capital provisioning, creating an institutional motivation to accept lump-sum compromise settlements that release locked reserves.
@@ -456,7 +456,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 Under RBI&apos;s Fair Lending Practice directives on penal charges (2023), lenders cannot capitalize penal levies or charge compounding default interest. Distressed borrowers can halt this financial drain through two decisive steps:
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                First, under NPCI regulations and RBI consumer protection guidelines, borrowers have the statutory right to instruct their destination bank in writing or through digital banking to cancel or suspend the e-NACH mandate tied to the Bajaj loan, preventing further return penalties.
+                First, borrowers have strong statutory rights under NPCI regulations and RBI consumer protection guidelines. You can instruct your destination bank in writing or through net banking to cancel or suspend the e-NACH mandate. This prevents recurring bounce penalties.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Second, during formal OTS negotiations, legal counsel must demand a 100% waiver of all accumulated bounce fees, late charges, and penal interest. In approved compromise settlements, Bajaj Finance completely wipes out these levies, focusing solely on the discounted core principal balance.
@@ -608,7 +608,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 Bajaj Finance deploys extensive third-party Debt Recovery Agencies (DRAs) whose field personnel operate under commission incentives. In distress situations, these agents often overstep legal boundaries through persistent calling, unannounced workplace visits, and contacting non-guarantor relatives or colleagues whose numbers were collected during digital onboarding.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The RBI Master Direction on Recovery Agents and NBFC Fair Practices Code establish strict legal protections: (a) Agents may only contact borrowers between 08:00 AM and 07:00 PM; (b) Contacting employers, colleagues, neighbors, or family members is strictly unlawful; (c) Intimidation, abusive language, or public shaming is strictly prohibited; (d) Visiting personnel must produce an official Bajaj Finance ID and an IIBF DRA certification.
+                The RBI Master Direction on Recovery Agents and NBFC Fair Practices Code establish strict legal protections: (a) Agents may only contact borrowers between 08:00 AM and 07:00 PM. (b) Contacting employers, colleagues, neighbors, or family members is strictly unlawful. (c) Intimidation, abusive language, or public shaming is strictly prohibited. (d) Visiting personnel must produce an official Bajaj Finance ID and an IIBF DRA certification.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers encountering harassment should document all incidents and issue a formal legal cease-and-desist notice to Bajaj Finance&apos;s Principal Nodal Officer (PNO) in Pune. Escalating documented violations on the RBI Integrated Ombudsman portal (CMS) triggers immediate regulatory scrutiny and compels the NBFC to enforce professional conduct.
@@ -707,7 +707,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 Section 25 PSSA Notices, Arbitration & Lok Adalat
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When a personal loan crosses 60 to 90 days of default, Bajaj Finance routinely issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, alongside notices invoking private arbitration.
+                When a personal loan crosses 60 to 90 days of default, Bajaj Finance issues statutory demand notices. These notices fall under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates. The lender may also dispatch notices invoking private arbitration.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A Section 25 PSSA notice is a statutory precursor to a Magistrate Court complaint, not an arrest warrant. Responding through an advocate detailing genuine hardship and contesting improper mandate presentations protects your legal standing while establishing conciliation channels.
@@ -774,7 +774,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 A major hazard in retail debt recovery involves rogue collection agents issuing unverified settlement letters to collect partial payments. If funds are paid against an unauthorized letter, Bajaj Finance credits the money toward accumulated penal interest, leaving the core default open.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers must verify that the OTS sanction letter is printed on official Bajaj Finance Limited stationery containing the company&apos;s Corporate Identification Number (CIN), Pune registered office address, unique proposal reference number, and authorized officer signature with employee ID.
+                Borrowers must carefully verify the OTS sanction letter. Ensure it is printed on official Bajaj Finance Limited letterhead. The document must show the Corporate Identification Number (CIN) and the Pune registered office address. It must also feature a unique proposal reference number and the authorized officer&apos;s signature with employee ID.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The letter must explicitly declare that upon payment of the agreed sum, the account is fully discharged with zero further liability. Under RBI Circular RBI/2023-24/60, Bajaj Finance must deliver the No Dues Certificate (NDC) and cancel all security mandates within 30 days, or pay mandatory statutory compensation of ₹5,000 per day of delay.
@@ -797,7 +797,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 Under RBI compromise directives, a mandatory 12-month cooling-off period applies before fresh unsecured loans can be granted. However, a &apos;Settled&apos; record with ₹0 balance is far better than an active &apos;Default&apos; status that degrades credit scores every month and attracts litigation.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can restore their credit profile to 750+ within 18 to 24 months by acquiring a fixed-deposit-backed credit card (FD card), maintaining credit utilization under 25%, and making timely payments on all living expenses and secured obligations.
+                Borrowers can restore their credit profile to 750+ within 18 to 24 months. You can start by acquiring a fixed-deposit-backed credit card (FD card). Maintain credit utilization strictly under 25%. In addition, ensure prompt payments on all living expenses and secured obligations.
               </p>
             </section>
 

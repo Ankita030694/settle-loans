@@ -423,7 +423,7 @@ export default function IciciPersonalLoanSettlementClient() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
-                When an overdue loan breaches 90 days, ICICI Bank allocates capital provisioning against its balance sheet. Once the loan reaches Doubtful status (over 180 days past due) with 100% provisioning absorbed, an upfront cash settlement allows the bank to write back provisions into profits, creating strong incentive to approve substantial debt haircuts.
+                When an overdue loan breaches 90 days, ICICI Bank allocates capital provisioning against its balance sheet. When a loan reaches Doubtful status (over 180 days past due), the bank absorbs 100% provisioning. An upfront cash settlement allows the bank to write back these provisions into profits. This creates a strong financial incentive for the bank to approve substantial debt haircuts.
               </p>
             </section>
 
@@ -756,13 +756,13 @@ export default function IciciPersonalLoanSettlementClient() {
                 CIBIL Score Impact & Credit Repair Post-ICICI OTS
               </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
-                Following full remittance of the agreed OTS amount, ICICI Bank is legally required to update all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark), modifying the account status from &apos;Default&apos; to <strong>&apos;Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>.
+                After full remittance of the agreed OTS amount, ICICI Bank must update all four credit bureaus. It reports to CIBIL, Experian, Equifax, and CRIF High Mark. The bank modifies the account status from &apos;Default&apos; to <strong>&apos;Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
-                While a &apos;Settled&apos; tag lowers the score by 75 to 150 points and triggers a 12-month cooling period under RBI directives before fresh credit can be obtained, it permanently halts month-on-month default degradation caused by compounding Days Past Due counters.
+                A &apos;Settled&apos; tag lowers your credit score by 75 to 150 points. It also triggers a 12-month cooling period under RBI directives before you can obtain fresh credit. However, it permanently halts month-on-month default degradation caused by compounding Days Past Due counters.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
-                Rebuilding credit post-settlement is systematic: by securing a fixed-deposit backed credit card, maintaining credit utilization below 25%, and servicing utility bills promptly, borrowers steadily rebuild positive credit history, restoring their CIBIL score to 750+ within 18 to 24 months.
+                Rebuilding credit post-settlement is systematic. Borrowers can secure a fixed-deposit backed credit card and maintain credit utilization below 25%. By servicing utility bills promptly, you steadily build positive credit history. This restores your CIBIL score to 750+ within 18 to 24 months.
               </p>
             </section>
 

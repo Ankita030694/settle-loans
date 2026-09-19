@@ -116,7 +116,7 @@ export default function SbiPersonalLoanSettlementClient() {
       question: "What is the SBI personal loan settlement process and how does it work online?",
       answer: (
         <p>
-          The <strong>SBI personal loan settlement process</strong> is a formal compromise resolution between State Bank of India and a distressed borrower unable to repay unsecured credit like SBI Xpress Credit. Once an account defaults beyond 90 to 180 days and enters Non-Performing Asset (NPA) status, the borrower applies through SBI&apos;s online OTS portal (Rin Samadhan or YONO) or submits a formal petition to the <strong>Stressed Assets Recovery Branch (SARB)</strong>. SBI evaluates the proposal against board-approved compromise policies and Net Present Value (NPV) benchmarks. Upon committee sanction, an official stamped <strong>OTS Sanction Letter</strong> is issued, and upon direct remittance into the loan account, SBI issues a ₹0 <strong>No Dues Certificate (NDC)</strong>.
+          The <strong>SBI personal loan settlement process</strong> is a formal compromise resolution between State Bank of India and a distressed borrower. When unsecured credit like SBI Xpress Credit defaults beyond 90 to 180 days, it enters Non-Performing Asset (NPA) status. The borrower applies through SBI&apos;s online OTS portal (Rin Samadhan or YONO) or submits a formal petition to the <strong>Stressed Assets Recovery Branch (SARB)</strong>. SBI evaluates the proposal against compromise policies and Net Present Value (NPV) benchmarks. Upon sanction, an official stamped <strong>OTS Sanction Letter</strong> is issued. Once remitted into the loan account, SBI issues a ₹0 <strong>No Dues Certificate (NDC)</strong>.
         </p>
       )
     },
@@ -148,7 +148,7 @@ export default function SbiPersonalLoanSettlementClient() {
       question: "Can SBI freeze your savings account or debit funds automatically?",
       answer: (
         <p>
-          Under the <strong>Banker&apos;s Right of General Lien and Set-Off (Section 171 of the Indian Contract Act, 1872)</strong>, SBI has the legal power to debit funds from any savings account, fixed deposit, or recurring deposit held within SBI under the same CIF/PAN to adjust overdue loan dues. However, <strong>SBI cannot access or debit accounts held with other independent banks</strong> (such as HDFC, ICICI, or PNB) without an explicit Civil Court or DRT attachment order. Furthermore, statutory pensions and PPF balances enjoy absolute immunity under <em>Section 60 of the Code of Civil Procedure (CPC)</em>.
+          Under the <strong>Banker&apos;s Right of General Lien and Set-Off (Section 171 of the Indian Contract Act, 1872)</strong>, SBI has specific powers. It can debit funds from any savings account, fixed deposit, or recurring deposit held within SBI under the same CIF/PAN. However, <strong>SBI cannot access or debit accounts held with other independent banks</strong> (such as HDFC, ICICI, or PNB) without an explicit Civil Court or DRT attachment order. Furthermore, statutory pensions and PPF balances enjoy absolute immunity under <em>Section 60 of the Code of Civil Procedure (CPC)</em>.
         </p>
       )
     },
@@ -164,7 +164,7 @@ export default function SbiPersonalLoanSettlementClient() {
       question: "What legal actions can SBI initiate if you default on a personal loan?",
       answer: (
         <p>
-          Defaulting on an unsecured personal loan is strictly a civil breach of contract and cannot result in police arrest or criminal FIRs. However, SBI can initiate statutory recovery actions: (1) <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong> for NACH/e-mandate dishonor; (2) <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> for bounced cheques; (3) <strong>Summary Civil Suits under Order 37 CPC</strong>; and (4) <strong>Debt Recovery Tribunal (DRT)</strong> claims if total aggregate exposure exceeds ₹20 Lakhs. All these notices can be resolved through formal compromise negotiations.
+          Defaulting on an unsecured personal loan is strictly a civil breach of contract and cannot result in police arrest or criminal FIRs. However, SBI can initiate statutory recovery actions: (1) <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong> for NACH/e-mandate dishonor. (2) <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> for bounced cheques. (3) <strong>Summary Civil Suits under Order 37 CPC</strong>. And (4) <strong>Debt Recovery Tribunal (DRT)</strong> claims if total aggregate exposure exceeds ₹20 Lakhs. All these notices can be resolved through formal compromise negotiations.
         </p>
       )
     },
@@ -180,7 +180,7 @@ export default function SbiPersonalLoanSettlementClient() {
       question: "What must you verify in an official SBI OTS Sanction Letter before paying?",
       answer: (
         <p>
-          Borrowers must verify five non-negotiable points: (1) Official SBI letterhead bearing the branch code, seal, and authorized officer signature (AGM/DGM/BM) with HRMS employee ID; (2) Explicit statement of the exact negotiated settlement sum and tranche dates; (3) Unambiguous full and final debt extinguishment clause; (4) Direct payment instructions into your specific SBI Loan Account number (never to third-party accounts); and (5) An immediate stamped bank receipt upon deposit.
+          Borrowers must verify five non-negotiable points: (1) Official SBI letterhead bearing the branch code, seal, and authorized officer signature (AGM/DGM/BM) with HRMS employee ID. (2) Explicit statement of the exact negotiated settlement sum and tranche dates. (3) Unambiguous full and final debt extinguishment clause. (4) Direct payment instructions into your specific SBI Loan Account number (never to third-party accounts). And (5) An immediate stamped bank receipt upon deposit.
         </p>
       )
     },
@@ -188,7 +188,7 @@ export default function SbiPersonalLoanSettlementClient() {
       question: "How long does SBI take to issue the No Dues Certificate (NDC) after settlement?",
       answer: (
         <p>
-          Under <strong>RBI Circular RBI/2023-24/60</strong>, all regulated lenders including SBI are legally mandated to complete full account closure and issue an official <strong>No Dues Certificate (NDC)</strong> within <strong>30 calendar days</strong> of receiving the final settlement payment. If SBI delays issuance beyond 30 days due to operational lapses, the bank is legally required to pay statutory compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
+          Under <strong>RBI Circular RBI/2023-24/60</strong>, all regulated lenders including SBI must follow strict closure timelines. They are legally mandated to complete full account closure and issue an official <strong>No Dues Certificate (NDC)</strong> within <strong>30 calendar days</strong> of receiving the final payment. If SBI delays issuance beyond 30 days due to operational lapses, it faces penalties. The bank is legally required to pay statutory compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
         </p>
       )
     }
@@ -503,7 +503,7 @@ export default function SbiPersonalLoanSettlementClient() {
                 Section 171 Banker&apos;s Lien &amp; Ringfencing Protected Assets
               </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
-                Under <strong>Section 171 of the Indian Contract Act, 1872</strong> (Banker&apos;s Right of General Lien and Set-Off), SBI can unilaterally debit funds from any savings account, fixed deposit, or recurring deposit held within SBI under the same CIF/PAN to adjust delinquent loan arrears without prior court approval.
+                Under <strong>Section 171 of the Indian Contract Act, 1872</strong> (Banker&apos;s Right of General Lien and Set-Off), SBI holds statutory recovery rights. The bank can unilaterally debit funds from any internal savings account, fixed deposit, or recurring deposit under the same CIF/PAN to adjust delinquent loan arrears without prior court approval.
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-start gap-3">
@@ -688,7 +688,7 @@ export default function SbiPersonalLoanSettlementClient() {
                     3. Submit Formal OTS Petition via Rin Samadhan Portal or SARB
                   </h3>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Submit the One-Time Settlement application directly to the Assistant General Manager (AGM) at SARB or through SBI&apos;s online OTS portal, proposing an initial settlement between 35% and 50% of the principal balance payable within 30 days.
+                    Submit the One-Time Settlement application directly to the Assistant General Manager (AGM) at SARB or through SBI&apos;s online OTS portal. Propose an initial settlement between 35% and 50% of the principal balance, payable within 30 days.
                   </p>
                 </div>
 

@@ -549,7 +549,7 @@ export default function KotakBankPersonalLoanSettlementPage() {
                 1. Kotak Bank Loan Delinquency & Recovery Architecture
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Kotak Mahindra Bank Limited maintains one of the most technologically streamlined yet aggressive retail debt recovery infrastructures in the Indian private banking sector. Borrowers who secure unsecured personal loans, instant consumer durable loans, or credit cards through Kotak&apos;s retail branch network or digital Kotak 811 channels enter a tightly governed credit lifecycle. When unexpected life crises—such as involuntary employment termination, critical medical emergencies, or severe micro-enterprise cash flow disruptions—force an individual to miss equated monthly installments (EMIs), Kotak&apos;s automated risk monitoring systems instantly trigger a multi-stage escalation protocol.
+                Kotak Mahindra Bank Limited maintains one of the most technologically streamlined yet aggressive retail debt recovery infrastructures in the Indian private banking sector. Borrowers who secure unsecured personal loans, instant consumer durable loans, or credit cards through Kotak&apos;s retail branch network or digital Kotak 811 channels enter a tightly governed credit lifecycle. Unexpected life crises can force an individual to miss equated monthly installments (EMIs). Common causes include job loss, critical medical emergencies, or severe business cash flow disruptions. In response, Kotak&apos;s automated risk monitoring systems instantly trigger a multi-stage escalation protocol.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the regulatory framework mandated by the Reserve Bank of India (RBI), a delinquent loan undergoes formal asset categorization based on the duration of delinquency:
@@ -625,7 +625,7 @@ export default function KotakBankPersonalLoanSettlementPage() {
                 3. Section 171 Banker's Lien, Freezes & Harassment Defense
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A common vulnerability faced by distressed borrowers is the unexpected seizure of funds maintained in savings accounts. Under Section 171 of the Indian Contract Act, 1872, banking institutions possess the statutory <em>Right of General Lien and Set-Off</em>. This allows Kotak Mahindra Bank to unilaterally debit money from any savings account, fixed deposit, recurring deposit, or digital Kotak 811 wallet registered under the borrower&apos;s Customer Relationship Number (CRN) or PAN to adjust against personal loan arrears.
+                A common vulnerability faced by distressed borrowers is the unexpected seizure of funds maintained in savings accounts. Under Section 171 of the Indian Contract Act, 1872, banking institutions possess the statutory <em>Right of General Lien and Set-Off</em>. This rule allows Kotak Mahindra Bank to debit money unilaterally from your internal accounts. The bank can access any savings account, fixed deposit, recurring deposit, or digital Kotak 811 wallet under your Customer Relationship Number (CRN) or PAN. These funds are then adjusted against personal loan arrears.
               </p>
               <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200 text-xs sm:text-sm text-amber-900 space-y-2">
                 <div className="flex items-center gap-2 font-bold text-amber-950">
@@ -633,7 +633,7 @@ export default function KotakBankPersonalLoanSettlementPage() {
                   <span>Strategic Account Shielding Protocol</span>
                 </div>
                 <p className="leading-relaxed">
-                  While Kotak can lawfully exercise set-off rights over deposits held within Kotak Mahindra Bank, <strong>Kotak has zero statutory authority to attach, freeze, or access funds deposited in other independent banks</strong> (such as State Bank of India, HDFC Bank, or ICICI Bank) without obtaining an explicit attachment order from a competent Civil Court. Borrowers in default should immediately redirect their primary salary credits and emergency liquidity to an independent banking institution to avoid sudden operational paralysis.
+                  Kotak can lawfully exercise set-off rights over deposits held within Kotak Mahindra Bank. However, <strong>Kotak has zero statutory authority to attach, freeze, or access funds deposited in other independent banks</strong> (such as SBI, HDFC Bank, or ICICI Bank). The bank cannot do so without an explicit attachment order from a competent Civil Court. Borrowers in default should immediately redirect their salary credits and liquidity to an independent institution to avoid operational paralysis.
                 </p>
               </div>
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
@@ -661,7 +661,7 @@ export default function KotakBankPersonalLoanSettlementPage() {
                 </li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                If recovery agents violate these directives, our legal defense team issues an immediate formal cease-and-desist notice to Kotak&apos;s Principal Nodal Officer and registers an official regulatory grievance with the RBI Integrated Ombudsman, compelling the bank to halt unlawful harassment immediately.
+                If recovery agents violate these directives, our legal defense team intervenes swiftly. We issue an immediate formal cease-and-desist notice to Kotak&apos;s Principal Nodal Officer. We also register an official regulatory grievance with the RBI Integrated Ombudsman. This compels the bank to halt unlawful harassment immediately.
               </p>
             </section>
 
@@ -725,12 +725,12 @@ export default function KotakBankPersonalLoanSettlementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoverable cash flows over time, r is Kotak&apos;s internal hurdle discount rate, and litigation deductions account for 3–5 years of judicial delay in civil summary suits, advocate retainers, and the balance-sheet drag of idle provisioning capital.
+                  Here, C_t represents estimated recoverable cash flows over time, and r is Kotak&apos;s hurdle discount rate. In addition, litigation deductions account for 3–5 years of judicial delay in civil summary suits. They also reflect advocate retainers and the balance-sheet drag of idle provisioning capital.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because unsecured civil litigation under Order 37 of the Code of Civil Procedure (CPC) is time-consuming and expensive, Kotak&apos;s Credit Committee frequently discovers that accepting an immediate lump-sum One-Time Settlement yielding 35% to 50% of the principal balance delivers a higher net financial return than pursuing years of uncertain litigation.
+                Unsecured civil litigation under Order 37 of the Code of Civil Procedure (CPC) is time-consuming and expensive. As a result, Kotak&apos;s Credit Committee frequently prefers a lump-sum One-Time Settlement. Accepting 35% to 50% of the principal balance delivers a higher net return than pursuing years of uncertain litigation.
               </p>
             </section>
 
@@ -875,7 +875,7 @@ export default function KotakBankPersonalLoanSettlementPage() {
                 8. Loan Remittance, RBI ₹0 NDC Mandate & CIBIL Update
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Once the agreed settlement sum is remitted into the loan account, the final phase of debt extinguishment begins. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable / Immovable Property Documents and Issuance of NDC), all regulated entities including Kotak Mahindra Bank are statutorily required to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and update credit information bureaus within <strong>30 calendar days</strong> of receiving the full settlement amount.
+                Once the agreed settlement sum is remitted, debt extinguishment begins. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct), lenders must follow strict guidelines. All regulated entities including Kotak Mahindra Bank are statutorily required to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong>. They must also update credit information bureaus within <strong>30 calendar days</strong> of receiving the full settlement amount.
               </p>
               <div className="p-4 rounded-2xl bg-emerald-50 border border-emerald-200 text-xs sm:text-sm text-emerald-950 space-y-2">
                 <div className="flex items-center gap-2 font-bold text-emerald-900">
@@ -883,7 +883,7 @@ export default function KotakBankPersonalLoanSettlementPage() {
                   <span>RBI Statutory Delay Compensation Rule</span>
                 </div>
                 <p className="leading-relaxed text-emerald-900">
-                  If Kotak Mahindra Bank fails to issue the No Dues Certificate or update the closure records with credit bureaus within the mandatory 30-day window without lawful cause, the bank is legally liable to pay statutory compensation of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
+                  Kotak Mahindra Bank must issue the NDC and update credit bureaus within the 30-day window. If the bank fails to do so without lawful cause, it faces statutory penalties. Kotak is legally liable to pay compensation of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
                 </p>
               </div>
               
@@ -974,7 +974,7 @@ export default function KotakBankPersonalLoanSettlementPage() {
                   10. SettleLoans Legal Defense &amp; Kotak Debt Advisory Framework
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating an institutional dispute against Kotak Mahindra Bank requires high-caliber legal representation and seasoned financial negotiation expertise. SettleLoans represents distressed borrowers across India, offering an end-to-end legal shield against unlawful recovery harassment, drafting formal replies to Section 25 PSSA and Section 138 notices, and negotiating directly with Kotak&apos;s Zonal Stressed Asset Management verticals to secure the deepest possible settlement haircuts with official, bank-stamped No Dues Certificates.
+                  Navigating an institutional dispute against Kotak Mahindra Bank requires high-caliber legal representation and seasoned financial negotiation expertise. SettleLoans represents distressed borrowers across India. We offer an end-to-end legal shield against unlawful recovery harassment. Our advocates draft formal replies to Section 25 PSSA and Section 138 notices. Furthermore, we negotiate directly with Kotak&apos;s Zonal Stressed Asset Management verticals. This secures the deepest possible settlement haircuts along with official, bank-stamped No Dues Certificates.
                 </p>
               </div>
 

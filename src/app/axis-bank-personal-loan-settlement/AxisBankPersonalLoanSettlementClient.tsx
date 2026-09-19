@@ -126,7 +126,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
       question: "What is the Axis Bank loan settlement process and how does it work?",
       answer: (
         <p>
-          The <strong>Axis Bank loan settlement process</strong> is a formal legal compromise agreement between Axis Bank Limited and an unsecured borrower facing genuine financial incapacity. When an unsecured personal loan or Burgundy credit card defaults beyond 90 days and is classified as a Non-Performing Asset (NPA), the account is transferred from retail branches to the <strong>Stressed Asset Resolution Branch (SARB)</strong>. The borrower submits a detailed One-Time Settlement (OTS) proposal supported by legitimate hardship records (such as job termination letters, hospital bills, or business winding-up filings). Axis Bank&apos;s Credit Committee calculates the recovery potential against internal Net Present Value (NPV) benchmarks. Upon sanction, Axis Bank issues an official stamped <strong>OTS Sanction Letter</strong>. Once the compromised sum is remitted directly into the loan account, the bank extinguishes all residual debt and issues a ₹0 <strong>No Dues Certificate (NDC)</strong>.
+          The <strong>Axis Bank loan settlement process</strong> is a formal legal compromise agreement between Axis Bank Limited and an unsecured borrower. When an unsecured personal loan or Burgundy credit card defaults beyond 90 days, it is classified as a Non-Performing Asset (NPA). At this stage, the account is transferred from retail branches to the <strong>Stressed Asset Resolution Branch (SARB)</strong>. The borrower submits a detailed OTS proposal supported by legitimate hardship records, such as termination letters, medical bills, or business winding-up filings. Axis Bank&apos;s Credit Committee evaluates the recovery potential against Net Present Value (NPV) benchmarks. Upon sanction, Axis Bank issues an official stamped <strong>OTS Sanction Letter</strong>. Once the compromised sum is remitted, the bank extinguishes all residual debt and issues a ₹0 <strong>No Dues Certificate (NDC)</strong>.
         </p>
       )
     },
@@ -134,7 +134,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
       question: "What percentage of debt waiver or haircut does Axis Bank typically approve?",
       answer: (
         <p>
-          On unsecured personal loans, 24x7 instant credit lines, and Burgundy credit cards, Axis Bank typically approves debt haircuts ranging between <strong>40% and 65%</strong> of the total ledger balance. The exact waiver percentage depends on: (1) <em>NPA Aging Bucket:</em> Loans classified as Doubtful (D1/D2) or Loss Assets where Axis Bank has provisioned 50% to 100% of the capital on its balance sheet qualify for the deepest haircuts; (2) <em>Hardship Verifiability:</em> Concrete documentation establishing involuntary insolvency; (3) <em>SARB Channel Negotiation:</em> Engaging directly with senior zonal credit managers rather than outsourced collection agencies. In all approved settlements, 100% of accrued penal charges, overdue interest, and bounce fees are completely eliminated.
+          On unsecured personal loans, 24x7 instant credit lines, and Burgundy credit cards, Axis Bank typically approves debt haircuts between <strong>40% and 65%</strong>. The exact waiver percentage depends on three key criteria. First is the <em>NPA Aging Bucket</em>. Loans classified as Doubtful (D1/D2) or Loss Assets qualify for the deepest haircuts, as Axis Bank has provisioned 50% to 100% of the balance. Second is <em>Hardship Verifiability</em>, backed by concrete documentation of insolvency. Third is <em>SARB Channel Negotiation</em>, engaging directly with senior zonal credit managers rather than agencies. In all approved settlements, 100% of accrued penal charges, overdue interest, and bounce fees are completely eliminated.
         </p>
       )
     },
@@ -150,7 +150,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
       question: "Can Axis Bank debit money from my savings or Burgundy account for an overdue loan?",
       answer: (
         <p>
-          Yes. Under the legal doctrine of <strong>Banker&apos;s Right of General Lien and Set-Off (Section 171 of the Indian Contract Act, 1872)</strong>, Axis Bank is legally empowered to debit funds or freeze balances in any savings account, salary account, current account, or fixed deposit maintained with Axis Bank under the same Customer Identification File (CIF) or PAN. However, <strong>Axis Bank cannot legally attach, freeze, or withdraw money from accounts held with other independent banking institutions</strong> (such as HDFC Bank, ICICI Bank, or State Bank of India) without obtaining a formal attachment warrant from a competent Civil Court or Debt Recovery Tribunal.
+          Yes. Under <strong>Section 171 of the Indian Contract Act, 1872</strong> (Banker&apos;s Right of General Lien and Set-Off), Axis Bank holds statutory set-off authority. It is legally empowered to debit funds or freeze balances in any savings account, salary account, current account, or fixed deposit maintained with Axis Bank under the same CIF or PAN. However, <strong>Axis Bank cannot legally attach, freeze, or withdraw money from accounts held with other independent banking institutions</strong> (such as HDFC Bank, ICICI Bank, or SBI). Doing so requires a formal attachment warrant from a competent Civil Court or Debt Recovery Tribunal.
         </p>
       )
     },
@@ -158,7 +158,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
       question: "How should borrowers handle Section 25 PSSA and Section 138 legal notices from Axis Bank?",
       answer: (
         <p>
-          When an electronic NACH auto-debit mandate fails or a repayment cheque is dishonoured due to insufficient funds, Axis Bank&apos;s empanelled law firms issue statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>. Borrowers must never ignore these notices. A formal legal reply drafted by experienced debt defense advocates must be served within the mandatory 15-day window, setting out genuine financial hardship, disputing unlawful penal calculations, and proposing a structured One-Time Settlement to avert court escalation.
+          When an electronic NACH auto-debit mandate fails or a repayment cheque dishonours due to insufficient funds, Axis Bank acts quickly. Its empanelled law firms issue statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>. Borrowers must never ignore these notices. A formal legal reply drafted by experienced debt defense advocates must be served within the mandatory 15-day window. The reply sets out genuine financial hardship, disputes unlawful penalties, and proposes a structured One-Time Settlement to avert court escalation.
         </p>
       )
     },
@@ -166,7 +166,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
       question: "How strict are Axis Bank recovery agents and what are borrower rights against harassment?",
       answer: (
         <p>
-          Axis Bank deploys internal recovery desks during early delinquency (1–60 days) and assigns empanelled third-party <strong>Debt Recovery Agencies (DRAs)</strong> once accounts enter NPA status. Under the <strong>RBI Master Directions on Recovery Agents (2022)</strong> and the Fair Practices Code, borrowers possess enforceable statutory rights: (a) Agents may only call between 08:00 AM and 07:00 PM; (b) Abusive language, intimidation, and public humiliation are strictly prohibited; (c) Agents are barred from contacting employers, colleagues, or relatives; (d) Visiting agents must display an official bank authorization letter and DRA ID card. Violations can be reported to Axis Bank&apos;s Principal Nodal Officer and the RBI Integrated Ombudsman.
+          Axis Bank deploys internal recovery desks during early delinquency (1–60 days) and assigns empanelled third-party <strong>Debt Recovery Agencies (DRAs)</strong> once accounts enter NPA status. Under the <strong>RBI Master Directions on Recovery Agents (2022)</strong> and the Fair Practices Code, borrowers possess enforceable statutory rights: (a) Agents may only call between 08:00 AM and 07:00 PM. (b) Abusive language, intimidation, and public humiliation are strictly prohibited. (c) Agents are barred from contacting employers, colleagues, or relatives. (d) Visiting agents must display an official bank authorization letter and DRA ID card. Violations can be reported to Axis Bank&apos;s Principal Nodal Officer and the RBI Integrated Ombudsman.
         </p>
       )
     },
@@ -190,7 +190,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
       question: "What safety precautions are vital before remitting settlement funds to Axis Bank?",
       answer: (
         <p>
-          Borrowers must follow five non-negotiable security protocols: (1) <strong>Zero Verbal Commitments:</strong> Never pay based on phone calls, SMS, or WhatsApp messages from recovery agents; (2) <strong>Authentic Bank Letterhead:</strong> Demand an official OTS Sanction Letter printed on Axis Bank letterhead with bank seal and officer employee code; (3) <strong>Direct Loan Account Remittance:</strong> Deposit funds strictly into your designated Axis Bank loan account number via RTGS/NEFT or account payee cheque—never into personal accounts; (4) <strong>Full Extinguishment Clause:</strong> Confirm the letter explicitly states that the payment constitutes full and final satisfaction with complete waiver of balance dues; (5) <strong>Instant Stamped Receipt:</strong> Secure an immediate bank-stamped payment receipt upon transfer.
+          Borrowers must follow five non-negotiable security protocols: (1) <strong>Zero Verbal Commitments:</strong> Never pay based on phone calls, SMS, or WhatsApp messages from recovery agents. (2) <strong>Authentic Bank Letterhead:</strong> Demand an official OTS Sanction Letter printed on Axis Bank letterhead with bank seal and officer employee code. (3) <strong>Direct Loan Account Remittance:</strong> Deposit funds strictly into your designated Axis Bank loan account number via RTGS/NEFT or account payee cheque—never into personal accounts. (4) <strong>Full Extinguishment Clause:</strong> Confirm the letter explicitly states that the payment constitutes full and final satisfaction with complete waiver of balance dues. (5) <strong>Instant Stamped Receipt:</strong> Secure an immediate bank-stamped payment receipt upon transfer.
         </p>
       )
     },
@@ -198,7 +198,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
       question: "What is the timeline for Axis Bank to issue the No Dues Certificate (NDC) under RBI rules?",
       answer: (
         <p>
-          Under <strong>RBI Circular RBI/2023-24/60</strong>, Axis Bank is legally required to issue a formal <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> and update credit bureau databases within <strong>30 calendar days</strong> of receiving the agreed settlement amount. If Axis Bank fails to issue the certificate or complete the closure within 30 days without lawful justification, the bank is statutorily liable to pay mandatory compensation of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
+          Under <strong>RBI Circular RBI/2023-24/60</strong>, Axis Bank must adhere to strict post-settlement timelines. The bank is legally required to issue a formal <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong>. It must also update credit bureau databases within <strong>30 calendar days</strong> of receiving the agreed settlement amount. If Axis Bank fails to issue the certificate within 30 days without lawful justification, it faces statutory penalties. The bank is statutorily liable to pay mandatory compensation of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
         </p>
       )
     }
@@ -391,10 +391,10 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 Understanding Axis Bank&apos;s Retail Portfolio &amp; Risk Management Framework
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Axis Bank Limited stands as one of India&apos;s largest private sector financial institutions, commanding a massive retail credit footprint that encompasses unsecured personal loans, 24x7 instant digital loans, Burgundy high-net-worth credit facilities, and cross-sold revolving credit lines. Because these credit products are extended without mortgage collateral or tangible hypothecation, Axis Bank manages its institutional risk through automated credit underwriting, algorithmic bureau monitoring, and tight National Automated Clearing House (NACH) mandate sweeps.
+                Axis Bank Limited stands as one of India&apos;s largest private sector financial institutions. It commands a massive retail credit footprint, including unsecured personal loans, 24x7 digital loans, Burgundy credit facilities, and revolving credit lines. Because these credit products are extended without mortgage collateral or tangible hypothecation, Axis Bank manages its institutional risk through automated credit underwriting, algorithmic bureau monitoring, and tight National Automated Clearing House (NACH) mandate sweeps.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When an unexpected economic disruption strikes—such as sudden corporate downsizing, catastrophic medical emergencies, business liquidation, or macroeconomic insolvencies—the borrower&apos;s cash flow fractures. The moment a scheduled monthly installment fails to clear on the designated payment date, Axis Bank&apos;s automated risk infrastructure triggers compounding late fees, penal charges of 24% to 36% per annum, and algorithmic risk flags that restrict existing credit card limits across the borrower&apos;s entire Customer Identification File (CIF).
+                When an unexpected economic disruption strikes—such as sudden corporate downsizing, catastrophic medical emergencies, business liquidation, or macroeconomic insolvencies—the borrower&apos;s cash flow fractures. When a scheduled monthly installment fails to clear on time, Axis Bank&apos;s automated risk systems react. They trigger compounding late fees and penal charges of 24% to 36% per annum. Furthermore, algorithmic risk flags restrict credit card limits across the borrower&apos;s entire CIF.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under Indian jurisprudence and the binding directives of the Reserve Bank of India (RBI), financial distress resulting from legitimate economic misfortune is fundamentally recognized as a civil contractual dispute. The law draws a clear distinction between a dishonest wilful defaulter who possesses liquid assets but deliberately diverts sanctioned capital, and an involuntary distressed borrower whose debt-servicing capacity has been dismantled by genuine financial calamity. Involuntary borrowers possess the legal right to seek debt resolution under board-approved compromise settlement frameworks.
@@ -492,13 +492,13 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 Banker&apos;s Right of Set-Off (Section 171) &amp; Safeguarding Liquid Assets
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers defaulting on an Axis Bank personal loan or Burgundy credit card must understand the legal power of the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. This statutory provision grants Axis Bank the contractual authority to appropriate funds from any savings account, current account, salary credit, or fixed deposit maintained with Axis Bank under the same PAN or Customer Identification File (CIF) to offset delinquent loan dues.
+                Borrowers defaulting on an Axis Bank personal loan or Burgundy credit card must understand the legal power of the <strong>Banker&apos;s Right of General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. This statutory provision grants Axis Bank authority to appropriate internal funds. It can debit any savings account, current account, salary credit, or fixed deposit maintained with Axis Bank under the same PAN or CIF to offset delinquent loan dues.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 High-net-worth borrowers and salaried professionals maintaining Burgundy banking relationships are particularly vulnerable to sudden automated ledger sweeps. When an equated monthly installment or card balance defaults, Axis Bank algorithms automatically freeze or sweep incoming funds to satisfy arrears without requiring prior judicial notice.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                However, this right of set-off has defined statutory boundaries. Axis Bank cannot legally debit or attach accounts maintained with other independent commercial banks (such as State Bank of India, HDFC Bank, or ICICI Bank) without obtaining a specific decree or attachment order from a competent Civil Court or Debt Recovery Tribunal (DRT). Borrowers facing default must immediately ring-fence their monthly subsistence by opening an operational salary or savings account with an independent bank where they hold no existing loan exposure.
+                However, this right of set-off has defined statutory boundaries. Axis Bank cannot legally debit or attach accounts maintained with other independent commercial banks (such as SBI, HDFC Bank, or ICICI Bank). Doing so requires a specific decree or attachment order from a competent Civil Court or Debt Recovery Tribunal (DRT). Borrowers facing default must immediately ring-fence their monthly subsistence by opening an operational salary or savings account with an independent bank where they hold no existing loan exposure.
               </p>
             </section>
 
@@ -512,13 +512,13 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 Defending Against Section 25 PSSA &amp; Section 138 Cheque Bounce Notices
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When monthly automated NACH mandates bounce or physical repayment cheques dishonour due to insufficient funds, Axis Bank&apos;s legal panel dispatches statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>. These statutory notices grant a mandatory 15-day window to regularize dues before criminal complaint proceedings can be instituted in a Magistrate Court.
+                When automated NACH mandates bounce or physical repayment cheques dishonour, Axis Bank takes legal steps. Its legal panel dispatches statutory notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> or <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>. These statutory notices grant a mandatory 15-day window to respond before criminal complaint proceedings can be instituted in a Magistrate Court.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Receiving a Section 25 PSSA or Section 138 legal notice requires immediate formal legal action rather than panic. Under the guidance of seasoned debt defense advocates, borrowers should serve an exhaustive legal reply within the 15-day statutory window. The reply establishes the genuine absence of fraudulent intent, sets out verifiable economic distress, challenges inflated penal charges and compounding interest calculations, and places on record a formal offer for compromise settlement.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Serving a structured legal reply effectively neutralizes the bank&apos;s litigation momentum. Because magistrate proceedings require substantial legal costs, dedicated counsel appearances, and multi-year courtroom timelines, Axis Bank legal officers routinely prefer channeling accounts with active legal replies into the Stressed Asset Resolution Branch or the National Lok Adalat for immediate compromise resolution.
+                Serving a structured legal reply effectively neutralizes the bank&apos;s litigation momentum. Magistrate proceedings require substantial legal costs, dedicated counsel appearances, and multi-year timelines. For this reason, Axis Bank legal officers routinely prefer resolving accounts with active legal replies. They channel these matters into the SARB or National Lok Adalat for immediate compromise resolution.
               </p>
             </section>
 
@@ -564,7 +564,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 Under the Reserve Bank of India&apos;s Prudential Framework for Resolution of Stressed Assets and board-approved compromise settlement policies, Axis Bank evaluates One-Time Settlement offers using rigorous financial modeling. Unlike front-line recovery agents who claim that loans cannot be discounted, the Stressed Asset Resolution Branch evaluates every default through a <strong>Net Present Value (NPV) Recovery Valuation Benchmark</strong>.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When a loan transitions into an NPA, Axis Bank is legally mandated to set aside regulatory capital provisions. On unsecured credit lines, this provisioning burden reaches 25% within 12 months, 40%–50% within 24 months, and 100% for Loss Assets. If Axis Bank pursues civil recovery through Order 37 summary suits or DRT proceedings, it faces mandatory court fees (typically 1% to 3% of claim value), senior advocate retainers, and 4 to 7 years of procedural delays, with zero guarantee of asset discovery against an unsecured borrower.
+                When a loan transitions into an NPA, Axis Bank is legally mandated to set aside regulatory capital provisions. On unsecured credit lines, this provisioning burden reaches 25% within 12 months, 40%–50% within 24 months, and 100% for Loss Assets. If Axis Bank pursues civil recovery through Order 37 summary suits or DRT proceedings, it faces major hurdles. It must pay court fees (typically 1% to 3% of claim value) and senior advocate retainers. It also endures 4 to 7 years of litigation with zero guarantee of asset discovery against an unsecured borrower.
               </p>
 
               {/* Formula Container Box */}
@@ -582,7 +582,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
               </div>
 
               <p className="text-slate-700 leading-relaxed text-base md:text-lg">
-                Because an immediate cash settlement under OTS releases 100% of locked regulatory provisioning and eliminates legal overheads, the bank&apos;s Credit Committee routinely approves settlements offering <strong>40% to 65% debt waivers</strong> on principal debt, alongside 100% waiver of unaccrued interest, penal levies, and late fees.
+                An immediate cash settlement under OTS releases 100% of locked regulatory provisioning and eliminates legal overheads. Consequently, the bank&apos;s Credit Committee routinely approves settlements offering <strong>40% to 65% debt waivers</strong> on principal debt. In addition, it approves a 100% waiver of unaccrued interest, penal levies, and late fees.
               </p>
             </section>
 
@@ -675,10 +675,10 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 The single most dangerous error in debt settlement is remitting money based on verbal promises or informal messages from collection personnel. Unauthorized agents frequently deceive borrowers by claiming that an ad-hoc token payment will settle the account, only for the funds to be absorbed into accumulated penal charges while the loan remains active and compounding.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Before releasing a single rupee, borrowers must verify that the <strong>Axis Bank OTS Sanction Letter</strong> satisfies five mandatory forensic criteria: (1) Printed on official Axis Bank letterhead with authentic bank insignia; (2) Issued with a unique reference number and signed by an authorized Assistant Vice President (AVP) or Zonal Credit Manager with employee code; (3) Explicitly lists the exact settlement amount, payment due dates, and specific loan account number; (4) Contains an unambiguous debt discharge clause confirming that upon payment, all residual balance is fully waived and legal proceedings withdrawn; (5) Mandates the issuance of a formal No Dues Certificate.
+                Before releasing a single rupee, borrowers must verify that the <strong>Axis Bank OTS Sanction Letter</strong> satisfies five mandatory forensic criteria: (1) Printed on official Axis Bank letterhead with authentic bank insignia. (2) Issued with a unique reference number and signed by an authorized Assistant Vice President (AVP) or Zonal Credit Manager with employee code. (3) Explicitly lists the exact settlement amount, payment due dates, and specific loan account number. (4) Contains an unambiguous debt discharge clause confirming that upon payment, all residual balance is fully waived and legal proceedings withdrawn. (5) Mandates the issuance of a formal No Dues Certificate.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under <strong>RBI Circular RBI/2023-24/60</strong>, Axis Bank is legally obligated to release the final <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and update credit bureau records within <strong>30 calendar days</strong> of receiving the agreed settlement amount. If the bank fails to issue the certificate within 30 days due to operational lapses, it must pay mandatory statutory compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
+                Under <strong>RBI Circular RBI/2023-24/60</strong>, Axis Bank is legally obligated to release the final <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong>. It must also update credit bureau records within <strong>30 calendar days</strong> of receiving the agreed settlement amount. If the bank fails to issue the certificate within 30 days due to operational lapses, it faces penalties. It must pay mandatory statutory compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
               </p>
             </section>
 
@@ -692,10 +692,10 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 CIBIL Trajectory, RBI Cooling Period &amp; 24-Month Score Rebuilding
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Following full payment of the settlement amount, Axis Bank updates the account status across all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. This closure results in an immediate CIBIL score drop of 75 to 150 points and triggers a mandatory 12-month cooling period under RBI directives before applying for fresh credit.
+                Following full payment of the settlement amount, Axis Bank updates the account status across all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). The account status becomes <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While this causes an initial CIBIL score drop of 75 to 150 points, it halts monthly default compounding and allows systematic credit score rebuilding.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                While a &apos;Settled&apos; status reflects a past concession, it is infinitely superior to an open, compounding &apos;Default&apos; or &apos;Suit Filed&apos; tag that triggers ongoing legal notices. Once the debt is extinguished with a ₹0 balance, borrowers can rebuild their credit profile back to 750+ within 18 to 24 months through secured credit cards backed by fixed deposits, zero-default utility payments, and maintaining a credit utilization ratio below 30%.
+                While a &apos;Settled&apos; status reflects a past concession, it is infinitely superior to an open, compounding &apos;Default&apos; or &apos;Suit Filed&apos; tag that triggers ongoing legal notices. Once the debt is extinguished with a ₹0 balance, borrowers can rebuild their credit profile back to 750+ within 18 to 24 months. You can use secured credit cards backed by fixed deposits, make punctual utility payments, and maintain credit utilization below 30%.
               </p>
 
               {/* Comparative Resolution Avenues Matrix */}
@@ -754,7 +754,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 Professional Legal Representation for Axis Bank Debt Settlement
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Navigating an Axis Bank loan default requires expert advocacy to shield your family from aggressive collection tactics, reply to statutory Section 25 PSSA and Section 138 notices, and negotiate directly with SARB credit committees for maximum debt relief. SettleLoans provides end-to-end legal and financial representation to help distressed borrowers achieve financial freedom.
+                Navigating an Axis Bank loan default requires expert advocacy. Professional representation shields your family from aggressive collection tactics. It also ensures timely replies to statutory Section 25 PSSA and Section 138 notices, securing maximum debt relief from SARB credit committees. SettleLoans provides end-to-end legal and financial representation to help distressed borrowers achieve financial freedom.
               </p>
               <CompanySection />
             </section>
