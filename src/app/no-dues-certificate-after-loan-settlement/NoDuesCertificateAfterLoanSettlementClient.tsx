@@ -419,8 +419,7 @@ ENCLOSURES:
 
           {/* H1 Headline - Compact Title Size */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            How to Get No Dues Certificate After Loan Settlement:{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">Verification, RBI Rules &amp; Legal Guide</span>
+            How to Get No Dues Certificate After Loan Settlement
           </h1>
 
           {/* Subtitle */}

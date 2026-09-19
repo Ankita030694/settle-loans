@@ -245,8 +245,7 @@ export default function PersonalLoanLegalNoticeClient() {
 
           {/* H1 Headline - Compact Title */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Legal Notice for Personal Loan Default:{' '}
-            <span className="text-[#1F5EFF]">Will You Go to Jail? Legal Rights &amp; Reply Strategy</span>
+            Legal Notice for Personal Loan Default: <span className="text-[#1F5EFF]">Legal Rights &amp; Reply</span>
           </h1>
 
           {/* Subtitle */}

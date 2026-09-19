@@ -423,8 +423,8 @@ export default function Page() {
             </div>
 
             <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-              Section 25 PSSA Notice for Loan Default: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Rights, 15-Day Defense &amp; Debt Settlement Guide</span>
-            </h1>
+            Section 25 PSSA Notice for Loan Default: <span className="text-[#3b82f6] md:text-[#60a5fa]">15-Day Defense Guide</span>
+          </h1>
 
             <p className="text-xs sm:text-sm md:text-base text-slate-300 mb-5 max-w-2xl mx-auto leading-relaxed font-normal">
               Received a threatening criminal legal notice under Section 25 of the Payment and Settlement Systems Act after an electronic NACH or auto-debit EMI bounce? Discover your statutory protections under Indian banking jurisprudence, master the mandatory 15-day reply protocol, and extinguish criminal complaints through structured One-Time Settlement (OTS).

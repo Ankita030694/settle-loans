@@ -256,8 +256,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
 
           {/* H1 Headline */}
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-black text-[#DEDEDE] mb-4 leading-[1.18] tracking-tight">
-            Loan Settlement vs Loan Closure in CIBIL:{' '}
-            <span className="text-[#1F5EFF]">Score Impact, Legal Differences &amp; Recovery Guide</span>
+            Loan Settlement vs Loan Closure in CIBIL: <span className="text-[#1F5EFF]">Key Differences</span>
           </h1>
 
           {/* Subtitle / Direct Answer Snippet */}

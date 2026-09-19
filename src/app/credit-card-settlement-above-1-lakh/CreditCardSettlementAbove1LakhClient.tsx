@@ -258,8 +258,7 @@ export default function CreditCardSettlementAbove1LakhClient() {
 
           {/* H1 Headline */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Credit Card Settlement Above 1 Lakh:{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">Haircut Matrix, Compounding &amp; Legal Strategy</span>
+            Credit Card Settlement Above 1 Lakh: <span className="text-[#3b82f6] md:text-[#60a5fa]">Complete Legal Guide</span>
           </h1>
 
           {/* Subtitle / Direct Answer Snippet */}

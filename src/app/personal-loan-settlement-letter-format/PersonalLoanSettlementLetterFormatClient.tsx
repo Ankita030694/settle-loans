@@ -504,8 +504,7 @@ PAN: [Your PAN]`;
 
           {/* H1 Headline - Compact Title Size */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Personal Loan Settlement Letter Format:{' '}
-            <span className="text-[#1F5EFF]">Bank Templates, Legal Samples &amp; RBI Rules</span>
+            Personal Loan Settlement Letter Format: <span className="text-[#1F5EFF]">Bank Templates &amp; Samples</span>
           </h1>
 
           {/* Subtitle */}

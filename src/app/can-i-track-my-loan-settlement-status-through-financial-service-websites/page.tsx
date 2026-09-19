@@ -194,8 +194,8 @@ export default function TrackLoanSettlementStatusPage() {
               Financial Service Transparency
             </span>
             <h1 className="text-3xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
-              Can I Track My Loan Settlement <br className="hidden md:block" /> Status Through Financial Service Websites?
-            </h1>
+            Can You Track Loan Settlement Status Online in India?
+          </h1>
             <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-3xl mx-auto leading-[1.2] font-normal">
               Stay informed and in control. Explore how you can monitor your debt resolution journey and verify the progress of your settlement through top-tier financial service platforms.
             </p>

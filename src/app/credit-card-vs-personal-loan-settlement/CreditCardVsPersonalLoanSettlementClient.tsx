@@ -260,8 +260,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
           {/* H1 Headline */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Credit Card vs Personal Loan Settlement:{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">Difference, Haircut Depth &amp; Priority</span>
+            Credit Card vs Personal Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Key Differences</span>
           </h1>
 
           {/* Subtitle / Direct Answer Snippet */}

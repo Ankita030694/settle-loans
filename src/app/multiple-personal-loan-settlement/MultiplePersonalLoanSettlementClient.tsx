@@ -149,7 +149,7 @@ export default function MultiplePersonalLoanSettlementClient() {
           </div>
 
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            How to Settle Multiple Personal Loans in India: <span className="text-[#4F85F6]">Simultaneous Multi-Lender Resolution</span>
+            How to Settle Multiple Personal Loans in India Safely
           </h1>
 
           <p className="text-xs sm:text-sm md:text-base text-slate-300 mb-5 max-w-2xl mx-auto leading-relaxed font-normal">

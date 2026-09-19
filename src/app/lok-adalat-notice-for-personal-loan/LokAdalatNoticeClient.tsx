@@ -253,10 +253,7 @@ export default function LokAdalatNoticeClient() {
 
           {/* Compact Title / H1 */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Lok Adalat Notice for Personal Loan Default:{" "}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">
-              Is It Mandatory? Legal Rights &amp; Settlement Guide
-            </span>
+            Lok Adalat Notice for Personal Loan Default: Complete Guide
           </h1>
 
           {/* Subtitle */}

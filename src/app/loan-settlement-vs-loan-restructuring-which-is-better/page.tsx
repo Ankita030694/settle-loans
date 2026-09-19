@@ -241,8 +241,8 @@ export default function LoanRestructuringVsSettlement() {
               Financial Education
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white leading-tight mb-6">
-              <span className="text-[#1F5EFF]">Loan Restructuring</span> vs. <span className="text-[#1F5EFF]">Loan Settlement</span>:<br className="hidden md:block"/> Which is the Better Option in India?
-            </h1>
+            Loan Restructuring vs Settlement: <span className="text-[#1F5EFF]">Which is Better in India?</span>
+          </h1>
             <p className="text-lg md:text-xl text-[#DEDEDE]/80 mb-10 max-w-3xl leading-relaxed">
               When debt becomes unmanageable, Indian banks offer two primary relief mechanisms. Discover the mathematical trade-offs, RBI guidelines, and CIBIL impacts to make the smartest financial decision.
             </p>

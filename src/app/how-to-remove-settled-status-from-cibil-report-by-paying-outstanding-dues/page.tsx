@@ -203,8 +203,8 @@ export default function RemoveSettledStatusPage() {
               Credit Score Repair
             </span>
             <h1 className="text-3xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
-              How to Remove 'Settled' Status from CIBIL Report by <span className="text-[#1F5EFF]">Paying Outstanding Dues</span>
-            </h1>
+            Remove 'Settled' Status from CIBIL by Paying Outstanding Dues
+          </h1>
             <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-3xl mx-auto leading-[1.3] font-normal">
               A technical financial guide for borrowers who previously settled a loan and are now facing loan rejections. Learn how to clear dues and get a 'Closed' status.
             </p>

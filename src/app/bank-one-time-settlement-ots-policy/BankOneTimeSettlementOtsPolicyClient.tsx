@@ -410,8 +410,7 @@ Residential Address: [Your Full Postal Address]`;
 
           {/* H1 Headline - Compact Title Size */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Bank One-Time Settlement (OTS) Policy:{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">How to Negotiate &amp; RBI Haircut Calculation Guide</span>
+            Bank One-Time Settlement (OTS) Policy &amp; Negotiation Guide
           </h1>
 
           {/* Subtitle */}

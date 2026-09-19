@@ -466,7 +466,7 @@ export default function FaircentP2PLoanSettlementPage() {
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Faircent &amp; P2P Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Process, RBI Directives, Legal Defense &amp; Haircut Guide (2026)</span>
+            Faircent &amp; P2P Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Process &amp; RBI Guide</span>
           </h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">

@@ -244,10 +244,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
 
           {/* H1 Headline - Compact Title */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Bank Recovery Agent Calling My Family?{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">
-              Stop Harassment, Know RBI Rules &amp; Take Legal Action
-            </span>
+            Recovery Agents Calling Family? Stop Harassment Legally
           </h1>
 
           {/* Subtitle */}

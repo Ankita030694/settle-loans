@@ -268,8 +268,7 @@ export default function PersonalLoanSettlementFeesClient() {
 
           {/* H1 Headline */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-[#DEDEDE] mb-3 leading-snug tracking-tight">
-            How Much Do Loan Settlement Companies Charge in India?{' '}
-            <span className="text-[#1F5EFF]">(2026 Fee Guide &amp; Scam Warnings)</span>
+            How Much Do Loan Settlement Companies Charge in India? <span className="text-[#1F5EFF]"></span>
           </h1>
 
           {/* Subtitle / Direct Answer Snippet */}

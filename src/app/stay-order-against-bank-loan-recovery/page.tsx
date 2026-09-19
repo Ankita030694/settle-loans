@@ -424,7 +424,7 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Court Stay Order Against Coercive Loan Recovery: <span className="text-[#3b82f6] md:text-[#60a5fa]">Civil Injunctions, Order 39 CPC &amp; Harassment Defense</span>
+            Court Stay Order Against Coercive Loan Recovery: <span className="text-[#3b82f6] md:text-[#60a5fa]">Order 39 CPC</span>
           </h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">

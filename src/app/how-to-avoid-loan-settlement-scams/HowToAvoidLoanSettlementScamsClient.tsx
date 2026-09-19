@@ -248,8 +248,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
 
           {/* H1 Headline */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            How to Identify Fake Loan Settlement Companies{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">(Red Flags, OTS Verification &amp; Safe Relief)</span>
+            How to Identify Fake Loan Settlement Scams &amp; Protect Yourself
           </h1>
 
           {/* Subtitle */}

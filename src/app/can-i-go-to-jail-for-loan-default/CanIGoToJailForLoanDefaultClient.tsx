@@ -307,8 +307,7 @@ Yours faithfully,
 
           {/* Compact Title / H1 */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Can I Go to Jail for Loan Default in India?{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">What Really Happens When You Stop Paying</span>
+            Can You Go to Jail for Loan Default in India? <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Reality</span>
           </h1>
 
           {/* Subtitle */}

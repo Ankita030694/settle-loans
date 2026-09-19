@@ -249,8 +249,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
           {/* Compact Title / H1 */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Can Bank Seize Property for Personal Loan in India?{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Reality &amp; Asset Protection</span>
+            Can Banks Seize Property for Personal Loan in India? <span className="text-[#3b82f6] md:text-[#60a5fa]"></span>
           </h1>
 
           {/* Subtitle */}

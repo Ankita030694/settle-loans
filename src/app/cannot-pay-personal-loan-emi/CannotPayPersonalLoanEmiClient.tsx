@@ -246,8 +246,7 @@ export default function CannotPayPersonalLoanEmiClient() {
 
           {/* H1 Headline - Compact Title */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            I Cannot Pay My Personal Loan EMI:{' '}
-            <span className="text-[#60A5FA]">What Should I Do? (Immediate 2026 Relief Plan)</span>
+            Cannot Pay Personal Loan EMI? <span className="text-[#60A5FA]">Immediate Legal Relief Plan</span>
           </h1>
 
           {/* Subtitle */}

@@ -303,8 +303,7 @@ Yours faithfully,
 
           {/* H1 Headline - Compact Title */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Recovery Agent Visiting Workplace?{' '}
-            <span className="text-[#60A5FA]">RBI Rules, Legal Shield &amp; How to Stop It</span>
+            Recovery Agent Visiting Workplace? <span className="text-[#60A5FA]">RBI Rules &amp; How to Stop It</span>
           </h1>
 
           {/* Subtitle */}

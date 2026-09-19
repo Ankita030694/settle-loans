@@ -293,8 +293,7 @@ SettleLoans Legal Advisory Network`;
 
           {/* H1 Headline - Compact Title */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Cheque Bounce Case for Personal Loan Default?{' '}
-            <span className="text-[#60A5FA]">Section 138 Legal Defense &amp; Settlement Guide</span>
+            Cheque Bounce Case for Loan Default: <span className="text-[#60A5FA]">Section 138 Defense Guide</span>
           </h1>
 
           {/* Subtitle */}

@@ -408,7 +408,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            How to Record Recovery Agent Calls for Court Evidence: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Admissibility, Section 65B &amp; Harassment Protection</span>
+            How to Record Recovery Agent Calls for Court Evidence Legally
           </h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-4 mb-6 flex flex-wrap items-center justify-center gap-4">

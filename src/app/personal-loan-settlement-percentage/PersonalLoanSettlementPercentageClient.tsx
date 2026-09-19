@@ -251,8 +251,7 @@ export default function PersonalLoanSettlementPercentageClient() {
 
           {/* H1 Headline - Compact Title */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            What Percentage is Personal Loan Settlement?{' '}
-            <span className="text-[#60A5FA]">(Average Discounts, OTS Formulas &amp; Fund Planning)</span>
+            What Percentage is Personal Loan Settlement? <span className="text-[#60A5FA]">OTS Discounts</span>
           </h1>
 
           {/* Subtitle */}

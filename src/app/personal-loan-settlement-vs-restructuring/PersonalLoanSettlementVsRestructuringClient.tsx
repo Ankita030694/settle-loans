@@ -259,8 +259,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
           {/* H1 Headline */}
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-black text-[#DEDEDE] mb-4 leading-[1.18] tracking-tight">
-            Personal Loan Settlement vs Restructuring:{' '}
-            <span className="text-[#1F5EFF]">CIBIL Impact, Cost &amp; Decision Matrix</span>
+            Personal Loan Settlement vs Restructuring: <span className="text-[#1F5EFF]">Decision Matrix</span>
           </h1>
 
           {/* Subtitle / Direct Answer Snippet */}

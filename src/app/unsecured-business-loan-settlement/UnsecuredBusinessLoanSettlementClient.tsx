@@ -248,8 +248,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
           </div>
 
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Unsecured Business Loan Settlement Process:{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">MSME Distress, Corporate vs Retail Debt &amp; Haircut Guide</span>
+            Unsecured Business Loan Settlement Process: <span className="text-[#3b82f6] md:text-[#60a5fa]">MSME Debt Guide</span>
           </h1>
 
           <p className="text-xs sm:text-sm md:text-base text-slate-300 mb-5 max-w-2xl mx-auto leading-relaxed font-normal">

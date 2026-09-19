@@ -421,7 +421,7 @@ export default function BankArbitrationNoticeReplyPage() {
           </div>
 
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            How to Reply to Bank Arbitration Notice: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Process, Unilateral Defense &amp; 60% Settlement Guide</span>
+            How to Reply to Bank Arbitration Notice: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Defense Guide</span>
           </h1>
 
           <p className="text-xs sm:text-sm md:text-base text-slate-300 mb-5 max-w-2xl mx-auto leading-relaxed font-normal">

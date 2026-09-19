@@ -422,7 +422,7 @@ export default function RbiOmbudsmanComplaintPage() {
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            The Master Guide to RBI Ombudsman Banking Complaints: <span className="text-[#3b82f6] md:text-[#60a5fa]">Filing Recovery Harassment Cases &amp; Compensation Claims</span>
+            How to File an RBI Ombudsman Complaint for Loan Harassment
           </h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">

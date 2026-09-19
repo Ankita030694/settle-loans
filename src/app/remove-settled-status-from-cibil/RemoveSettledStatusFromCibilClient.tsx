@@ -252,8 +252,7 @@ export default function RemoveSettledStatusFromCibilClient() {
 
           {/* H1 Headline - Compact Title */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            How to Remove Settled Status from CIBIL:{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Process to Upgrade to &quot;Closed&quot;</span>
+            How to Remove Settled Status from CIBIL: <span className="text-[#3b82f6] md:text-[#60a5fa]">Upgrade to Closed</span>
           </h1>
 
           {/* Subtitle */}

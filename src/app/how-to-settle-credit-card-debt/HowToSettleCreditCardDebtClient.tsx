@@ -272,8 +272,7 @@ export default function HowToSettleCreditCardDebtClient() {
 
           {/* H1 Headline */}
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            How to Settle Credit Card Debt in India:{' '}
-            <span className="text-[#3b82f6] md:text-[#60a5fa]">40%–70% Waivers &amp; Legal Protection</span>
+            How to Settle Credit Card Debt in India: <span className="text-[#3b82f6] md:text-[#60a5fa]">40%–70% Waivers</span>
           </h1>
 
           {/* Subtitle / Direct Answer Snippet */}
