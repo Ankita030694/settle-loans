@@ -573,7 +573,7 @@ export default function JobLossLoanSettlementPage() {
                 Corporate restructuring, macroeconomic contraction, technological automation, and sudden organizational downsizing across IT, fintech, e-commerce, and manufacturing sectors have precipitated an unprecedented wave of retail loan defaults in India. For salaried professionals servicing equated monthly installments (EMIs) across personal loans, credit card balances, and consumer durable lines, sudden job loss instantly destroys the debt-to-income equilibrium. What was once a manageable 35% debt service ratio transforms overnight into total insolvency, as recurring monthly obligations collide with zero ongoing cash inflows.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                In Indian banking jurisprudence, the fundamental legal line separating a distressed borrower from a financial delinquent lies in the distinction between an <em>involuntary default</em> and a <em>wilful default</em>. Under the Reserve Bank of India (RBI) Master Circular on Wilful Defaulters, a borrower is branded as a wilful defaulter only if they intentionally withhold repayment despite possessing adequate liquid capacity, siphoned borrowed funds into unapproved avenues, or fraudulently disposed of hypothecated collateral. A salaried professional who dutifully serviced loans for years and defaulted solely due to documented corporate retrenchment, termination without cause, or company liquidation stands entirely outside the ambit of wilful default.
+                Indian banking jurisprudence draws a clear line between distressed borrowers and financial delinquents. This distinction rests on <em>involuntary default</em> versus <em>wilful default</em>. Under the RBI Master Circular on Wilful Defaulters, a borrower is branded wilful only if they intentionally withhold repayment despite having liquid capacity, siphon funds, or fraudulently dispose of collateral. A salaried professional who defaulted due to corporate retrenchment or company liquidation stands entirely outside the ambit of wilful default.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Unsecured personal loans and credit cards represent bilateral civil contracts governed exclusively by the Indian Contract Act, 1872. When an unexpected loss of employment renders performance impossible due to objective financial incapacity, the legal relationship transitions from active servicing into dispute conciliation. Distressed borrowers hold explicit statutory protections under the RBI Master Directions on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24). Regulated financial institutions cannot coerce unpayable installments through extrajudicial threats and are mandated by prudential accounting standards to evaluate genuine hardship petitions for structured compromise settlements.
@@ -598,7 +598,7 @@ export default function JobLossLoanSettlementPage() {
                 Compiling the Evidentiary Hardship Dossier
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Bank credit committees and stressed asset managers do not sanction substantial debt waivers based on verbal explanations or generic emotional pleas. Under internal bank auditing standards and RBI supervisory guidelines, every rupee of debt haircut granted on a Non-Performing Asset (NPA) must be legally justified by objective evidentiary records. A borrower who submits an unassailable, meticulously documented <strong>Hardship Portfolio</strong> shifts the balance of power during compromise negotiations, proving conclusively that liquid recovery is impossible and that a discounted One-Time Settlement (OTS) represents the lender&apos;s sole viable recovery mechanism.
+                Bank credit committees do not sanction debt waivers based on verbal explanations. Under internal auditing standards and RBI supervisory guidelines, every rupee of debt haircut must be justified by evidentiary records. A borrower who submits a documented <strong>Hardship Portfolio</strong> shifts the balance of power during negotiations. It proves that full liquid recovery is impossible, making a discounted One-Time Settlement (OTS) the bank&apos;s sole viable option.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A legally robust hardship dossier comprises five primary documentary pillars that substantiate total income cessation, depletion of emergency liquidity, and genuine insolvency:
@@ -665,13 +665,13 @@ export default function JobLossLoanSettlementPage() {
                 NPA Delinquency Lifecycle &amp; Bank Provisioning Windows
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                To negotiate a maximum debt waiver following unemployment, a borrower must understand the institutional accounting mechanics governing Indian banking operations. Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), banks and non-banking financial companies (NBFCs) are subject to stringent regulatory aging schedules that dictate their willingness to compromise.
+                To negotiate a maximum debt waiver following job loss, understand the bank&apos;s accounting mechanics. Under RBI IRACP norms and Ind AS 109 Expected Credit Loss frameworks, lenders face strict regulatory provisioning schedules. These aging schedules dictate when and why credit committees are willing to compromise.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 During the initial 90 days of missed payments, the account progresses through Special Mention Account stages (SMA-0 from Days 1–30, SMA-1 from Days 31–60, and SMA-2 from Days 61–90). In this phase, the bank categorizes the loan as a standard asset with temporary distress and expends massive operational energy trying to collect regular installments. Negotiating an OTS during early SMA stages is notoriously difficult because branch managers face punitive scrutiny for writing off loans that have not yet crossed the Non-Performing Asset threshold.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The strategic inflection point occurs at <strong>Day 91</strong>, when the loan is formally classified as a Non-Performing Asset (NPA). Once an account enters NPA status, the bank must halt income recognition (penal and normal interest can no longer be credited to bank profit) and allocate mandatory balance-sheet capital reserves to cover potential loan loss (15% provisioning for Substandard Assets, escalating to 25%–40% for Doubtful Assets, and 100% for Loss Assets).
+                The strategic inflection point occurs at <strong>Day 91</strong>, when the loan becomes a Non-Performing Asset (NPA). Once an account enters NPA status, the bank must halt income recognition. It must also allocate mandatory capital reserves to cover potential loan losses (15% for Substandard, 25%–40% for Doubtful, and 100% for Loss Assets).
               </p>
 
               {/* Timeline Stage Breakdown */}
@@ -700,7 +700,7 @@ export default function JobLossLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The ultimate negotiation sweet spot occurs between <strong>Day 120 and Day 180</strong>. At this juncture, third-party recovery commissions have peaked, internal legal notices have established bona fide hardship, and credit committees are actively seeking cash recoveries to clean their balance sheets before quarterly audits without incurring the multi-year friction of civil litigation.
+                The primary negotiation sweet spot occurs between <strong>Day 120 and Day 180</strong>. At this stage, recovery agency commissions have peaked. In addition, internal records have established bona fide hardship. Credit committees actively seek cash recoveries to clean balance sheets before audits without incurring multi-year litigation costs.
               </p>
             </section>
 
@@ -714,7 +714,7 @@ export default function JobLossLoanSettlementPage() {
                 Net Present Value (NPV) Recovery Modeling
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers frequently wonder why a commercial banking institution would willingly forfeit 50% to 70% of an outstanding loan. The answer lies strictly in mathematical risk management and the economic doctrine of <strong>Net Present Value (NPV) Recovery Valuation</strong>. Under RBI Master Directions, bank credit committees are instructed to compare the immediate cash recovery of an OTS against the discounted present value of pursuing civil litigation against an unemployed borrower who owns no attachable commercial assets.
+                Borrowers often wonder why a commercial bank would willingly forfeit 50% to 70% of an outstanding debt. The answer lies in risk management and <strong>Net Present Value (NPV) Recovery Valuation</strong>. Under RBI Master Directions, credit committees must compare immediate OTS cash against the discounted present value of litigating against an unemployed borrower with no attachable assets.
               </p>
 
               {/* JSX Formula Box */}
@@ -910,7 +910,7 @@ export default function JobLossLoanSettlementPage() {
                 OTS Sanction Letters: 5 Key Clauses & ₹0 NDC Mandate
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The single greatest risk facing distressed borrowers is the prevalence of fraudulent oral promises and fabricated settlement letters issued by rogue collection agency callers. Tele-callers frequently induce borrowers to deposit partial tokens—falsely promising that paying ₹50,000 will settle a ₹5 Lakh loan—only for the bank to treat the payment as an overdue interest adjustment, leaving the full debt fully active and compounding.
+                The greatest risk facing distressed borrowers is fake oral promises made by rogue collection agents. Tele-callers frequently induce borrowers to deposit token amounts like ₹50,000 on a ₹5 Lakh loan. The bank then treats this token as overdue interest rather than a settlement. This leaves the full debt active and compounding.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To guarantee absolute legal closure, borrowers must verify that their <strong>OTS Sanction Letter</strong> contains five mandatory verification parameters before disbursing settlement consideration:
@@ -994,7 +994,7 @@ export default function JobLossLoanSettlementPage() {
                 Rebuilding Your CIBIL Score from &apos;Settled&apos; to 750+ Post-Re-employment
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Executing a loan settlement updates your credit bureau status to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While this entry leads to an immediate credit score dip of 75 to 150 points and triggers a standard 12-month cooling period under RBI directives, it permanently terminates compounding default marks, halts legal notices, and eliminates debt harassment.
+                Executing a loan settlement updates your credit bureau status to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. This entry leads to an initial score dip of 75 to 150 points and a 12-month cooling period. However, it permanently terminates compounding default marks, quashes legal notices, and eliminates harassment.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Once new employment is secured, borrowers can systematically rehabilitate their credit profile back to prime status (750+) within 18 to 24 months through a disciplined 3-step credit rebuilding roadmap:

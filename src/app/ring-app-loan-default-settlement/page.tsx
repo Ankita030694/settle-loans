@@ -605,7 +605,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 The Ring App (branded as PayWithRing and operated alongside Kissht by Onemi Technology Solutions Private Limited) represents a fast-growing segment of digital revolving credit in India. Targeted extensively at young salaried professionals, freelancers, self-employed merchants, and gig economy workers, Ring delivers instant digital credit lines ranging from ₹5,000 to ₹2,000,000 via quick UPI-based merchant scan-and-pay transactions and direct cash transfers.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Unlike traditional fixed-tenure personal term loans, Ring functions as an algorithmic revolving credit facility underwritten primarily by its RBI-registered Non-Banking Financial Company (NBFC) partner, <strong>Si Creva Capital Services Private Limited</strong> (alongside institutional co-lenders such as Poonawalla Fincorp and MAS Financial). When a user draws funds, repayment cycles are structured on ultra-short horizons—typically 15 to 30 days. When financial distress occurs due to sudden job loss, medical emergencies, or micro-business cash-flow disruptions, the revolving credit mechanism transforms into an aggressive compounding debt cycle.
+                Unlike traditional fixed-tenure loans, Ring functions as a revolving credit facility. It is underwritten primarily by its RBI-registered NBFC partner, <strong>Si Creva Capital Services Private Limited</strong>, alongside co-lenders like Poonawalla Fincorp. Repayment cycles are ultra-short, typically 15 to 30 days. When financial distress strikes due to job loss or illness, this revolving structure quickly turns into an aggressive compounding debt cycle.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Upon default, Ring&apos;s automated systems instantly impose steep daily penalty rates, late payment charges, and automated transaction fees, which can quickly inflate the ledger balance by 50% to 100% within a few billing cycles. Simultaneously, automated predictive dialers and AI collection bots execute dozens of daily calls, triggering severe psychological distress. Under the Indian Contract Act, 1872, defaulting on an unsecured digital credit line is strictly a civil dispute. Distressed borrowers hold robust statutory rights under Reserve Bank of India (RBI) regulations to stop harassment, demand an audit of inflated fees, and negotiate a binding One-Time Settlement (OTS).
@@ -630,7 +630,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 Ring App Delinquency Lifecycle: DPD 1-30 to NPA Stage
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), Si Creva Capital categorizes defaulted Ring app credit lines into progressive Days Past Due (DPD) stages. Understanding this aging process allows borrowers to time their settlement negotiations for maximum financial relief.
+                Si Creva Capital categorizes defaulted credit lines into progressive Days Past Due (DPD) stages. It operates under RBI IRACP norms and Ind AS 109 Expected Credit Loss frameworks. Understanding this aging process allows borrowers to time settlement negotiations for maximum financial relief.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 During the early delinquency window (DPD 1 to 60), the fintech platform utilizes aggressive digital follow-ups, interactive voice response (IVR) auto-dialers, and outsourced recovery calling. However, once the default crosses 90 consecutive days, the account is classified as a Non-Performing Asset (NPA). At this stage, Si Creva Capital is legally mandated to create balance-sheet capital provisioning. The economic incentive shifts from routine collection to capital recovery via structured compromise settlements.
@@ -718,7 +718,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
                   <h3 className="font-bold text-slate-900 text-sm mb-1">1. Cancel NACH Auto-Debits via Destination Bank</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Under National Payments Corporation of India (NPCI) circulars, every account holder possesses the absolute right to instruct their bank in writing or via net banking to cancel or suspend the e-mandate registered to Si Creva Capital, halting future bounce fees immediately.
+                    Under NPCI circulars, every account holder possesses clear statutory rights. You have the right to instruct your bank in writing or via net banking to cancel or suspend the e-mandate registered to Si Creva Capital. This halts future bank bounce fees immediately.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
@@ -749,7 +749,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 Under the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), NBFCs must maintain transparent, board-approved compromise settlement frameworks. When evaluating settlement proposals for defaulted Ring app credit lines, Si Creva Capital applies an analytical Net Present Value (NPV) recovery formula.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because digital micro-credit lines carry zero collateral, the NBFC must mathematically evaluate an immediate lump-sum settlement offer against the uncertain, discounted present value of pursuing judicial recovery through civil courts or arbitration, after factoring in advocate retainers, court fees, and operational overhead.
+                Digital micro-credit lines carry zero collateral. Consequently, the NBFC evaluates an immediate lump-sum settlement offer against the uncertain present value of judicial recovery. After factoring in advocate retainers, court fees, and collection overhead, an OTS is often financially superior for the lender.
               </p>
 
               {/* NPV Formula Box */}
@@ -886,7 +886,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 The Supreme Court of India in landmark precedents (including <em>ICICI Bank Ltd. v. Prakash Kaur</em> and <em>Anita Suresh v. Union of India</em>) has established that financial institutions and NBFCs cannot employ musclemen or extra-judicial intimidation for debt recovery. Under Section 354D, 503, and 506 of the Indian Penal Code (and corresponding provisions of the Bharatiya Nyaya Sanhita), criminal intimidation, cyber-stalking, and unauthorized harassment of family members constitute punishable criminal offences.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Furthermore, the Reserve Bank of India&apos;s Fair Practices Code mandates that: (a) Agents cannot contact borrowers outside the 08:00 AM to 07:00 PM window; (b) Access to contacts, photos, or media stored on borrower smartphones is strictly prohibited; (c) Any physical visit must be preceded by formal written notice and conducted strictly by IIBF-certified DRA personnel carrying valid authorization badges; (d) Shaming borrowers in front of family, neighbors, or workplace colleagues is an actionable regulatory violation.
+                Furthermore, the Reserve Bank of India&apos;s Fair Practices Code mandates that: (a) Agents cannot contact borrowers outside the 08:00 AM to 07:00 PM window. (b) Access to contacts, photos, or media stored on borrower smartphones is strictly prohibited. (c) Any physical visit must be preceded by formal written notice and conducted strictly by IIBF-certified DRA personnel carrying valid authorization badges. (d) Shaming borrowers in front of family, neighbors, or workplace colleagues is an actionable regulatory violation.
               </p>
             </section>
 
@@ -965,7 +965,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                     Forensic Audit of the Stamped OTS Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Before making any payment, verify that the NBFC issues an official OTS Sanction Letter on Si Creva Capital letterhead specifying loan account numbers, sanctioned settlement amount, payment deadlines, and unambiguous covenants confirming complete debt discharge and legal withdrawal.
+                    Before making any payment, verify the settlement documentation carefully. Ensure the NBFC issues an official OTS Sanction Letter on Si Creva Capital letterhead. The letter must state your loan account numbers, sanctioned amount, payment deadlines, and covenants confirming full debt discharge and legal withdrawal.
                   </p>
                 </div>
 
@@ -994,7 +994,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 Section 25 PSSA, Digital Arbitration & Lok Adalat
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When a Ring app credit line crosses 60 to 90 days of non-payment, the lending NBFC routinely issues statutory demand notices under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> for dishonoured electronic NACH mandates, alongside notices invoking sole private digital arbitration in Mumbai or Delhi.
+                When a Ring app credit line crosses 60 to 90 days of non-payment, the lending NBFC issues statutory notices. These notices fall under <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong> for dishonoured NACH mandates. The lender may also issue notices invoking private digital arbitration in Mumbai or Delhi.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A Section 25 PSSA notice is a statutory precursor to a Magistrate Court complaint, not an arrest warrant. Responding through counsel within the 15-day statutory window detailing bona fide commercial hardship, challenging excessive penal fees, and opening compromise negotiations protects your legal standing while halting litigation escalation.
@@ -1065,10 +1065,10 @@ export default function RingAppLoanDefaultSettlementPage() {
                 A serious risk in digital debt recovery involves rogue collection agents issuing fake settlement letters or demanding cash / personal UPI transfers. If a borrower transfers funds against an unverified or verbal offer, the NBFC credits the money toward outstanding penal charges, leaving the default open and compounding.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers must verify that the OTS sanction letter is printed on official Si Creva Capital Services Private Limited letterhead containing the Corporate Identification Number (CIN: U65923MH2017PTC292497), registered Mumbai office address, unique settlement proposal reference number, authorized signatory designation, employee code, and official corporate seal.
+                Borrowers must verify that the OTS letter is printed on official Si Creva Capital Services letterhead. It must show the Corporate Identification Number (CIN: U65923MH2017PTC292497) and Mumbai office address. It must also include a unique proposal reference number, authorized signatory designation, employee code, and corporate seal.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The sanction letter must explicitly confirm that upon payment of the agreed sum, the account is fully discharged with zero further financial liability. Under RBI Circular RBI/2023-24/60, Si Creva Capital must deliver the formal No Dues Certificate (NDC) and cancel all security mandates within 30 calendar days, or pay mandatory statutory compensation of ₹5,000 per day of delay directly to the borrower.
+                The sanction letter must confirm that payment of the agreed sum discharges the account with zero further liability. Under RBI Circular RBI/2023-24/60, Si Creva Capital must deliver the No Dues Certificate (NDC) within 30 calendar days. It must also cancel all security mandates or pay statutory compensation of ₹5,000 per day of delay directly to the borrower.
               </p>
             </section>
 
@@ -1082,13 +1082,13 @@ export default function RingAppLoanDefaultSettlementPage() {
                 CIBIL Score Trajectory & 18-Month Recovery Plan
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Completing a One-Time Settlement with Ring App results in the account being reported to all four licensed credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 70 to 120 points.
+                Settling with Ring App updates your status across all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark). The account is marked <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. While this causes an initial drop of 70 to 120 points, it halts compounding default charges.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI compromise directives, a mandatory 12-month cooling-off window applies before fresh unsecured credit lines can be approved. However, a &apos;Settled&apos; record with ₹0 balance is vastly superior to an active, compounding &apos;Default&apos; status that degrades credit scores every month and invites ongoing legal action.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can systematically restore their credit score to 750+ within 18 to 24 months by securing a fixed-deposit-backed credit card (FD card), maintaining credit utilization strictly below 25%, and ensuring 100% on-time payment records on all living utilities and surviving credit obligations.
+                Borrowers can systematically restore their credit score to 750+ within 18 to 24 months. You can secure a fixed-deposit-backed credit card (FD card) and maintain credit utilization below 25%. In addition, ensure on-time payment records on all living utilities and surviving financial obligations.
               </p>
             </section>
 
@@ -1102,7 +1102,7 @@ export default function RingAppLoanDefaultSettlementPage() {
                 Why Distressed Ring App Borrowers Trust SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Resolving defaulted digital credit lines with high-volume fintech lenders like Ring requires skilled legal advocacy and comprehensive regulatory compliance. SettleLoans halts third-party recovery harassment through immediate cease-and-desist notices, defends against Section 25 PSSA summons, challenges unilateral digital arbitration notices, and negotiates directly with Si Creva Capital&apos;s Stressed Assets Desks to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
+                Resolving defaulted digital credit lines requires skilled advocacy. SettleLoans halts third-party harassment through immediate cease-and-desist notices. We defend against Section 25 PSSA summons and challenge unilateral arbitration notices. Furthermore, we negotiate directly with Si Creva Capital&apos;s Stressed Assets Desks to secure maximum lawful waivers and authentic ₹0 No Dues Certificates.
               </p>
 
               {/* Placement of Reusable CompanySection */}

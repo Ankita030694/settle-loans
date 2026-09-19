@@ -125,7 +125,7 @@ export default function InstantAppLoanSettlementClient() {
       question: "What should you do if an instant loan app is calling your contacts and threatening with morphed photos?",
       answer: (
         <p>
-          If an instant loan app harvests your contact list and threatens morphed media: (1) Immediately revoke all mobile permissions and uninstall the application; (2) Dial <strong>1930</strong> and register a formal cyber extortion FIR on <strong>cybercrime.gov.in</strong> under Sections 66E/67 of the IT Act and Section 308(2) of the Bharatiya Nyaya Sanhita (BNS); (3) Issue a proactive broadcast message to your family, friends, and colleagues warning that your phone was compromised by a cyber fraud syndicate; (4) Cease all monetary transfers, as sending token payments only fuels further extortion cycles.
+          If an instant loan app harvests your contact list and threatens morphed media: (1) Immediately revoke all mobile permissions and uninstall the application. (2) Dial <strong>1930</strong> and register a formal cyber extortion FIR on <strong>cybercrime.gov.in</strong> under Sections 66E/67 of the IT Act and Section 308(2) of the Bharatiya Nyaya Sanhita (BNS). (3) Issue a proactive broadcast message to your family, friends, and colleagues warning that your phone was compromised by a cyber fraud syndicate. (4) Cease all monetary transfers, as sending token payments only fuels further extortion cycles.
         </p>
       )
     },
@@ -149,7 +149,7 @@ export default function InstantAppLoanSettlementClient() {
       question: "What are the Reserve Bank of India (RBI) Digital Lending Guidelines regarding loan apps?",
       answer: (
         <p>
-          Under the <strong>RBI Master Directions on Digital Lending</strong>: (1) All loan disbursals and repayments must execute strictly between the borrower&apos;s bank account and the Regulated Entity&apos;s bank account without passing through third-party pool accounts; (2) Digital Lending Apps cannot access mobile phone storage, media, files, or contact lists; (3) All fees must be disclosed in a standardized Key Fact Statement (KFS); (4) Regulated entities must maintain a dedicated Principal Nodal Grievance Officer.
+          Under the <strong>RBI Master Directions on Digital Lending</strong>: (1) All loan disbursals and repayments must execute strictly between the borrower&apos;s bank account and the Regulated Entity&apos;s bank account without passing through third-party pool accounts. (2) Digital Lending Apps cannot access mobile phone storage, media, files, or contact lists. (3) All fees must be disclosed in a standardized Key Fact Statement (KFS). (4) Regulated entities must maintain a dedicated Principal Nodal Grievance Officer.
         </p>
       )
     },
@@ -165,7 +165,7 @@ export default function InstantAppLoanSettlementClient() {
       question: "What percentage of debt waiver can you negotiate on an RBI-regulated digital lending app?",
       answer: (
         <p>
-          On defaulted unsecured loans with RBI-regulated digital lenders and partner NBFCs that have crossed 90+ days overdue (NPA status), borrowers can negotiate comprehensive One-Time Settlements with a <strong>40% to 65% principal haircut</strong>, along with a <strong>100% complete waiver</strong> of late payment penalties, penal interest, and bounce charges.
+          On defaulted loans with RBI-regulated digital lenders crossed 90+ days overdue (NPA status), borrowers can negotiate comprehensive settlements. You can secure a <strong>40% to 65% principal haircut</strong>, along with a <strong>100% complete waiver</strong> of late penalties, penal interest, and bounce charges.
         </p>
       )
     },
@@ -173,7 +173,7 @@ export default function InstantAppLoanSettlementClient() {
       question: "Where can victims file complaints against predatory instant loan apps in India?",
       answer: (
         <p>
-          Victims can lodge complaints across three statutory forums: (1) <strong>National Cyber Crime Reporting Portal (cybercrime.gov.in)</strong> or Helpline 1930 for extortion, photo morphing, and contact harassment; (2) <strong>RBI Complaint Management System (cms.rbi.org.in)</strong> against RBI-regulated NBFCs or their digital lending partners for Fair Practices Code violations; (3) <strong>Local Cyber Crime Police Stations</strong> by filing a physical complaint under the IT Act, 2000 and criminal extortion sections.
+          Victims can lodge complaints across three statutory forums: (1) <strong>National Cyber Crime Reporting Portal (cybercrime.gov.in)</strong> or Helpline 1930 for extortion, photo morphing, and contact harassment. (2) <strong>RBI Complaint Management System (cms.rbi.org.in)</strong> against RBI-regulated NBFCs or their digital lending partners for Fair Practices Code violations. (3) <strong>Local Cyber Crime Police Stations</strong> by filing a physical complaint under the IT Act, 2000 and criminal extortion sections.
         </p>
       )
     },
@@ -181,7 +181,7 @@ export default function InstantAppLoanSettlementClient() {
       question: "What should you do if an instant loan app already disbursed money into your account without consent?",
       answer: (
         <p>
-          Unsolicited disbursals are a classic tactic used by predatory APK syndicates. If unsolicited funds land in your bank account: (1) Do not spend or transfer the money; (2) Report the unsolicited credit transaction to your bank branch immediately; (3) File an emergency cyber crime incident report on <strong>cybercrime.gov.in</strong> documenting the forced transfer; (4) If contacted by recovery agents, refuse extortion charges and instruct them in writing to reverse the transaction through official banking channels only.
+          Unsolicited disbursals are a classic tactic used by predatory APK syndicates. If unsolicited funds land in your bank account: (1) Do not spend or transfer the money. (2) Report the unsolicited credit transaction to your bank branch immediately. (3) File an emergency cyber crime incident report on <strong>cybercrime.gov.in</strong> documenting the forced transfer. (4) If contacted by recovery agents, refuse extortion charges and instruct them in writing to reverse the transaction through official banking channels only.
         </p>
       )
     },
@@ -189,7 +189,7 @@ export default function InstantAppLoanSettlementClient() {
       question: "How does SettleLoans help victims of predatory instant loan apps and regulated digital lenders?",
       answer: (
         <p>
-          SettleLoans provides comprehensive legal protection: (1) Immediate cyber fraud filing and legal cease-and-desist representation to halt contact harassment; (2) Strategic legal isolation of illegal extortion syndicates; (3) Formal OTS negotiations directly with the Stressed Assets Committees of RBI-registered NBFCs for maximum lawful debt waivers; (4) Verification of stamped settlement letters, No Dues Certificates, and credit bureau report rectification.
+          SettleLoans provides comprehensive legal protection: (1) Immediate cyber fraud filing and legal cease-and-desist representation to halt contact harassment. (2) Strategic legal isolation of illegal extortion syndicates. (3) Formal OTS negotiations directly with the Stressed Assets Committees of RBI-registered NBFCs for maximum lawful debt waivers. (4) Verification of stamped settlement letters, No Dues Certificates, and credit bureau report rectification.
         </p>
       )
     }
@@ -352,13 +352,13 @@ export default function InstantAppLoanSettlementClient() {
                 Predatory 7-Day Loan Apps vs RBI Regulated Platforms
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The Indian digital lending ecosystem is sharply divided into two distinct operating models: legitimate Digital Lending Apps (DLAs) partnered with Reserve Bank of India (RBI)-registered Non-Banking Financial Companies (NBFCs) or commercial banks, and unauthorized, predatory instant loan applications operating illicit cross-border extortion syndicates. Recognizing which category your lender belongs to represents the essential first step in determining your legal defense and settlement strategy.
+                The Indian digital lending ecosystem is divided into two distinct operating models. The first includes legitimate Digital Lending Apps (DLAs) partnered with RBI-registered NBFCs or banks. The second encompasses unauthorized, predatory instant loan apps operating illicit extortion syndicates. Identifying which category your lender belongs to is the essential first step in determining your legal defense strategy.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Predatory instant loan apps—often distributed through sideloaded Android Package Kits (APKs), rogue social media advertisements, or short-lived entries on third-party app stores—employ predatory business algorithms. They lure cash-strapped individuals by offering instantaneous micro-credit without standard underwriting or credit verification. However, upon disbursement, these entities immediately deduct 40% to 50% of the loan amount under the pretext of arbitrary &quot;processing fees&quot; and &quot;technology charges&quot; (for example, disbursing only ₹3,300 on an approved ₹6,000 credit line) and demand full repayment within an aggressive 6-to-7-day tenure. This structure results in effective annualized percentage rates (APR) exceeding 3,000%.
+                Predatory instant loan apps are often distributed through sideloaded APKs or rogue social media ads. They lure cash-strapped individuals by offering instant credit without standard underwriting. Upon disbursement, they immediately deduct 40% to 50% of the loan amount as arbitrary &quot;processing fees&quot;. For instance, they may disburse only ₹3,300 on an approved ₹6,000 loan, demanding full repayment within 7 days. This results in effective annualized interest rates exceeding 3,000%.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Conversely, RBI-regulated digital lenders (such as KreditBee, Navi, MoneyView, Cashe, and Kissht operating in partnership with regulated balance-sheet NBFCs) are legally bound by the Banking Regulation Act, 1949 and the RBI Master Directions on Digital Lending. Under these regulatory frameworks, retail borrowing is strictly a civil contractual relationship governed by the Indian Contract Act, 1872. Operating an unauthorized digital lending scheme without valid registration constitutes a severe violation of Section 45-IA of the Reserve Bank of India Act, 1934.
+                Conversely, RBI-regulated digital lenders (such as KreditBee, Navi, MoneyView, Cashe, and Kissht) operate under strict rules. They are legally bound by the Banking Regulation Act, 1949 and RBI Digital Lending Directions. Under these frameworks, retail borrowing is strictly a civil contractual relationship. Operating an unauthorized lending scheme without valid registration violates Section 45-IA of the RBI Act, 1934.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
@@ -403,10 +403,10 @@ export default function InstantAppLoanSettlementClient() {
                 Victims of predatory digital lending apps enjoy robust legal protections under Indian penal statutes, cyber law, and central banking directives. When recovery agents resort to photo morphing, abusive tele-calling, or contact harassment, their actions cross from commercial default into cognizable criminal offenses that carry severe imprisonment terms for the perpetrators.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the Information Technology Act, 2000, Section 66E explicitly criminalizes the capturing, publishing, or transmitting of private images without consent, prescribing rigorous imprisonment up to three years. Furthermore, Section 67 penalizes the electronic transmission of obscene or sexually explicit material with imprisonment up to five years, while Section 43A mandates strict corporate liability and financial compensation for unauthorized data breaches and privacy compromises.
+                Under the Information Technology Act, 2000, Section 66E criminalizes transmitting private images without consent, prescribing imprisonment up to three years. In addition, Section 67 penalizes transmitting obscene material with imprisonment up to five years. Section 43A mandates corporate liability and compensation for unauthorized data breaches.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the Bharatiya Nyaya Sanhita (BNS), 2023, these extortionate actions trigger prosecution under Section 308(2) (Extortion through threat of injury or reputational damage), Section 351 (Criminal Intimidation), Section 79 (Insulting the modesty of a woman through digital media), and Section 336 (Forgery of legal documents). Simultaneously, the RBI Master Directions on Digital Lending strictly prohibit regulated entities from accessing phone storage, media files, and contact lists, mandating that all disbursements and collections execute solely through verified bank accounts of regulated entities.
+                Under the Bharatiya Nyaya Sanhita (BNS), 2023, extortion triggers prosecution under Section 308(2) and Section 351 (Criminal Intimidation). It also triggers Section 79 (Insulting the modesty of a woman) and Section 336 (Forgery). Simultaneously, RBI Digital Lending Directions strictly prohibit accessing phone storage, media files, or contact lists. All disbursements and collections must route through verified bank accounts.
               </p>
 
               {/* Comprehensive Statutory Comparison Table */}
@@ -466,7 +466,7 @@ export default function InstantAppLoanSettlementClient() {
                 Filing Complaints on Cyber Crime Portal (1930)
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When facing active cyber blackmail or contact harassment, immediate statutory reporting creates an enforceable evidentiary shield. The Ministry of Home Affairs (MHA), through the Indian Cyber Crime Coordination Centre (I4C), manages the National Cyber Crime Reporting Portal and the dedicated emergency helpline <strong>1930</strong> (formerly 155260), specifically equipped to handle digital lending fraud and financial extortion.
+                When facing active cyber blackmail or contact harassment, prompt reporting creates an evidentiary shield. The Ministry of Home Affairs, through the I4C, manages the National Cyber Crime Reporting Portal. Victims can call the emergency helpline <strong>1930</strong>, which is equipped to handle digital lending fraud and financial extortion.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The moment extortion threats or morphed media emerge, dial <strong>1930</strong> immediately. The citizen financial cyber fraud reporting system logs your incident and triggers an automated alert across participating banking networks and UPI gateways to freeze the illicit mule accounts utilized by the extortion syndicate.
@@ -545,7 +545,7 @@ export default function InstantAppLoanSettlementClient() {
                 Extortion syndicates rely entirely on isolation, shame, and social panic. The moment a victim capitulates to fear and transfers money to stop a photo leak, the syndicate flags the profile as &quot;paying&quot; and escalates extortion demands through secondary and tertiary rogue numbers. Neutralizing their leverage requires executing an immediate, proactive narrative takeover before the extortionists initiate mass calling.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Execute the proven <strong>Broadcast Shielding Protocol</strong>: Send a clear broadcast message across WhatsApp, SMS, and your social media channels alerting your entire contact circle that your smartphone was recently infected by malicious spyware that cloned your contact list. Clarify that cyber criminals are circulating fraudulent, computer-generated spam, fake loan notices, and morphed imagery from random virtual numbers to extort money. Request your contacts to block and report any unsolicited calls or messages immediately.
+                Execute the proven <strong>Broadcast Shielding Protocol</strong>. Send a broadcast message across WhatsApp, SMS, and social media alerting your contacts that your phone was infected by malware that cloned your address book. Clarify that cyber criminals are circulating fraudulent spam and morphed imagery from virtual numbers to extort money. Request your contacts to block and report unsolicited calls immediately.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Once this proactive disclosure is distributed, the extortionists lose 100% of their psychological leverage. Family members and colleagues who receive rogue calls are already forewarned and will dismiss the callers as cyber scammers. Combine this with a strict policy of zero communication: block all unknown numbers using call-screening tools, delete suspicious APKs, and refuse to engage in WhatsApp arguments with tele-callers.
@@ -568,7 +568,7 @@ export default function InstantAppLoanSettlementClient() {
                 <strong>Track A: Unauthorized 7-Day Predatory Apps:</strong> These operations are criminal enterprises with zero corporate registration, no RBI licensing, and no legal standing. The only lawful strategy is complete non-cooperation and legal isolation. Never pay extortion demands or renewal charges. Secure your Cyber Crime complaint acknowledgement, block their communications, and report their payment UPI handles to the National Payments Corporation of India (NPCI) and cyber police. These entities cannot initiate civil suits, issue legal notices, or access Lok Adalat.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                <strong>Track B: RBI-Regulated Digital Lending Apps (Partnered NBFCs):</strong> When default occurs on legitimate fintech platforms (such as KreditBee, Navi, MoneyView, or Cashe) due to genuine economic hardship, debt resolution follows the <strong>RBI Master Direction on Compromise Settlements (2023)</strong>. Once an unsecured digital loan crosses 90 days overdue and enters Non-Performing Asset (NPA) status, the partner NBFC must allocate capital provisioning. Distressed borrowers can submit a formal hardship petition directly to the lender&apos;s Stressed Assets Committee to secure a 40% to 65% principal haircut and complete cancellation of all penal fees.
+                <strong>Track B: RBI-Regulated Digital Lending Apps (Partnered NBFCs):</strong> When default occurs on legitimate platforms (like KreditBee, Navi, or MoneyView), resolution follows the <strong>RBI Master Direction on Compromise Settlements (2023)</strong>. Once an unsecured loan crosses 90 days and enters NPA status, the NBFC must allocate provisioning. Borrowers can submit a hardship petition to the Stressed Assets Committee to secure a 40% to 65% principal haircut and full cancellation of penal fees.
               </p>
 
               {/* Settlement Strategy Matrix Table */}

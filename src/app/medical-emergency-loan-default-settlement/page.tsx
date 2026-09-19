@@ -573,10 +573,10 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 Healthcare Debt Trap: Medical Distress vs Wilful Default
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                In India, out-of-pocket healthcare expenditure remains one of the primary drivers of sudden household insolvency. When a catastrophic medical event strikes—such as an emergency coronary artery bypass, intensive oncology chemotherapy cycles, neurosurgical interventions, multi-organ trauma from vehicular accidents, or chronic organ failure—household savings, emergency fixed deposits, and provident funds are liquidated within days. Even when families maintain basic health insurance coverage, stringent policy sub-limits, non-payable medical consumables, and arbitrary Third Party Administrator (TPA) claim deductions force borrowers to absorb millions of rupees in direct hospital liabilities.
+                In India, out-of-pocket healthcare expenditure is a leading cause of sudden household insolvency. Catastrophic medical emergencies—such as cardiac surgeries, oncology chemotherapy, neurosurgery, or chronic organ failure—liquidate savings and provident funds within days. Even with health insurance coverage, strict sub-limits, non-payable consumables, and TPA deductions force families to absorb immense direct hospital bills.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When monthly cash flows are entirely diverted toward life-saving medicines and hospital billing counters, equated monthly installments (EMIs) on personal loans, credit card balances, and consumer credit lines inevitably default. In Indian banking jurisprudence, this scenario represents the quintessential definition of an <strong>involuntary default</strong>. Under the Reserve Bank of India (RBI) Master Circular on Wilful Defaulters, a borrower can only be categorized as a wilful defaulter if they possess liquid financial capacity but intentionally refuse repayment, siphon funds into speculative avenues, or fraudulently dispose of charged assets.
+                When cash flows are diverted toward medical bills, personal loan EMIs and credit card balances inevitably default. In Indian banking law, this scenario represents an <strong>involuntary default</strong>. Under the RBI Master Circular on Wilful Defaulters, a borrower is categorized as wilful only if they possess liquid funds but refuse repayment, siphon money, or fraudulently dispose of assets.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A salaried professional or self-employed borrower who maintained an unblemished repayment track record for years and defaulted solely due to verified critical illness or prolonged inpatient hospitalization stands completely protected against wilful default classifications. Unsecured retail loans represent civil contractual obligations governed by the Indian Contract Act, 1872. Under the doctrine of objective financial frustration and the RBI Master Directions on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), regulated banking entities are legally mandated to entertain compassionate grounds compromise petitions and negotiate realistic debt closures.
@@ -724,7 +724,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                During the early SMA stages (Days 1 to 90), frontline collection tele-callers operate on rigid scripts and aggressive commission incentives. They possess zero authority to sanction principal discounts and will routinely dismiss medical emergencies. However, once the loan crosses <strong>Day 91 and becomes a Non-Performing Asset (NPA)</strong>, the loan file is transferred away from retail branch tele-callers to the <strong>Zonal Stressed Assets Resolution Cell (SARC)</strong> or Compromise Settlement Committee.
+                During early SMA stages (Days 1 to 90), frontline collection callers operate on rigid commission scripts. They possess zero authority to sanction principal discounts and routinely dismiss medical emergencies. However, once the loan crosses <strong>Day 91 and becomes a Non-Performing Asset (NPA)</strong>, files shift to authorized verticals. Management moves to the <strong>Zonal Stressed Assets Resolution Cell (SARC)</strong> or Settlement Committee.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Between <strong>Day 120 and Day 180</strong>, the bank faces mandatory quarterly provisioning allocations under RBI prudential accounting norms. Because capital is locked without generating interest, bank credit committees are actively incentivized to approve one-time cash recoveries to clean their balance sheets, making this the prime strategic window to submit the Medical Hardship Dossier.
@@ -741,7 +741,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 NPV Modeling: Why Banks Accept 50%–75% Medical Haircuts
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers frequently wonder why a profit-maximizing commercial bank would voluntarily waive 50% to 75% of a legitimately borrowed loan balance. The decision is rooted entirely in cold institutional economics and the doctrine of <strong>Net Present Value (NPV) Recovery Modeling</strong>. Under RBI Master Directions on Compromise Settlements, bank credit committees are legally required to calculate whether accepting an immediate discounted cash settlement yields a higher financial return than pursuing civil litigation against a medically incapacitated borrower.
+                Borrowers often wonder why commercial banks voluntarily waive 50% to 75% of an outstanding loan balance. The decision is rooted in institutional economics and <strong>Net Present Value (NPV) Recovery Modeling</strong>. Under RBI Master Directions, credit committees must determine whether an immediate cash settlement yields higher net returns than litigating against a medically incapacitated borrower.
               </p>
 
               {/* JSX Formula Box */}
@@ -754,7 +754,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated future cash recoveries, r is the institutional discount rate (12%–15%), and significant deductions account for 3–5 years of civil court delays, advocate retainers, execution friction, and 100% regulatory capital frozen in NPA reserves.
+                  Here, C_t represents estimated future recoveries, and r is the institutional discount rate (12%–15%). Deductions account for 3–5 years of court delays and advocate retainers. They also factor in execution friction and 100% capital frozen in NPA provisioning reserves.
                 </p>
               </div>
 
@@ -809,7 +809,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 Halting Recovery Harassment for Medical Patients
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The most distressing aspect of defaulting during a healthcare crisis is aggressive collection agent harassment. Lenders routinely outsource delinquent accounts to third-party recovery agencies driven by commission incentives. In direct violation of basic human decency and statutory banking regulations, agents frequently call recovering patients in hospital wards, visit residential premises while patients are on strict bed rest, intimidate non-guarantor family members, and issue unlawful threats of immediate police detention.
+                The most distressing aspect of defaulting during illness is aggressive recovery agent harassment. Lenders often outsource delinquent accounts to commission-driven third-party agencies. In violation of statutory regulations, agents sometimes call patients in hospitals or visit during strict bed rest. They intimidate family members and issue unlawful threats of police action.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Such coercive tactics represent severe violations of the <strong>RBI Master Directions on Recovery Agents (2022)</strong> and the statutory <em>Charter of Customer Rights</em>. Under binding directives issued to all scheduled commercial banks, non-banking financial companies (NBFCs), and digital lending apps, borrowers enjoy comprehensive statutory protections:
@@ -937,7 +937,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 OTS Sanction Letters: 5 Key Clauses & ₹0 NDC Mandate
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The most dangerous trap facing medically distressed borrowers is relying on verbal settlement promises or unverified WhatsApp messages sent by collection agents. Tele-callers routinely trick borrowers into making token payments of ₹25,000 to ₹50,000, promising that the loan will be closed, only for the bank to credit the amount against overdue penal interest while leaving the entire principal balance active and compounding.
+                A dangerous trap facing medically distressed borrowers is relying on verbal settlement promises or WhatsApp messages. Tele-callers trick borrowers into depositing token payments of ₹25,000 to ₹50,000, promising account closure. The bank then credits this token against penal interest, leaving the principal balance active and compounding.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To guarantee absolute legal closure, borrowers must ensure that their <strong>OTS Sanction Letter</strong> satisfies five mandatory forensic parameters before paying any settlement consideration:
@@ -1021,7 +1021,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 Rebuilding Your CIBIL Score from &apos;Settled&apos; to 750+ Post-Recovery
               </h3>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Executing a loan settlement updates your credit bureau status to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While this entry leads to an immediate credit score dip of 75 to 150 points and triggers a standard 12-month cooling period under RBI directives, it permanently terminates compounding default marks, halts legal notices, and eliminates debt harassment.
+                Executing a loan settlement updates your credit bureau status to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While this causes an initial score dip of 75 to 150 points and a 12-month cooling period, it permanently stops compounding default marks, halts legal notices, and eliminates harassment.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Once physical health and regular professional income stabilize, borrowers can systematically rehabilitate their credit profile back to prime status (750+) within 18 to 24 months through a disciplined 3-step credit rebuilding roadmap:

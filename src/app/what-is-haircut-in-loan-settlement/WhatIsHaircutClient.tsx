@@ -130,7 +130,7 @@ export default function WhatIsHaircutClient() {
       question: 'What is the meaning of a haircut in bank loan settlement?',
       answer: (
         <p>
-          In banking and debt resolution terminology, a &quot;haircut&quot; refers to the percentage of total outstanding loan dues (encompassing principal balance, accrued interest, penal interest, and incidental recovery charges) that a lending institution agrees to waive, forgive, or write off to reach a legally binding compromise settlement (One-Time Settlement or OTS) with a distressed borrower.
+          In banking terminology, a &quot;haircut&quot; refers to the percentage of total outstanding dues waived by a lender. It encompasses principal, accrued interest, penal levies, and recovery charges. The lending institution agrees to forgive this portion to reach a legally binding compromise settlement (One-Time Settlement or OTS).
         </p>
       ),
     },
@@ -186,7 +186,7 @@ export default function WhatIsHaircutClient() {
       question: 'How do bank Credit Committees calculate the exact haircut percentage for an NPA?',
       answer: (
         <p>
-          Credit Committees evaluate four primary metrics: (1) Asset classification bucket (Sub-Standard, Doubtful-1, Doubtful-2, Doubtful-3, or Loss Asset), (2) Existing provisioning level (15% to 100%), (3) Net Present Value of immediate cash recovery versus projected litigation costs over 3 to 5 years, and (4) Documented hardship evidence demonstrating irreversible insolvency.
+          Credit Committees evaluate four primary metrics: (1) Asset classification bucket (Sub-Standard, Doubtful-1, Doubtful-2, Doubtful-3, or Loss Asset), (. Second, Existing provisioning level (15% to 100%), (. Third, Net Present Value of immediate cash recovery versus projected litigation costs over 3 to 5 years, and (. Fourth, Documented hardship evidence demonstrating irreversible insolvency.
         </p>
       ),
     },
@@ -194,7 +194,7 @@ export default function WhatIsHaircutClient() {
       question: 'What precautions must a borrower observe before paying a negotiated settlement amount?',
       answer: (
         <p>
-          Borrowers must never remit funds based on verbal claims or WhatsApp payment links from recovery agents. Always demand an authentic OTS Sanction Letter on official bank letterhead signed by an authorized manager, verify that it explicitly waives all residual dues, and pay directly into the specific loan account via NEFT/RTGS before securing a stamped ₹0 No Dues Certificate.
+          Never remit funds based on verbal claims or WhatsApp payment links from recovery agents. Always demand an authentic OTS Sanction Letter on official bank letterhead signed by an authorized manager. Verify that it explicitly waives all residual dues. Pay directly into your loan account via NEFT/RTGS and secure a stamped ₹0 No Dues Certificate.
         </p>
       ),
     },
@@ -375,13 +375,13 @@ export default function WhatIsHaircutClient() {
                 1. What Does "Haircut" Mean in Loan Settlement?
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                In modern financial and banking terminology, the word **haircut** refers to the deliberate reduction in the book value of an asset or the percentage discount that a creditor accepts when resolving a defaulted credit obligation. While the concept originated in institutional corporate restructuring under the Insolvency and Bankruptcy Code (IBC) and sovereign debt negotiations, it has become the standard operational term in Indian retail banking for **One-Time Settlements (OTS) and compromise debt resolutions**.
+                In banking terminology, a **haircut** refers to the percentage discount a creditor accepts when resolving a defaulted loan. The concept originated in corporate restructuring under the Insolvency and Bankruptcy Code (IBC). Today, it is the standard operational term in Indian retail banking for **One-Time Settlements (OTS) and compromise debt resolutions**.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                When an individual borrower defaults on an unsecured personal loan, credit card, or commercial credit facility, the total ledger balance consists of three distinct layers: the disbursed original principal balance, regular contracted interest, and an inflated layer of compounding penal interest, overdue late levies, and legal recovery charges. When a bank agrees to execute a compromise settlement, the **haircut represents the total monetary difference between what the borrower technically owes on paper and the discounted lump-sum amount the bank accepts as full and final payment**.
+                When an individual defaults on an unsecured loan or credit card, the ledger balance consists of three distinct layers: original principal, regular interest, and compounding penal charges with recovery fees. When executing a settlement, the **haircut represents the monetary difference between paper dues and the discounted lump-sum amount the bank accepts as full payment**.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
-                For example, if a borrower has an accumulated overdue balance of ₹10 Lakh on a defaulted personal loan and the bank&apos;s Zonal Settlement Committee formally approves an OTS of ₹4 Lakh to close the account permanently, the bank has absorbed a **60% haircut (₹6 Lakh waiver)**. Crucially, debt settlement haircuts in India are divided into two categories: an **interest waiver** (where only accumulated penal levies and charges are erased) and a **principal haircut** (where the bank forgives a substantial portion of the original borrowed principal itself).
+                For example, consider a borrower owing ₹10 Lakh on a defaulted personal loan. If the bank approves an OTS of ₹4 Lakh to close the account permanently, it absorbs a **60% haircut (₹6 Lakh waiver)**. In India, debt haircuts fall into two categories: an **interest waiver** erasing penalties, and a **principal haircut** where the bank forgives part of the borrowed principal.
               </p>
 
               {/* High-Impact Alert Box */}
@@ -391,7 +391,7 @@ export default function WhatIsHaircutClient() {
                   <span>Core Principle: A Haircut Is a Permanent Legal Release</span>
                 </div>
                 <p className="text-sm text-blue-900 leading-relaxed font-medium">
-                  Unlike an internal accounting write-off where the bank keeps chasing the debtor, a negotiated settlement haircut ratified through a formal OTS Sanction Letter permanently extinguishes the borrower&apos;s legal debt under Section 63 of the Indian Contract Act, 1872.
+                  An internal accounting write-off does not stop collection efforts against the debtor. In contrast, a negotiated settlement haircut ratified through a formal OTS Sanction Letter permanently extinguishes the legal debt under Section 63 of the Indian Contract Act, 1872.
                 </p>
               </div>
             </section>
@@ -402,7 +402,7 @@ export default function WhatIsHaircutClient() {
                 2. Why Indian Banks Willingly Take Haircuts on NPAs
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                Borrowers frequently ask why a commercial lending institution would willingly forfeit hundreds of thousands or even millions of rupees rather than pursuing the debtor for the complete amount. The answer lies in the rigorous regulatory accounting mandates imposed on commercial banks and Non-Banking Financial Companies (NBFCs) by the Reserve Bank of India under its Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP).
+                Borrowers frequently ask why lenders willingly forfeit substantial sums instead of demanding full payment. The answer lies in regulatory accounting rules imposed by the Reserve Bank of India. Lenders must follow the RBI Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP).
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When a borrower fails to service interest or principal installments for 90 consecutive days, the loan transitions from a standard asset into a Non-Performing Asset (NPA). Under RBI prudential guidelines, banks cannot recognize uncollected interest on NPAs as revenue. Furthermore, lenders are legally mandated to set aside cash reserves—known as **provisioning**—directly out of their operating profits to cushion the balance sheet against default risk. As an NPA ages from Sub-Standard to Doubtful-1, Doubtful-2, Doubtful-3, and Loss Asset categories, mandatory provisioning escalates rapidly from 15% to a complete 100% of the loan value.
@@ -421,10 +421,10 @@ export default function WhatIsHaircutClient() {
                 The magnitude of the haircut a bank will approve depends fundamentally on the underlying collateral backing the credit facility. The Indian financial sector operates on starkly distinct legal frameworks for unsecured versus secured debts, directly dictating the bargaining leverage available to borrowers and their legal advocates.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                In **unsecured debt portfolios**—such as personal loans, credit card balances, and unsecured business lines—the lender holds zero underlying tangible collateral. If the borrower defaults due to genuine insolvency, the bank&apos;s legal recourse is confined to filing civil recovery suits or initiating Section 138 / Section 25 proceedings. Because unsecured litigation in Indian civil courts is protracted and asset attachment is difficult, bank credit committees are prepared to grant aggressive haircuts, routinely approving **discounts between 40% and 75% of total outstanding ledger dues** for distressed debtors.
+                In **unsecured debt portfolios**, lenders hold zero underlying collateral. If a borrower defaults due to genuine insolvency, the bank&apos;s recourse is confined to civil suits or Section 138 / Section 25 notices. Because unsecured litigation in Indian courts is protracted, credit committees approve aggressive haircuts. They routinely grant **discounts between 40% and 75% of total ledger dues** for distressed debtors.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
-                Conversely, in **secured debt facilities**—such as home loans, loans against property (LAP), and commercial mortgage financing—the lender holds registered mortgage rights over immovable physical assets. Under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act), secured creditors can legally seize and auction mortgaged properties without prior court intervention. Consequently, banks rarely grant principal haircuts on secured loans, limiting settlements to a **5% to 20% waiver of accrued penal interest and legal costs**, unless the mortgaged property suffers from serious title defects, severe environmental damage, or protracted injunctions in the Debt Recovery Tribunal (DRT).
+                Conversely, in **secured debt facilities**, lenders hold registered mortgages over immovable assets. Under the SARFAESI Act, secured creditors can seize and auction properties without prior court intervention. Consequently, banks rarely grant principal haircuts on secured loans. They typically limit settlements to a **5% to 20% waiver of penal interest and legal costs**, unless the property suffers from title defects or DRT litigation.
               </p>
             </section>
 
@@ -654,13 +654,13 @@ export default function WhatIsHaircutClient() {
                 9. How Haircuts Impact CIBIL & Path to Credit Repair
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                Under the Credit Information Companies (Regulation) Act, 2005 (CICRA), all regulated lenders are legally required to report the resolution status of closed credit facilities to authorized credit bureaus—including TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. Understanding how a settlement haircut is recorded in your credit report is essential for long-term financial planning.
+                Under CICRA (2005), regulated lenders must report the resolution status of closed facilities to licensed credit bureaus. These include TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. Understanding how a settlement haircut is recorded in your credit report is essential for long-term financial health.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When a loan is resolved through a compromise settlement involving a haircut, the bank reports the account status remark as **&quot;Settled&quot; or &quot;Post-Settled&quot;** with an outstanding balance of ₹0. Because the bank absorbed a loss on the waived haircut amount, automated underwriting algorithms register this as a compromise closure, resulting in a temporary credit score drop of 75 to 120 points. While a &quot;Settled&quot; remark prevents immediate access to unsecured prime loans, it is vastly superior to leaving an account in active default or &quot;Written Off&quot; status, which completely paralyzes your financial life.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
-                Once the settlement is completed and the account balance drops to ₹0, delinquency aging stops immediately. Borrowers can initiate a structured **credit rehabilitation program**: by opening a fixed-deposit-backed secured credit card, maintaining credit utilization below 25%, and servicing all monthly balances punctually, borrowers systematically rebuild their credit score back to 750+ within 18 to 24 months. Furthermore, if your financial circumstances improve in the future, you retain the legal right under RBI rules to pay the remaining waived haircut balance to convert the CIBIL remark to **&quot;Closed - Fully Paid.&quot;**
+                Once the settlement is completed and the balance drops to ₹0, delinquency aging stops immediately. Borrowers can start a structured credit rehabilitation program. Secure a fixed-deposit credit card, maintain credit utilization below 25%, and service monthly balances punctually. This rebuilds your credit score back to 750+ within 18 to 24 months. You also retain the right under RBI rules to pay the waived haircut later to convert the remark to **&quot;Closed - Fully Paid.&quot;**
               </p>
             </section>
 
@@ -673,7 +673,7 @@ export default function WhatIsHaircutClient() {
                 Navigating the complex institutional bureaucracy of public and private commercial banks requires specialized legal and financial expertise. As India&apos;s premier loan settlement, debt dispute resolution, and legal defense platform, SettleLoans provides complete institutional protection for distressed borrowers.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                Our empaneled legal advocates represent borrowers across major lending institutions—including HDFC Bank, ICICI Bank, State Bank of India, Axis Bank, Kotak Mahindra Bank, Bajaj Finance, and leading Asset Reconstruction Companies (ARCs). We serve immediate cease-and-desist notices to stop unlawful recovery harassment, represent clients before Senior Settlement Committees, negotiate the deepest legally permissible debt haircuts, and ensure that every client receives a verified, tamper-proof ₹0 No Dues Certificate.
+                Our empaneled advocates represent borrowers across major banks, NBFCs, and Asset Reconstruction Companies (ARCs). We serve cease-and-desist notices to halt unlawful harassment. In addition, we represent clients before Senior Settlement Committees. We negotiate the deepest legally permissible debt haircuts and ensure every client receives a verified, tamper-proof ₹0 No Dues Certificate.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 By transforming unmanageable delinquent debt into structured, affordable compromise settlements, SettleLoans restores financial freedom, preserves personal dignity, and provides a clear, lawful pathway back to complete creditworthiness.

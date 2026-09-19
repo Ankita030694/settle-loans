@@ -512,7 +512,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                 1. The Agony of Family Co-Signers
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Few financial circumstances generate more acute emotional distress and familial discord than an unexpected default on an unsecured personal loan or credit facility where a close family member—most commonly an aging parent, spouse, or sibling—served as a co-signer or personal guarantor. When an unexpected financial catastrophe strikes, such as sudden corporate downsizing, protracted medical hospitalization, or business insolvency, the inability to service equated monthly installments (EMIs) quickly reverberates beyond the primary borrower. Within weeks of an account transitioning past the standard 90-day overdue benchmark into Non-Performing Asset (NPA) status, aggressive collection agencies frequently shift their pressure tactics toward vulnerable co-signers.
+                Defaulting on an unsecured personal loan with a guarantor causes acute emotional distress and familial discord. Often, an aging parent, spouse, or sibling serves as a co-signer. When financial emergencies strike—such as job loss, hospitalization, or business failure—EMIs quickly default. The impact then reverberates beyond the primary borrower. Within weeks of reaching 90-day Non-Performing Asset (NPA) status, aggressive collection agencies often shift pressure tactics toward vulnerable co-signers.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To navigate institutional recovery maneuvers and formulate an effective legal defense, one must first master the foundational distinction between a <em>co-applicant</em> and a <em>guarantor</em> (or surety) under Indian banking jurisprudence:
@@ -548,10 +548,10 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                 2. Section 128 of the Indian Contract Act
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The cornerstone of guarantor liability in India is codified in Section 128 of the Indian Contract Act, 1872, which explicitly declares: <em>&ldquo;The liability of the surety is co-extensive with that of the principal debtor, unless it is otherwise provided by the contract.&rdquo;</em> This brief statutory provision carries profound legal consequences for family members who affixed their signatures to loan documentation.
+                Guarantor liability in India is codified in Section 128 of the Indian Contract Act, 1872. It sets a firm statutory rule: <em>&ldquo;The liability of the surety is co-extensive with that of the principal debtor.&rdquo;</em> This applies unless otherwise provided by the contract. This provision carries profound legal consequences for family members who signed loan documents.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The term <em>co-extensive</em> denotes that the quantum, timing, and nature of the guarantor liability are identical to those of the principal borrower. The moment the borrower commits a default by failing to pay a scheduled installment, the creditor bank or Non-Banking Financial Company (NBFC) acquires an immediate, actionable cause of action against the guarantor for the full ledger balance, including accrued interest, penal interest, and legal costs.
+                The term <em>co-extensive</em> means the guarantor&apos;s liability matches the borrower&apos;s liability exactly. The moment a scheduled installment defaults, the bank or NBFC acquires an actionable cause of action against the guarantor. The lender can demand the full ledger balance, including accrued interest, penal interest, and legal costs.
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
@@ -624,7 +624,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                 4. Bank Accounting: NPA Provisioning &amp; NPV Recovery Formula
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To negotiate effectively from a position of strength, one must understand how commercial banks and NBFCs evaluate bad debts on their balance sheets. Under the Reserve Bank of India (Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances) Directions, once an unsecured credit line remains overdue for 90 days, it is classified as a Non-Performing Asset (NPA).
+                To negotiate effectively from strength, borrowers must understand how lenders evaluate bad debts. Under RBI Prudential Norms on Advances, overdue credit lines face strict classification. Once an unsecured loan remains overdue for 90 days, it is formally classified as a Non-Performing Asset (NPA).
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 This classification triggers mandatory capital provisioning that penalizes institutional profitability:
@@ -653,7 +653,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because protracted litigation against guarantors results in deeply negative net present values, bank settlement committees possess an immense commercial incentive to execute a negotiated One-Time Settlement (OTS), offering 45% to 65% principal waivers in exchange for prompt, lump-sum capital recovery.
+                Protracted litigation against guarantors results in negative net present values for lenders. For this reason, bank settlement committees have strong commercial incentive to execute an OTS. They routinely offer 45% to 65% principal waivers in exchange for prompt, lump-sum capital recovery.
               </p>
             </section>
 
@@ -699,7 +699,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                   <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div>
                     <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Criminal Counter-Notices for Harassment (Section 506 IPC)</h4>
-                    <p className="text-xs text-slate-600 mt-1">If collection agents visited elderly relatives, used abusive language, or issued fabricated arrest warnings, our advocates compile electronic call logs and messages to lodge formal complaints with the State Cyber Crime Police and local District Magistrate.</p>
+                    <p className="text-xs text-slate-600 mt-1">Collection agents sometimes visit elderly relatives, use abusive language, or issue false arrest threats. When this occurs, our advocates compile call logs and messages. We lodge formal complaints with the State Cyber Crime Police and local District Magistrate to halt illegal harassment.</p>
                   </div>
                 </div>
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
@@ -731,23 +731,23 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
               <div className="space-y-3 my-4">
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 133: Discharge of Surety by Variance in Terms of Contract</h3>
-                  <p className="text-xs text-slate-600">Any variance made without the surety consent in the terms of the contract between the principal debtor and the creditor discharges the surety as to transactions subsequent to the variance (e.g., unilateral credit limit increases, restructuring terms, or revised tenure).</p>
+                  <p className="text-xs text-slate-600">Under Section 133, any contract variance made without the surety&apos;s consent discharges the guarantor. This applies to subsequent transactions, including unilateral credit limit increases, restructuring terms, or revised loan tenure.</p>
                 </div>
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 134: Discharge of Surety by Release or Discharge of Principal Debtor</h4>
-                  <p className="text-xs text-slate-600">The surety is discharged by any contract between the creditor and the principal debtor by which the principal debtor is released, or by any act or omission of the creditor the legal consequence of which is the discharge of the principal debtor.</p>
+                  <p className="text-xs text-slate-600">Under Section 134, the surety is discharged if the creditor releases the principal debtor. Any act or omission by the creditor that legally discharges the debtor also releases the guarantor completely.</p>
                 </div>
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 135: Discharge by Composition, Extension of Time, or Agreement Not to Sue</h4>
-                  <p className="text-xs text-slate-600">A contract between the creditor and the principal debtor by which the creditor makes a composition with, or promises to give time to, or not to sue the principal debtor, discharges the surety unless the surety assents to such contract.</p>
+                  <p className="text-xs text-slate-600">Under Section 135, a composition contract between the creditor and debtor discharges the surety. If the bank promises extra time or agrees not to sue the debtor, the guarantor is discharged unless they expressly assent.</p>
                 </div>
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 139: Discharge of Surety by Creditor Act or Omission Impairing Surety Remedy</h4>
-                  <p className="text-xs text-slate-600">If the creditor does any act which is inconsistent with the rights of the surety, or omits to do any act which his duty to the surety requires him to do, and the eventual remedy of the surety himself against the principal debtor is thereby impaired, the surety is discharged.</p>
+                  <p className="text-xs text-slate-600">If the creditor does any act which is inconsistent with the rights of the surety, or omits to do any act which his duty to the surety requires him to do. Additionally, the eventual remedy of the surety himself against the principal debtor is thereby impaired, the surety is discharged.</p>
                 </div>
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 140 &amp; 145: Right of Subrogation &amp; Implied Promise to Indemnify</h4>
-                  <p className="text-xs text-slate-600">Where a guaranteed debt has become due and the surety pays all that he is liable for, the surety is invested with all the rights which the creditor had against the principal debtor to recover the full payment.</p>
+                  <p className="text-xs text-slate-600">Under Section 140, subrogation rights protect the guarantor. When a surety pays the guaranteed debt, they inherit all legal rights of the creditor. The guarantor can then recover that full payment from the principal debtor.</p>
                 </div>
               </div>
             </section>
@@ -758,7 +758,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                 8. Sanction Letter Forensics: Dual NDC &amp; CIBIL Rectification
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A catastrophic error frequently observed in unrepresented debt settlements occurs when the primary borrower settles an account with a bank, only for the bank recovery department to subsequently issue a demand notice against the guarantor for the residual balance or waived interest. Lenders often rely on obscure reservation-of-rights clauses in boilerplate compromise letters to preserve recovery avenues against co-signers.
+                Unrepresented settlements often lead to serious errors. A borrower settles an account, only for the bank to pursue the guarantor for residual balances or waived interest. Lenders rely on reservation clauses in boilerplate letters to preserve recovery avenues against co-signers. Professional legal drafting prevents this risk.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To guarantee complete, irrevocable legal closure for both parties, our legal team conducts rigorous sanction letter forensics before any settlement remittance is executed:
@@ -866,7 +866,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                   10. SettleLoans Family Defense Framework
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating institutional recovery aggressive outreach against aging parents, spouses, and family co-signers requires seasoned legal counsel who specialize in banking laws, the Indian Contract Act, and RBI fair practice guidelines. SettleLoans provides comprehensive legal defense for borrowers and guarantors across India: halting collection harassment through formal cease-and-desist representation, enforcing statutory protections under Sections 128 through 141, and negotiating directly with bank zonal authorities to secure maximum principal waivers backed by official, bank-stamped No Dues Certificates that protect both PAN records.
+                  Navigating institutional recovery aggressive outreach against aging parents, spouses, and family co-signers requires seasoned legal counsel who specialize in banking laws, the Indian Contract Act, and RBI fair practice guidelines. SettleLoans provides comprehensive legal defense for borrowers and guarantors across India. We halt recovery harassment through formal cease-and-desist notices and enforce protections under Sections 128 to 141. Furthermore, we negotiate directly with bank zonal committees. This secures maximum principal waivers and authentic No Dues Certificates that safeguard both PAN records.
                 </p>
               </div>
 

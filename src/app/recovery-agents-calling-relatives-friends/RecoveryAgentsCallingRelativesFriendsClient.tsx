@@ -118,7 +118,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
       question: "Is it legal for bank recovery agents to call my family, parents, or friends in India?",
       answer: (
         <p>
-          <strong>No, it is strictly illegal under Indian banking regulations.</strong> The Reserve Bank of India (RBI), through its <em>Master Circular on Recovery Agents</em> and <em>Master Direction on Outsourcing of Financial Services (August 2022)</em>, explicitly prohibits banks, Non-Banking Financial Companies (NBFCs), and third-party recovery agencies from contacting a borrower&apos;s family members, parents, friends, spouses, or colleagues. Agents are strictly barred from disclosing confidential loan details, intimidating non-borrowers, or attempting recovery from third parties.
+          <strong>No, it is strictly illegal under Indian banking regulations.</strong> The Reserve Bank of India (RBI) explicitly prohibits contacting a borrower&apos;s family members, parents, friends, spouses, or colleagues. These rules are set out in its <em>Master Circular on Recovery Agents</em> and <em>Master Direction on Outsourcing (August 2022)</em>. Agents are strictly barred from disclosing loan details, intimidating non-borrowers, or seeking recovery from third parties.
         </p>
       )
     },
@@ -134,7 +134,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
       question: "What specific RBI guidelines protect borrowers from third-party recovery harassment?",
       answer: (
         <p>
-          Key statutory directives include: <strong>1) RBI Master Circular on Recovery Agents (RBI/2007-08/296)</strong> prohibiting public humiliation and harassment; <strong>2) RBI Master Direction on Outsourcing (August 12, 2022)</strong> holding lenders directly liable for collection agent misconduct; <strong>3) RBI Digital Lending Guidelines (September 2022)</strong> strictly forbidding apps from harvesting contact lists; and <strong>4) Calling hour restrictions</strong> mandating calls only between 8:00 AM and 7:00 PM on working days.
+          Key statutory directives include: <strong>1) RBI Master Circular on Recovery Agents (RBI/2007-08/296)</strong> prohibiting public humiliation and harassment. <strong>2) RBI Master Direction on Outsourcing (August 12, 2022)</strong> holding lenders directly liable for collection agent misconduct. <strong>3) RBI Digital Lending Guidelines (September 2022)</strong> strictly forbidding apps from harvesting contact lists. And <strong>4) Calling hour restrictions</strong> mandating calls only between 8:00 AM and 7:00 PM on working days.
         </p>
       )
     },
@@ -142,7 +142,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
       question: "What should I do immediately if a recovery agent calls my parents or relatives?",
       answer: (
         <p>
-          Take these 5 immediate actions: <strong>1)</strong> Instruct your family members to record every phone call and note caller details (name, phone number, collection agency, bank name); <strong>2)</strong> Inform your family that references have zero liability and tell them not to make any direct UPI or cash payments; <strong>3)</strong> Send a formal Anti-Harassment &amp; Cease-and-Desist Notice to the bank&apos;s Principal Nodal Officer; <strong>4)</strong> Lodge an online complaint on the RBI CMS portal (cms.rbi.org.in); <strong>5)</strong> If agents issue threats of physical harm or defamation, register an FIR/cyber complaint under Section 351/356 of Bharatiya Nyaya Sanhita (BNS).
+          Take these 5 immediate actions: <strong>1)</strong> Instruct your family members to record every phone call and note caller details (name, phone number, collection agency, bank name). <strong>2)</strong> Inform your family that references have zero liability and tell them not to make any direct UPI or cash payments. <strong>3)</strong> Send a formal Anti-Harassment &amp; Cease-and-Desist Notice to the bank&apos;s Principal Nodal Officer. <strong>4)</strong> Lodge an online complaint on the RBI CMS portal (cms.rbi.org.in). <strong>5)</strong> If agents issue threats of physical harm or defamation, register an FIR/cyber complaint under Section 351/356 of Bharatiya Nyaya Sanhita (BNS).
         </p>
       )
     },
@@ -150,7 +150,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
       question: "Can I file a police FIR or cyber crime complaint against recovery agents calling my family?",
       answer: (
         <p>
-          <strong>Yes.</strong> If collection agents use abusive language, issue physical threats, threaten public shaming, or circulate morphed photos, you can file a criminal complaint at your local police station or via the National Cyber Crime Reporting Portal (cybercrime.gov.in). Relevant statutory provisions include: <strong>Section 351 BNS (Criminal Intimidation)</strong>, <strong>Section 356 BNS (Defamation)</strong>, <strong>Section 308 BNS (Extortion)</strong>, and <strong>Section 66E/67 of the Information Technology Act, 2000</strong> (violation of privacy and transmission of offensive digital messages).
+          <strong>Yes.</strong> If agents use abusive language, issue physical threats, or circulate morphed photos, file a criminal complaint. You can report at your local police station or online via cybercrime.gov.in. Relevant provisions include <strong>Section 351 BNS (Criminal Intimidation)</strong>, <strong>Section 356 BNS (Defamation)</strong>, <strong>Section 308 BNS (Extortion)</strong>, and <strong>Section 66E/67 of the IT Act, 2000</strong>.
         </p>
       )
     },
@@ -158,7 +158,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
       question: "How does the RBI Banking Ombudsman penalize banks for recovery agent harassment?",
       answer: (
         <p>
-          Under the <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021</strong>, the Ombudsman holds extensive adjudicatory powers. Upon finding a bank or NBFC guilty of violating recovery guidelines, the Ombudsman can order the lender to halt all third-party contact immediately, reverse unfair penal interest/charges, issue written apologies, and award punitive compensation of up to <strong>₹20 Lakhs for financial losses</strong> and up to <strong>₹1 Lakh for mental agony, harassment, and loss of time</strong>.
+          Under the <strong>RBI Integrated Ombudsman Scheme, 2021</strong>, the Ombudsman holds extensive adjudicatory powers. Upon finding a lender guilty of violating recovery guidelines, the Ombudsman can order all third-party contact halted immediately. The Ombudsman can also reverse penal charges, demand written apologies, and award compensation up to <strong>₹20 Lakhs for financial loss</strong> and <strong>₹1 Lakh for harassment</strong>.
         </p>
       )
     },
@@ -182,7 +182,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
       question: "How does SettleLoans help stop recovery agents from calling family and settle the loan?",
       answer: (
         <p>
-          SettleLoans provides comprehensive legal shielding and debt resolution: <strong>1)</strong> Our empaneled advocates issue formal statutory Cease-and-Desist Notices to bank management and recovery agencies; <strong>2)</strong> We file fast-tracked grievances with Principal Nodal Officers and the RBI Ombudsman; <strong>3)</strong> We represent you in structured One-Time Settlement (OTS) negotiations to settle unsecured debts at a substantial 50%–70% waiver with a legally binding No Dues Certificate (NDC) and ₹0 balance guarantee.
+          SettleLoans provides comprehensive legal shielding and debt resolution: <strong>1)</strong> Our empaneled advocates issue formal statutory Cease-and-Desist Notices to bank management and recovery agencies. <strong>2)</strong> We file fast-tracked grievances with Principal Nodal Officers and the RBI Ombudsman. <strong>3)</strong> We represent you in structured One-Time Settlement (OTS) negotiations to settle unsecured debts at a substantial 50%–70% waiver with a legally binding No Dues Certificate (NDC) and ₹0 balance guarantee.
         </p>
       )
     }
@@ -388,7 +388,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
               {/* Statutory Citation Box */}
               <div className="bg-slate-100 border-l-4 border-slate-700 p-5 rounded-r-xl my-6">
                 <p className="text-sm md:text-base font-semibold text-slate-900 italic">
-                  &quot;Regulated Entities (REs) and their recovery agents shall not resort to intimidation or harassment of any kind, either verbal or physical, against any person in their debt collection efforts, including acts intended to humiliate publicly or intrude upon the privacy of the debtors&apos; family members, referees and friends, making threatening and anonymous calls, or making false and misleading representations.&quot;
+                  &quot;Regulated Entities (REs) and their recovery agents shall not resort to intimidation or harassment of any kind, either verbal or physical. Collection efforts must not humiliate publicly or intrude upon the privacy of family members, referees, and friends. Making threatening or anonymous calls and false representations is strictly prohibited.&quot;
                 </p>
                 <p className="text-xs text-slate-500 mt-2 font-medium">
                   — Reserve Bank of India (RBI) Circular on Outsourcing of Financial Services &amp; Recovery Norms (RBI/2022-23/108)
@@ -659,7 +659,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                     Instruct Family Members to Record and Collect Caller Metadata
                   </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
-                    Brief your parents and relatives: <em>&quot;You have zero debt liability. Do not argue. Turn on call recording and calmly ask the caller for their Full Name, Collection Agency Name, Bank Name, and Employee ID.&quot;</em> If the caller refuses to identify themselves, that itself constitutes a violation of RBI Fair Practice norms.
+                    Brief your family and relatives calmly: <em>&quot;You have zero debt liability. Do not argue. Turn on call recording and ask for their Full Name, Agency Name, Bank Name, and Employee ID.&quot;</em> If the caller refuses to identify themselves, that itself constitutes a direct violation of RBI Fair Practice norms.
                   </p>
                 </div>
 
@@ -699,7 +699,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                     Register a Police Complaint / Cyber Crime Report for Intimidation
                   </h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
-                    If recovery agents use abusive language, issue physical death threats, or attempt digital defamation, file a complaint with your local cyber cell or online at <strong>cybercrime.gov.in</strong> under BNS Section 351 (Criminal Intimidation) and Section 66E of the IT Act.
+                    If recovery agents use abusive language or issue death threats, take immediate legal action. File a complaint with your local cyber cell or online at <strong>cybercrime.gov.in</strong> under BNS Section 351 (Criminal Intimidation) and Section 66E of the IT Act.
                   </p>
                 </div>
               </div>
@@ -723,7 +723,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
                 <p>Dear Sir/Madam,</p>
                 <br />
                 <p>1. I am the primary borrower for the above-referenced loan account. Due to genuine financial distress [state reason: e.g., job loss, medical emergency], I am currently unable to maintain regular EMI payments.</p>
-                <p>2. It has come to my attention that collection agents acting on your behalf (Calling Numbers: [Insert Agent Phone Numbers]) have repeatedly called my [parents / spouse / sister / friends] at [Insert Numbers Called], disclosing my private financial data and using coercive language.</p>
+                <p>2. Collection agents acting on your behalf (Calling Numbers: [Insert Agent Numbers]) have repeatedly called my [parents / spouse / sister / friends] at [Insert Numbers Called]. They have disclosed private financial data and used coercive language.</p>
                 <p>3. This conduct is in direct and actionable violation of:</p>
                 <p>&nbsp;&nbsp;&bull; RBI Master Circular on Recovery Agents (RBI/2007-08/296)</p>
                 <p>&nbsp;&nbsp;&bull; RBI Master Direction on Outsourcing of Financial Services (RBI/2022-23/108)</p>
