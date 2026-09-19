@@ -441,7 +441,7 @@ export default function PenaltyWaiverGuidePage() {
                 </div>
                 <ul className="space-y-4">
                   {[
-                    { name: "Stop EMI Bounce Cycle", href: "/bounce-charges-legal-limit-rbi" },
+                    { name: "Stop EMI Bounce Cycle", href: "/stop-emi-bounce-cycle-for-good" },
                     { name: "RBI Guidelines on Defaults", href: "/top-10-rbi-rules-for-loan-defaulters-rights" },
                     { name: "How to Handle Recovery Agents", href: "/how-to-stop-loan-recovery-harassment" },
                     { name: "Banking Ombudsman Process", href: "/rbi-ombudsman-complaint-loan-recovery-harassment" }

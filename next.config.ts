@@ -1860,6 +1860,41 @@ const nextConfig: NextConfig = {
         destination: '/faqs/find-debt-settlement-services-known-for-effective-negotiation',
         permanent: true,
       },
+      {
+        source: '/how-to-start-a-loan-settlement-request-through-a-banks-online-portal',
+        destination: '/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal',
+        permanent: true,
+      },
+      {
+        source: '/available-loan-settlement-plans-for-salaried-people-via-fintech-apps',
+        destination: '/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps',
+        permanent: true,
+      },
+      {
+        source: '/how-can-i-start-a-full-and-final-settlement-discussion-with-my-bank',
+        destination: '/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank',
+        permanent: true,
+      },
+      {
+        source: '/best-lawyer-for-records-review-of-loan-agreement',
+        destination: '/best-lawyer-for-documentation-review-of-loan-agreement',
+        permanent: true,
+      },
+      {
+        source: '/best-lawyer-for-loan-recovery-records',
+        destination: '/best-lawyer-for-loan-recovery-documentation',
+        permanent: true,
+      },
+      {
+        source: '/loan-default-emi-foreclosure-help',
+        destination: '/loan-default-emi-foreclosure-assistance',
+        permanent: true,
+      },
+      {
+        source: '/bounce-charges-legal-limit-rbi',
+        destination: '/stop-emi-bounce-cycle-for-good',
+        permanent: true,
+      },
     ];
 
   },
