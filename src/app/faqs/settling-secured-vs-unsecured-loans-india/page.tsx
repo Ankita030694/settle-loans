@@ -269,7 +269,7 @@ export default function SecuredVsUnsecuredPage() {
 
                         <section id="intro" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-balance">
-                                Unlocking the Choice: Can I Settle a Secured Loan like a Home loan or only Unsecured Loan?
+                                Can I Settle a Secured Loan or Only Unsecured Loans?
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 One of the most common questions we face from distressed borrowers in India is: "Can I settle my home loan just like I settled my credit card?" The short answer is yes, but the long answer involves a complex understanding of bank leverage, asset valuation, and the stringent SARFAESI Act.

@@ -269,7 +269,7 @@ export default function TaxImplicationsPage() {
 
                         <section id="intro" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-balance">
-                                Beyond the Waiver: What are the Income Tax Implications of a Settled Debt Amount?
+                                Income Tax Implications of a Settled Debt Amount
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 When a bank agrees to settle your loan, you breathe a sigh of relief. You have saved lakhs of rupees. But in the eyes of the Indian Tax Department, those lakhs of "savings" might be viewed as income. The logic is simple: if you were supposed to pay ₹10 Lakhs but you only paid ₹4 Lakhs, the remaining ₹6 Lakhs is a "gain" or "benefit" you received.

@@ -544,7 +544,7 @@ export default function Page() {
                   <span>1. The Anatomy of Section 25 PSSA Fear</span>
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Demystifying the Section 25 PSSA Notice: Why Banks Weaponize Criminal Law
+                  Demystifying Section 25 PSSA Notices & Criminal Threats
                 </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Receiving an official legal notice drafted by a bank&apos;s empanelled advocate bearing the bold heading <strong>&quot;Notice under Section 25 of the Payment and Settlement Systems Act, 2007&quot;</strong> triggers profound panic and psychological distress for most borrowers. The document is intentionally structured with aggressive legal phraseology—citing potential penalties of two years of rigorous imprisonment, heavy punitive fines, and impending non-bailable warrants before Metropolitan Magistrate Courts.
@@ -572,7 +572,7 @@ export default function Page() {
                   <span>2. Statutory Provisions &amp; 15-Day Timelines</span>
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Statutory Anatomy of Section 25: Legal Equivalency &amp; Mandatory Procedural Timelines
+                  Statutory Anatomy of Section 25 & Procedural Timelines
                 </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   To mount an effective legal defense, one must examine the precise legislative architecture of the <strong>Payment and Settlement Systems Act, 2007 (PSSA)</strong>. Section 25 was enacted by Parliament to provide electronic fund transfers the exact same legal sanctity and penal consequences as traditional physical negotiable instruments under Section 138 of the Negotiable Instruments Act, 1881.
@@ -639,7 +639,7 @@ export default function Page() {
                   <span>3. Absence of Mens Rea &amp; Civil Debt Realities</span>
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  The Doctrine of Mens Rea: Why Involuntary Default is Not Criminal Fraud
+                  Doctrine of Mens Rea: Involuntary Default vs Fraud
                 </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   A cornerstone principle of Indian criminal jurisprudence is that no individual can be convicted of a criminal offense in the absence of <em>mens rea</em>—the deliberate guilty mind or fraudulent intent to cheat. When a borrower faithfully services a personal loan or business credit line for months or years before encountering an unexpected financial catastrophe, their subsequent default is purely involuntary.
@@ -659,7 +659,7 @@ export default function Page() {
                   <span>4. Section 171 Lien &amp; Ring-Fencing Liquidity</span>
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Banker&apos;s Right of General Lien (Section 171) &amp; Shielding Operational Survival Funds
+                  Banker's Right of Lien (Sec 171) & Protecting Funds
                 </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   In conjunction with serving Section 25 notices, lending banks routinely deploy an aggressive banking mechanism known as the <strong>Banker&apos;s General Lien and Set-Off</strong> under Section 171 of the Indian Contract Act, 1872. This statutory right enables a lending institution to unilaterally appropriate balances, freeze access, or sweep incoming funds from any savings account, fixed deposit, or corporate salary account maintained within that exact same banking entity.
@@ -743,7 +743,7 @@ export default function Page() {
                   <span>7. Strategic 15-Day Legal Reply Protocol</span>
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  The Advocate 15-Day Legal Reply Protocol: Transforming Threat into Settlement
+                  Advocate 15-Day Legal Reply Protocol for Section 25
                 </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The statutory 15-day window following the receipt of a Section 25 PSSA notice is your most powerful strategic opportunity. Rather than ignoring the notice or responding with emotional pleas, engaging seasoned debt defense counsel to serve a structured legal reply establishes an unassailable record. Here is the five-stage defense protocol executed by our advocates:
@@ -819,7 +819,7 @@ export default function Page() {
                   <span>8. Sanction Forensics &amp; Compounding Quash</span>
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Sanction Letter Forensics, Compounding under Law &amp; Complete Quashing
+                  Sanction Letter Forensics & Notice Quashing
                 </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Once settlement terms are verbally negotiated with bank officers, borrowers must exercise strict forensic diligence before releasing any payment. A critical hazard in loan resolution is remitting settlement funds based on informal emails, WhatsApp messages, or recovery agent verbal commitments. Without an official, digitally signed or stamped <strong>OTS Sanction Letter</strong> issued on bank letterhead by an authorized Credit Committee member, deposited funds are frequently credited against accumulated penal charges, leaving the loan active and the Section 25 complaint alive.
@@ -915,7 +915,7 @@ export default function Page() {
                   <span>11. Frequently Asked Questions</span>
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                  Frequently Asked Questions on Section 25 PSSA Notices &amp; Loan Default
+                  FAQs: Section 25 PSSA Notices & Loan Default
                 </h2>
 
                 <div className="space-y-4">

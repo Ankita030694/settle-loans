@@ -372,7 +372,7 @@ export default function WhatIsHaircutClient() {
             {/* Section 1: Definition & Terminology */}
             <section id="meaning-of-haircut-in-settlement" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                1. Demystifying the Financial Terminology: What Does &quot;Haircut&quot; Mean in Loan Settlement?
+                1. What Does "Haircut" Mean in Loan Settlement?
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 In modern financial and banking terminology, the word **haircut** refers to the deliberate reduction in the book value of an asset or the percentage discount that a creditor accepts when resolving a defaulted credit obligation. While the concept originated in institutional corporate restructuring under the Insolvency and Bankruptcy Code (IBC) and sovereign debt negotiations, it has become the standard operational term in Indian retail banking for **One-Time Settlements (OTS) and compromise debt resolutions**.
@@ -399,7 +399,7 @@ export default function WhatIsHaircutClient() {
             {/* Section 2: Bank Balance Sheet Economics */}
             <section id="bank-balance-sheet-economics" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                2. The Economic Rationale: Why Indian Banks Willingly Take Haircuts on NPAs
+                2. Why Indian Banks Willingly Take Haircuts on NPAs
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Borrowers frequently ask why a commercial lending institution would willingly forfeit hundreds of thousands or even millions of rupees rather than pursuing the debtor for the complete amount. The answer lies in the rigorous regulatory accounting mandates imposed on commercial banks and Non-Banking Financial Companies (NBFCs) by the Reserve Bank of India under its Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP).
@@ -415,7 +415,7 @@ export default function WhatIsHaircutClient() {
             {/* Section 3: Unsecured vs Secured Haircuts */}
             <section id="unsecured-vs-secured-haircuts" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                3. Haircut Sizing Dynamics: Unsecured Credit vs. Secured Asset Facilities
+                3. Haircut Sizing: Unsecured Credit vs Secured Assets
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The magnitude of the haircut a bank will approve depends fundamentally on the underlying collateral backing the credit facility. The Indian financial sector operates on starkly distinct legal frameworks for unsecured versus secured debts, directly dictating the bargaining leverage available to borrowers and their legal advocates.
@@ -431,7 +431,7 @@ export default function WhatIsHaircutClient() {
             {/* Section 4: NPV Recovery Calculation Formula */}
             <section id="npv-recovery-calculation-formula" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                4. The Mathematical Model: Net Present Value (NPV) Recovery Formula Used by Credit Committees
+                4. Mathematical Model: NPV Recovery Formula in Haircuts
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Bank settlement approvals are neither arbitrary nor based on emotional appeals. Institutional recovery decisions are governed by a mathematical Net Present Value (NPV) recovery comparison model mandated under internal credit compromise policies. When evaluating an OTS proposal, the bank&apos;s Credit Settlement Committee compares the guaranteed present cash offer against the estimated discounted recovery achievable through prolonged legal recovery proceedings.
@@ -515,7 +515,7 @@ export default function WhatIsHaircutClient() {
             {/* Section 5: NPA Aging Buckets & Haircut Matrix */}
             <section id="npa-aging-haircut-matrix" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                5. NPA Asset Classification &amp; Haircut Leverage Matrix: How Delinquency Aging Dictates Discounts
+                5. NPA Classification & Delinquency Aging Haircut Matrix
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The stage of delinquency and the formal asset classification bucket of your defaulted loan directly govern the haircut percentage a bank is authorized to approve. Bank Delegation of Financial Powers matrices establish strict settlement discount caps tied to the provisioning level of each delinquency tier.
@@ -580,7 +580,7 @@ export default function WhatIsHaircutClient() {
             {/* Section 6: RBI Regulatory Directives */}
             <section id="rbi-regulatory-directives-ots" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                6. RBI Regulatory Framework: Master Direction on Compromise Settlements (2023–2026)
+                6. RBI Framework on Compromise Settlements (2023–2026)
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To standardize compromise settlements and eliminate arbitrary recovery agent practices, the Reserve Bank of India issued its comprehensive **Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24)**. This landmark regulatory directive applies to all commercial banks, urban cooperative banks, and NBFCs across India, establishing strict statutory rules governing debt haircuts.
@@ -596,7 +596,7 @@ export default function WhatIsHaircutClient() {
             {/* Section 7: Advocate Negotiation Strategy */}
             <section id="advocate-negotiation-strategy" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                7. Strategic Legal Negotiation: How Advocates Secure Maximum Permissible Debt Haircuts
+                7. Strategic Negotiation for Maximum Permissible Haircuts
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Securing a favorable haircut is a sophisticated legal and financial negotiation process. Distressed borrowers who negotiate directly with third-party collection agents often fail because recovery agents operate on aggressive monthly commission quotas and lack the statutory authority to approve principal waivers. SettleLoans advocates deploy a structured four-stage procedural workflow to achieve maximum permissible haircuts.
@@ -612,7 +612,7 @@ export default function WhatIsHaircutClient() {
             {/* Section 8: Sanction Letter Audit */}
             <section id="sanction-letter-audit-safeguards" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                8. Sanction Letter Audit: Preventing Fraudulent Haircuts &amp; Collection Agent Traps
+                8. Sanction Letter Audit: Preventing Fraudulent Traps
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The most dangerous hazard in debt resolution is falling victim to unauthorized settlement scams executed by commission-driven collection agents. In thousands of documented instances across India, predatory recovery agents issue fake WhatsApp discount letters or verbally promise that paying a small amount will settle the loan. Once the borrower deposits the money, the bank books it as a partial overdue payment, leaving the remaining principal active and delinquency continuing unabated.
@@ -651,7 +651,7 @@ export default function WhatIsHaircutClient() {
             {/* Section 9: CIBIL Impact & Credit Rehabilitation */}
             <section id="cibil-impact-credit-rehabilitation" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                9. Credit Bureau Footprint: How a Haircut Impacts CIBIL &amp; The Path to Score Rehabilitation
+                9. How Haircuts Impact CIBIL & Path to Credit Repair
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Under the Credit Information Companies (Regulation) Act, 2005 (CICRA), all regulated lenders are legally required to report the resolution status of closed credit facilities to authorized credit bureaus—including TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. Understanding how a settlement haircut is recorded in your credit report is essential for long-term financial planning.
@@ -667,7 +667,7 @@ export default function WhatIsHaircutClient() {
             {/* Section 10: SettleLoans Legal Strategy */}
             <section id="settleloans-advocacy-framework" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                10. Institutional Legal Advocacy: Protecting Borrowers with SettleLoans
+                10. Institutional Legal Advocacy with SettleLoans
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Navigating the complex institutional bureaucracy of public and private commercial banks requires specialized legal and financial expertise. As India&apos;s premier loan settlement, debt dispute resolution, and legal defense platform, SettleLoans provides complete institutional protection for distressed borrowers.

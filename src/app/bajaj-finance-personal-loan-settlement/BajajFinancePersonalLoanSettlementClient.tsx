@@ -346,7 +346,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <span>1. NBFC Risk Engine &amp; Recovery Infrastructure</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Bajaj Finance&apos;s Algorithmic Credit &amp; Recovery Infrastructure
+                Bajaj Finance Algorithmic Credit & Recovery System
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bajaj Finance Limited (operating under the Bajaj Finserv brand) is India&apos;s largest consumer non-banking financial company (NBFC), dominating retail credit through unsecured personal loans, Flexi credit lines, and digital EMI cards. Unlike traditional commercial banks that rely on gradual branch-level follow-ups, Bajaj Finance deploys an automated, algorithm-driven recovery engine engineered to trigger immediate collection pressure upon a single missed installment.
@@ -374,7 +374,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Bajaj Finance Delinquency Stages: From DPD 1-30 to Non-Performing Asset (NPA)
+                Bajaj Finance Delinquency Stages
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) accounting standards under Ind AS 109, Bajaj Finance categorizes overdue retail loans into operational Days Past Due (DPD) buckets. Timing your settlement petition to match these stages is critical for maximizing debt waivers.
@@ -447,7 +447,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Stop Bajaj Finance Bounce Charges &amp; Halt Repeated NACH Presentations
+                How to Stop Bajaj Finance Bounce Charges & NACH Hits
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Compounding bounce penalties represent a severe hazard for delinquent Bajaj Finance borrowers. When an EMI mandate bounces, the destination bank deducts ₹250 to ₹500 plus GST, while Bajaj Finance levies an internal penalty of ₹450 to ₹1,000+. When the lender presents the debit mandate two or three times monthly, peripheral charges rapidly total thousands of rupees.
@@ -602,7 +602,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Aggressive Recovery Tactics Under RBI NBFC Directives
+                Defending Against Aggressive Recovery Under RBI Directives
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bajaj Finance deploys extensive third-party Debt Recovery Agencies (DRAs) whose field personnel operate under commission incentives. In distress situations, these agents often overstep legal boundaries through persistent calling, unannounced workplace visits, and contacting non-guarantor relatives or colleagues whose numbers were collected during digital onboarding.
@@ -622,7 +622,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with Bajaj Finance
+                Step-by-Step Guide: Compromise Settlement with Bajaj Finance
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating a compromise settlement with Bajaj Finance requires structured financial preparation and firm legal representation:
@@ -704,7 +704,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <span>7. Section 25 Notices, Section 138 &amp; Lok Adalat</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat
+                Section 25 PSSA Notices, Arbitration & Lok Adalat
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a personal loan crosses 60 to 90 days of default, Bajaj Finance routinely issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, alongside notices invoking private arbitration.
@@ -768,7 +768,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating Bajaj Finance Settlement Letters &amp; Enforcing the ₹0 NDC
+                Authenticating Bajaj Settlement Letters & Enforcing NDC
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A major hazard in retail debt recovery involves rogue collection agents issuing unverified settlement letters to collect partial payments. If funds are paid against an unauthorized letter, Bajaj Finance credits the money toward accumulated penal interest, leaving the core default open.
@@ -788,7 +788,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Recovery Plan
+                CIBIL Score Trajectory & 18-Month Recovery Plan
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Completing a settlement with Bajaj Finance leads to the account being reported to all credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
@@ -827,7 +827,7 @@ export default function BajajFinancePersonalLoanSettlementClient() {
                 <span>11. Frequently Asked Questions</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Bajaj Finance Personal Loan Settlement
+                FAQs: Bajaj Finance Personal Loan Settlement
               </h2>
 
               <div className="space-y-3">

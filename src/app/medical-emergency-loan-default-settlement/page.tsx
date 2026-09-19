@@ -570,7 +570,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>1. Medical Catastrophe vs Wilful Default</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Healthcare Debt Trap: Distinguishing Medical Insolvency from Wilful Default
+                Healthcare Debt Trap: Medical Distress vs Wilful Default
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In India, out-of-pocket healthcare expenditure remains one of the primary drivers of sudden household insolvency. When a catastrophic medical event strikes—such as an emergency coronary artery bypass, intensive oncology chemotherapy cycles, neurosurgical interventions, multi-organ trauma from vehicular accidents, or chronic organ failure—household savings, emergency fixed deposits, and provident funds are liquidated within days. Even when families maintain basic health insurance coverage, stringent policy sub-limits, non-payable medical consumables, and arbitrary Third Party Administrator (TPA) claim deductions force borrowers to absorb millions of rupees in direct hospital liabilities.
@@ -598,7 +598,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>2. Compiling the Medical Hardship Dossier</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Compiling the Evidentiary Medical Dossier: Hospital Records as Irrefutable Proof
+                Compiling Medical Records as Irrefutable Evidence
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bank Zonal Stressed Assets Committees and Chief Risk Officers do not grant multi-lakh debt waivers based on verbal emotional appeals or casual medical prescriptions. Internal bank auditors, statutory credit controllers, and RBI inspection teams require comprehensive, verifiable documentary trails to justify every single rupee written off under a compromise settlement. Submitting an airtight <strong>Medical Hardship Dossier</strong> transforms a subjective personal crisis into an indisputable legal reality, compelling bank credit committees to authorize maximum compromise concessions.
@@ -665,7 +665,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>3. NPA Lifecycle &amp; Zonal Committee Timing</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The NPA Provisioning Timeline: Strategic Timing for Maximum Medical Debt Waivers
+                NPA Provisioning Timeline for Medical Debt Waivers
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Achieving a favorable loan settlement requires an in-depth understanding of bank accounting cycles and the regulatory lifecycle of delinquent assets. In commercial banking, default resolution is governed by strict provisioning mandates imposed by the Reserve Bank of India. The internal authority of bank credit managers to sanction significant debt write-offs changes drastically across the delinquency timeline:
@@ -738,7 +738,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>4. NPV Recovery Valuation &amp; Debt Waiver Mathematics</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Net Present Value (NPV) Recovery Modeling: Why Banks Accept 50%–75% Medical Haircuts
+                NPV Modeling: Why Banks Accept 50%–75% Medical Haircuts
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers frequently wonder why a profit-maximizing commercial bank would voluntarily waive 50% to 75% of a legitimately borrowed loan balance. The decision is rooted entirely in cold institutional economics and the doctrine of <strong>Net Present Value (NPV) Recovery Modeling</strong>. Under RBI Master Directions on Compromise Settlements, bank credit committees are legally required to calculate whether accepting an immediate discounted cash settlement yields a higher financial return than pursuing civil litigation against a medically incapacitated borrower.
@@ -777,7 +777,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>5. Visual Resolution Blueprint</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Visual Resolution Blueprint: From Medical Emergency Default to ₹0 No Dues Certificate
+                Resolution Blueprint: Medical Default to ₹0 NDC
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The comprehensive infographic below illustrates the 4-stage institutional lifecycle of resolving defaulted retail loans following catastrophic medical emergencies. It outlines how verified hospital records and statutory protections transform unmanageable debt into an authorized 50% to 75% compromise waiver under Reserve Bank of India frameworks.
@@ -806,7 +806,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>6. Stopping Harassment &amp; Patient Protection</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Halting Recovery Agent Harassment: Protecting Patients Under RBI Fair Practice Codes
+                Halting Recovery Harassment for Medical Patients
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most distressing aspect of defaulting during a healthcare crisis is aggressive collection agent harassment. Lenders routinely outsource delinquent accounts to third-party recovery agencies driven by commission incentives. In direct violation of basic human decency and statutory banking regulations, agents frequently call recovering patients in hospital wards, visit residential premises while patients are on strict bed rest, intimidate non-guarantor family members, and issue unlawful threats of immediate police detention.
@@ -839,7 +839,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>7. Section 25 PSSA &amp; Section 138 Defense</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Statutory Legal Notices: Section 25 PSSA &amp; Section 138 NI Act
+                Defending Notices: Section 25 PSSA & Section 138 NI Act
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As medical expenditures exhaust bank balances, automated electronic National Automated Clearing House (e-NACH) mandates and post-dated cheques bounce due to insufficient funds. Lenders utilize these automated bounce events to issue intimidating statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act (PSSA), 2007</strong> or <strong>Section 138 of the Negotiable Instruments (NI) Act, 1881</strong>.
@@ -868,7 +868,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>8. Step-by-Step Settlement Protocol</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The 5-Step Compassionate Grounds Settlement Protocol: Securing Zonal Approval
+                5-Step Compassionate Settlement Protocol for Zonal Approval
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a legally binding, heavily discounted loan settlement requires bypassing frontline collection tele-callers and engaging directly with authorized bank decision-makers. The following five-stage roadmap governs professional medical debt resolution:
@@ -934,7 +934,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>9. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                OTS Sanction Letter Forensics: The 5 Non-Negotiable Clauses and the ₹0 NDC Mandate
+                OTS Sanction Letters: 5 Key Clauses & ₹0 NDC Mandate
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most dangerous trap facing medically distressed borrowers is relying on verbal settlement promises or unverified WhatsApp messages sent by collection agents. Tele-callers routinely trick borrowers into making token payments of ₹25,000 to ₹50,000, promising that the loan will be closed, only for the bank to credit the amount against overdue penal interest while leaving the entire principal balance active and compounding.
@@ -966,7 +966,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>10. Comparative Matrix &amp; CIBIL Recovery</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Comparative Debt Resolution Matrix &amp; Long-Term Credit Rehabilitation
+                Comparative Debt Resolution Matrix & Credit Repair
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed borrowers often evaluate whether a One-Time Settlement (OTS) is superior to alternative relief mechanisms such as loan tenure restructuring, medical moratoriums, or conciliation through National Lok Adalat. The comparative matrix below details the strategic trade-offs of each avenue following a healthcare crisis:
@@ -1043,7 +1043,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <span>11. Frequently Asked Questions</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Loan Settlement Due to Medical Emergency
+                FAQs: Loan Settlement Due to Medical Emergency
               </h2>
 
               <div className="space-y-4">

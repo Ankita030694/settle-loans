@@ -503,7 +503,7 @@ export default function LoanSettlementVsDebtConsolidationClient() {
             {/* Section 2: Comprehensive Financial Math & Simulation (15L Portfolio) */}
             <section id="financial-cost-simulation-math" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                2. Financial Mathematics: Comprehensive Cost Comparison &amp; Multi-Loan Simulation
+                2. Financial Math: Cost Comparison & Loan Simulation
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To understand why debt consolidation often fails stressed borrowers while debt settlement creates immediate solvency, let us analyze a real-world multi-debt scenario in India.
@@ -622,7 +622,7 @@ export default function LoanSettlementVsDebtConsolidationClient() {
             {/* Section 3: CIBIL Score & Underwriting Impact */}
             <section id="cibil-score-underwriting-impact" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                3. CIBIL Bureau Mechanics: Status Codes, Underwriting &amp; 36-Month Score Trajectory
+                3. CIBIL Mechanics: Status Codes & Score Trajectory
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 In India&apos;s regulated credit ecosystem, licensed credit information companies (CIBIL, Experian, Equifax, and CRIF High Mark) operate under the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>. Lenders update loan records on the 10th of every month using standardized bureau reporting tags.
@@ -864,7 +864,7 @@ export default function LoanSettlementVsDebtConsolidationClient() {
             {/* Section 5: The "Consolidation Trap" vs. Strategic Settlement Execution */}
             <section id="consolidation-trap-vs-settlement" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                5. The Dangers of the &quot;Consolidation Trap&quot; vs. Strategic Settlement Execution
+                5. The Consolidation Trap vs Strategic Debt Settlement
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 A critical behavioral finance trap that destroys thousands of Indian middle-class households every year is the <strong>Consolidation Trap</strong> (also known as <em>Double-Debt Overleveraging</em>).
@@ -945,7 +945,7 @@ export default function LoanSettlementVsDebtConsolidationClient() {
             {/* Section 7: 7-Point Diagnostic Decision Framework */}
             <section id="decision-framework-matrix" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                7. The 7-Point Diagnostic Decision Framework: Consolidation vs. Settlement
+                7. 7-Point Framework: Consolidation vs Settlement
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To determine which path is mathematically and legally optimal for your debt profile, evaluate your situation against our 7 diagnostic stress indicators:
@@ -1007,7 +1007,7 @@ export default function LoanSettlementVsDebtConsolidationClient() {
             {/* Section 8: Step-by-Step Action Blueprints for Both Routes */}
             <section id="step-by-step-execution-blueprints" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                8. Step-by-Step Action Blueprints: How to Execute Either Strategy Safely
+                8. Action Blueprints: Executing Either Strategy Safely
               </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Regardless of which pathway matches your diagnostic evaluation, proper legal and administrative execution is critical to avoid costly mistakes.

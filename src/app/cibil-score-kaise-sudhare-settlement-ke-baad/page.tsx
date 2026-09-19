@@ -497,7 +497,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 01</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. Post-Settlement CIBIL Drop: Credit Bureau Algorithm Mechanics &amp; Scoring Impact
+                1. Post-Settlement CIBIL Drop: Algorithm Mechanics & Impact
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -532,7 +532,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                2. Settled vs Closed vs Written-Off: Credit Bureau Terminology &amp; Underwriting Reality
+                2. Settled vs Closed vs Written-Off: Bureau Terminology
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -604,7 +604,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                3. No Dues Certificate (NDC) Verification &amp; CICRA 2005 Statutory Data Audit
+                3. NDC Verification & CICRA 2005 Statutory Data Audit
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -648,7 +648,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                4. Converting &apos;Settled&apos; Status to &apos;Closed&apos;: Legal Mechanics &amp; Repayment Protocols
+                4. Converting 'Settled' to 'Closed': Legal Mechanics
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -734,7 +734,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                6. Fixed Deposit-Backed Secured Credit Card: The Engine of Rapid Credit Score Repair
+                6. Secured FD Credit Cards: Engine of Rapid Credit Repair
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -767,7 +767,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                7. Credit Utilization Ratio (CUR) Management &amp; Optimal Credit Mix Architecture
+                7. Credit Utilization Ratio (CUR) & Optimal Credit Mix
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -794,7 +794,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                8. The 18-Month Score Recovery Timeline: From 550 to 750+ CIBIL Milestones
+                8. 18-Month Recovery Timeline: From 550 to 750+ CIBIL
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -852,7 +852,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                9. Comparative Evaluation: Authentic Credit Repair Methods vs Risky Shortcuts
+                9. Authentic Credit Repair Methods vs Risky Shortcuts
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>

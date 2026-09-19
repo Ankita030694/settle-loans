@@ -370,7 +370,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             {/* Section 1 */}
             <section id="cibil-impact-mechanics" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. What Actually Happens to Your CIBIL Score When You Settle a Personal Loan?
+                1. What Happens to Your CIBIL Score After Loan Settlement?
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 When faced with overwhelming unsecured debt, borrowers frequently ask: <em>&quot;does personal loan settlement affect CIBIL permanently, and is it worse than falling behind on EMIs?&quot;</em> To understand the algorithmic reality, one must analyze how Credit Information Companies (CIBIL, Experian, CRIF High Mark, and Equifax) process loan settlement data submitted by member banks.
@@ -464,7 +464,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             {/* Section 2 */}
             <section id="settled-vs-closed" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                2. Deciphering CIBIL Statuses: &quot;Closed&quot; vs. &quot;Settled&quot; vs. &quot;Written Off&quot; vs. &quot;Suit Filed&quot;
+                2. CIBIL Statuses: Closed vs Settled vs Written Off
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Credit reports in India utilize precise terminology governed by the <strong>Credit Information Companies (CIC) Regulations</strong>. When reviewing your TransUnion CIBIL CIR (Credit Information Report), understanding these exact account markers is vital to assessing your standing.
@@ -566,7 +566,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             {/* Section 3 */}
             <section id="seven-year-retention" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                3. The 7-Year Rule: How Long Does &quot;Settled&quot; Status Stay on a CIBIL Report?
+                3. The 7-Year Rule: How Long 'Settled' Stays on CIBIL
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A primary source of anxiety for borrowers considering debt settlement is the lifespan of the adverse remark. Under Section 20 of the <strong>Credit Information Companies (Regulation) Act, 2005</strong>, CICs are legally authorized to maintain historical credit records for a period of <strong>up to seven (7) years</strong> from the date of closure or settlement.
@@ -708,7 +708,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             {/* Section 5 */}
             <section id="rbi-settlement-norms" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                5. RBI Guidelines &amp; Legal Rights of Borrowers During Compromise Settlements
+                5. RBI Guidelines & Borrower Rights in Compromise OTS
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Many distressed borrowers are unaware that loan settlement is not an act of charity by the bank—it is a formalized, statutory mechanism governed by Reserve Bank of India (RBI) circulars and protected under Indian consumer and banking law.
@@ -751,7 +751,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             {/* Section 6 */}
             <section id="ndc-cibil-audit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                6. Forensic Audit of the No Dues Certificate (NDC) &amp; 45-Day CIBIL Reporting Mandate
+                6. NDC Forensic Audit & 45-Day CIBIL Reporting Mandate
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A critical pitfall that traps thousands of Indian borrowers is paying a settlement amount based on verbal promises or informal WhatsApp messages from third-party recovery agents, only to find months later that the bank still shows an active default.
@@ -868,7 +868,7 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             {/* Section 8 */}
             <section id="settled-to-closed-conversion" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                8. Settled to Closed: Can You Pay the Remaining Amount Later to Clean Your CIBIL Report?
+                8. Settled to Closed: Paying Balance Later to Clean CIBIL
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A unique legal provision in Indian credit reporting allows borrowers whose financial situation improves to convert a past <strong>&quot;Settled&quot;</strong> account into a 100% clean <strong>&quot;Closed&quot;</strong> account.

@@ -349,7 +349,7 @@ export default function InstantAppLoanSettlementClient() {
                 <span>1. Anatomy of Digital Lending Schemes</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Predatory 7-Day Loan Apps vs RBI-Regulated Digital Lending Platforms
+                Predatory 7-Day Loan Apps vs RBI Regulated Platforms
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The Indian digital lending ecosystem is sharply divided into two distinct operating models: legitimate Digital Lending Apps (DLAs) partnered with Reserve Bank of India (RBI)-registered Non-Banking Financial Companies (NBFCs) or commercial banks, and unauthorized, predatory instant loan applications operating illicit cross-border extortion syndicates. Recognizing which category your lender belongs to represents the essential first step in determining your legal defense and settlement strategy.
@@ -377,7 +377,7 @@ export default function InstantAppLoanSettlementClient() {
                 <span>2. Cyber Extortion &amp; Harassment Mechanisms</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Anatomy of Blackmail: Contact Scraping, Morphed Images &amp; Fabricated Legal Threats
+                Anatomy of Blackmail: Scraping & Fabricated Threats
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a borrower downloads an unauthorized instant loan APK, the application covertly exploits device access permissions to scrape the entire contact address book, SMS repository, call history, media gallery, and device identifiers. If the borrower defaults or resists exorbitant 7-day renewal penalties, the operating syndicate deploys weaponized psychological harassment and cyber extortion tactics designed to induce panic and social humiliation.
@@ -397,7 +397,7 @@ export default function InstantAppLoanSettlementClient() {
                 <span>3. Statutory Protections &amp; Legal Framework</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Enforcing Your Legal Rights: The Information Technology Act &amp; RBI Master Directions
+                Enforcing Legal Rights: IT Act & RBI Master Directions
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Victims of predatory digital lending apps enjoy robust legal protections under Indian penal statutes, cyber law, and central banking directives. When recovery agents resort to photo morphing, abusive tele-calling, or contact harassment, their actions cross from commercial default into cognizable criminal offenses that carry severe imprisonment terms for the perpetrators.
@@ -463,7 +463,7 @@ export default function InstantAppLoanSettlementClient() {
                 <span>4. Emergency Cyber Crime Reporting Protocol</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to File Complaints on the National Cyber Crime Portal (1930 Helpline)
+                Filing Complaints on Cyber Crime Portal (1930)
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When facing active cyber blackmail or contact harassment, immediate statutory reporting creates an enforceable evidentiary shield. The Ministry of Home Affairs (MHA), through the Indian Cyber Crime Coordination Centre (I4C), manages the National Cyber Crime Reporting Portal and the dedicated emergency helpline <strong>1930</strong> (formerly 155260), specifically equipped to handle digital lending fraud and financial extortion.
@@ -539,7 +539,7 @@ export default function InstantAppLoanSettlementClient() {
                 <span>5. Social Shielding &amp; Narrative Control</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Neutralizing Blackmail: Emergency Contact Shielding &amp; Family Broadcast Protocol
+                Neutralizing Blackmail: Emergency Contact Shielding
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Extortion syndicates rely entirely on isolation, shame, and social panic. The moment a victim capitulates to fear and transfers money to stop a photo leak, the syndicate flags the profile as &quot;paying&quot; and escalates extortion demands through secondary and tertiary rogue numbers. Neutralizing their leverage requires executing an immediate, proactive narrative takeover before the extortionists initiate mass calling.
@@ -559,7 +559,7 @@ export default function InstantAppLoanSettlementClient() {
                 <span>6. Dual-Track Debt Resolution Strategy</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Resolving Digital Debt: Illegal 7-Day APKs vs Regulated NBFC Digital Lending Apps
+                Resolving Digital Debt: Illegal APKs vs NBFC Apps
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Resolving digital lending debt requires applying a strict dual-track methodology based on the institutional legitimacy of the underlying lender. Attempting to negotiate a compromise settlement with an illegal extortion ring is futile and counterproductive, whereas failing to formally settle with an RBI-regulated NBFC will lead to compounding default penalties and credit score destruction.
@@ -620,7 +620,7 @@ export default function InstantAppLoanSettlementClient() {
                 <span>7. Credit Bureau Trajectory &amp; Score Scrubbing</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Realities: Debunking Threats &amp; Scrubbing Unauthorized Inquiries
+                CIBIL Realities: Debunking Threats & Removing Inquiries
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A widespread tactic employed by rogue collection agents is threatening to &quot;permanently ruin your CIBIL score&quot; or place you on a &quot;national defaulter blacklist&quot;. Under the Credit Information Companies (Regulation) Act, 2005 (CICRA), access to credit reporting bureaus (TransUnion CIBIL, Experian, Equifax, and CRIF High Mark) is strictly restricted to RBI-licensed credit institutions. Illegal, unregistered loan apps possess zero technical or legal capability to report defaults, submit payment history, or alter your credit score.
@@ -688,7 +688,7 @@ export default function InstantAppLoanSettlementClient() {
                 <span>10. Frequently Asked Questions</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Instant App Loan Settlement &amp; Harassment Defense
+                FAQs: Instant App Loan Settlement & Harassment Defense
               </h2>
 
               <div className="space-y-3">

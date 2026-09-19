@@ -520,7 +520,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             {/* Section 1: Regulatory Architecture */}
             <section id="regulatory-architecture-borrower-rights" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Regulatory Architecture of Borrower Rights in India: RBI Fair Practices Code
+                1. Regulatory Architecture of Borrower Rights Under RBI
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In the contemporary Indian financial ecosystem, unsecured personal loans, consumer credit lines, credit cards, and micro-business credit facilities have expanded at an unprecedented pace. However, when unanticipated personal emergencies arise—such as sudden corporate layoffs, catastrophic family medical emergencies, critical supply-chain disruptions, or business insolvencies—honest borrowers frequently experience severe liquidity shortfalls. When Equated Monthly Installments (EMIs) default past the statutory 90-day threshold and become categorized as Non-Performing Assets (NPAs), institutional lenders frequently outsource recovery operations to aggressive third-party collection agencies.
@@ -545,7 +545,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             {/* Section 2: Calling Hours, Privacy & Harassment Bans */}
             <section id="calling-hours-privacy-harassment-bans" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Core Behavioral Mandates: Calling Hours (8 AM–7 PM), Privacy Bans &amp; Anti-Harassment Directives
+                2. Calling Hours (8 AM–7 PM) & Anti-Harassment Directives
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most visible touchpoint between distressed borrowers and institutional creditors occurs through collection communications. To curtail widespread predatory practices, the Reserve Bank of India issued landmark Circular RBI/2022-23/108 (DOR.ORG.REC.65/21.04.158/2022-23) titled <em>"Outsourcing of Financial Services - Responsibilities of Regulated Entities Employing Recovery Agents."</em> This circular establishes non-negotiable operational boundaries that govern how, when, and where lenders may communicate with borrowers.
@@ -599,7 +599,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             {/* Section 3: Civil Immunity & Section 420 IPC Myth */}
             <section id="civil-default-immunity-section-420-myth" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Statutory Protections Against Criminalization: Section 420 IPC Myth &amp; Supreme Court Rulings
+                3. Protections Against Criminalization: Section 420 Myth
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most persistent and damaging intimidation tactics utilized by unauthorized collection agencies involves sending fabricated police notices or threatening borrowers with criminal prosecution under Section 420 (Cheating and dishonestly inducing delivery of property) and Section 406 (Criminal breach of trust) of the Indian Penal Code (IPC), now corresponding to the relevant clauses of the Bharatiya Nyaya Sanhita (BNS).
@@ -635,7 +635,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             {/* Section 4: Bank Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Accounting: NPA Provisioning Dynamics &amp; The NPV Recovery Valuation Model
+                4. Bank NPA Provisioning Dynamics & NPV Recovery Valuation
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To comprehend why financial institutions utilize aggressive psychological pressure rather than initiating legitimate court proceedings, one must examine institutional balance sheet mechanics. Under the Reserve Bank of India Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), scheduled commercial banks must classify delinquent loans into progressive stages:
@@ -690,7 +690,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             {/* Section 6: Comprehensive Breakdown of the Top 10 RBI Rules */}
             <section id="comprehensive-breakdown-top-10-rules" className="space-y-6">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Comprehensive Breakdown of the Top 10 RBI Rules for Loan Defaulters Rights
+                6. Breakdown of Top 10 RBI Rules for Loan Defaulters
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has woven a comprehensive statutory tapestry across multiple master directions, circulars, and ombudsman regulations. Below is the authoritative, detailed breakdown of the top 10 statutory rules that safeguard every borrower in India:
@@ -844,7 +844,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             {/* Section 7: OTS Mechanics & Sanction Forensics */}
             <section id="ots-mechanics-haircut-sanction-forensics" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Strategic Negotiation Forensics: OTS Mechanics, Haircut Maximization &amp; Sanction Letter Verification
+                7. OTS Mechanics, Haircut Sizing & Sanction Letter Audit
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Executing a legally secure and financially advantageous One-Time Settlement (OTS) requires understanding the internal hierarchy and decision-making apparatus of scheduled commercial banks. Settlement authority does not reside with field recovery agents; it is vested in institutional Credit Committees, Zonal Settlement Committees (ZSC), or Special Asset Management Branches (SAMB).
@@ -880,7 +880,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             {/* Section 8: Remittance, 30-Day NDC & Credit Repair */}
             <section id="remittance-ndc-30-day-cibil-reconstruction" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Post-Settlement Remittance Protocols, 30-Day Mandatory NDC Compliance &amp; CIBIL Credit Reconstruction
+                8. Remittance Protocols, 30-Day NDC & CIBIL Reconstruction
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the final settlement installment is remitted in strict compliance with the sanction letter schedule, the post-settlement legal phase begins. Under RBI Directive RBI/2023-24/60, the financial institution is legally obligated to execute account closure, issue a physical and digital No Dues Certificate (NDC), and release any pledged security or original title deeds within 30 days.
@@ -989,7 +989,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Debt Resolution Framework: Your Statutory Shield
+                  10. SettleLoans Legal Defense & Debt Resolution Shield
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating institutional recovery harassment, aggressive collection agency tactics, and complex banking regulations requires seasoned legal advocates who specialize in banking litigation, the Code of Criminal Procedure, and RBI Master Directions. SettleLoans stands as India premier legal defense and debt resolution platform. Our advocates protect your dignity by serving formal cease-and-desist notices to stop unlawful harassment, holding abusive collection agencies accountable under criminal and consumer protection laws, and negotiating directly with institutional settlement committees to secure maximum principal waivers backed by authentic, bank-stamped No Dues Certificates.
@@ -1005,7 +1005,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Top 10 RBI Rules for Loan Defaulters Rights
+                  11. FAQs: Top 10 RBI Rules for Loan Defaulters
                 </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">

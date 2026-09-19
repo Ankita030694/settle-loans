@@ -351,7 +351,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
             {/* Section 1: Core Difference Explained */}
             <section id="core-difference-explained" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                1. Personal Loan Restructuring vs. Settlement: Core Differences Explained
+                1. Loan Restructuring vs Settlement: Core Differences
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When financial distress strikes—whether triggered by sudden job loss, unexpected medical emergencies, business margin collapse, or high-interest credit card traps—borrowers in India face a critical dilemma: <em>Should you negotiate with your bank to restructure your personal loan, or should you execute a One-Time Settlement (OTS)?</em>
@@ -570,7 +570,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
             {/* Section 3: CIBIL Score & Status Code Deep Dive */}
             <section id="cibil-score-mechanics" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                3. CIBIL Score Mechanics: &quot;Restructured&quot; vs. &quot;Settled&quot; vs. &quot;Written Off&quot;
+                3. CIBIL Mechanics: Restructured vs Settled vs Written Off
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 In the Indian banking ecosystem, credit bureaus—primarily TransUnion CIBIL, Experian, CRIF High Mark, and Equifax—operate under the statutory mandates of the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>. Lenders report every account status tag to these bureaus monthly.
@@ -997,7 +997,7 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
             {/* Section 7: Transition Strategies */}
             <section id="transition-strategies" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                7. Transition Strategies: Failed Restructuring to OTS &amp; Converting Settled to Closed
+                7. Transition Strategies: Failed Restructure to OTS
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Financial strategies must remain flexible. Many borrowers start with restructuring and later need to pivot to settlement, while others settle and later wish to convert their CIBIL remark to &quot;Closed&quot;. Here is how both transition mechanisms operate under Indian banking guidelines:

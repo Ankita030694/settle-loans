@@ -376,7 +376,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             {/* Section 1 */}
             <section id="rbi-guidelines-family-calls" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. What Do RBI Guidelines Say About Recovery Agents Calling Your Family &amp; Friends?
+                1. What RBI Guidelines Say About Calling Family & Friends
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Experiencing a financial crisis is stressful enough, but when third-party bank recovery agents begin calling your elderly parents, siblings, spouse, or friends, the emotional distress and social humiliation can feel overwhelming. Many borrowers ask in panic: <em>&quot;Is a bank recovery agent allowed to call my family in India? Can they publicly shame me to force repayment?&quot;</em>
@@ -417,7 +417,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             {/* Section 2 */}
             <section id="references-vs-guarantors" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                2. Reference Contacts vs. Co-Borrowers &amp; Guarantors: The Legal Liability Breakdown
+                2. Reference Contacts vs Guarantors: Legal Liability
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When borrowers fill out personal loan or credit card applications, banks routinely ask for two &quot;Reference Contacts&quot; or &quot;Emergency Contacts&quot;. When defaults occur, unscrupulous collection agents misuse these contact numbers, calling your relatives and falsely claiming: <em>&quot;You are listed on this loan, and you must pay if the borrower defaults.&quot;</em>
@@ -507,7 +507,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             {/* Section 3 */}
             <section id="agent-tactics-violations" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                3. Unmasking Illegal Tactics: How Recovery Agencies Exploit Social Pressure
+                3. Unmasking Illegal Tactics: Exploiting Social Pressure
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Third-party collection agencies often operate on commission structures ranging from 10% to 30% of recovered funds. To maximize recoveries, untrained or rogue agents deploy psychological warfare tactics aimed at destroying the borrower&apos;s social standing. Recognizing these tactics helps you stay calm and prepare evidence:
@@ -549,7 +549,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             {/* Section 4 */}
             <section id="criminal-civil-laws" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. Legal Protections Under Indian Law: Constitutional Privacy, BNS/IPC &amp; IT Act
+                4. Legal Protections: Privacy Rights, BNS & IT Act
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Borrowers facing aggressive collection harassment are protected by powerful constitutional, criminal, and civil legal frameworks in India. An unpaid civil loan is never a crime, and lenders must operate strictly within judicial boundaries:
@@ -646,7 +646,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             {/* Section 5 */}
             <section id="emergency-action-plan" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                5. The 5-Step Emergency Protocol: How to Stop Family Calls Within 24–48 Hours
+                5. Emergency Protocol: Stopping Family Calls in 24–48h
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 If recovery agents are currently calling your parents, spouse, or friends, do not panic. Execute this proven 5-step emergency legal protocol to halt third-party interference immediately:
@@ -791,7 +791,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             {/* Section 7 */}
             <section id="rbi-ombudsman-escalation" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                7. Escalating to the RBI Banking Ombudsman: Step-by-Step CMS Portal Guide
+                7. Escalating to RBI Ombudsman: CMS Portal Guide
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021</strong> provides a cost-free, high-speed quasi-judicial grievance mechanism for Indian bank customers. If your bank fails to resolve harassment or continues calling your family, filing a complaint on the RBI Complaint Management System (CMS) triggers immediate regulatory scrutiny:
@@ -882,7 +882,7 @@ export default function RecoveryAgentsCallingRelativesFriendsClient() {
             {/* Section 8 */}
             <section id="permanent-debt-resolution" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                8. Permanent Relief: How a One-Time Settlement (OTS) Legally Ends Debt Harassment
+                8. Permanent Relief: How an OTS Ends Harassment
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 While stopping recovery agent harassment protects your family in the short term, the underlying unsecured loan default remains on bank ledgers, accumulating compounding penal interest and degrading your credit score. If genuine financial distress (job loss, business failure, medical catastrophe) prevents you from paying the full balance, the permanent, lawful exit strategy is a <strong>One-Time Settlement (OTS)</strong>.

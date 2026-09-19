@@ -301,7 +301,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <span>1. Statutory Nature &amp; Institutional Demystification</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Demystifying Lok Adalat: Why It Is an ADR Conciliation Forum, Not a Trial Court
+                Demystifying Lok Adalat: An ADR Conciliation Forum
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Receiving an official-looking postal envelope or an urgent WhatsApp message carrying the heading &quot;Notice for National Lok Adalat&quot; often triggers severe panic among Indian retail borrowers. Distressed individuals struggling with overdue personal loan EMIs, credit card balances, or micro-enterprise credit lines frequently misinterpret this document as a criminal court summons, an imminent arrest warrant, or an immediate police attachment proceeding. In reality, the institutional architecture of Lok Adalat represents the complete opposite: it is India&apos;s premier, borrower-friendly Alternative Dispute Resolution (ADR) mechanism designed specifically to bypass adversarial court trials and facilitate voluntary, discounted debt compromises.
@@ -321,7 +321,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <span>2. Notice Forensics: Pre-Litigation vs. Pending Court Summons</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Forensic Analysis of Lok Adalat Notices: Decoding DLSA Pre-Litigation Summons
+                Lok Adalat Notices: Decoding DLSA Pre-Litigation Summons
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 To respond strategically to a Lok Adalat communication, a borrower must first determine whether the notice represents a <strong>Pre-Litigation Conciliation Notice</strong> or a <strong>Post-Litigation Court Referral</strong>. Lending institutions, including public sector banks like State Bank of Baroda and Punjab National Bank, private lenders like HDFC Bank, ICICI Bank, and Axis Bank, and major NBFCs like Bajaj Finance, utilize both channels depending on the recovery lifecycle of the non-performing asset (NPA).
@@ -361,7 +361,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <span>3. Voluntary Attendance, Zero Coercion &amp; Arrest Myths Debunked</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Is Lok Adalat Attendance Mandatory? Debunking Police Powers and Arrest Threats
+                Is Lok Adalat Attendance Mandatory? Debunking Arrest Myths
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 The most pervasive myth spread by aggressive recovery tele-callers is that ignoring a Lok Adalat notice constitutes contempt of court, which will trigger immediate non-bailable arrest warrants (NBWs) or police visits to the borrower&apos;s residence. This threat is completely baseless and legally impossible under Indian jurisprudence.
@@ -381,7 +381,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <span>4. Zero Court Fees, Cost Efficiency &amp; Full Refund Mechanics</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Financial Architecture: Zero Court Fees and 100% Court Fee Refund Protections
+                Zero Court Fees & Fee Refund Protections in Lok Adalat
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Traditional civil litigation in India is notorious for prohibitive legal costs, mandatory ad-valorem court fees (often ranging between 5% and 10% of the disputed claim amount), process fees, and advocate retainers that compound over years. Lok Adalat eliminates these financial barriers completely through an extraordinary statutory cost framework.
@@ -436,7 +436,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <span>6. On-the-Spot Negotiation Strategy &amp; Net Present Value (NPV) Formula</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Secure the Highest Haircut on the Spot: Bank NPA Accounting &amp; NPV Valuation
+                How to Secure Highest Haircut on the Spot at Lok Adalat
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Securing an aggressive 40% to 75% debt haircut at Lok Adalat is not a matter of emotional pleading; it is an analytical exercise rooted in banking regulations and asset classification rules established by the Reserve Bank of India. To negotiate effectively before the Lok Adalat bench, borrowers must understand how commercial banks evaluate non-performing assets on their balance sheets.
@@ -545,7 +545,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <span>8. Section 21 Award Decree: Statutory Finality &amp; Non-Appealability</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Legal Force of Section 21: Why Lok Adalat Awards Cannot Be Appealed
+                Section 21 Legal Force: Finality of Lok Adalat Awards
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 One of the most powerful legal safeguards of settling a loan through Lok Adalat is the absolute statutory finality conferred upon the compromise agreement. Unlike informal bank settlement letters that can occasionally be disputed or mismanaged by changing branch staff, a Lok Adalat settlement carries the full weight of a judicial decree.
@@ -603,7 +603,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <span>10. Comparative Resolution Matrix &amp; Professional Legal Advocacy</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Comparing Resolution Channels: Unassisted Borrowers vs. Recovery Agencies vs. SettleLoans
+                Comparing Resolution Channels: Solo vs Agency vs SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Understanding how different approaches impact settlement outcomes at National Lok Adalat is critical for achieving optimal financial relief. The comparative matrix below highlights key structural differences:

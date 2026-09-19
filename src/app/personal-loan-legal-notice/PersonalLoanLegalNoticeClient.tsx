@@ -377,7 +377,7 @@ export default function PersonalLoanLegalNoticeClient() {
             {/* Section 1 */}
             <section id="jail-myth-civil-vs-criminal" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. The Core Dilemma: Will You Go to Jail for Personal Loan Default in India? (Civil vs. Criminal Reality)
+                1. Can You Go to Jail for Personal Loan Default in India?
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 The moment a borrower receives a formal-looking envelope stamped with &quot;LEGAL DEMAND NOTICE&quot; or an alarming WhatsApp PDF threatening &quot;Section 420 IPC / Section 318 BNS Criminal Proceedings,&quot; psychological panic takes over. The overarching, terrorizing question is: <em>&quot;Will the police arrest me? Will I be sent to jail for defaulting on my personal loan?&quot;</em>
@@ -486,7 +486,7 @@ export default function PersonalLoanLegalNoticeClient() {
             {/* Section 2 */}
             <section id="types-of-legal-notices" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                2. The 5 Types of Legal Notices Issued for Personal Loan Defaults (and What Each Means)
+                2. 5 Types of Legal Notices for Personal Loan Default
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Not all legal notices carry the same statutory implications. In India, banks, NBFCs, and fintech lenders deploy five distinct legal instruments depending on the loan vintage, defaulted amount, and underlying contracts.
@@ -645,7 +645,7 @@ export default function PersonalLoanLegalNoticeClient() {
             {/* Section 3 */}
             <section id="genuine-vs-fake-notice" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                3. Genuine Bank Legal Notice vs. Fake Recovery Agent Notice: 6-Point Forensic Checklist
+                3. Genuine Bank Legal Notice vs. Fake Recovery Agent Notice
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 In India&apos;s retail lending ecosystem, aggressive collection agencies frequently commit criminal forgery by drafting fictitious &quot;Legal Notices&quot;, &quot;Court Summons&quot;, or &quot;Police Arrest Warrants&quot; and sending them over WhatsApp or email to intimidate borrowers.
@@ -720,7 +720,7 @@ export default function PersonalLoanLegalNoticeClient() {
             {/* Section 4 */}
             <section id="reply-procedure-and-timeline" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. Step-by-Step Action Plan: How to Legally Reply to a Loan Notice Within 15–30 Days
+                4. Action Plan: Legally Replying to a Loan Notice in 15-30 Days
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Receiving a genuine legal notice requires swift, structured action. The single worst mistake a borrower can make is ignoring the notice. When a notice goes unanswered, the bank&apos;s counsel argues before the court that the borrower had no defense and admitted to all allegations.
@@ -901,7 +901,7 @@ export default function PersonalLoanLegalNoticeClient() {
             {/* Section 6 */}
             <section id="settlement-after-legal-notice" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                6. Negotiating a One-Time Settlement (OTS) After Receiving a Legal Notice
+                6. Negotiating a Bank OTS After Receiving a Legal Notice
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A widespread misconception is that once a bank issues a legal notice, compromise settlement is off the table. The reality is precisely the opposite: <strong>a legal notice is the bank&apos;s strongest signal that they are ready to settle</strong>.
@@ -975,7 +975,7 @@ export default function PersonalLoanLegalNoticeClient() {
             {/* Section 7 */}
             <section id="borrower-rights-rbi-supreme-court" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                7. Borrower Legal Rights Under RBI Directives &amp; Supreme Court Judgments
+                7. Borrower Rights Under RBI Directives & SC Judgments
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Indian law provides robust statutory safeguards to protect debtors from predatory intimidation and unconstitutional coercion. When dealing with a bank legal notice, you possess several enforceable rights:
@@ -1018,7 +1018,7 @@ export default function PersonalLoanLegalNoticeClient() {
             {/* Section 8 */}
             <section id="reply-format-and-clauses" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                8. Legal Reply Checklist &amp; Essential Rebuttal Clauses for Distressed Borrowers
+                8. Legal Reply Checklist & Essential Rebuttal Clauses
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When your advocate prepares a formal legal reply to a personal loan notice, ensuring that specific statutory clauses are incorporated protects you against future criminal claims and strengthens your settlement stance.

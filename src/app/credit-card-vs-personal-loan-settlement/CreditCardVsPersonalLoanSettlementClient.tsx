@@ -352,7 +352,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
             {/* Section 1: Structural Debt Architecture Differences */}
             <section id="debt-architecture-comparison" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                1. Revolving Credit Cards vs. Fixed Term Personal Loans: Structural Differences
+                1. Revolving Credit Cards vs Fixed Personal Loans
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Borrowers facing acute liquidity stress in India often carry a toxic combination of unsecured credit cards and personal loans across multiple commercial banks. Understanding the fundamental architectural differences between revolving credit card lines and amortized personal loans is essential for determining your negotiation leverage, projected settlement haircuts, and debt settlement priority.
@@ -440,7 +440,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
             {/* Section 3: Haircut Depth Comparison */}
             <section id="settlement-haircuts-discount-depth" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                3. Settlement Haircut Depth: Why Credit Cards Offer 50%–75% Discounts vs. 35%–60% on Loans
+                3. Haircut Depth: Credit Cards (50-75%) vs Loans (35-60%)
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The most critical mathematical reality in Indian debt resolution is that credit card settlements consistently yield substantially larger percentage haircuts than personal loan settlements. This discrepancy is not arbitrary; it is rooted directly in balance composition and bank recovery economics.
@@ -513,7 +513,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
             {/* Section 4: Legal Exposure & Recovery Agency Tactics */}
             <section id="legal-exposure-recovery-tactics" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                4. Legal Exposure &amp; Recovery Agency Tactics: Section 138 vs. Civil Debt Recovery
+                4. Legal Exposure: Section 138 vs Civil Debt Recovery
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When borrowers default simultaneously on credit cards and personal loans, recovery dynamics and legal exposure differ substantially. Personal loans carry structured statutory enforcement mechanisms because banks mandate pre-authorized National Automated Clearing House (NACH) e-mandates or physical post-dated cheques prior to loan disbursal.
@@ -582,7 +582,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
             {/* Section 5: Strategic Debt Triage Playbook */}
             <section id="strategic-debt-triage-priority" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                5. Strategic Debt Triage: Which Debt Should You Settle First with Limited Cash?
+                5. Strategic Debt Triage: Which Debt to Settle First?
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 When a borrower holds multiple delinquent credit cards and personal loans but possesses only a limited cash reserve (such as provident fund withdrawal, family assistance, or liquidated gold), deploying those funds without a strategic triage plan leads to catastrophic misallocation. Paying a small amount to every bank satisfies no creditor and leaves you exposed to both legal summons and aggressive collection harassment.
@@ -628,7 +628,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
             {/* Section 6: NPV & Bank Settlement Accounting Math */}
             <section id="npv-decision-modeling" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                6. Net Present Value (NPV) &amp; Risk Modeling: Inside the Bank's Settlement Committee
+                6. NPV & Risk Modeling in Bank Settlement Committees
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To negotiate effectively, borrowers must understand how bank recovery committees evaluate settlement proposals. Lenders do not make settlement decisions based on emotional pleas; they utilize Net Present Value (NPV) recovery modeling to assess whether accepting an immediate discounted cash offer yields a higher risk-adjusted return than pursuing protracted legal litigation.
@@ -658,7 +658,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
             {/* Section 7: CIBIL Bureau & Credit Rehabilitation */}
             <section id="cibil-credit-bureau-recovery" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                7. Credit Bureau Reporting &amp; CIBIL Score Trajectory Post-Settlement
+                7. Credit Bureau Reporting & CIBIL Score Trajectory
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Both credit card and personal loan settlements result in a &quot;Settled&quot; or &quot;Post (WO) Settled&quot; status being transmitted to all four RBI-licensed credit information companies in India: TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. While both settlements cause an immediate CIBIL score drop of 75 to 150 points, their structural impact on your ongoing credit profile differs.

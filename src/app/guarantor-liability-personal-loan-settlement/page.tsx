@@ -509,7 +509,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             {/* Section 1: The Agony of Family Co-Signers */}
             <section id="guarantor-vs-coapplicant-legal-status" className="space-y-4">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
-                1. The Agony of Family Co-Signers: Distinguishing Guarantor vs. Co-Applicant Legal Status
+                1. The Agony of Family Co-Signers
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Few financial circumstances generate more acute emotional distress and familial discord than an unexpected default on an unsecured personal loan or credit facility where a close family member—most commonly an aging parent, spouse, or sibling—served as a co-signer or personal guarantor. When an unexpected financial catastrophe strikes, such as sudden corporate downsizing, protracted medical hospitalization, or business insolvency, the inability to service equated monthly installments (EMIs) quickly reverberates beyond the primary borrower. Within weeks of an account transitioning past the standard 90-day overdue benchmark into Non-Performing Asset (NPA) status, aggressive collection agencies frequently shift their pressure tactics toward vulnerable co-signers.
@@ -545,7 +545,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             {/* Section 2: Section 128 of the Indian Contract Act */}
             <section id="section-128-coextensive-liability" className="space-y-4">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
-                2. Section 128 of the Indian Contract Act: The Doctrine of Co-Extensive Liability
+                2. Section 128 of the Indian Contract Act
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The cornerstone of guarantor liability in India is codified in Section 128 of the Indian Contract Act, 1872, which explicitly declares: <em>&ldquo;The liability of the surety is co-extensive with that of the principal debtor, unless it is otherwise provided by the contract.&rdquo;</em> This brief statutory provision carries profound legal consequences for family members who affixed their signatures to loan documentation.
@@ -589,7 +589,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             {/* Section 3: Recovery Agent Harassment Against Family */}
             <section id="family-harassment-rbi-protections" className="space-y-4">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
-                3. Recovery Agent Harassment Against Family: Illegal Intimidation, RBI Mandates &amp; Criminal Safeguards
+                3. Recovery Agent Harassment Against Family
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Because civil recovery in Indian courts entails significant procedural friction and delays, unregulated third-party collection agencies routinely exploit the psychological vulnerability of family co-signers. Agents frequently target elderly parents or spouses with fabricated claims, alleging that failure to pay will result in immediate police detention, home attachment, public shaming in residential colonies, or disqualification from government pensions.
@@ -621,7 +621,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             {/* Section 4: Bank NPA Accounting Mechanics & NPV Formula */}
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Realities: NPA Provisioning, Capital Allocation &amp; The NPV Recovery Formula
+                4. Bank Accounting: NPA Provisioning &amp; NPV Recovery Formula
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To negotiate effectively from a position of strength, one must understand how commercial banks and NBFCs evaluate bad debts on their balance sheets. Under the Reserve Bank of India (Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances) Directions, once an unsecured credit line remains overdue for 90 days, it is classified as a Non-Performing Asset (NPA).
@@ -678,7 +678,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             {/* Section 6: How Advocate Intervention Protects Co-Signers */}
             <section id="advocate-intervention-family-shield" className="space-y-4">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
-                6. How Legal Representation Shields Co-Signers and Neutralizes Collection Coercion
+                6. Legal Representation Shielding Co-Signers from Coercion
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an individual borrower or an anxious family guarantor attempts to reason with collection agents, third-party agencies frequently intensify their pressure, perceiving family emotional distress as leverage to force urgent liquidations. In contrast, formal legal representation by experienced banking advocates fundamentally transforms the operational dynamic.
@@ -722,7 +722,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             {/* Section 7: Sections 133–141 Indian Contract Act: Discharge of Surety */}
             <section id="sections-133-141-surety-discharge" className="space-y-4">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
-                7. Sections 133–141 Indian Contract Act: Legal Grounds for Discharge of Surety
+                7. Sections 133–141 Indian Contract Act
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical area of legal defense that unrepresented borrowers frequently overlook is the statutory framework governing the discharge and release of sureties under Chapter VIII of the Indian Contract Act, 1872. Indian law provides extensive protections where a guarantor is automatically released from liability due to the unilateral actions of the creditor bank:
@@ -755,7 +755,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             {/* Section 8: Sanction Letter Forensics, Dual NDC & CIBIL Care */}
             <section id="sanction-letter-forensics-dual-ndc" className="space-y-4">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Letter Forensics: Ensuring Full Simultaneous Discharge, Dual NDC &amp; CIBIL Rectification
+                8. Sanction Letter Forensics: Dual NDC &amp; CIBIL Rectification
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A catastrophic error frequently observed in unrepresented debt settlements occurs when the primary borrower settles an account with a bank, only for the bank recovery department to subsequently issue a demand notice against the guarantor for the residual balance or waived interest. Lenders often rely on obscure reservation-of-rights clauses in boilerplate compromise letters to preserve recovery avenues against co-signers.
@@ -789,7 +789,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             {/* Section 9: Comparative Liability Matrix */}
             <section id="comparative-liability-matrix" className="space-y-4">
               <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Primary Borrower vs. Co-Applicant vs. Personal Guarantor
+                9. Legal Matrix: Borrower vs Co-Applicant vs Personal Guarantor
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The following comparative matrix outlines the jurisdictional liabilities, statutory exposure, and settlement protections across different borrower classifications in Indian retail lending:
@@ -863,7 +863,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
             <section id="settleloans-family-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Family Defense Framework: Protecting Co-Signers Nationwide
+                  10. SettleLoans Family Defense Framework
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating institutional recovery aggressive outreach against aging parents, spouses, and family co-signers requires seasoned legal counsel who specialize in banking laws, the Indian Contract Act, and RBI fair practice guidelines. SettleLoans provides comprehensive legal defense for borrowers and guarantors across India: halting collection harassment through formal cease-and-desist representation, enforcing statutory protections under Sections 128 through 141, and negotiating directly with bank zonal authorities to secure maximum principal waivers backed by official, bank-stamped No Dues Certificates that protect both PAN records.
@@ -879,7 +879,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Guarantor &amp; Co-Applicant Liability in Loan Default
+                  11. FAQs: Guarantor &amp; Co-Applicant Loan Default Liability
                 </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">

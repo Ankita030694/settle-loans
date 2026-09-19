@@ -288,7 +288,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="sbi-npa-landscape" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">2. The SBI NPA Landscape: Strategic Advantage for the Informed Borrower</h2>
+               <h2 className="text-3xl font-black text-[#1a202c] mb-12">2. The SBI NPA Landscape & Strategic Borrower Advantage</h2>
                <div className="space-y-10">
                   <p>
                      The State Bank of India governs the most significant portfolio of retail and corporate financing in South Asia. As we move through 2026, the bank's operational focus has pivoted toward the aggressive liquidation of Non-Performing Assets (NPAs) to align with international Basel III norms. When your account is officially classified as an NPA, it triggers a cascade of both automated monitoring and manual recovery workflows.
@@ -320,7 +320,7 @@ export default function SBILoanSettlementPage() {
             </section>
 
             <section id="ots-negotiation-logic" className="scroll-mt-32 mb-32">
-               <h2 className="text-3xl font-black text-[#1a202c] mb-12">4. The Mathematical Logic of SBI OTS: Converting Risk into Liquid Capital</h2>
+               <h2 className="text-3xl font-black text-[#1a202c] mb-12">4. Mathematical Logic of SBI OTS: Converting Risk to Capital</h2>
                <div className="space-y-10">
                   <p>
                      If you have ever wondered why a bank as powerful as SBI would accept ₹7 lakhs for a debt of ₹20 lakhs, the answer lies in the cold logic of IRAC (Income Recognition and Asset Classification). An NPA is a 'toxic' asset that drains the bank's resources in perpetuity through legal fees, human capital costs, and most importantly, the blocked capital described earlier.

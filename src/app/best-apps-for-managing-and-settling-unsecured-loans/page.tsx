@@ -245,7 +245,7 @@ export default function BestAppsLoanSettlementPage() {
             
             <section id="intro-2026" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">
-                Navigating the Complexities of <span className="text-[#1F5EFF]">Unsecured Debt in the Digital Era (2025-2026)</span>
+                Navigating Unsecured Debt <span className="text-[#1F5EFF]">in the Digital Era (2025-2026)</span>
               </h2>
               <div className="space-y-6 text-lg leading-relaxed text-[#4A4A4A]">
                 <p>

@@ -249,7 +249,7 @@ export default function RecoveryAgentsCallFamilyPage() {
 
                         <section id="introduction" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">
-                                Understanding the Psychological Warfare <br /><span className="text-[#1F5EFF]">of Third-Party Collection Calls.</span>
+                                Psychological Warfare <span className="text-[#1F5EFF]">of Collection Calls</span>
                             </h2>
                             <p className="text-xl leading-relaxed mb-8">
                                 Imagine this scenario: You are sitting in a crucial boardroom meeting, presenting your quarter's achievements, when your phone buzzes. It is your mother. You pick up, thinking it is an emergency, only to hear her sobbing. A stranger has just called her, claiming that her child is a "fraudster" who has stolen money from a bank. Within minutes, your HR manager walks in, asking why a recovery agency is calling the company switchboard.

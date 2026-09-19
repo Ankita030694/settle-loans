@@ -469,7 +469,7 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 01</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. Anatomy of Bank Legal Notices: Differentiating Demand Letters, Advocate Notices, and Court Summons
+                1. Anatomy of Bank Legal Notices: Letters vs Summons
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -504,7 +504,7 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                2. Bank Ke Legal Notice Ko Ignore Karna Kyu Khatarnak Hai: Ex-Parte Decrees &amp; Civil Risks
+                2. Bank Legal Notice Ko Ignore Karna Kyu Khatarnak Hai
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -528,7 +528,7 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                3. The 15-Day Critical Reply Window: Strategic Timeline &amp; Statutory Procedural Steps
+                3. The 15-Day Critical Reply Window: Key Strategic Steps
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -561,7 +561,7 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                4. Bank Accounting Dynamics: NPA Provisioning, Legal Friction, and Net Present Value (NPV)
+                4. Bank Accounting Dynamics: NPA Provisioning & NPV Math
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -655,7 +655,7 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                6. Advocate Reply Drafting Strategy: How a Formal Rejoinder Protects Borrowers
+                6. Advocate Reply Drafting Strategy & Formal Rejoinder
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -688,7 +688,7 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                7. Halting Court Proceedings &amp; Alternate Dispute Resolution: National Lok Adalat Mechanism
+                7. Halting Court Action Through National Lok Adalat
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -718,7 +718,7 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                8. One-Time Settlement (OTS) Negotiation: Sanction Letter Forensics &amp; No Dues Certificate
+                8. OTS Negotiation: Sanction Letter Forensics & ₹0 NDC
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -748,7 +748,7 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 09</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                9. Comparative Evaluation: Bank Notice Types, Legal Provisions &amp; Borrower Defence Matrix
+                9. Bank Notice Types & Borrower Defense Strategy Matrix
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -823,7 +823,7 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 11</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions: Bank Legal Notice Resolution &amp; Borrower Protection
+                FAQs: Bank Legal Notice Resolution & Borrower Rights
               </h2>
 
               <div className="space-y-4">

@@ -519,7 +519,7 @@ export default function RbiOmbudsmanComplaintPage() {
             {/* Section 1: The RB-IOS 2021 Regulatory Framework */}
             <section id="rbi-integrated-ombudsman-framework" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying the RBI Integrated Ombudsman Scheme (RB-IOS 2021) &amp; Institutional Jurisdiction
+                1. RBI Integrated Ombudsman Scheme & Jurisdiction
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India enacted the Reserve Bank - Integrated Ombudsman Scheme, 2021 (RB-IOS 2021) to dismantle fragmented consumer dispute forums and introduce a single, unified, quasi-judicial mechanism for financial customer protection. Operating under Section 35A of the Banking Regulation Act, 1949, Section 45L of the Reserve Bank of India Act, 1934, and Section 18 of the Payment and Settlement Systems Act, 2007, the Integrated Ombudsman possesses binding statutory authority over all Regulated Entities (REs). This comprehensive framework eliminates previous jurisdictional barriers based on loan size or geographical state boundaries, consolidating grievance redressal under the Centralised Receipt and Processing Centre (CRPC) in Chandigarh and the modern digital Complaint Management System (CMS).
@@ -535,7 +535,7 @@ export default function RbiOmbudsmanComplaintPage() {
             {/* Section 2: Prohibited Recovery Practices & Violations */}
             <section id="prohibited-recovery-harassment-tactics" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Prohibited Recovery Harassment Tactics under RBI Master Directions &amp; Constitutional Law
+                2. Prohibited Recovery Tactics Under RBI Master Directions
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has repeatedly issued stringent directives governing the code of conduct for loan recovery, most notably through the Master Direction on Managing Risks and Code of Conduct in Outsourcing of Financial Services by REs and the circular on Recovery Agents Engaged by Regulated Entities (RBI/2022-23/108). Indian civil and constitutional jurisprudence unequivocally holds that loan default is strictly a civil breach of contract, never a criminal offense. The Supreme Court of India in landmark decisions such as <em>ICICI Bank Ltd. v. Shanti Devi Sharma (2008)</em> and <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em> established that the recovery of commercial debts cannot be executed through strong-arm tactics, privacy invasions, or psychological intimidation.
@@ -582,7 +582,7 @@ export default function RbiOmbudsmanComplaintPage() {
             {/* Section 3: Mandatory 30-Day Pre-Filing Protocol */}
             <section id="mandatory-30-day-escalation-protocol" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Statutory Pre-Conditions: The Mandatory 30-Day Bank Grievance Escalation Protocol
+                3. Statutory Pre-Conditions: 30-Day Grievance Protocol
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Clause 10 of the Reserve Bank - Integrated Ombudsman Scheme, 2021, the Ombudsman will reject complaints if the mandatory preliminary grievance protocol is bypassed. The legal architecture requires that the regulated financial institution be given an institutional opportunity to redress the consumer&apos;s grievance internally before the central banking authority assumes active jurisdiction. Navigating this pre-filing sequence methodically ensures that your eventual RBI CMS petition is legally bulletproof and cannot be dismissed on preliminary procedural grounds.
@@ -620,7 +620,7 @@ export default function RbiOmbudsmanComplaintPage() {
             {/* Section 4: Bank Economics & The Ombudsman Risk Equation */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting, Stressed Asset Economics &amp; The Ombudsman Risk Equation
+                4. Bank Accounting, Stressed Assets & Ombudsman Risk
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why an RBI Ombudsman complaint provides immense negotiation leverage, one must examine the internal accounting framework and regulatory capital dynamics governing Indian commercial banks. When a retail loan account defaults beyond 90 days of continuous non-payment, RBI Master Direction on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) mandates that the account be classified as a Non-Performing Asset (NPA). As an NPA ages through Sub-Standard, Doubtful, and Loss categories, the bank must set aside 15% to 100% of the outstanding ledger balance as idle capital provisions.
@@ -651,7 +651,7 @@ export default function RbiOmbudsmanComplaintPage() {
             {/* Section 5: Infographic Banner */}
             <section id="rbi-ombudsman-resolution-roadmap" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. The RBI Integrated Ombudsman Grievance &amp; Resolution Visual Roadmap
+                5. RBI Integrated Ombudsman Grievance Roadmap
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the complete 5-stage institutional progression from logging an initial written bank grievance to filing on the RBI CMS portal, submitting evidentiary dockets, attending conciliation hearings, and securing a formal compensation order and zero-balance settlement.
@@ -688,7 +688,7 @@ export default function RbiOmbudsmanComplaintPage() {
             {/* Section 6: Step-by-Step RBI CMS Portal Filing Guide */}
             <section id="step-by-step-cms-portal-filing" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Step-by-Step Blueprint for Filing on the RBI Complaint Management System (CMS) Portal
+                6. Blueprint: Filing on the RBI CMS Portal
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Filing an electronic complaint through the RBI Complaint Management System (CMS) portal is a structured legal submission. Every statement entered on the portal becomes part of an official quasi-judicial record reviewed by the Ombudsman and the bank&apos;s senior executive management. To ensure maximum impact and prevent procedural delays, adhere strictly to the following 6-step operational procedure:
@@ -746,7 +746,7 @@ export default function RbiOmbudsmanComplaintPage() {
             {/* Section 7: Claiming Compensation for Mental Agony */}
             <section id="formulating-compensation-claims" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Formulating Statutory Compensation Claims for Mental Harassment under Section 16(2)
+                7. Formulating Compensation Claims Under Section 16(2)
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical, yet widely underutilized, provision of the Reserve Bank - Integrated Ombudsman Scheme, 2021 is the Ombudsman&apos;s statutory authority to award monetary compensation for non-financial injury. Under Clause 16(2) of RB-IOS 2021, the Ombudsman may direct the regulated entity to pay compensation up to ₹1,00,000 (Rupees One Lakh) to the complainant for loss of time, expenses incurred, harassment, and mental anguish suffered as a direct consequence of the institution&apos;s deficiency in service.
@@ -762,7 +762,7 @@ export default function RbiOmbudsmanComplaintPage() {
             {/* Section 8: Conciliation, OTS Haircuts & ₹0 NDC Mandates */}
             <section id="conciliation-ots-compromise-ndc" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Ombudsman Conciliation, Forcing Loan Compromise &amp; Enforcing RBI ₹0 NDC Mandates
+                8. Ombudsman Conciliation & Enforcing ₹0 NDC Mandates
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The primary operational mode of the RBI Ombudsman under Clause 14 of RB-IOS 2021 is conciliation and mediation. Once the complaint is admitted, the Ombudsman forwards the evidentiary dossier to the regulated entity with a strict 15-day deadline to submit a formal Written Response. Recognizing the high probability of an adverse finding or regulatory reprimand, the bank&apos;s central legal department frequently reaches out directly to the borrower or their legal counsel to propose an amicable out-of-court settlement.
@@ -874,7 +874,7 @@ export default function RbiOmbudsmanComplaintPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory */}
             <section id="settleloans-advocate-representation" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                10. Institutional Defense: How SettleLoans Advocates Safeguard Borrowers &amp; Force Fair OTS
+                10. Institutional Defense: Safeguarding Borrowers & OTS
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating an institutional confrontation with a major national bank or well-funded NBFC can be daunting for an individual borrower already enduring severe financial stress. SettleLoans bridges this power asymmetry by providing dedicated legal advocacy, regulatory petition drafting, and senior-level financial negotiations for distressed borrowers across India.
@@ -932,7 +932,7 @@ export default function RbiOmbudsmanComplaintPage() {
             <section id="faqs" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight flex items-center gap-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <span>11. Frequently Asked Questions: RBI Ombudsman Complaints &amp; Recovery Rights</span>
+                <span>11. FAQs: RBI Ombudsman Complaints & Recovery Rights</span>
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Find clear, authoritative legal answers to the most critical questions regarding RBI Complaint Management System procedures, recovery agent restrictions, compensation limits, and debt settlement execution:

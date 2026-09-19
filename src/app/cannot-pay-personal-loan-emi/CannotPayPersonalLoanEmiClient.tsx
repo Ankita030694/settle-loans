@@ -378,7 +378,7 @@ export default function CannotPayPersonalLoanEmiClient() {
             {/* Section 1: Immediate Emergency Triage */}
             <section id="emergency-triage" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. Immediate Emergency Triage: The 5 Things You Must Do in the Next 24 Hours
+                1. Emergency Triage: 5 Things to Do in 24 Hours
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Finding yourself unable to pay an upcoming personal loan EMI triggers immense psychological panic. In this state of acute anxiety, borrowers frequently make catastrophic errors—such as borrowing from predatory 7-day Chinese loan apps, maxing out credit card cash advances, or ignoring phone calls until legal notices land. 
@@ -444,7 +444,7 @@ export default function CannotPayPersonalLoanEmiClient() {
             {/* Section 2: Legal Myths vs Reality */}
             <section id="default-myths-vs-reality" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                2. Will You Go to Jail? Dispelling the 5 Biggest Myths About Loan Default in India
+                2. Can You Go to Jail? Dispelling 5 Big Loan Default Myths
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Third-party recovery agencies routinely exploit borrowers&apos; legal ignorance to induce panic, threatening police raids, criminal FIRs, and instant asset forfeiture. Let us examine the statutory legal reality established under Indian law and Supreme Court jurisprudence:
@@ -505,7 +505,7 @@ export default function CannotPayPersonalLoanEmiClient() {
             {/* Section 3: The 30-to-180-Day Timeline */}
             <section id="bank-recovery-timeline" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                3. The 30-to-180-Day Chronology: What Banks &amp; NBFCs Actually Do After a Missed EMI
+                3. The 30-to-180-Day Chronology
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Understanding the bank&apos;s internal operational lifecycle removes the fear of the unknown. When you miss consecutive EMIs, your loan moves through strictly defined regulatory categories established by the Reserve Bank of India:
@@ -583,7 +583,7 @@ export default function CannotPayPersonalLoanEmiClient() {
             {/* Section 4: Relief Options Matrix */}
             <section id="relief-options-matrix" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. All Viable Relief Options Explored: Moratorium, Restructuring, EMI Reduction vs. Settlement
+                4. All Viable Relief Options Explored
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Depending on whether your cash flow disruption is temporary (e.g., 3-month transition between jobs) or permanent (e.g., severe disability, permanent business closure), you have distinct financial and legal remedies available:
@@ -719,7 +719,7 @@ export default function CannotPayPersonalLoanEmiClient() {
             {/* Section 5: Anti-Harassment Rights */}
             <section id="anti-harassment-rights" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                5. How to Legally Stop Recovery Agent Harassment (RBI Fair Practices Code &amp; Police Complaints)
+                5. How to Legally Stop Recovery Agent Harassment
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When an EMI is overdue by more than 30 days, aggressive third-party collection agencies often resort to unlawful, intimidating tactics. The Reserve Bank of India (RBI) has enacted stringent directives to protect borrower dignity. Any breach by recovery agents is an actionable offense.
@@ -775,7 +775,7 @@ export default function CannotPayPersonalLoanEmiClient() {
             {/* Section 6: OTS Settlement Playbook */}
             <section id="ots-settlement-playbook" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                6. One-Time Settlement (OTS) Playbook: How to Settle for 40%–60% Less Without Getting Cheated
+                6. One-Time Settlement (OTS) Playbook
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 When full repayment is mathematically impossible, a structured <strong>One-Time Settlement (OTS)</strong> is the most pragmatic legal exit. In an OTS, the bank waives 100% of penal interest, late fees, and a substantial portion of the principal balance in exchange for a single or tiered lump-sum payment.
@@ -855,7 +855,7 @@ export default function CannotPayPersonalLoanEmiClient() {
             {/* Section 7: CIBIL Rebuilding Blueprint */}
             <section id="cibil-rebuilding-blueprint" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                7. Restoring Your Financial Health: Rebuilding CIBIL Score Back to 750+ Post-Default
+                7. Restoring Your Financial Health
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A common misconception is that a personal loan default permanently ruins your creditworthiness. Under the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>, historical defaults remain on bureau reports for up to 7 years, but credit underwriting algorithms weigh recent payment discipline far more heavily than past distress.
@@ -910,7 +910,7 @@ export default function CannotPayPersonalLoanEmiClient() {
             {/* Section 8: Statutory Legal Framework */}
             <section id="statutory-legal-framework" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                8. Legal Framework &amp; Judicial Protections: Acts Every Borrower Must Know
+                8. Legal Framework &amp; Judicial Protections
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 You are protected by robust statutory laws enacted by the Parliament of India and landmark rulings delivered by the Supreme Court of India:

@@ -385,7 +385,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <span>Credit Bureau Status Taxonomy</span>
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                2. &quot;Settled&quot; vs. &quot;Closed&quot; vs. &quot;Written Off&quot;: The Full Comparison Matrix
+                2. &quot;Settled&quot; vs. &quot;Closed&quot; vs. &quot;Written Off&quot;
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To successfully navigate credit restoration, you must understand the exact terminology used by TransUnion CIBIL and Indian banking institutions. The table below delineates the statutory differences between the three primary post-default statuses:
@@ -455,7 +455,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <span>Procedural Protocol</span>
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                3. The 6-Step Legal Roadmap to Remove &quot;Settled&quot; Status &amp; Upgrade to &quot;Closed&quot;
+                3. 6-Step Roadmap: Removing 'Settled' Status to 'Closed'
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Converting a settled loan into a closed account requires navigating both banking operations and credit bureau dispute frameworks. Follow this rigorously tested 6-step legal protocol to achieve 100% status upgrade:
@@ -579,7 +579,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <span>Financial Decision Framework</span>
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                4. Cost-Benefit Analysis: Should You Pay the Residual Amount or Rebuild Naturally?
+                4. Cost-Benefit Analysis: Paying Residual Debt vs Rebuilding
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Upgrading your account from &quot;Settled&quot; to &quot;Closed&quot; requires paying real capital to your past lender. Is it always worth it? The answer depends entirely on your immediate financial goals, the size of the original haircut, and how much time has elapsed since the settlement.
@@ -718,7 +718,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <span>Consumer Fraud Awareness &amp; Cyber Protection</span>
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                5. Beware of &quot;CIBIL Clearance Agents&quot; — Fake Scams vs. Legal Reality
+                5. Beware of CIBIL Clearance Agents: Scams vs Reality
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The desperation to remove a &quot;Settled&quot; mark has spawned a thriving black market of cyber fraudsters on WhatsApp, Telegram, and deceptive social media advertisements pretending to be &quot;CIBIL Officers,&quot; &quot;Credit Score Hackers,&quot; or &quot;Guaranteed Negative Remark Erasers.&quot;
@@ -782,7 +782,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <span>Statutory Dispute Escalation</span>
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                6. What to Do If the Bank Refuses or Delays Updating CIBIL (RBI Ombudsman Rights)
+                6. Bank Delays Updating CIBIL: RBI Ombudsman Rights
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 In many instances, borrowers dutifully pay the full settlement or residual balance, yet the branch staff fails to update the back-office Core Banking System (CBS) or omits uploading the revised status during the monthly bureau run. If you find yourself in this deadlock, Indian banking law provides powerful statutory recourse.
@@ -832,7 +832,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <span>Score Rehabilitation Blueprint</span>
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                7. Step-by-Step Blueprint to Rebuild Your CIBIL Score to 750+ Post-Closure
+                7. Rebuilding Your CIBIL Score to 750+ Post-Closure
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Whether you have successfully upgraded your account to &quot;Closed&quot; or are waiting out the post-settlement seasoning period, you must actively inject positive payment data to accelerate your credit score recovery. Follow this proven 4-pillar rehabilitation roadmap:

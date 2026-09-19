@@ -361,7 +361,7 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 01</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The ₹10 Lakh Debt Reality: Bank Psychology, Exposure Tiers &amp; Risk Thresholds
+                1. The ₹10 Lakh Debt Reality: Bank Exposure &amp; Risk Thresholds
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -396,7 +396,7 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                2. Delinquency Aging, NPA Provisioning &amp; Net Present Value (NPV) Mechanics
+                2. Delinquency Aging, NPA Provisioning & NPV Mechanics
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -466,7 +466,7 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                3. Legal Notice Escalation: Section 25 PSSA, Section 138 NI Act &amp; Conciliation
+                3. Legal Notice Escalation: Section 25 PSSA &amp; Section 138
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>

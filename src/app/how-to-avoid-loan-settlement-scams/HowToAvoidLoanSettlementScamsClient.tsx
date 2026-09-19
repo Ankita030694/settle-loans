@@ -380,7 +380,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             {/* Section 1: The Dark Reality of Loan Settlement Scams */}
             <section id="scam-landscape" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. The Dark Reality of Loan Settlement Scams in India: How Vulnerable Borrowers Are Targeted
+                1. The Dark Reality of Loan Settlement Scams in India
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 When you are trapped in severe debt, facing relentless collection calls, and struggling to make ends meet, the psychological pressure is suffocating. In this state of acute distress, borrowers become prime targets for predatory operators, fly-by-night telecallers, and organized cyber syndicates running sophisticated loan settlement scams across India.
@@ -405,7 +405,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             {/* Section 2: 7 Dead Giveaway Red Flags */}
             <section id="seven-red-flags" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                2. 7 Dead Giveaway Red Flags of Fake Loan Settlement Companies (How to Spot Them Instantly)
+                2. 7 Red Flags of Fake Loan Settlement Companies
               </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Scammers rely on urgency, legal intimidation, and unrealistic promises to bypass your critical judgment. If any debt settlement agency or caller demonstrates even <em>one</em> of the following seven red flags, cease all communication immediately:
@@ -558,7 +558,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             {/* Section 3: Forensic OTS Letter Verification */}
             <section id="forensic-ots-audit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                3. Anatomy of a Forged OTS Sanction Letter: Forensic 8-Point Verification Checklist
+                3. Anatomy of a Forged OTS Sanction Letter
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The most dangerous tool in the scammer&apos;s playbook is the <strong>forged One-Time Settlement (OTS) letter</strong>. Scammers download legitimate bank templates, edit borrower details using graphic editing tools, attach outdated bank logos, and insert arbitrary compromise figures to induce immediate payment.
@@ -667,7 +667,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             {/* Section 4: Legitimate Agency vs Scam Matrix */}
             <section id="comparison-matrix" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. Legitimate Debt Settlement Agency vs. Fraudulent Call Center Operators (Comparison Matrix)
+                4. Legitimate Settlement Agency vs Fraudulent Call Centers
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To help you make an informed, confident decision when seeking debt relief, examine the structural and legal differences between an ethical legal platform like SettleLoans and unregulated scam operations:
@@ -802,7 +802,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             {/* Section 5: 5-Step Scam-Proof Settlement Verification Protocol */}
             <section id="scam-proof-protocol" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                5. The 5-Step Scam-Proof Settlement Protocol: How to Pay Your Bank Safely &amp; Secure ₹0 NDC
+                5. The 5-Step Scam-Proof Settlement Protocol
               </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 To guarantee that your debt settlement is 100% legally binding, mathematically sound, and protected against fraud, follow this systematic 5-step operational protocol:
@@ -875,7 +875,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             {/* Section 6: Legal Action & Police Recourse */}
             <section id="legal-recourse-cybercrime" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                6. Legal Action &amp; Police Recourse: What to Do If You Have Already Been Scammed
+                6. Legal Action &amp; Police Recourse
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 If you have unfortunately fallen victim to an advance-fee settlement scam or transferred money to a fraudulent agency, time is of the essence. You must initiate immediate legal and cybercrime countermeasures to freeze the perpetrator&apos;s accounts and protect yourself from bank litigation:
@@ -949,7 +949,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             {/* Section 7: Why SettleLoans is the Ethical Gold Standard */}
             <section id="settleloans-ethical-standard" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                7. Why SettleLoans is India&apos;s Ethical Gold Standard in Debt Dispute Resolution
+                7. Why SettleLoans is the Ethical Standard in Debt Relief
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 SettleLoans was founded with a single mission: to provide honest, transparent, and legally unassailable debt relief to distressed borrowers across India without exploiting their vulnerability. We have helped thousands of individuals break free from debt traps through our <strong>Zero-Fraud Trust Architecture</strong>:
@@ -1005,7 +1005,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
             {/* Section 8: FAQs */}
             <section id="faqs" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                8. Frequently Asked Questions (FAQ): How to Avoid Loan Settlement Scams
+                8. Frequently Asked Questions (FAQ)
               </h2>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Find clear, authoritative answers to the most critical legal, operational, and fraud-prevention questions regarding debt settlement companies in India:

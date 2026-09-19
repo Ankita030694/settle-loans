@@ -385,7 +385,7 @@ export default function LokAdalatNoticeClient() {
             {/* Section 1 */}
             <section id="panic-demystified" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. The Legal Panic Demystified: What is a Lok Adalat Notice for Personal Loan Default?
+                1. What is a Lok Adalat Notice for Personal Loan Default?
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Finding a formal notice stamped with the seal of the <strong>District Legal Services Authority (DLSA)</strong> or receiving a message headed &quot;NATIONAL LOK ADALAT PRE-LITIGATION SUMMONS&quot; triggers intense anxiety for any borrower struggling with personal loan defaults. The immediate fear is that the judicial machinery has initiated criminal proceedings and police arrest is imminent.
@@ -487,7 +487,7 @@ export default function LokAdalatNoticeClient() {
             {/* Section 2 */}
             <section id="mandatory-and-arrest-myths" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                2. Is Attendance Mandatory? Can You Be Arrested for Skipping Lok Adalat? (Arrest Myths Debunked)
+                2. Is Lok Adalat Attendance Mandatory? Arrest Myths Debunked
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The most pervasive tactic deployed by rogue debt collection agents is misrepresenting a Lok Adalat notice as a non-bailable judicial arrest warrant. Borrowers frequently receive threatening phone calls stating: <em>&quot;The Lok Adalat Judge has issued an order to arrest you if you do not report to court with cash by 10:00 AM.&quot;</em>
@@ -584,7 +584,7 @@ export default function LokAdalatNoticeClient() {
             {/* Section 4 */}
             <section id="settlement-discounts-and-waivers" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. Realistic Settlement Discounts &amp; Waivers in National Lok Adalat (40% to 75% Relief)
+                4. Realistic Settlement Discounts in Lok Adalat (40%–75%)
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 How much debt relief can a borrower realistically achieve when negotiating a personal loan at Lok Adalat? Because personal loans are completely unsecured (with no property, gold, or vehicle pledged as collateral), the bank&apos;s recovery probability in contested litigation is extremely low.
@@ -726,7 +726,7 @@ export default function LokAdalatNoticeClient() {
             {/* Section 6 */}
             <section id="step-by-step-negotiation-guide" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                6. Step-by-Step Borrower Action Plan: How to Prepare, Attend &amp; Settle at Lok Adalat
+                6. Action Plan: How to Prepare, Attend & Settle at Lok Adalat
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Approaching Lok Adalat unprepared can result in settling on unfavorable terms. Following a structured, strategic protocol ensures maximum debt reduction and ironclad legal protection:
@@ -854,7 +854,7 @@ export default function LokAdalatNoticeClient() {
             {/* Section 7 */}
             <section id="legal-finality-section-21" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                7. The Legal Finality of a Lok Adalat Award: Section 21 of the Legal Services Authorities Act, 1987
+                7. Legal Finality of Lok Adalat Awards Under Section 21
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The single most powerful advantage of settling a personal loan through Lok Adalat is its <strong>unshakeable legal finality</strong>. Under Section 21 of the Legal Services Authorities Act, 1987, every award passed by a Lok Adalat bench has the legal character and enforceability of a formal decree passed by a competent Civil Court.
@@ -887,7 +887,7 @@ export default function LokAdalatNoticeClient() {
             {/* Section 8 */}
             <section id="what-if-you-do-not-attend" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                8. What Happens If You Do NOT Attend Lok Adalat? (Strategic Risk Evaluation)
+                8. What Happens If You Do Not Attend Lok Adalat?
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Many borrowers ask: <em>&quot;What if I simply do not show up on Lok Adalat Saturday? Will a judgment be passed against me in my absence?&quot;</em>
@@ -932,7 +932,7 @@ export default function LokAdalatNoticeClient() {
             {/* Section 9 */}
             <section id="post-settlement-ndc-cibil" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                9. Post-Settlement Compliance: Securing Your No Dues Certificate &amp; CIBIL Rectification
+                9. Post-Settlement Compliance: Securing NDC & CIBIL Update
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Securing a favorable Lok Adalat award is only half the battle; ensuring meticulous post-settlement execution is essential to protect your credit profile and financial standing:

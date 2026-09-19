@@ -210,7 +210,7 @@ export default function FibeSettlementPage() {
             
             <section id="intro" className="scroll-mt-24 mb-16">
               <h2 className="text-3xl md:text-5xl font-black text-[#FF9F00] mb-8 leading-tight">
-                Mastering Fibe Loan Settlement: The Definitive 2026 Guide to Financial Recovery
+                Fibe Loan Settlement: 2026 Guide to Financial Recovery
               </h2>
               <p className="text-xl mb-6 font-medium text-slate-900">
                 Fibe, previously known as EarlySalary, has revolutionized the personal loan space in India with its 'Instant Decision' and 'Seamless Disbursement' technology. However, for many borrowers, this convenience leads to a debt trap in the high-frequency digital economy of 2026.

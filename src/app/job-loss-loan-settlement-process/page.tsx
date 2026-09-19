@@ -567,7 +567,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>1. Involuntary Job Loss vs Willful Default</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Unemployment Retail Debt Crisis: Distinguishing Involuntary Insolvency from Wilful Default
+                The Unemployment Retail Debt Crisis
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Corporate restructuring, macroeconomic contraction, technological automation, and sudden organizational downsizing across IT, fintech, e-commerce, and manufacturing sectors have precipitated an unprecedented wave of retail loan defaults in India. For salaried professionals servicing equated monthly installments (EMIs) across personal loans, credit card balances, and consumer durable lines, sudden job loss instantly destroys the debt-to-income equilibrium. What was once a manageable 35% debt service ratio transforms overnight into total insolvency, as recurring monthly obligations collide with zero ongoing cash inflows.
@@ -595,7 +595,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>2. Compiling the Hardship Portfolio</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Compiling the Evidentiary Hardship Dossier: The Portfolio That Compels Bank Credit Committees
+                Compiling the Evidentiary Hardship Dossier
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bank credit committees and stressed asset managers do not sanction substantial debt waivers based on verbal explanations or generic emotional pleas. Under internal bank auditing standards and RBI supervisory guidelines, every rupee of debt haircut granted on a Non-Performing Asset (NPA) must be legally justified by objective evidentiary records. A borrower who submits an unassailable, meticulously documented <strong>Hardship Portfolio</strong> shifts the balance of power during compromise negotiations, proving conclusively that liquid recovery is impossible and that a discounted One-Time Settlement (OTS) represents the lender&apos;s sole viable recovery mechanism.
@@ -662,7 +662,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>3. NPA Delinquency Lifecycle &amp; Provisioning Timing</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The NPA Delinquency Lifecycle: Capitalizing on Bank Balance-Sheet Provisioning Windows
+                NPA Delinquency Lifecycle &amp; Bank Provisioning Windows
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To negotiate a maximum debt waiver following unemployment, a borrower must understand the institutional accounting mechanics governing Indian banking operations. Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), banks and non-banking financial companies (NBFCs) are subject to stringent regulatory aging schedules that dictate their willingness to compromise.
@@ -711,7 +711,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>4. NPV Recovery Valuation &amp; Debt Waiver Mathematics</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Net Present Value (NPV) Recovery Modeling: Why Banks Mathematically Prefer 50%–70% Haircuts
+                Net Present Value (NPV) Recovery Modeling
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers frequently wonder why a commercial banking institution would willingly forfeit 50% to 70% of an outstanding loan. The answer lies strictly in mathematical risk management and the economic doctrine of <strong>Net Present Value (NPV) Recovery Valuation</strong>. Under RBI Master Directions, bank credit committees are instructed to compare the immediate cash recovery of an OTS against the discounted present value of pursuing civil litigation against an unemployed borrower who owns no attachable commercial assets.
@@ -750,7 +750,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>5. Visual Resolution Blueprint</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Visual Resolution Blueprint: From Job Loss Default to ₹0 No Dues Certificate
+                Visual Resolution Blueprint: Job Loss Default to ₹0 NDC
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 The comprehensive infographic below illustrates the 4-stage institutional lifecycle of settling defaulted retail loans following involuntary unemployment. It details how an evidentiary hardship dossier transforms unserviceable debt into an authorized 50% to 70% compromise waiver under Reserve Bank of India frameworks.
@@ -779,7 +779,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>6. Harassment Defense &amp; Statutory Rights</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Stopping Recovery Agent Harassment: Enforcing Statutory Rights Under RBI Directives
+                Stopping Recovery Agent Harassment
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most traumatic consequence of defaulting after job loss is the aggressive onslaught of third-party recovery agencies. Lenders frequently outsource delinquent accounts to external collection agencies operating on aggressive commission structures (earning 10% to 20% of recovered cash). These agents routinely resort to unlawful tactics: non-stop phone calls from multiple virtual numbers, threatening former colleagues or HR managers, contacting non-guarantor family members, and making unannounced visits to residential premises.
@@ -812,7 +812,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>7. Section 25 PSSA &amp; Section 138 Defense</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Statutory Legal Notices: Section 25 PSSA &amp; Section 138 NI Act
+                Defending Notices: Section 25 PSSA & Section 138 NI Act
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When salary credits cease, automated electronic National Automated Clearing House (e-NACH) mandates and post-dated cheques inevitably bounce due to insufficient funds. Lenders utilize these payment failures to issue statutory legal notices under <strong>Section 25 of the Payment and Settlement Systems Act (PSSA), 2007</strong> or <strong>Section 138 of the Negotiable Instruments (NI) Act, 1881</strong>.
@@ -841,7 +841,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>8. Step-by-Step Settlement Protocol</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The 5-Step Unemployment Loan Settlement Protocol: Navigating Direct Zonal Credit Approvals
+                The 5-Step Unemployment Loan Settlement Protocol
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a legally secure, heavily discounted loan settlement requires bypassing frontline branch tele-callers and negotiating directly with authorized bank decision-makers. The following five-stage roadmap governs professional debt settlement:
@@ -907,7 +907,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                OTS Sanction Letter Forensics: The 5 Non-Negotiable Clauses and the ₹0 NDC Mandate
+                OTS Sanction Letters: 5 Key Clauses & ₹0 NDC Mandate
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The single greatest risk facing distressed borrowers is the prevalence of fraudulent oral promises and fabricated settlement letters issued by rogue collection agency callers. Tele-callers frequently induce borrowers to deposit partial tokens—falsely promising that paying ₹50,000 will settle a ₹5 Lakh loan—only for the bank to treat the payment as an overdue interest adjustment, leaving the full debt fully active and compounding.
@@ -939,7 +939,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>10. Comparative Matrix &amp; CIBIL Recovery</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Comparative Debt Resolution Matrix &amp; Long-Term Credit Rehabilitation
+                Comparative Debt Resolution Matrix & Credit Repair
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed borrowers often struggle to evaluate whether a One-Time Settlement (OTS) is superior to alternative relief mechanisms such as loan restructuring, emergency moratoriums, or conciliation through National Lok Adalat. The comparative matrix below details the strategic trade-offs of each avenue following employment termination:
@@ -1016,7 +1016,7 @@ export default function JobLossLoanSettlementPage() {
                 <span>11. Frequently Asked Questions</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Loan Settlement After Job Loss &amp; Layoffs
+                FAQs: Loan Settlement After Job Loss &amp; Layoffs
               </h2>
 
               <div className="space-y-4">

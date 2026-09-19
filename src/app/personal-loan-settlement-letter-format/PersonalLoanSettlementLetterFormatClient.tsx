@@ -630,7 +630,7 @@ PAN: [Your PAN]`;
             {/* Section 1 */}
             <section id="crucial-role-of-settlement-letter" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. Why a Written Settlement Letter is Crucial (and How Banks Evaluate It)
+                1. Why a Written Settlement Letter is Crucial for Banks
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 When personal loan borrowers face unexpected financial catastrophe—such as catastrophic illness, job loss, or commercial business failure—they often make the critical mistake of negotiating verbally over phone calls with third-party recovery agents.
@@ -867,7 +867,7 @@ PAN: [Your PAN]`;
             {/* Section 4: Production-Ready Templates */}
             <section id="production-ready-templates" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. Production-Ready Settlement Letter Templates (Ready to Copy &amp; Customize)
+                4. Production-Ready Settlement Letter Templates
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-6 text-slate-700">
                 Below are four legally validated, field-tested settlement request letter templates designed specifically for Indian public sector banks, private commercial banks (HDFC, ICICI, Axis, Kotak, IndusInd, IDFC FIRST), and retail NBFCs (Bajaj Finance, Tata Capital, Poonawalla Fincorp).
@@ -1013,7 +1013,7 @@ PAN: [Your PAN]`;
             {/* Section 6: Submission Protocol */}
             <section id="submission-delivery-protocol" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                6. How to Submit the Letter &amp; Establish Legally Binding Proof of Delivery
+                6. How to Submit Settlement Letters with Proof of Delivery
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Merely writing an exceptional letter is insufficient; you must establish verifiable <strong>Proof of Delivery (POD)</strong> so that the bank cannot claim non-receipt in court or during Ombudsman proceedings. Follow our 3-channel submission protocol:
@@ -1064,7 +1064,7 @@ PAN: [Your PAN]`;
             {/* Section 7: Bank Evaluation & Red Flags */}
             <section id="bank-evaluation-timeline" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                7. What Happens After Submission: Timeline, Negotiation &amp; Red Flags
+                7. What Happens After Submission: Timeline & Negotiation
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Once your settlement letter is delivered, the internal banking workflow typically follows this timeline:
@@ -1136,7 +1136,7 @@ PAN: [Your PAN]`;
             {/* Section 8: Post-Approval Sanction Audit & CIBIL */}
             <section id="post-approval-noc-audit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                8. Post-Settlement Protocol: Sanction Letter Verification, NDC &amp; CIBIL Audit
+                8. Post-Settlement Protocol: Sanction Letter & NDC Audit
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Securing the OTS approval is only half the battle. To ensure complete financial and legal freedom, follow this post-settlement verification checklist:

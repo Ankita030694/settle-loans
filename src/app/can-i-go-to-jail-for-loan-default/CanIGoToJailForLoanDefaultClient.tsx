@@ -441,7 +441,7 @@ Yours faithfully,
             {/* Section 1 */}
             <section id="core-legal-reality" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. The Core Legal Reality: Can You Go to Jail for Loan Default in India?
+                1. Can You Go to Jail for Loan Default in India?
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 When financial catastrophe strikes—whether triggered by sudden employment termination, drastic salary cuts, business insolvency, or catastrophic family medical emergencies—hundreds of thousands of honest salaried professionals across India face the terrifying prospect of defaulting on their personal loans. In this state of acute vulnerability, third-party collection agencies deploy aggressive psychological warfare, bombarding borrowers with alarming messages claiming that <em>police squads are arriving at their doorstep</em> or that a <em>non-bailable arrest warrant has been issued</em>.
@@ -468,7 +468,7 @@ Yours faithfully,
             {/* Section 2 */}
             <section id="civil-vs-criminal" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                2. Civil Debt vs. Criminal Fraud: The Legal Demarcation &amp; Penal Codes
+                2. Civil Debt vs Criminal Fraud: Legal Demarcation
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To eliminate borrower anxiety, it is essential to analyze how Indian criminal law (the <em>Indian Penal Code, 1860</em> and the <em>Bharatiya Nyaya Sanhita, 2023</em>) defines financial crimes versus civil contract breaches. Recovery agents routinely drop terms like <em>&quot;Section 420 IPC&quot;</em> or <em>&quot;FIR for cheating&quot;</em> to intimidate borrowers into borrowing from relatives or illegal loan sharks to pay the bank.
@@ -533,7 +533,7 @@ Yours faithfully,
             {/* Section 3 */}
             <section id="timeline-of-default" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                3. What Actually Happens When You Stop Paying Your Personal Loan (Timeline)
+                3. What Happens When You Stop Paying Your Personal Loan
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-6 text-slate-700">
                 When you stop paying your personal loan EMIs, the bank follows a standardized, regulatory-governed escalation pathway established by the Reserve Bank of India (RBI). Knowing this timeline strips away the fear of the unknown:
@@ -645,7 +645,7 @@ Yours faithfully,
             {/* Section 4 */}
             <section id="quasi-criminal-traps" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. The Quasi-Criminal Traps: Section 138 NI Act &amp; Section 25 PSSA (NACH Bounce)
+                4. Quasi-Criminal Traps: Section 138 & Section 25 PSSA
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 While a standard personal loan default is purely civil, banks frequently attempt to introduce criminal pressure through two specific statutory mechanisms: <strong>bouncing physical Post-Dated Cheques (Section 138 NI Act)</strong> and <strong>bouncing electronic NACH auto-debit mandates (Section 25 PSSA)</strong>.
@@ -774,7 +774,7 @@ Yours faithfully,
             {/* Section 5 */}
             <section id="recovery-agent-myths" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                5. Dismantling Recovery Agent Coercion: The Myth of Police Arrest &amp; Fake Warrants
+                5. Dismantling Agent Coercion: Arrest & Warrant Myths
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 The immense fear borrowers suffer rarely stems from actual court proceedings—it stems from unlawful psychological harassment by outsourced collection agents. Unethical agents weaponize legal misinformation to coerce panic repayments.
@@ -857,7 +857,7 @@ Yours faithfully,
             {/* Section 6 */}
             <section id="defense-toolkit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                6. Borrower Defense Toolkit &amp; Interactive Cease-and-Desist Template
+                6. Borrower Defense Toolkit & Cease-and-Desist Template
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 If collection agents are harassing you, you must establish a formal paper trail. Sending a structured Cease-and-Desist legal notice immediately shifts the legal leverage in your favor:
@@ -957,7 +957,7 @@ Yours faithfully,
             {/* Section 8 */}
             <section id="debt-settlement-exit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                8. One-Time Settlement (OTS): The Permanent, Legally Binding Clean Exit
+                8. One-Time Settlement: Legally Binding Clean Debt Exit
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 If you cannot afford to repay your accumulated personal loan principal and ballooning penal charges, continuing in indefinite default is counterproductive. The ultimate legal resolution is a structured <strong>One-Time Settlement (OTS)</strong> negotiated directly with the bank&apos;s authorized management.

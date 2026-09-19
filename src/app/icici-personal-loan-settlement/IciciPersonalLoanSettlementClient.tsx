@@ -337,7 +337,7 @@ export default function IciciPersonalLoanSettlementClient() {
                 <span>1. Institutional Context &amp; Risk Architecture</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Understanding ICICI Bank&apos;s Retail Credit Architecture &amp; Default Dynamics
+                Understanding ICICI Bank Retail Default Dynamics
               </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 ICICI Bank Limited manages an extensive retail unsecured loan portfolio comprising pre-approved Insta Personal Loans, standard personal loans, and credit cards. Because these facilities carry zero physical collateral, credit risk is managed through automated underwriting, centralized credit bureau reporting, and NACH mandate debits.
@@ -522,7 +522,7 @@ export default function IciciPersonalLoanSettlementClient() {
                 <span>5. Recovery Practices &amp; RBI Anti-Harassment Law</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                ICICI Recovery Agent Practices, Harassment Defense &amp; RBI Compliance
+                ICICI Recovery Agent Practices & Harassment Defense
               </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 When an ICICI retail loan enters NPA status (90+ DPD), recovery operations are assigned to external Debt Recovery Agencies (DRAs). Because agency compensation depends on collected sums, recovery personnel frequently resort to persistent calling and workplace visits.
@@ -592,7 +592,7 @@ export default function IciciPersonalLoanSettlementClient() {
                 <span>6. Step-by-Step Settlement Roadmap</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Step-by-Step Guide: How to Initiate &amp; Negotiate Settlement with ICICI Bank
+                Step-by-Step Guide: Initiating Settlement with ICICI Bank
               </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 Executing a compromise settlement with ICICI Bank requires disciplined preparation across six essential phases:
@@ -733,7 +733,7 @@ export default function IciciPersonalLoanSettlementClient() {
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Critical Checklist for ICICI Settlement Sanction Letters &amp; ₹0 NDC Verification
+                ICICI Settlement Sanction Letters & ₹0 NDC Checklist
               </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 A serious risk in retail debt recovery involves rogue intermediaries issuing unauthorized settlement letters to induce token payments. If money is paid against an invalid letter, ICICI Bank credits funds toward penal interest, leaving default active.
@@ -753,7 +753,7 @@ export default function IciciPersonalLoanSettlementClient() {
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Impact on CIBIL Score &amp; Long-Term Credit Rehabilitation Post-ICICI Settlement
+                CIBIL Score Impact & Credit Repair Post-ICICI OTS
               </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm md:text-base">
                 Following full remittance of the agreed OTS amount, ICICI Bank is legally required to update all four credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark), modifying the account status from &apos;Default&apos; to <strong>&apos;Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>.

@@ -388,7 +388,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             {/* Section 1: The Fundamental Core */}
             <section id="core-difference-explained" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. The Fundamental Difference: Loan Settlement vs. Loan Closure Explained
+                1. Loan Settlement vs Loan Closure: Fundamental Differences
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 When managing personal loans, credit cards, or retail credit lines, borrowers frequently encounter the terms <em>loan closure</em> and <em>loan settlement</em>. While both mechanisms result in the termination of an active loan account, their financial mechanisms, legal consequences, and credit bureau footprints are vastly different.
@@ -508,7 +508,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             {/* Section 2: CIBIL Score Mechanics */}
             <section id="cibil-score-mechanics" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                2. CIBIL Score Mechanics: &quot;Closed&quot; vs. &quot;Settled&quot; vs. &quot;Written Off&quot;
+                2. CIBIL Score Mechanics: Closed vs Settled vs Written Off
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 To understand why lenders treat loan settlement and closure differently, one must look at how Credit Information Companies (TransUnion CIBIL, Experian, CRIF High Mark, and Equifax) encode account status in your Credit Information Report (CIR).
@@ -638,7 +638,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             {/* Section 4: No Dues Certificate Breakdown */}
             <section id="ndc-certificate-differences" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. The Legal &amp; Financial Standing: No Dues Certificate (NDC) Comparison
+                4. The Legal &amp; Financial Standing
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 Whether you close a loan or settle it, the <strong>No Dues Certificate (NDC)</strong> (also referred to as a Closure Letter or Release Certificate) is the single most important legal instrument you must acquire from the lending bank.
@@ -848,7 +848,7 @@ export default function PersonalLoanSettlementVsClosureClient() {
             {/* Section 6: Settled to Closed Conversion Protocol */}
             <section id="settled-to-closed-conversion" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                6. Settled to Closed: How to Pay the Waived Balance Later to Clean CIBIL
+                6. Settled to Closed: Paying Waived Balance to Clean CIBIL
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 A lesser-known provision under Indian credit regulations allows a borrower who previously settled an account to subsequently convert their CIBIL status from <strong>&quot;Settled&quot; to &quot;Closed&quot;</strong> once their personal finances improve.

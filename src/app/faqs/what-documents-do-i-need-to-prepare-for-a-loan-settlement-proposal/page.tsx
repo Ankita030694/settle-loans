@@ -278,7 +278,7 @@ export default function DocumentChecklistPage() {
 
                         <section id="intro" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
-                                Creating a Winning Evidence Trail: Documents Required for a Loan Settlement Proposal
+                                Documents Required for a Loan Settlement Proposal
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Understanding exactly what documents do I need to prepare for a loan settlement proposal is the difference between a rejected offer and a life-changing waiver. Banks are not charitable institutions. They do not settle loans because they want to be kind; they settle because you have proven through hard evidence that they will never recover the full amount. In the world of debt resolution, your documents are your ammunition.

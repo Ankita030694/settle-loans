@@ -246,7 +246,7 @@ export default function LoanSettlementLawyersPage() {
           
           <section id="introduction" className="scroll-mt-32 mb-12">
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
-              Comprehensive Introduction to Specialized Loan Settlement Lawyers in India
+              Introduction to Specialized Loan Settlement Lawyers
             </h2>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
@@ -269,7 +269,7 @@ export default function LoanSettlementLawyersPage() {
 
           <section id="why-you-need" className="scroll-mt-32 mb-12">
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
-              Why Professional Legal Representation is Vital for Your Financial Survival
+              Why Legal Representation is Vital for Financial Relief
             </h2>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>
@@ -332,7 +332,7 @@ export default function LoanSettlementLawyersPage() {
 
           <section id="the-process" className="scroll-mt-32 mb-12">
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
-              The Comprehensive Step by Step Negotiation Process by Loan Settlement Lawyers
+              Step-by-Step Negotiation Process by Settlement Lawyers
             </h2>
             <div className="text-lg leading-relaxed space-y-6 text-gray-700">
                <p>

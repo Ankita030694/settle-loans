@@ -538,7 +538,7 @@ Residential Address: [Your Full Postal Address]`;
             {/* Section 1 */}
             <section id="understanding-bank-ots-framework" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. The Statutory Framework of Bank OTS: Understanding the RBI 2023 Master Direction
+                1. Statutory Framework of Bank OTS: RBI 2023 Directives
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 When borrowers face catastrophic life disruptions—such as permanent medical disability, job termination, or severe commercial enterprise collapse—servicing contractual EMIs becomes financially impossible. In response, borrowers often find themselves inundated with aggressive collection calls, unannounced home visits, and intimidating legal notices under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act.
@@ -605,7 +605,7 @@ Residential Address: [Your Full Postal Address]`;
             {/* Section 2 */}
             <section id="npa-classification-aging-mechanics" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                2. NPA Asset Classification &amp; Aging Mechanics: How Default Buckets Dictate Settlement Flexibility
+                2. NPA Classification & Default Aging Mechanics in OTS
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 To negotiate effectively with a bank, a borrower must understand how the bank&apos;s internal accounting engine categorizes defaulted debt. Under the <strong>RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</strong>, loan accounts progress through rigid chronological stages:
@@ -691,7 +691,7 @@ Residential Address: [Your Full Postal Address]`;
             {/* Section 3 */}
             <section id="internal-haircut-calculation-formula" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                3. The Internal Haircut Calculation Formula: How Bank Credit Committees Determine the OTS Floor
+                3. Bank Credit Committee Internal Haircut Calculation Formula
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Banks do not pick settlement figures out of thin air. Behind closed doors, the bank&apos;s Credit Appraisal Committee applies a financial algorithm known as the <strong>Net Present Value (NPV) Recovery Comparison Model</strong>.
@@ -755,7 +755,7 @@ Residential Address: [Your Full Postal Address]`;
             {/* Section 4 */}
             <section id="delegation-of-powers-credit-committee" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. Delegation of Financial Powers: Why Knowing Bank Authority Tiers Protects You
+                4. Delegation of Financial Powers in Bank OTS Approvals
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 A frequent and costly mistake made by borrowers is spending weeks arguing with local branch managers or field recovery agents. Under the internal <strong>Delegation of Financial Powers (DoFP)</strong> matrix of Indian banks, branch staff have near-zero legal capacity to write off loan principal.
@@ -812,7 +812,7 @@ Residential Address: [Your Full Postal Address]`;
             {/* Section 5 */}
             <section id="step-by-step-ots-negotiation-strategy" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                5. Step-by-Step Strategy: How to Negotiate a One-Time Settlement Like an Expert
+                5. Step-by-Step Guide: How to Negotiate a Bank OTS
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-6 text-slate-700">
                 Securing a favorable One-Time Settlement requires disciplined legal preparation, rigorous accounting audits, and structured escalation. Follow this 5-stage blueprint:
@@ -975,7 +975,7 @@ Residential Address: [Your Full Postal Address]`;
             {/* Section 7 */}
             <section id="ots-vs-restructuring-vs-lok-adalat" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                7. Comprehensive Comparison: Bank OTS vs Loan Restructuring vs Lok Adalat vs ARC Assignment
+                7. Bank OTS vs Restructuring vs Lok Adalat vs ARC Sale
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Borrowers facing debt distress often confuse various debt resolution channels. Below is an authoritative legal comparison of the four primary avenues available in India:
@@ -1061,7 +1061,7 @@ Residential Address: [Your Full Postal Address]`;
             {/* Section 9 */}
             <section id="sanction-letter-audit-ndc-protocol" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                9. Sanction Letter Audit, Direct Payment Protocol &amp; The RBI 30-Day NDC Mandate
+                9. Sanction Letter Audit & RBI 30-Day NDC Mandate
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Over 40% of distressed borrowers who attempt settlement independently fall victim to payment traps—transferring money based on phone calls or WhatsApp messages from recovery agents, only to discover later that the bank credited the money towards overdue interest without closing the loan.

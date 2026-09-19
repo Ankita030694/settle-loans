@@ -522,7 +522,7 @@ export default function BankArbitrationNoticeReplyPage() {
             {/* Section 1: Demystifying Bank Arbitration Notices */}
             <section id="demystifying-bank-arbitration-notices" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Bank Arbitration Notices: Why Private Lenders Prefer Fast-Track Arbitration
+                1. Demystifying Bank Arbitration Notices & Fast-Track Route
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Receiving a formal envelope or digital notice titled <em>&quot;Notice of Invocation of Arbitration&quot;</em> or <em>&quot;Notice of Appointment of Sole Arbitrator&quot;</em> causes immediate procedural panic for borrowers managing defaulted unsecured personal loans or credit cards. Major private banking institutions—most prominently ICICI Bank, Axis Bank, HDFC Bank, Kotak Mahindra Bank, and leading Non-Banking Financial Companies (NBFCs) like Bajaj Finance—routinely trigger arbitration proceedings once an unsecured debt crosses 90 to 180 days of delinquency.
@@ -538,7 +538,7 @@ export default function BankArbitrationNoticeReplyPage() {
             {/* Section 2: Statutory Legal Grounding: Section 12(5) & Perkins Eastman */}
             <section id="statutory-legal-protections-section-12-5" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Legal Grounding: Section 12(5), Section 11 &amp; The Supreme Court Perkins Eastman Doctrine
+                2. Legal Grounding: Section 12(5) & Perkins Eastman Ruling
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The most potent legal defense available to a borrower facing a bank arbitration notice lies in the statutory invalidity of <strong>unilateral arbitrator appointments</strong>. Historically, private lenders appointed their own empanelled lawyers or retired officers as sole arbitrators without seeking borrower consent. These arbitrators conducted rushed hearings—often in distant metropolitan cities—and delivered rubber-stamped awards favoring the bank.
@@ -600,7 +600,7 @@ export default function BankArbitrationNoticeReplyPage() {
             {/* Section 3: Danger of Default: Ignoring Arbitration Notices */}
             <section id="danger-of-default-ignoring-arbitration" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. The Danger of Default: What Happens If You Ignore a Bank Arbitration Notice?
+                3. What Happens If You Ignore a Bank Arbitration Notice?
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While unilateral appointments suffer from serious legal infirmities, <strong>ignoring the notice is the single most dangerous mistake a borrower can make</strong>. Many borrowers mistakenly assume that because the notice was sent by a private advocate or an online dispute resolution (ODR) portal, it carries no real legal weight. This misconception leads to devastating financial consequences.
@@ -642,7 +642,7 @@ export default function BankArbitrationNoticeReplyPage() {
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
+                4. Bank NPA Accounting, Provisioning & NPV Equation
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To successfully negotiate a massive 45% to 65% principal haircut during arbitration, one must analyze the dispute through the lens of banking finance and RBI prudential regulations. Indian commercial banks operate under strict capital provisioning directives issued by the Reserve Bank of India. When an unsecured personal loan or credit card account defaults past 90 days, it is classified as a Non-Performing Asset (NPA).
@@ -753,7 +753,7 @@ export default function BankArbitrationNoticeReplyPage() {
             {/* Section 6: Advocate Representation: Forcing a Structured OTS */}
             <section id="advocate-representation-forcing-ots" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. How Debt Defense Advocates Challenge Unilateral Arbitration &amp; Force an Amicable Settlement
+                6. Challenging Unilateral Arbitration & Forcing Settlement
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When managed strategically by seasoned banking litigation advocates, an arbitration notice transforms from a stressful legal threat into your most effective lever for negotiating an affordable One-Time Settlement (OTS). Rather than fleeing the proceedings or arguing helplessly with outsourced recovery tele-callers, our advocates implement a calibrated 4-phase legal defense:
@@ -794,7 +794,7 @@ export default function BankArbitrationNoticeReplyPage() {
             {/* Section 7: Sanction Letter & Consent Award Forensics */}
             <section id="consent-award-sanction-forensics" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Sanction Letter &amp; Consent Award Forensics: Ensuring Absolute Legal Finality
+                7. Sanction Letter & Consent Award Forensics
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Before disbursing any agreed settlement amount, a borrower must conduct rigorous forensic verification of the settlement instruments. Unscrupulous collection agents and fake recovery agencies frequently issue counterfeit &quot;settlement confirmation letters&quot; or verbal promises on WhatsApp to hit collection targets, leaving the borrower vulnerable to ongoing arbitration or future legal claims.
@@ -856,7 +856,7 @@ export default function BankArbitrationNoticeReplyPage() {
             {/* Section 8: Remittance, RBI ₹0 NDC Mandate & Credit Recovery */}
             <section id="remittance-rbi-ndc-mandate-cibil" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Loan Remittance, RBI ₹0 No Dues Certificate Mandate &amp; CIBIL Bureau Trajectory
+                8. Loan Remittance, RBI ₹0 NDC Mandate & CIBIL Impact
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Following the remittance of the final settlement tranche, the final milestone is obtaining unassailable debt discharge documentation. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable/Immovable Property Documents and Issuance of NDC), all regulated entities are statutorily required to deliver an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and update credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) within <strong>30 calendar days</strong>.
@@ -901,7 +901,7 @@ export default function BankArbitrationNoticeReplyPage() {
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="arbitration-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Dispute Resolution Comparative Matrix: Arbitration vs Civil Suit vs Lok Adalat vs Direct OTS
+                9. Resolution Matrix: Arbitration vs Suit vs Lok Adalat vs OTS
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing the key dispute resolution mechanisms enables borrowers to evaluate the strategic advantages of converting an arbitration claim into an advocate-led compromise settlement:
@@ -972,7 +972,7 @@ export default function BankArbitrationNoticeReplyPage() {
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Bank Arbitration Notice Reply &amp; Defense
+                  11. FAQs: Bank Arbitration Notice Reply & Defense
                 </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">

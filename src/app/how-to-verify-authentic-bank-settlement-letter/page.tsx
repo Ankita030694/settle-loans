@@ -514,7 +514,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             {/* Section 1: Anatomy of Collection Agency Scams */}
             <section id="surge-in-fake-settlement-scams" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Alarming Surge in Fake Settlement Scams: Anatomy of Collection Agency Fraud in India
+                1. Surge in Fake Settlement Scams & Collection Fraud
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Over the past three years, the Indian retail lending landscape has witnessed an alarming spike in debt settlement fraud. Distressed borrowers struggling under the weight of unsecured personal loans, credit card revolving debt, or fintech micro-loans find themselves targeted by predatory third-party collection agencies and rogue tele-callers. Capitalizing on the borrower&apos;s severe psychological vulnerability and eagerness to resolve mounting default liabilities, unscrupulous recovery agents generate fabricated settlement documents that mimic authentic banking instruments with dangerous precision.
@@ -530,7 +530,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             {/* Section 2: Statutory Protections & Indian Penal Laws */}
             <section id="statutory-protections-rbi-penal-laws" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Protections: RBI Outsourcing Master Directions &amp; Indian Penal Code Provisions
+                2. Statutory Protections: RBI Directives & IPC Rules
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must recognize that the creation or dissemination of fraudulent debt settlement instruments is not merely a breach of consumer ethics; it constitutes serious statutory non-compliance and actionable criminal misconduct under Indian penal jurisprudence. Both the Reserve Bank of India (RBI) and the Indian legal framework provide explicit safeguards to protect borrowers from fraudulent recovery practices.
@@ -589,7 +589,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             {/* Section 3: Fatal Consequences of Fake Settlement Letters */}
             <section id="fatal-consequences-of-fake-settlements" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. The Fatal Consequences of Making Payments on a Forged Settlement Letter
+                3. Fatal Consequences of Paying on a Forged Letter
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Falling victim to a counterfeit settlement letter leads to catastrophic multi-layered financial and legal repercussions. Borrowers mistakenly assume that producing a PDF receipt or WhatsApp chat with a recovery agent will legally bind the bank into closing the loan. In reality, the legal ramifications are severe and immediate:
@@ -628,7 +628,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             {/* Section 4: Bank Accounting & Credit Committee Approvals */}
             <section id="bank-accounting-npv-ots-approvals" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Accounting: Why Authentic OTS Requires Credit Committee Sanction
+                4. Why Authentic OTS Requires Credit Committee Approval
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why rogue agents cannot legitimately sanction debt waivers, one must understand how Indian commercial banks account for stressed assets and Non-Performing Assets (NPAs). When an unsecured loan defaults, the bank cannot arbitrarily write off principal amounts without formal committee governance. Under the <strong>RBI Master Direction on Compromise Settlements and Technical Write-offs (June 8, 2023)</strong>, every regulated bank and NBFC must operate under a board-approved Compromise Settlement Policy governed by a strict Delegation of Financial Powers (DoFP) matrix.
@@ -702,7 +702,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             {/* Section 5: Infographic Banner */}
             <section id="infographic-verification-roadmap" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Forensic Roadmap: How to Verify Authentic Bank Settlement Letters
+                5. Roadmap: Verifying Authentic Bank Settlement Letters
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the complete 5-step forensic verification methodology required before remitting any settlement amount to a lending institution, ensuring absolute legal safety, direct loan ledger credit, and complete debt discharge.
@@ -739,7 +739,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             {/* Section 6: The 7-Point Forensic Checklist */}
             <section id="seven-point-forensic-checklist" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The 7-Point Forensic Checklist: How to Verify Authentic Bank Settlement Letters
+                6. 7-Point Checklist: Verifying Settlement Letters
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Before you deposit a single rupee toward an agreed compromise settlement, execute this rigorous 7-point forensic checklist developed by our senior debt defense advocates:
@@ -821,7 +821,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             {/* Section 7: Forgery Dissection & Header Forensics */}
             <section id="forgery-dissection-red-flags" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Dissecting a Forged Settlement Letter: Red Flags, Metadata &amp; Header Forensics
+                7. Forged Settlement Letters: Red Flags & Metadata Forensics
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Forged settlement letters created by rogue recovery agents almost always exhibit identifiable forensic anomalies. Understanding these red flags allows borrowers and legal practitioners to instantly detect fraudulent instruments:
@@ -883,7 +883,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             {/* Section 8: Safe Remittance Protocols & CIBIL Recovery */}
             <section id="safe-remittance-ndc-cibil-recovery" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Safe Remittance Protocols, RBI ₹0 No Dues Certificate Mandate &amp; CIBIL Bureau Trajectory
+                8. Safe Remittance, RBI ₹0 NDC Mandate & CIBIL Update
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the One-Time Settlement sanction letter has passed all 7 forensic verification checks, executing the settlement payment requires absolute procedural discipline. Adhere strictly to the following three safe remittance channels:
@@ -925,7 +925,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             {/* Section 9: Comparative Matrix */}
             <section id="comparative-settlement-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Matrix: Authentic Bank OTS vs Rogue Agent Fake Settlement Letter
+                9. Matrix: Authentic Bank OTS vs Rogue Fake Letter
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To provide total clarity, the comparative matrix below contrasts the critical forensic parameters of a genuine, legally binding bank OTS sanction letter against a fraudulent instrument fabricated by rogue collection agents:
@@ -985,7 +985,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Audit, Letter Verification &amp; Debt Resolution Services
+                  10. SettleLoans Letter Verification & Legal Audit Services
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the complex landscape of stressed debt recovery requires experienced banking litigation advocates who understand credit committee approval matrices, RBI regulatory frameworks, and forensic document verification. SettleLoans provides complete legal defense for borrowers across India: auditing settlement letters for forensic authenticity, halting rogue collection agent harassment, engaging directly with bank Zonal Credit Managers, and negotiating maximum lawful haircuts backed by official, bank-stamped No Dues Certificates.

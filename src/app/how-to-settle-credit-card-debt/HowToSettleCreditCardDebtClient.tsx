@@ -441,7 +441,7 @@ export default function HowToSettleCreditCardDebtClient() {
             {/* Section 2: Credit Card vs Personal Loan Differences */}
             <section id="card-vs-loan-settlement-differences" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                2. Credit Card Settlement vs. Personal Loan Settlement: 6 Critical Structural Differences
+                2. Credit Card Settlement vs. Personal Loan Settlement
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Many borrowers assume that settling a credit card follows the identical playbook as settling a personal term loan. However, because credit cards are <strong>revolving unsecured credit lines</strong> rather than amortized term loans, the underlying legal, accounting, and settlement dynamics differ significantly.
@@ -526,7 +526,7 @@ export default function HowToSettleCreditCardDebtClient() {
             {/* Section 3: Delinquency & NPA Lifecycle */}
             <section id="delinquency-npa-lifecycle" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                3. The 90-Day Delinquency &amp; NPA Lifecycle for Credit Cards in India
+                3. 90-Day Delinquency & NPA Lifecycle for Credit Cards
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Understanding how Indian banks classify delinquent credit card accounts under <strong>Reserve Bank of India (RBI) prudential norms</strong> is essential to timing your settlement for maximum financial relief while safeguarding your legal rights.
@@ -615,7 +615,7 @@ export default function HowToSettleCreditCardDebtClient() {
             {/* Section 4: Mathematical Simulation */}
             <section id="mathematical-simulation-workout" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                4. Mathematical Financial Simulation: ₹5 Lakhs Credit Card Debt Workout
+                4. Mathematical Financial Simulation
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 To demonstrate the real-world financial difference between continuing the minimum-due cycle, attempting debt consolidation, and executing an advocate-led OTS settlement, let us examine a typical case study of a borrower with <strong>₹5,00,000 total credit card debt</strong> across two cards (HDFC and SBI Card).
@@ -997,7 +997,7 @@ export default function HowToSettleCreditCardDebtClient() {
             {/* Section 9: CIBIL Rebuilding & NDC Audit */}
             <section id="cibil-rehabilitation-ndc-verification" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                9. Post-Settlement CIBIL Score Rehabilitation &amp; ₹0 No Dues Certificate Verification
+                9. Post-Settlement CIBIL Repair & ₹0 NDC Verification
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Executing a settlement provides instant psychological and legal peace of mind by eliminating active collection threats. However, managing your credit bureau footprint post-settlement is vital for your long-term financial freedom.

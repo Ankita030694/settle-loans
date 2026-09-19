@@ -567,7 +567,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <span>1. P2P Platform Architecture &amp; RBI Regulatory Framework</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Anatomy of Peer-to-Peer Lending: Marketplaces, Syndication &amp; Regulatory Limits
+                The Anatomy of Peer-to-Peer Lending
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Peer-to-Peer (P2P) lending in India has expanded rapidly over the past decade, driven by fintech platforms such as Faircent (Fairassets Technologies India Pvt Ltd), LenDenClub (Innofin Solutions Pvt Ltd), LiquiLoans (NDX P2P Lending Technologies Pvt Ltd), and Finzy. However, distressed borrowers struggling to maintain monthly repayments often misinterpret how these institutions function compared to traditional scheduled commercial banks or conventional non-banking financial companies (NBFCs). Understanding the unique structural and statutory design of an NBFC-P2P entity is the critical first step in formulating an effective, legally sound loan settlement strategy.
@@ -595,7 +595,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <span>2. P2P vs Banking: Balance-Sheet Risk &amp; Delinquency Lifecycle</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                P2P Delinquency Dynamics: Days Past Due (DPD) Buckets and Litigation Bottlenecks
+                P2P Delinquency Dynamics: DPD Buckets &amp; Litigation Limits
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In traditional scheduled commercial banking (such as State Bank of India, HDFC Bank, or ICICI Bank), defaulted loans trigger rigid institutional provisioning rules mandated under Ind AS 109 and RBI Prudential Norms on Income Recognition and Asset Classification (IRAC). Banks must lock 15% to 100% of capital reserves as provisioning once an account enters Sub-Standard, Doubtful, or Loss asset categories. In stark contrast, an NBFC-P2P platform does not carry loan assets on its balance sheet and therefore does not hold statutory capital provisioning against non-performing consumer debt.
@@ -662,7 +662,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <span>3. Halting NACH Bounce Penalties &amp; Escrow Sweeps</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Neutralizing Predatory NACH Mandates, Bank Return Fees and Unlawful Penal Charges
+                Neutralizing Predatory NACH Mandates & Return Fees
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 One of the most damaging consequences of defaulting on a Faircent, LenDenClub, or LiquiLoans facility is the aggressive, automated presentation of National Automated Clearing House (NACH) electronic debit mandates. Many fintech platforms configure automated clearing bots that trigger mandate sweeps multiple times within a single billing cycle. Each time a debit attempt fails due to insufficient balance, the borrower&apos;s commercial bank levies a return charge of ₹250 to ₹500 plus GST, while the P2P platform adds an internal bounce fee of ₹500 to ₹1,000 alongside penal interest ranging from 24% to 36% per annum.
@@ -692,7 +692,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <span>4. NPV Recovery Valuation &amp; Investor Haircut Math</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Net Present Value (NPV) Recovery Modeling: Why P2P Investors Accept Major Haircuts
+                Net Present Value (NPV) Recovery Modeling
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The core financial mechanism governing all P2P loan compromise settlements is the Net Present Value (NPV) of Recovery equation. Because P2P platforms act as fiduciaries managing recovery operations on behalf of retail lenders, their internal collections committees evaluate default resolution through strict financial discounting models. When a borrower defaults, the platform faces two mutually exclusive paths: pursuing protracted civil and quasi-criminal litigation or accepting a discounted One-Time Settlement.
@@ -782,7 +782,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <span>6. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Aggressive Third-Party Recovery Agencies &amp; Digital Harassment
+                Defending Against Third-Party Recovery Harassment
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Because P2P lending platforms operate primarily in the digital realm, their default recovery strategies frequently rely on aggressive tele-calling agencies and third-party recovery vendors. Distressed borrowers frequently report egregious collection tactics: persistent calling outside permitted hours, abusive language, threatening criminal imprisonment, contacting unrelated family members, calling employers or corporate HR departments, and threatening unauthorized home or workplace visits.
@@ -820,7 +820,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <span>7. Step-by-Step P2P Settlement Roadmap</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The 5-Stage P2P Compromise Resolution Protocol: From Hardship Petition to Closure
+                The 5-Stage P2P Compromise Resolution Protocol
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Negotiating an authorized, legally binding One-Time Settlement with Faircent, LenDenClub, or LiquiLoans requires a disciplined, multi-stage protocol. Attempting to negotiate informally with tele-calling recovery agents is ineffective because third-party callers have zero legal authority to sanction debt waivers. Borrowers must follow a formal institutional procedure:
@@ -886,7 +886,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <span>8. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Legal Notices: Section 25 PSSA, Section 138, Arbitration &amp; Lok Adalat Forums
+                Navigating Legal Notices: Section 25, Section 138 &amp; Lok Adalat
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a P2P loan crosses 90 to 180 DPD without resolution, platforms frequently initiate formal legal proceedings to exert pressure on the borrower. Understanding the jurisdictional nature and legal remedies available for each category of notice is essential to avoid panic and protect your statutory rights:
@@ -932,7 +932,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating the OTS Sanction Letter and Enforcing Mandatory No Dues Certificates
+                Authenticating OTS Sanction Letters & Enforcing NDCs
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical danger in the loan settlement ecosystem involves informal, verbal, or WhatsApp &quot;settlement promises&quot; extended by third-party recovery agency callers. Borrowers who transfer funds based on casual WhatsApp messages frequently discover that the money was credited as a partial installment payment, leaving the remaining loan active and compounding fresh default charges.
@@ -970,7 +970,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <span>10. CIBIL Score Trajectory &amp; Credit Rehabilitation</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory: Post-Settlement Reporting and Long-Term Credit Rebuilding
+                CIBIL Score Trajectory: Post-Settlement Credit Rebuilding
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A common concern among borrowers settling a Faircent or P2P personal loan is the long-term impact on their credit profile across TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. When a loan is resolved through a compromise settlement, the P2P platform updates the credit bureaus with the status &quot;Settled&quot; or &quot;Post-Write-off Settled&quot; and reflects an outstanding balance of ₹0.

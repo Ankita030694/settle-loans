@@ -345,7 +345,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 01</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The Anatomy of MSME Debt Distress: Working Capital Collapse, Fintech Stacking &amp; Commercial Realities
+                1. Anatomy of MSME Debt Distress & Working Capital Collapse
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -380,7 +380,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 02</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                2. Corporate vs. Retail Debt Settlement: Key Structural, Accounting &amp; Legal Distinctions
+                2. Corporate vs Retail Debt Settlement: Key Distinctions
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -449,7 +449,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 03</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                3. Personal Guarantees &amp; Directors&apos; Liability: Sections 126 &amp; 128 Contract Act Nuances
+                3. Personal Guarantees & Directors' Liability Under Law
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -487,7 +487,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 04</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                4. The SARFAESI Myth: Why Unsecured Business Loans Cannot Trigger Property Auctions
+                4. The SARFAESI Myth: Unsecured Loans & Property Auctions
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -570,7 +570,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 06</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                6. Pecuniary Jurisdiction &amp; Legal Forums: DRT Limits, Civil Summary Suits &amp; Arbitration Defense
+                6. Pecuniary Jurisdiction: DRT Limits & Summary Suits
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -597,7 +597,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 07</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                7. Delinquency Aging, 100% Provisioning &amp; Net Present Value (NPV) Haircut Mathematics
+                7. Delinquency Aging, Provisioning & NPV Haircut Math
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -673,7 +673,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 08</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                8. Statutory Notice Escalation: Section 138 NI Act Cheques &amp; Section 25 PSSA e-NACH Defense
+                8. Statutory Notice Escalation: Section 138 & Section 25
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
@@ -730,7 +730,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 10</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                10. Commercial CIBIL (CMR Rank), Director Credit Trajectory &amp; Rehabilitation
+                10. Commercial CIBIL Rank & Director Credit Trajectory
               </h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>

@@ -507,7 +507,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             {/* Section 1: Demystifying Recovery Call Recordings & Admissibility */}
             <section id="admissibility-recovery-call-recordings" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Admissibility &amp; Single-Party Consent: The Legal Foundation of Call Recording in India
+                1. Admissibility &amp; Single-Party Consent
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When borrowers face persistent defaults on unsecured personal loans or credit card obligations, third-party recovery agencies frequently cross legal boundaries by deploying abusive language, psychological threats, and unlawful social shaming. In response, distressed borrowers routinely capture these hostile exchanges on their smartphones. However, a foundational question frequently arises in legal consultations: Is it lawful to record a telephone conversation without informing the recovery agent, and will an Indian court or police station accept this recording as admissible evidence?
@@ -534,7 +534,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             {/* Section 2: Section 65B IEA & Section 63 BSA Authentication Rules */}
             <section id="section-65b-iea-section-63-bsa-rules" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Electronic Authentication: Section 65B Evidence Act &amp; Section 63 Bharatiya Sakshya Adhiniyam
+                2. Electronic Evidence Authentication: Section 65B &amp; BSA
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recording an abusive phone call is merely the initial operational step; converting that raw audio file into legally incontrovertible proof requires meticulous compliance with statutory authentication rules. Under Indian law, electronic records such as MP3 audio files, WAV voice recordings, and digital transcripts are classified as secondary electronic evidence. Historically, Section 65B of the Indian Evidence Act, 1872 governed the admissibility of electronic records. Under the revised criminal jurisprudence, this framework is codified under Section 63 of the Bharatiya Sakshya Adhiniyam, 2023 (BSA).
@@ -568,7 +568,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             {/* Section 3: Tripartite Evidence Gathering Protocol */}
             <section id="tripartite-evidence-gathering-protocol" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. The Tripartite Evidence Gathering Protocol: Audio, CCTV &amp; WhatsApp Architecture
+                3. The Tripartite Evidence Gathering Protocol
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To build an unassailable evidentiary portfolio that compels police action and immediately shifts institutional bargaining power during debt settlement, borrowers must implement a structured, multi-channel documentation protocol. When dealing with aggressive collection departments, rely on a tripartite strategy:
@@ -613,7 +613,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             {/* Section 4: Bank Accounting Realities & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Realities: NPA Provisioning &amp; The NPV Recovery Formula
+                4. Bank Accounting Realities: NPA Provisioning & NPV
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding why commercial banks tolerate aggressive collection agencies—and why authenticated digital evidence completely dismantles their leverage—requires analyzing the financial mechanics of Non-Performing Assets (NPAs). When a borrower defaults for over 90 days, the Reserve Bank of India mandates aggressive provisioning against bank operating profits under the Master Direction on Prudential Norms on Income Recognition and Asset Classification (IRAC):
@@ -667,7 +667,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             {/* Section 6: Invoking Penal Statutes & Police FIR Steps */}
             <section id="criminal-charges-intimidation-extortion" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Invoking Penal Statutes: Filing Police FIRs for Criminal Intimidation &amp; Extortion
+                6. Filing Police FIRs for Intimidation &amp; Extortion
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Armed with authenticated digital recordings, borrowers possess the statutory power to transition from defensive targets to proactive legal complainants. Third-party collection agents routinely commit multiple cognizable and non-bailable offenses under the Indian Penal Code (IPC) and the corresponding Bharatiya Nyaya Sanhita (BNS):
@@ -700,7 +700,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             {/* Section 7: Civil Court Injunctions & Section 151 CPC */}
             <section id="civil-injunctions-and-restraining-orders" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Civil Injunctions &amp; Restraining Orders: Securing Injunctions Under Order 39 CPC
+                7. Civil Injunctions &amp; Restraining Orders
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In addition to criminal prosecution, digital evidence serves as the bedrock for securing urgent civil relief against aggressive financial institutions. Under Order 39, Rules 1 and 2 read with Section 151 of the Code of Civil Procedure, 1908 (CPC), a borrower can institute a civil suit for permanent injunction and damages against the lending bank and its collection affiliates.
@@ -718,7 +718,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             {/* Section 8: RBI Ombudsman Escalation & Settlement Remittance */}
             <section id="rbi-ombudsman-and-settlement-remittance" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Regulatory Escalation: RBI Ombudsman &amp; Settlement Remittance Safeguards
+                8. Escalation to RBI Ombudsman &amp; Remittance Safeguards
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Reserve Bank - Integrated Ombudsman Scheme, 2021, scheduled commercial banks and regulated NBFCs face stringent institutional scrutiny for recovery agent violations. When an official complaint is lodged through the RBI Complaint Management System (CMS) accompanied by Section 65B certified audio exhibits, the Ombudsman possesses statutory authority to award compensation up to ₹20 Lakhs for consequential losses, alongside additional damages up to ₹1 Lakh for mental harassment and loss of time.
@@ -752,7 +752,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             {/* Section 9: Dispute Resolution & Evidence Admissibility Matrix */}
             <section id="evidence-admissibility-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Evidence Admissibility Comparative Matrix: Electronic Proof Across Indian Legal Forums
+                9. Evidence Admissibility Matrix: Electronic Proof in Court
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The evidentiary threshold and procedural requirements for electronic evidence vary across judicial and quasi-judicial forums in India. The following comparative matrix outlines these distinctions:
@@ -814,7 +814,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
             <section id="settleloans-evidence-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense Protocol: Transforming Evidence into Debt Freedom
+                  10. SettleLoans Legal Defense Protocol
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating electronic evidence collection, statutory certifications, and criminal harassment complaints requires specialized legal expertise at the intersection of banking litigation, telecommunications law, and the Code of Criminal Procedure. SettleLoans provides end-to-end legal defense for distressed borrowers across India: auditing recorded calls, preparing water-tight Section 65B and Section 63 BSA affidavits, serving immediate cease-and-desist notices to bank collection departments, and negotiating favorable One-Time Settlements directly with institutional decision-makers.
@@ -830,7 +830,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recording Recovery Agent Calls &amp; Court Evidence
+                  11. FAQs: Recording Recovery Agent Calls &amp; Legal Evidence
                 </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">

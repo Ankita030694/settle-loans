@@ -510,7 +510,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
             {/* Section 1: Demystifying Bank FIR Threats */}
             <section id="demystifying-bank-fir-threats" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Bank FIR Threats: The Boundary Between Civil Default and Crime
+                1. Demystifying FIR Threats: Civil Default vs Crime
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower faces unanticipated financial catastrophe—whether triggered by sudden employment termination, catastrophic medical expenditure, severe business insolvency, or macroeconomic downturns—the inability to maintain scheduled equated monthly installments (EMIs) frequently triggers aggressive institutional recovery maneuvers. Within weeks of an unsecured personal loan or credit card portfolio slipping past the standard 90-day overdue threshold into Non-Performing Asset (NPA) classification, borrowers routinely receive alarming digital messages, simulated legal drafts, or urgent phone calls alleging that a First Information Report (FIR) has been lodged against them at a local police station.
@@ -568,7 +568,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
             {/* Section 3: Fake Police Notices & Recovery Agent Tactics */}
             <section id="fake-police-notices-recovery-tactics" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. The Danger of Intimidation: Fake Police Summons &amp; Recovery Agent Extortion
+                3. Intimidation Dangers: Fake Summons & Agent Extortion
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Because institutional civil recovery in Indian courts is time-consuming and expensive, third-party recovery agencies frequently deploy psychological pressure to extract immediate payments. Unregulated agents routinely forge formal-looking police summons, craft digital documents bearing fictitious crime branch seals, and issue fabricated "Warrant Notice" alerts through messaging applications like WhatsApp.
@@ -599,7 +599,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
             {/* Section 4: Bank Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Realities: NPA Provisioning &amp; The NPV Recovery Formula
+                4. Bank Accounting Realities: NPA Provisioning & NPV
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why banks permit recovery agencies to utilize aggressive bluffs rather than filing legitimate court cases, one must examine commercial banking balance sheet mechanics. When a borrower misses three consecutive monthly installments (90 days), the Reserve Bank of India mandates that the loan be classified as a Non-Performing Asset (NPA). Under RBI Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning, the bank must set aside substantial capital reserves:
@@ -696,7 +696,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
             {/* Section 7: Sanction Letter Forensics & Section 482 CrPC Quashing */}
             <section id="section-482-crpc-quashing-precedents" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Sanction Letter Forensics &amp; Section 482 CrPC Quashing Precedents
+                7. Sanction Letter Forensics & Section 482 CrPC Quashing
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In exceedingly rare instances where an overzealous lender attempts to lodge a private criminal complaint under Section 156(3) or Section 200 of the CrPC before a local Magistrate alleging cheating, experienced defense advocates utilize high court quashing petitions under Section 482 CrPC (Section 528 of the Bharatiya Nagarik Suraksha Sanhita, BNSS).
@@ -715,7 +715,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
             {/* Section 8: Remittance, RBI Mandated Zero-Dues Certificate & Credit Reconstruction */}
             <section id="remittance-rbi-ndc-credit-reconstruction" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Remittance Protocols, RBI-Mandated Zero-Dues Certificate &amp; Credit Reconstruction
+                8. Remittance Protocols, Zero-Dues Mandate & Credit Repair
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical danger for unrepresented borrowers is making informal cash or transfer payments to recovery agents based on verbal settlement assurances. Such payments are invariably credited as partial interest installments, leaving the loan account active, compounding penalties, and subjecting the borrower to continued legal exposure.
@@ -810,7 +810,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense Framework: Protecting Borrowers Across India
+                  10. SettleLoans Defense Framework Across India
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating institutional recovery intimidation, fabricated police summons, and unlawful debt collection harassment requires experienced legal counsel who specialize in banking litigation, the Code of Criminal Procedure, and RBI fair practice frameworks. SettleLoans provides comprehensive legal defense for borrowers nationwide: serving cease-and-desist notices to stop unlawful harassment, holding abusive collection agencies accountable under criminal and consumer laws, and negotiating directly with bank zonal authorities to secure maximum principal haircuts backed by official, bank-stamped No Dues Certificates.
@@ -826,7 +826,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Bank FIR for Loan Default Reality Check
+                  11. FAQs: Bank FIR for Loan Default Reality Check
                 </h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">

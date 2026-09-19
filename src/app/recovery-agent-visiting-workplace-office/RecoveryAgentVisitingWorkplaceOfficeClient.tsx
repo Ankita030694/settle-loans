@@ -437,7 +437,7 @@ Yours faithfully,
             {/* Section 1 */}
             <section id="rbi-workplace-rules" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. Can Recovery Agents Legally Visit Your Workplace or Office in India?
+                1. Can Recovery Agents Legally Visit Your Workplace?
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Few experiences cause greater psychological distress than the fear of a loan recovery agent showing up at your corporate office, creating an embarrassing scene at the reception, or threatening to escalate debt defaults to your Human Resources (HR) department. For salaried professionals in India, this triggers an acute existential panic regarding job security, professional reputation, and career progression.

@@ -276,7 +276,7 @@ export default function TrustworthyCompanyPage() {
 
                         <section id="introduction" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-pretty">
-                                Introduction: The High Cost of Choosing the Wrong Debt Settlement Partner
+                                The High Cost of Choosing the Wrong Settlement Partner
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 When you are drowning in debt, you are at your most vulnerable. The constant pressure from recovery agents, the fear of legal notices, and the psychological weight of a mounting interest burden can make any offer of 'instant relief' look like a lifeline. In this high-pressure environment, the temptation to click on a flashy social media ad promising a 90 percent waiver is immense. However, in the debt resolution industry, choosing the wrong partner isn't just a waste of time; it can be a catastrophic financial and legal mistake.
@@ -401,7 +401,7 @@ export default function TrustworthyCompanyPage() {
 
                         <section id="business-economics" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
-                                Business Integrity: How Professional Agencies Avoid Conflicts of Interest
+                                How Professional Debt Agencies Avoid Conflicts of Interest
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 A major concern for many borrowers is whether a debt settlement company is secretly working for the banks. This is a valid fear. In many cases, collection agencies 're-brand' themselves as settlement experts to get closer to the borrower and gather data for the bank. To avoid this conflict of interest, a trustworthy company must follow a strict **Independence Framework**.

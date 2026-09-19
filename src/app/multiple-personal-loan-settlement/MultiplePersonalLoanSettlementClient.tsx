@@ -238,7 +238,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 <span>Executive Summary & Search Intent Crux</span>
               </div>
               <h2 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                Can an agency negotiate multiple personal loans into one manageable payment?
+                Negotiating Multiple Personal Loans Into One Settlement
               </h2>
               <p className="text-sm text-slate-700 leading-relaxed">
                 <strong>Yes.</strong> If you owe 3 to 10 different unsecured personal loans and credit cards across multiple banks, NBFCs, and fintech apps, attempting to pay fragmented EMIs leads to continuous default and compounding penal interest. A dedicated debt settlement agency acts as your centralized legal shield: they halt multi-agent harassment under RBI recovery directives, divert incoming legal notices (Sec 138 NI Act & Sec 25 PSS Act), establish a single monthly dedicated settlement accumulation pool, and negotiate bilateral One-Time Settlements (OTS) with each lender sequentially or simultaneously—achieving <strong>40% to 70% total debt reduction</strong> without requiring a high-credit consolidation loan.
@@ -551,7 +551,7 @@ export default function MultiplePersonalLoanSettlementClient() {
             {/* SECTION 5 */}
             <section id="legal-protection-framework" className="mb-10 scroll-mt-24">
               <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 pb-2 border-b border-slate-200">
-                5. Legal Protection Against Multi-Bank Harassment (RBI Rights & Statutes)
+                5. Protection Against Multi-Bank Harassment Under RBI
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mb-4">
                 When defaulting on multiple loans, borrowers face a barrage of intimidating notices and collection calls. Understanding your legal rights under Indian financial jurisprudence is critical to maintaining psychological stability while negotiations proceed:

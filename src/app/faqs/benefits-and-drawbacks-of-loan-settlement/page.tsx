@@ -262,7 +262,7 @@ export default function BenefitsDrawbacksPage() {
 
                         <section id="intro" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-balance">
-                                Navigating the Grey: What are the Key Benefits and Drawbacks of Pursuing a Loan Settlement?
+                                Key Benefits and Drawbacks of Loan Settlement
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Loan settlement is often described as a double edged sword in the Indian financial landscape. For some, it is the only exit from a crushing debt spiral that threatens their livelihood. For others, it is a decision they regret years later when they try to apply for a dream home loan only to find their credit profile blackened. Understanding the key benefits and drawbacks of pursuing a loan settlement is not just about numbers; it is about risk management.

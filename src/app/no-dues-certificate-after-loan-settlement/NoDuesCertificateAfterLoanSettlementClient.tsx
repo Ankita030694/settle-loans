@@ -547,7 +547,7 @@ ENCLOSURES:
             {/* Section 1 */}
             <section id="understanding-ndc-legal-sanctity" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. The Legal Sanctity of a No Dues Certificate (NDC): What Every Settled Borrower Must Know
+                1. Legal Sanctity of a No Dues Certificate (NDC)
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 For hundreds of thousands of borrowers across India who navigate financial insolvency, securing an approved <strong>One-Time Settlement (OTS)</strong> with a bank or Non-Banking Financial Company (NBFC) feels like a monumental victory. However, the most critical phase of debt resolution begins <em>after</em> the money is paid.
@@ -614,7 +614,7 @@ ENCLOSURES:
             {/* Section 2 */}
             <section id="noc-vs-ndc-vs-closure-certificate" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                2. NOC vs. NDC vs. Loan Closure Certificate: The Technical &amp; Practical Differences
+                2. NOC vs NDC vs Loan Closure Certificate Differences
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Borrowers frequently encounter overlapping terminology in banking communications. While terms like No Dues Certificate, No Objection Certificate, and Loan Closure Certificate are sometimes used interchangeably in colloquial conversation, they represent distinct legal concepts and operational states in banking ledgers:
@@ -666,7 +666,7 @@ ENCLOSURES:
             {/* Section 3 */}
             <section id="rbi-30-day-statutory-mandate" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                3. The RBI 30-Day Statutory Mandate &amp; ₹5,000/Day Delay Penalty Rule
+                3. RBI 30-Day Mandate & ₹5,000/Day Delay Penalty Rule
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Historically, borrowers faced harrowing delays after paying settlement amounts. Branch managers frequently took months to process internal system entries, during which recovery agents continued calling and original property deeds remained hostage in bank vaults.
@@ -722,7 +722,7 @@ ENCLOSURES:
             {/* Section 4 */}
             <section id="forensic-verification-authentic-vs-fake" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                4. Forensic Audit Checklist: How to Verify an Authentic NDC and Detect Recovery Agent Scams
+                4. Forensic Audit Checklist: How to Verify an Authentic NDC
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 In India&apos;s debt recovery ecosystem, unscrupulous third-party collection agencies sometimes generate fraudulent settlement letters or fake No Dues Certificates on duplicate letterheads, enticing borrowers to deposit funds into third-party accounts or temporary collection pools without updating the bank&apos;s core system.
@@ -833,7 +833,7 @@ ENCLOSURES:
             {/* Section 6 */}
             <section id="step-by-step-how-to-get-ndc" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                6. Step-by-Step Guide: How to Get Your No Dues Certificate Post-Settlement
+                6. How to Get Your No Dues Certificate Post-Settlement
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 To navigate the administrative maze of Indian commercial banks and ensure zero post-settlement complications, follow this systematic 5-stage procedural workflow:
@@ -933,7 +933,7 @@ ENCLOSURES:
             {/* Section 7 */}
             <section id="online-portal-download-procedures" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                7. Online Portal Download Procedures: SBI, HDFC, ICICI, Axis &amp; Major NBFCs
+                7. Online NDC Download: SBI, HDFC, ICICI, Axis & NBFCs
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 Most top tier Indian banks provide automated self-service portals where settled borrowers can retrieve digital No Dues Certificates. Here are the specific online navigation steps across India&apos;s leading financial institutions:
@@ -1001,7 +1001,7 @@ ENCLOSURES:
             {/* Section 8: Copyable Template */}
             <section id="copyable-ndc-escalation-template" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                8. Copyable Legal Grievance &amp; Escalation Notice Template for Delayed NDC
+                8. Legal Grievance Template for Delayed No Dues Certificate
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 If your bank or NBFC has exceeded the mandatory 30-day statutory window after accepting your settlement remittance, use this formal legal escalation notice. Formulated under <strong>RBI Circular RBI/2023-24/60</strong>, this template demands the immediate issuance of your NDC and initiates a formal statutory claim for <strong>₹5,000 per day in delay compensation</strong>:
@@ -1018,7 +1018,7 @@ ENCLOSURES:
             {/* Section 9 */}
             <section id="recovery-harassment-post-settlement" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                9. What to Do If Recovery Agents Harass You After Paying the Settlement
+                9. What to Do If Agents Harass You After Settlement Payment
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 One of the most distressing issues borrowers encounter is receiving aggressive collection calls or unannounced visits even after remitting their agreed OTS amount. This typically occurs because of an internal communication breakdown between the bank&apos;s legal credit desk and its outsourced recovery agencies.
@@ -1061,7 +1061,7 @@ ENCLOSURES:
             {/* Section 10 */}
             <section id="cibil-credit-bureau-post-settlement-audit" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                10. CIBIL &amp; Credit Bureau Audit Post-Settlement: Ensuring &apos;Settled&apos; Status with ₹0 Balance
+                10. CIBIL Audit Post-Settlement: Verifying ₹0 Balance
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 A critical responsibility post-settlement is ensuring that all four licensed Credit Information Companies in India—<strong>TransUnion CIBIL, Experian, Equifax, and CRIF High Mark</strong>—accurately update their credit information reports (CIR).
@@ -1118,7 +1118,7 @@ ENCLOSURES:
             {/* Section 11 */}
             <section id="original-property-documents-release" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                11. Return of Original Property Documents &amp; Removal of Encumbrance / Hypothecation
+                11. Return of Property Documents & Removal of Encumbrance
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 For settled secured loans—such as Home Loans, Loans Against Property (LAP), or Auto Loans—obtaining the physical No Dues Certificate is only the first part of asset liberation. Borrowers must actively ensure that all physical collaterals and legal liens are formally removed:

@@ -259,7 +259,7 @@ export default function LoanSettlementFailedPage() {
           
           <section id="settlement-crisis" className="scroll-mt-32 mb-16">
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
-              The Crisis of a Failed Loan Settlement: <span className="text-black">When the Solution Becomes a Problem</span>
+              The Crisis of a Failed Loan Settlement
             </h2>
             <div className="bg-white rounded-2xl p-8 border border-[var(--color-border)] shadow-sm hover:shadow-md transition-shadow relative overflow-hidden">
                <p className="text-lg leading-relaxed text-[var(--color-text-body)] mb-6">

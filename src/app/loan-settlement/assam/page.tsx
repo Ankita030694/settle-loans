@@ -291,7 +291,7 @@ export default function AssamLoanSettlementPage() {
             </section>
 
             <section id="mfi-act-2020" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl font-black mb-6">The Assam Micro Finance Institutions (Regulation of Money Lending) Act, 2020</h2>
+              <h2 className="text-3xl font-black mb-6">Assam Micro Finance Institutions Regulation Act, 2020</h2>
               <p>In response to the growing distress among borrowers, the Government of Assam enacted the landmark <strong>Assam Micro Finance Institutions (Regulation of Money Lending) Act, 2020</strong>. This legislation is a powerful tool for any borrower in Assam facing pressure from MFIs. It was designed to curb predatory lending practices and provide relief to economically vulnerable sections.</p>
               <p>Key provisions of this Act that SettleLoans leverages for your protection include:</p>
               <ul className="list-disc pl-6 space-y-2">
