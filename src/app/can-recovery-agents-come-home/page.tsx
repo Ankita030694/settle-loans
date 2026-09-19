@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
     title: "Can Recovery Agents Come to Your Home? | SettleLoans",
-    description: "Discover the legal truth about recovery agent home visits. Learn about RBI guidelines, authorization requirements, and your right to refuse entry under IPC.",
+    description: 'Understand the legal truth about recovery agent home visits. Learn RBI guidelines, ID requirements, and your right to prevent intimidation.',
     alternates: {
         canonical: "https://www.settleloans.in/can-recovery-agents-come-home",
     },

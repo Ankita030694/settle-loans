@@ -7,7 +7,7 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake,
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Secured Loan DRT Litigation',
-  description: 'Expert legal representation for secured loan defaults. Challenge SARFAESI 13(2) & 13(4) notices, stop auctions, and defend your property in DRT. 4500+ word...',
+  description: 'Expert legal representation for secured loan defaults. Challenge SARFAESI notices, stop bank auctions, and defend property in DRT.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt',
   },

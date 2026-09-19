@@ -6,7 +6,7 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 
 export const metadata: Metadata = {
     title: "FAQ: Education & Student Loan Settlement | SettleLoans",
-    description: "Learn about specialized programs for settling student loan defaults in India. Explore Vidya Lakshmi, CGFSEL guarantee, and bank OTS schemes for 2024-25.",
+    description: "Learn about student loan default settlement programs in India. Explore Vidya Lakshmi, CGFSEL guarantee, and bank OTS relief schemes.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india",
     },

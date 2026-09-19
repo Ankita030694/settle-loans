@@ -5,7 +5,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Bank Loan Settlement Guidelines & RBI Rules',
-  description: 'Understand the latest bank loan settlement rules in India. Learn about RBI guidelines, One-Time Settlement (OTS) processes, and how to settle your debt...',
+  description: 'Understand bank loan settlement guidelines in India. Learn RBI rules, One-Time Settlement (OTS) eligibility, and interest waiver options.',
   alternates: {
     canonical: 'https://www.settleloans.in/bank-loan-settlement-guidelines',
   },

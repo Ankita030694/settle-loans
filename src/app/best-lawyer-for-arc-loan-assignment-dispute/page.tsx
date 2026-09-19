@@ -5,13 +5,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Lawyer for ARC Loan Assignment Dispute Defense',
-  description: 'Expert legal defense against Asset Reconstruction Companies (ARCs). Challenge loan assignments, defective deeds, and SARFAESI actions in DRT with senior...',
+  description: 'Expert legal defense against Asset Reconstruction Companies. Challenge loan assignments, defective deeds, and SARFAESI actions in DRT.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-arc-loan-assignment-dispute',
   },
   openGraph: {
     title: 'Lawyer for ARC Loan Assignment Dispute Defense',
-    description: 'Expert legal defense against Asset Reconstruction Companies (ARCs). Challenge loan assignments, defective deeds, and SARFAESI actions in DRT with senior...',
+    description: 'Expert legal defense against Asset Reconstruction Companies. Challenge loan assignments, defective deeds, and SARFAESI actions in DRT.',
     url: 'https://www.settleloans.in/best-lawyer-for-arc-loan-assignment-dispute',
     type: "article",
     images: ['https://www.settleloans.in/images/arc-loan-dispute.jpg'],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Lawyer for ARC Loan Assignment Dispute Defense',
-    description: 'Expert legal defense against Asset Reconstruction Companies (ARCs). Challenge loan assignments, defective deeds, and SARFAESI actions in DRT with senior...',
+    description: 'Expert legal defense against Asset Reconstruction Companies. Challenge loan assignments, defective deeds, and SARFAESI actions in DRT.',
     images: ['https://www.settleloans.in/images/arc-loan-dispute.jpg'],
   },
 };

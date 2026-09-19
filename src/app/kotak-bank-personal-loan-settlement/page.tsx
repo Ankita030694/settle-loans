@@ -45,7 +45,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Kotak Mahindra Bank Loan Settlement | SettleLoans',
-  description: 'In-depth legal guide to Kotak Mahindra Bank personal loan settlement. Navigate Kotak pre-litigation notices, Section 25 PSSA summons, Phoenix ARC transfers.',
+  description: 'Legal guide to Kotak Mahindra Bank personal loan settlement. Navigate pre-litigation notices, Sec 25 PSSA summons, and Phoenix ARC transfers.',
   keywords: [
     'kotak mahindra bank loan settlement',
     'kotak bank personal loan settlement process',
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Kotak Mahindra Bank Loan Settlement | SettleLoans',
-    description: 'In-depth legal guide to Kotak Mahindra Bank personal loan settlement. Navigate Kotak pre-litigation notices, Section 25 PSSA summons, Phoenix ARC transfers.',
+    description: 'Legal guide to Kotak Mahindra Bank personal loan settlement. Navigate pre-litigation notices, Sec 25 PSSA summons, and Phoenix ARC transfers.',
     url: 'https://www.settleloans.in/kotak-bank-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Kotak Mahindra Bank Loan Settlement | SettleLoans',
-    description: 'Technical and legal playbook for settling defaulted Kotak Mahindra Bank personal loans, credit cards, and digital credit lines under RBI compromise frameworks.',
+    description: 'Legal guide to Kotak Mahindra Bank personal loan settlement. Navigate pre-litigation notices, Sec 25 PSSA summons, and Phoenix ARC transfers.',
     images: ['https://www.settleloans.in/images/infographics/kotak-bank-personal-loan-settlement.jpg'],
   },
 };

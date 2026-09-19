@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Canara Bank Personal Loan Settlement | SettleLoans',
-  description: 'Master the Canara Bank personal loan settlement process under RBI guidelines. Learn tier-based haircut approvals (Branch vs Circle Office), SAMB escalation.',
+  description: 'Master Canara Bank personal loan settlement under RBI guidelines. Learn tier-based haircut approvals, SAMB escalation, and NDC verification.',
   keywords: [
     'canara bank loan settlement process',
     'canara bank personal loan settlement',
@@ -62,7 +62,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Canara Bank Personal Loan Settlement | SettleLoans',
-    description: 'Master the Canara Bank personal loan settlement process under RBI guidelines. Learn tier-based haircut approvals (Branch vs Circle Office), SAMB escalation.',
+    description: 'Master Canara Bank personal loan settlement under RBI guidelines. Learn tier-based haircut approvals, SAMB escalation, and NDC verification.',
     url: 'https://www.settleloans.in/canara-bank-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -79,7 +79,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Canara Bank Personal Loan Settlement | SettleLoans',
-    description: 'Master the Canara Bank personal loan settlement process under RBI guidelines. Learn tier-based haircut approvals (Branch vs Circle Office), SAMB escalation.',
+    description: 'Master Canara Bank personal loan settlement under RBI guidelines. Learn tier-based haircut approvals, SAMB escalation, and NDC verification.',
     images: ['https://www.settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg'],
   },
 };

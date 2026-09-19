@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Home Loan Settlement in India',
-  description: 'Expert legal defense for home loan defaults. Challenge SARFAESI notices, stop bank auctions, and negotiate one-time settlements with top banking lawyers.',
+  description: 'Expert legal defense for home loan default. Challenge SARFAESI notices, halt bank auctions, and negotiate OTS with banking lawyers.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-home-loan-settlement',
   },

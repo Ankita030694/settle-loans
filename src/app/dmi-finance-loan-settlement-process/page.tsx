@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'DMI Finance Loan Settlement Process Guide | SettleLoans',
-  description: 'Comprehensive guide to DMI Finance loan settlement for Samsung Finance+, Google Pay, and Airtel loans. Learn how to stop automated WhatsApp notices.',
+  description: 'Settle DMI Finance loans for Samsung Finance+ and GPay. Halt recovery notices and negotiate an affordable one-time settlement.',
   keywords: [
     'dmi finance loan settlement',
     'dmi finance loan settlement process',

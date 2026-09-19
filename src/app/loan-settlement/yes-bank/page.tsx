@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "YES Bank Loan Settlement Guide | SettleLoans",
-  description: "Struggling with YES Bank debt? Learn the expert process for YES Bank loan settlement, J.C. Flowers ARC negotiation, and OTS schemes. Settle for 30-70% less.",
+  description: 'Struggling with YES Bank debt? Learn the process for YES Bank loan settlement and JC Flowers ARC negotiation to settle for 30-70% less.',
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/yes-bank",
   },

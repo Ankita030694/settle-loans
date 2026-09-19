@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Medical Emergency Loan Default Settlement Guide",
-  description: "Learn how to settle personal loans and credit cards after critical illness or hospitalization in India. Get expert legal help to settle your debt for less.",
+  description: 'Learn how to settle personal loans and credit card debt after critical illness or hospitalization in India. Secure compassionate OTS waivers.',
   keywords: [
     "loan settlement due to medical emergency",
     "medical emergency personal loan default",
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Medical Emergency Loan Default Settlement Guide",
-    description: "Learn how to settle personal loans and credit cards after critical illness or hospitalization in India. Get expert legal help to settle your debt for less.",
+    description: 'Learn how to settle personal loans and credit card debt after critical illness or hospitalization in India. Secure compassionate OTS waivers.',
     url: "https://www.settleloans.in/medical-emergency-loan-default-settlement",
     siteName: "SettleLoans",
     images: [
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Medical Emergency Loan Default Settlement Guide",
-    description: "Learn how to settle personal loans and credit cards after critical illness or hospitalization in India. Get expert legal help to settle your debt for less.",
+    description: 'Learn how to settle personal loans and credit card debt after critical illness or hospitalization in India. Secure compassionate OTS waivers.',
     images: ["https://www.settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg"],
   },
 };

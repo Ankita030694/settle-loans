@@ -38,7 +38,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'RBI Ombudsman Complaint for Recovery Harassment Guide',
-  description: 'Learn how to file an RBI Ombudsman complaint for loan recovery agent harassment on the CMS portal. Discover how to claim up to ₹1 Lakh for mental agony.',
+  description: 'Learn how to file an RBI Ombudsman complaint for recovery agent harassment on the CMS portal and claim compensation for mental agony.',
   keywords: [
     'how to file rbi ombudsman complaint for recovery harassment',
     'rbi complaint for loan recovery harassment',

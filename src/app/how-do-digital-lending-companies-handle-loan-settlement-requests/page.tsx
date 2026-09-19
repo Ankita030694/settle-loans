@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Digital Lending Loan Settlement Requests | SettleLoans",
-  description: "Learn how digital lending companies in India handle loan settlement. Deep dive into fintech recovery, RBI guidelines, and CIBIL impact for NBFC loan defaults.",
+  description: "Learn how digital lending apps handle loan settlement in India. Understand fintech recovery rules, RBI norms, and CIBIL credit impact.",
   alternates: {
     canonical: "https://www.settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests",
   },

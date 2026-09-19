@@ -3,7 +3,7 @@ import Section138ChequeBounceLoanDefaultClient from './Section138ChequeBounceLoa
 
 export const metadata: Metadata = {
   title: 'Section 138 Cheque Bounce Loan Defense | SettleLoans',
-  description: 'Facing a Section 138 cheque bounce case for personal loan default? Discover legal defense against bounced security cheques (PDC), 15-day notice response.',
+  description: 'Facing a Section 138 cheque bounce case for loan default? Discover legal defense against security cheque misuse and statutory notice replies.',
   alternates: {
     canonical: 'https://www.settleloans.in/section-138-cheque-bounce-loan-default',
   },

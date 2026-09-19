@@ -7,13 +7,13 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faBuilding, faShieldAlt, 
 
 export const metadata: Metadata = {
   title: 'Challenge Loan Assignment to ARC | Best Lawyer',
-  description: 'Expert legal advice on challenging loan assignments to ARCs in India. Learn about Section 5 SARFAESI, Assignment Deed validity, and DRT defences. 4500+ word...',
+  description: 'Legal advice on challenging loan assignments to ARCs in India. Learn about Section 5 SARFAESI, Assignment Deed validity, and DRT defenses.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc',
   },
   openGraph: {
     title: 'Challenge Loan Assignment to ARC | Best Lawyer',
-    description: 'Expert legal advice on challenging loan assignments to ARCs in India. Learn about Section 5 SARFAESI, Assignment Deed validity, and DRT defences. 4500+ word...',
+    description: 'Legal advice on challenging loan assignments to ARCs in India. Learn about Section 5 SARFAESI, Assignment Deed validity, and DRT defenses.',
     url: 'https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc',
     type: "article",
     images: ['https://www.settleloans.in/og-image.jpg'],
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Challenge Loan Assignment to ARC | Best Lawyer',
-    description: 'Expert legal advice on challenging loan assignments to ARCs in India. Learn about Section 5 SARFAESI, Assignment Deed validity, and DRT defences. 4500+ word...',
+    description: 'Legal advice on challenging loan assignments to ARCs in India. Learn about Section 5 SARFAESI, Assignment Deed validity, and DRT defenses.',
     images: ['https://www.settleloans.in/og-image.jpg'],
   },
 };

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Can Police Arrest You for Loan Default in India?",
-  description: "Debunking the myth: Understand your legal rights regarding police arrest for loan default in India, Section 420 IPC, and how to stop illegal recovery threats.",
+  description: "Can police arrest you for personal loan default in India? Understand your legal rights, Section 420 IPC myths, and stop illegal threats.",
   alternates: {
     canonical: "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india",
   },

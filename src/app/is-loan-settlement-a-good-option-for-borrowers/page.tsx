@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Is Loan Settlement Good for Borrowers? | SettleLoans",
-    description: "Wondering if loan settlement is a good option? Explore the pros, cons, legal rights, and CIBIL impact of settling your debt in India with this 5500+ word guide.",
+    description: 'Wondering if loan settlement is a good option? Explore pros, cons, legal rights, and CIBIL impact of settling bank debt in India.',
     alternates: {
         canonical: "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers",
     },

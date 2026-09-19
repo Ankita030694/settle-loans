@@ -7,13 +7,13 @@ import { faStar, faCheckCircle, faShieldAlt, faBalanceScale, faGavel, faHandHold
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Personal Loan Settlement India',
-  description: 'Expert legal representation for personal loan disputes, RBI harassment defense, and a debt settlement strategies. Rank #1 legal counsel for borrowers in India.',
+  description: 'Expert legal representation for personal loan disputes, RBI harassment defense, and debt settlement strategies for borrowers in India.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-personal-loans',
   },
   openGraph: {
     title: 'Best Lawyer for Personal Loan Settlement India',
-    description: 'Expert legal representation for personal loan disputes, RBI harassment defense, and a debt settlement strategies. Rank #1 legal counsel for borrowers in India.',
+    description: 'Expert legal representation for personal loan disputes, RBI harassment defense, and debt settlement strategies for borrowers in India.',
     url: 'https://www.settleloans.in/best-lawyer-for-personal-loans',
     type: "article",
     images: ['https://www.settleloans.in/images/personal-loan-dispute.jpg'],
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Best Lawyer for Personal Loan Settlement India',
-    description: 'Expert legal representation for personal loan disputes, RBI harassment defense, and a debt settlement strategies. Rank #1 legal counsel for borrowers in India.',
+    description: 'Expert legal representation for personal loan disputes, RBI harassment defense, and debt settlement strategies for borrowers in India.',
     images: ['https://www.settleloans.in/images/personal-loan-dispute.jpg'],
   },
 };

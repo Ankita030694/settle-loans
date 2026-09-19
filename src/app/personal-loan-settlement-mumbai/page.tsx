@@ -3,7 +3,7 @@ import PersonalLoanSettlementMumbaiClient from './PersonalLoanSettlementMumbaiCl
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Mumbai | SettleLoans',
-  description: 'Struggling with personal loan default, recovery agent harassment, or court summons in Mumbai, Thane, or Navi Mumbai? Get premier loan settlement services.',
+  description: 'Struggling with loan default or recovery harassment in Mumbai, Thane, or Navi Mumbai? Get premier legal defense and debt settlement.',
   keywords: [
     'loan settlement services in mumbai',
     'personal loan settlement mumbai',

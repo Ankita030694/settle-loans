@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Education Loan Co-Signer Liability for Parents | SettleLoans",
-  description: "When a child defaults on an education loan due to joblessness, parents face severe legal liability. Stop harassment & settle debt legally with SettleLoans.",
+  description: "Understand parents legal liability as co-signers when a student loan defaults. Stop recovery harassment and negotiate a fair settlement.",
   alternates: {
     canonical: "https://www.settleloans.in/parents-legal-liability-as-co-signers-when-child-defaults-on-education-loan"
   }

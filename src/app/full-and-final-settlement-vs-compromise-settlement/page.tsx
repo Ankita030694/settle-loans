@@ -34,7 +34,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Full Settlement vs Compromise Settlement | SettleLoans',
-  description: 'Understand the technical financial difference between full and final loan closure, compromise settlement (OTS), and credit write-offs under RBI guidelines.',
+  description: 'Understand the key differences between full loan closure, compromise settlement (OTS), and loan write-offs under RBI guidelines.',
   keywords: [
     'difference between full and final settlement and compromise settlement',
     'full and final loan settlement vs compromise settlement',

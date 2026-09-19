@@ -41,7 +41,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Senior Citizen & Pensioner Loan Settlement | SettleLoans',
-  description: 'Can banks deduct EMI from a pensioner account or seize retirement funds? Learn Section 60 CPC pension attachment protections, compassionate OTS relief.',
+  description: 'Can banks attach pension for loan defaults? Learn Section 60 CPC protections for senior citizens and how to secure compassionate OTS relief.',
   keywords: [
     'loan settlement rules for senior citizens pensioners',
     'can bank deduct emi from pension account without consent',

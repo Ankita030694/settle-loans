@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "How to Deal with Collection Calls | SettleLoans",
-  description: "Learn how to handle aggressive recovery agents and collection calls while in a debt settlement program in India. Expert guide on RBI guidelines (2024-2025).",
+  description: 'Learn how to handle recovery agents and collection calls during debt settlement. Expert guide on RBI guidelines and borrower protections.',
   alternates: {
     canonical: "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program",
   },

@@ -7,7 +7,7 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake,
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Car Loan Settlement in India',
-  description: 'Expert legal help for car loan settlements. Stop vehicle repossession, handle recovery agent harassment, and negotiate OTS with banks/NBFCs. 4500+ word...',
+  description: 'Expert legal counsel for car loan settlements. Stop illegal vehicle repossession, handle recovery harassment, and negotiate one-time OTS.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-car-loan-settlement',
   },

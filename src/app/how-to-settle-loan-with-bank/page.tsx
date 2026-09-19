@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "How to Settle Loan with Bank in India | SettleLoans",
-    description: "Learn how to settle loan with bank legally in India. Access expert negotiation tips, latest RBI guidelines 2024-25, and a step-by-step process to resolve debt.",
+    description: 'Learn how to settle your loan with banks legally in India. Access negotiation tips, RBI compromise guidelines, and steps to resolve debt.',
     alternates: {
         canonical: "https://www.settleloans.in/how-to-settle-loan-with-bank",
     },

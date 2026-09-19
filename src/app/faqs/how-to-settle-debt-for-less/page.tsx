@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "How to Settle Debt for Less: Waiver Guide | SettleLoans",
-  description: "Learn how to settle your debt for less in India. Professional negotiation tactics for credit cards and personal loans. Get a 50% waiver legally with our guide.",
+  description: 'Learn how to settle debt for less in India. Professional negotiation tactics for credit cards and personal loans to secure legal waivers.',
   alternates: {
     canonical: "https://www.settleloans.in/faqs/how-to-settle-debt-for-less",
   },

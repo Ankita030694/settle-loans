@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Verify Authentic Bank Settlement Letter | SettleLoans",
-  description: "Learn how to verify a bank loan settlement letter authenticity. Discover 7 critical forensic checks, official domain email verification, branch seal checks.",
+  description: 'Learn how to verify bank loan settlement letter authenticity. Discover 7 critical checks, domain verification, and branch seal forensics.',
   keywords: [
     "how to verify bank loan settlement letter",
     "fake bank loan settlement letter",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Verify Authentic Bank Settlement Letter | SettleLoans",
-    description: "Learn how to verify a bank loan settlement letter authenticity. Discover 7 critical forensic checks, official domain email verification, branch seal checks.",
+    description: 'Learn how to verify bank loan settlement letter authenticity. Discover 7 critical checks, domain verification, and branch seal forensics.',
     url: "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter",
     siteName: "SettleLoans",
     images: [
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Verify Authentic Bank Settlement Letter | SettleLoans",
-    description: "Learn how to verify a bank loan settlement letter authenticity. Discover 7 critical forensic checks, official domain email verification, branch seal checks.",
+    description: 'Learn how to verify bank loan settlement letter authenticity. Discover 7 critical checks, domain verification, and branch seal forensics.',
     images: ["https://www.settleloans.in/images/infographics/how-to-verify-authentic-bank-settlement-letter.jpg"],
   },
 };

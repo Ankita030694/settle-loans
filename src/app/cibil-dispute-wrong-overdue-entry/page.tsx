@@ -3,7 +3,7 @@ import CibilDisputeWrongOverdueEntryClient from './CibilDisputeWrongOverdueEntry
 
 export const metadata: Metadata = {
   title: 'How to Raise CIBIL Dispute for Wrong Entry | SettleLoans',
-  description: 'Learn how to raise a CIBIL dispute for wrong overdue entries, paid loans not updated, or fraudulent PAN accounts. Step-by-step CICRA 2005 & RBI resolution.',
+  description: 'Raise a CIBIL dispute for wrong overdue entries, paid loans not updated, or fraudulent accounts. Step-by-step CICRA 2005 & RBI resolution.',
   keywords: [
     'how to raise cibil dispute for wrong entry',
     'cibil dispute resolution process',
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'How to Raise CIBIL Dispute for Wrong Entry | SettleLoans',
-    description: 'Master the official CIBIL dispute resolution framework for paid loans showing overdue, wrong DPD strings, and fraudulent PAN loans under RBI guidelines.',
+    description: 'Raise a CIBIL dispute for wrong overdue entries, paid loans not updated, or fraudulent accounts. Step-by-step CICRA 2005 & RBI resolution.',
     url: 'https://www.settleloans.in/cibil-dispute-wrong-overdue-entry',
     siteName: 'SettleLoans',
     images: [
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'How to Raise CIBIL Dispute for Wrong Entry | SettleLoans',
-    description: 'Step-by-step guide to removing erroneous overdue records, correcting paid loan statuses, and clearing fraudulent PAN loans from TransUnion CIBIL.',
+    description: 'Raise a CIBIL dispute for wrong overdue entries, paid loans not updated, or fraudulent accounts. Step-by-step CICRA 2005 & RBI resolution.',
     images: ['https://www.settleloans.in/images/infographics/cibil-dispute-wrong-overdue-entry.jpg'],
   },
 };

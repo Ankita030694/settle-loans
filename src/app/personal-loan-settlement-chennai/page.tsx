@@ -43,7 +43,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Chennai | SettleLoans',
-  description: 'Expert loan settlement services in Chennai and Tamil Nadu. Stop recovery harassment under RBI rules, defend against Egmore & George Town Section 138/25.',
+  description: 'Premier personal loan settlement in Chennai. Stop recovery harassment under RBI guidelines and defend Section 138 notices legally.',
   keywords: [
     'loan settlement services in chennai',
     'personal loan settlement chennai',

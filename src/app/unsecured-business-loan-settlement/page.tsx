@@ -3,7 +3,7 @@ import UnsecuredBusinessLoanSettlementClient from './UnsecuredBusinessLoanSettle
 
 export const metadata: Metadata = {
   title: 'Unsecured Business Loan Settlement Guide | SettleLoans',
-  description: 'Learn the unsecured business loan settlement process for failed SMEs. Understand corporate vs retail debt, personal guarantee defense, and RBI OTS rules.',
+  description: 'Learn the unsecured business loan settlement process for MSMEs. Defend personal guarantees and negotiate OTS under RBI guidelines.',
   keywords: [
     'unsecured business loan settlement process',
     'business loan settlement india',

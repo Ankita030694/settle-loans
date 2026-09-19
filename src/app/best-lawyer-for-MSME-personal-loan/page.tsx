@@ -7,7 +7,7 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faIndustry, faChartLine, 
 
 export const metadata: Metadata = {
   title: 'Lawyer for MSME Personal Loan Disputes & Relief',
-  description: 'Expert MSME legal counsel for business loan disputes, payment recovery under MSMED Act 2006, and SARFAESI defense for small business owners in India.',
+  description: 'Expert MSME legal counsel for business loan disputes, MSMED Act recovery, and SARFAESI defense for small enterprise owners in India.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-MSME-personal-loan',
   },

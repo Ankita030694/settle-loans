@@ -38,7 +38,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'MoneyView Loan Settlement: OTS Rules & Guide | SettleLoans',
-  description: 'Master the MoneyView personal loan settlement process. Learn how Whizdm Finance & partner NBFCs operate, stop NACH bounce charges, halt recovery harassment.',
+  description: 'Step-by-step MoneyView loan settlement guide. Stop NACH bounce fees, halt recovery agent harassment, and settle for less under RBI norms.',
   keywords: [
     'money view loan settlement process',
     'moneyview loan settlement',

@@ -5,13 +5,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'DRT Lawyer in Mumbai for Loan Recovery Defense',
-  description: 'Expert DRT lawyers in Mumbai for debt recovery defense. We represent borrowers in DRT 1, 2, and 3 Mumbai and Vashi. Specialized in SARFAESI stays and DRAT...',
+  description: 'Expert DRT lawyers in Mumbai for debt recovery defense. Representing borrowers in DRT Mumbai & Vashi for SARFAESI stays and DRAT appeals.',
   alternates: {
     canonical: 'https://www.settleloans.in/drt-lawyer-in-mumbai-loan-recovery',
   },
   openGraph: {
     title: 'DRT Lawyer in Mumbai for Loan Recovery Defense',
-    description: 'Expert DRT lawyers in Mumbai for debt recovery defense. We represent borrowers in DRT 1, 2, and 3 Mumbai and Vashi. Specialized in SARFAESI stays and DRAT...',
+    description: 'Expert DRT lawyers in Mumbai for debt recovery defense. Representing borrowers in DRT Mumbai & Vashi for SARFAESI stays and DRAT appeals.',
     url: 'https://www.settleloans.in/drt-lawyer-in-mumbai-loan-recovery',
     type: "article",
     images: ['https://www.settleloans.in/images/mumbai-drt-lawyer.jpg'],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'DRT Lawyer in Mumbai for Loan Recovery Defense',
-    description: 'Expert DRT lawyers in Mumbai for debt recovery defense. We represent borrowers in DRT 1, 2, and 3 Mumbai and Vashi. Specialized in SARFAESI stays and DRAT...',
+    description: 'Expert DRT lawyers in Mumbai for debt recovery defense. Representing borrowers in DRT Mumbai & Vashi for SARFAESI stays and DRAT appeals.',
     images: ['https://www.settleloans.in/images/mumbai-drt-lawyer.jpg'],
   },
 };

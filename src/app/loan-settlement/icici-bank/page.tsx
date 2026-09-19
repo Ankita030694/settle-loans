@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "ICICI Bank Loan Settlement Guide | SettleLoans",
-  description: "The most comprehensive guide to ICICI Bank debt resolution. Deep-dives into SARFAESI, credit card loops, 2026 OTS schemes, and legal debt negotiation tactics.",
+  description: 'Complete guide to ICICI Bank debt resolution. Learn SARFAESI rules, credit card relief, 2026 OTS schemes, and legal negotiation tactics.',
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/icici-bank",
   },

@@ -4,7 +4,7 @@ import CreditCardSettlementAbove1LakhClient from './CreditCardSettlementAbove1La
 export const metadata: Metadata = {
   title: 'Credit Card Settlement Above 1 Lakh | SettleLoans',
   description:
-    'Settling a credit card bill above ₹1 Lakh? Learn why balances inflate from ₹1L to ₹1.65L through compounding interest, how to secure 60%–70% settlement.',
+    'Settling a credit card bill above ₹1 Lakh? Learn how compounding interest inflates dues and secure a 50-70% OTS settlement legally.',
   keywords: [
     'credit card settlement above 1 lakh',
     'credit card debt settlement above 1 lakh',

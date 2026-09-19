@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
   title: "Student Loan Settlement Programs in India | SettleLoans",
-  description: "Navigate student loan defaults in India with specialized settlement programs. Learn about OTS, CSIS subsidies, and legal rights for education loan borrowers.",
+  description: 'Navigate student loan defaults in India. Learn about bank OTS options, central interest subsidies, and legal rights for education borrowers.',
   alternates: {
     canonical: "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india",
   },

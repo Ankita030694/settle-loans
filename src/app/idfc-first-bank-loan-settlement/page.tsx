@@ -3,7 +3,7 @@ import IDFCFirstBankLoanSettlementClient from './IDFCFirstBankLoanSettlementClie
 
 export const metadata: Metadata = {
   title: 'IDFC First Bank Loan Settlement Guide | SettleLoans',
-  description: 'Exhaustive legal guide to IDFC First Bank loan settlement. Understand consumer durable and personal loan default, digital portal vs advocate representation.',
+  description: 'Legal guide to IDFC First Bank loan settlement. Settle consumer durable and personal loans legally while stopping recovery calls.',
   keywords: [
     'idfc first bank loan settlement process',
     'idfc first bank personal loan settlement',

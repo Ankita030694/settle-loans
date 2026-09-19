@@ -5,13 +5,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Debt Consolidation Loan Eligibility & Options',
-  description: 'Learn everything about debt consolidation loan eligibility in India. Master the criteria for credit scores, income levels, and employment history to rank #1...',
+  description: 'Learn debt consolidation loan eligibility criteria in India. Master credit score requirements, income thresholds, and lender approval steps.',
   alternates: {
     canonical: 'https://www.settleloans.in/debt-consolidation-loan-eligibility',
   },
   openGraph: {
     title: 'Debt Consolidation Loan Eligibility & Options',
-    description: 'Learn everything about debt consolidation loan eligibility in India. Master the criteria for credit scores, income levels, and employment history to rank #1...',
+    description: 'Learn debt consolidation loan eligibility criteria in India. Master credit score requirements, income thresholds, and lender approval steps.',
     url: 'https://www.settleloans.in/debt-consolidation-loan-eligibility',
     type: "article",
     images: ['https://www.settleloans.in/images/debt-consolidation-eligibility.jpg'],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Debt Consolidation Loan Eligibility & Options',
-    description: 'Learn everything about debt consolidation loan eligibility in India. Master the criteria for credit scores, income levels, and employment history to rank #1...',
+    description: 'Learn debt consolidation loan eligibility criteria in India. Master credit score requirements, income thresholds, and lender approval steps.',
     images: ['https://www.settleloans.in/images/debt-consolidation-eligibility.jpg'],
   },
 };

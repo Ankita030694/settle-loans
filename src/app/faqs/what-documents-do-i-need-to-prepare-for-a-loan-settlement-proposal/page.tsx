@@ -6,7 +6,7 @@ import { faTriangleExclamation, faStar, faCheck, faFileInvoice, faIdCard, faHosp
 
 export const metadata: Metadata = {
     title: "FAQ: Documents for Settlement Proposal | SettleLoans",
-    description: "The definitive checklist of documents needed for a loan settlement proposal to banks and NBFCs in India. Learn which proofs convince banks to waive interest.",
+    description: 'Checklist of documents needed for loan settlement proposals to Indian banks. Learn which hardship proofs convince lenders to waive interest.',
     alternates: {
         canonical: "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal",
     },

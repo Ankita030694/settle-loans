@@ -5,13 +5,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Trading Loan Settlement: Legal Help & Options',
-  description: 'Learn about trading loan settlement in India. Expert advice on settling Margin Trading Facility (MTF), Loan Against Securities (LAS), and trading business...',
+  description: 'Learn about trading loan settlement in India. Expert advice on settling Margin Trading Facility (MTF), Loan Against Securities, and broker dues.',
   alternates: {
     canonical: 'https://www.settleloans.in/trading-loan-settlement',
   },
   openGraph: {
     title: 'Trading Loan Settlement: Legal Help & Options',
-    description: 'Learn about trading loan settlement in India. Expert advice on settling Margin Trading Facility (MTF), Loan Against Securities (LAS), and trading business...',
+    description: 'Learn about trading loan settlement in India. Expert advice on settling Margin Trading Facility (MTF), Loan Against Securities, and broker dues.',
     url: 'https://www.settleloans.in/trading-loan-settlement',
     type: "article",
     images: ['https://www.settleloans.in/images/trading-loan-settlement.jpg'],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Trading Loan Settlement: Legal Help & Options',
-    description: 'Learn about trading loan settlement in India. Expert advice on settling Margin Trading Facility (MTF), Loan Against Securities (LAS), and trading business...',
+    description: 'Learn about trading loan settlement in India. Expert advice on settling Margin Trading Facility (MTF), Loan Against Securities, and broker dues.',
     images: ['https://www.settleloans.in/images/trading-loan-settlement.jpg'],
   },
 };

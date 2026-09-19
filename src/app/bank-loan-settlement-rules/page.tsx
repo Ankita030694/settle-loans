@@ -5,13 +5,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Bank Loan Settlement Rules in India | Guide',
-  description: 'Comprehensive guide to bank loan settlement rules in India. Learn about RBI guidelines, one-time settlement (OTS) procedures, and how to settle your debt...',
+  description: 'Comprehensive guide to bank loan settlement rules in India. Learn RBI guidelines, one-time settlement (OTS) steps, and legal debt relief.',
   alternates: {
     canonical: 'https://www.settleloans.in/bank-loan-settlement-rules',
   },
   openGraph: {
     title: 'Bank Loan Settlement Rules in India | Guide',
-    description: 'Comprehensive guide to bank loan settlement rules in India. Learn about RBI guidelines, one-time settlement (OTS) procedures, and how to settle your debt...',
+    description: 'Comprehensive guide to bank loan settlement rules in India. Learn RBI guidelines, one-time settlement (OTS) steps, and legal debt relief.',
     url: 'https://www.settleloans.in/bank-loan-settlement-rules',
     type: "article",
     images: ['https://www.settleloans.in/images/loan-settlement-rules.jpg'],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Bank Loan Settlement Rules in India | Guide',
-    description: 'Comprehensive guide to bank loan settlement rules in India. Learn about RBI guidelines, one-time settlement (OTS) procedures, and how to settle your debt...',
+    description: 'Comprehensive guide to bank loan settlement rules in India. Learn RBI guidelines, one-time settlement (OTS) steps, and legal debt relief.',
     images: ['https://www.settleloans.in/images/loan-settlement-rules.jpg'],
   },
 };

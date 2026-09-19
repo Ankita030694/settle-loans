@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Pre-Litigation Mediation for Loan Default | SettleLoans',
-  description: 'Discover how to proactively initiate free, court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan defaults.',
+  description: 'Initiate court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan compromise settlement.',
   keywords: [
     'pre litigation mediation for bank loan default',
     'dlsa loan settlement process',
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Pre-Litigation Mediation for Loan Default | SettleLoans',
-    description: 'Discover how to proactively initiate free, court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan defaults.',
+    description: 'Initiate court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan compromise settlement.',
     url: 'https://www.settleloans.in/pre-litigation-mediation-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Pre-Litigation Mediation for Loan Default | SettleLoans',
-    description: 'Discover how to proactively initiate free, court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan defaults.',
+    description: 'Initiate court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan compromise settlement.',
     images: ['https://www.settleloans.in/images/infographics/pre-litigation-mediation-loan-settlement.jpg'],
   },
 };

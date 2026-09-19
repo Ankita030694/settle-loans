@@ -5,7 +5,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Lawyer for Home Loan Cheque Bounce Case (138)',
-  description: 'Expert legal defense for home loan cheque bounce cases under Section 138 NI Act. We represent borrowers facing EMI defaults, security cheque misuse, and...',
+  description: 'Expert legal defense for home loan cheque bounce cases under Section 138 NI Act. Protect against security cheque misuse and court summons.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-home-loan-check-bounce-case',
   },

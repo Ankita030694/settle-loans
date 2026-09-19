@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "How to Reply to DRT Notice in India | SettleLoans",
-  description: "Received a DRT Notice or SARFAESI 13(2) demand? Learn how to draft a winning DRT notice reply, challenge property possession, and negotiate settlements.",
+  description: "Received a DRT Notice or SARFAESI 13(2) demand? Learn how to draft a reply, challenge property possession, and negotiate debt settlement.",
   alternates: {
     canonical: "https://www.settleloans.in/drt-notice-reply",
   },

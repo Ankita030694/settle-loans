@@ -35,7 +35,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'One Time Settlement OTS Kaise Kare: Full Guide | SettleLoans',
-  description: 'One Time Settlement OTS kaise le? Learn how to approach bank NPA Stressed Asset management, draft an OTS proposal, secure 40-70% waivers, and get a ₹0 NDC.',
+  description: 'One Time Settlement (OTS) kaise kare? Jane bank loan settlement process, OTS proposal draft karne ka tarika aur 40-70% discount.',
   keywords: [
     'one time settlement ots kaise le',
     'one time settlement ots kaise kare',

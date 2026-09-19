@@ -6,7 +6,7 @@ import { faFileShield, faScaleBalanced, faShieldHalved, faEnvelopeOpenText, faLa
 
 export const metadata: Metadata = {
     title: "Lawyer for Mortgage Default Notice Defense | SettleLoans",
-    description: "Received a default notice on your mortgage? Get expert legal help. Best lawyer for loan repayment default notices in India. SARFAESI & Recall notice defense.",
+    description: "Received a mortgage default notice? Consult expert banking lawyers in India for SARFAESI and loan recall legal notice defense.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment",
     },

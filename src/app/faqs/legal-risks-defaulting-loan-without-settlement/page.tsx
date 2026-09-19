@@ -6,7 +6,7 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 
 export const metadata: Metadata = {
     title: "Legal Risks of Defaulting on a Loan | SettleLoans",
-    description: "Understand the civil and criminal risks of loan default in India. Learn about SARFAESI, Section 138, Wilful Defaulter status, and legal rights for 2024-25.",
+    description: 'Understand civil and criminal risks of loan default in India. Learn about SARFAESI, Section 138, Wilful Defaulter rules, and legal rights.',
     alternates: {
         canonical: "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement",
     },

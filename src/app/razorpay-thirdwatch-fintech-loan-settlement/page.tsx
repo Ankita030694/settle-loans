@@ -34,7 +34,7 @@ import {
 export const metadata: Metadata = {
   title: 'Merchant Cash Advance Loan Settlement | SettleLoans',
   description:
-    'Settle Razorpay and fintech merchant cash advance loans legally. Stop gateway payout freezes, eliminate penalty interest, and resolve debt under RBI rules.',
+    'Settle Razorpay and fintech merchant loans legally. Stop payment gateway freezes and resolve working capital debt under RBI rules.',
   keywords: [
     'merchant cash advance loan settlement',
     'razorpay capital loan settlement',

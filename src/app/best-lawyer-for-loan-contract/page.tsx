@@ -7,7 +7,7 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake,
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Loan Contract Disputes | India',
-  description: 'Expert legal services for loan contract drafting and review in India. Ensure compliance with Indian Contract Act, Stamp Act, and RBI guidelines. 4500+ word...',
+  description: 'Expert legal drafting and review for loan agreements in India. Ensure compliance with Indian Contract Act and RBI guidelines.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-loan-contract',
   },

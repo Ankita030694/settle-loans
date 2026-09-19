@@ -3,7 +3,7 @@ import CreditCardBillNaBharneKeNuksanClient from './CreditCardBillNaBharneKeNuks
 
 export const metadata: Metadata = {
   title: 'Credit Card Bill Na Bharne Ke Nuksan: Legal Guide',
-  description: 'Complete legal & financial guide on credit card bill na bharne par kya hota hai. Learn about 42% compounding finance charges, recovery harassment defense.',
+  description: 'Credit card bill na bharne par kya hota hai? Jane legal notice, recovery harassment se bachav aur settlement ke sahi niyam.',
   keywords: [
     'credit card bill na bharne par kya hota hai',
     'credit card bill na bharne ke nuksan',

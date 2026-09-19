@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Legal Notice for Loan Recovery: Complete Defense',
-  description: 'Received a legal notice for loan recovery? Learn how to reply to Section 13(2) SARFAESI notices and Section 138 NI Act (Cheque Bounce) demands legally.',
+  description: 'Received a legal notice for loan recovery? Learn how to reply to SARFAESI and Section 138 cheque bounce demands to protect your rights.',
   alternates: {
     canonical: 'https://www.settleloans.in/legal-notice-for-loan-recovery',
   },

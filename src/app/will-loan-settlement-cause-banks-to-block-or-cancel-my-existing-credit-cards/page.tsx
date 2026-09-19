@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Will Loan Settlement Block Your Credit Cards?",
-  description: "Understand the impact of a personal loan settlement on your active credit cards. Learn how the Cross-Default Clause affects your credit limit and CIBIL score.",
+  description: "Will loan settlement affect other credit cards? Learn how cross-default clauses work and protect your active banking relationships.",
   alternates: {
     canonical: "https://www.settleloans.in/will-loan-settlement-cause-banks-to-block-or-cancel-my-existing-credit-cards",
   },

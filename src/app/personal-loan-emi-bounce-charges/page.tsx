@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: 'Personal Loan EMI Bounce Charges Explained | RBI Limits',
-  description: 'Is your bank charging you ₹750 every time your EMI bounces? Know the RBI limits on bounce charges, bank penalties for missed EMIs, and how to claim a refund.',
+  description: 'Bank charging heavy fees for bounced EMIs? Understand RBI penal charge guidelines, bank penalty caps, and how to request a waiver or refund.',
   alternates: {
     canonical: 'https://www.settleloans.in/personal-loan-emi-bounce-charges',
   },

@@ -5,13 +5,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Lawyer for DRT Account Documents & Defense',
-  description: "Expert legal defense in DRT cases through specialized bank statement audits. Challenge interest calculations, Bankers' Books Evidence Act certification, and...",
+  description: "Expert legal defense in DRT cases through statement audits. Challenge penal interest, Bankers Books Evidence certification, and bank claims.",
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-account-documents-drt',
   },
   openGraph: {
     title: 'Lawyer for DRT Account Documents & Defense',
-    description: "Expert legal defense in DRT cases through specialized bank statement audits. Challenge interest calculations, Bankers' Books Evidence Act certification, and...",
+    description: "Expert legal defense in DRT cases through statement audits. Challenge penal interest, Bankers Books Evidence certification, and bank claims.",
     url: 'https://www.settleloans.in/best-lawyer-for-account-documents-drt',
     type: "article",
     images: ['https://www.settleloans.in/images/drt-account-docs.jpg'],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Lawyer for DRT Account Documents & Defense',
-    description: "Expert legal defense in DRT cases through specialized bank statement audits. Challenge interest calculations, Bankers' Books Evidence Act certification, and...",
+    description: "Expert legal defense in DRT cases through statement audits. Challenge penal interest, Bankers Books Evidence certification, and bank claims.",
     images: ['https://www.settleloans.in/images/drt-account-docs.jpg'],
   },
 };

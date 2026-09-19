@@ -7,7 +7,7 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faIndustry, faChartLine, 
 
 export const metadata: Metadata = {
   title: 'Lawyer for MSME Loan Recovery Defense | Relief',
-  description: 'Expert MSME legal defence for bank recovery actions. Challenge SARFAESI notices, file SAs in DRT, and leverage MSMED Act for business survival. 4500+ word...',
+  description: 'Expert MSME legal defense against bank recovery actions. Challenge SARFAESI notices, file Securitisation Applications, and protect your firm.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence',
   },

@@ -6,7 +6,7 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
     title: "Lawyer for Bank Loan Recovery Defence | SettleLoans",
-    description: "Expert legal defence against bank loan recovery actions. Protect your assets from SARFAESI, DRT, and IBC proceedings. Technical legal audits and lender.",
+    description: "Expert legal defence against bank loan recovery. Protect your assets from SARFAESI, DRT, and IBC proceedings with veteran advocates.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence",
     },

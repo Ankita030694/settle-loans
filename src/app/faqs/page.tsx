@@ -4,7 +4,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Frequently Asked Questions | Loan Settlement | SettleLoans",
-  description: "Browse our detailed guides and frequently asked questions about loan settlement, eligibility, fees, legal rights, and bank debt relief procedures in India.",
+  description: 'Browse guides and FAQs about loan settlement, eligibility, fees, legal rights, and bank debt relief procedures across India.',
   alternates: {
     canonical: "https://www.settleloans.in/faqs",
   },

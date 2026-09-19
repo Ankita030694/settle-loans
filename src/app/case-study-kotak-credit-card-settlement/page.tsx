@@ -3,7 +3,7 @@ import CaseStudyKotakCreditCardSettlementClient from './CaseStudyKotakCreditCard
 
 export const metadata: Metadata = {
   title: 'Kotak Credit Card Settlement Case Study | SettleLoans',
-  description: 'Real case study: How a ₹4.2 Lakh Kotak Mahindra Bank credit card debt (₹1.55L principal + ₹2.65L interest/penalties) was settled for ₹1.35 Lakhs (68% total.',
+  description: 'Case study: How a ₹4.2 Lakh Kotak Bank credit card debt was settled for ₹1.35 Lakhs with an official No Dues Certificate under RBI OTS.',
   keywords: [
     'kotak mahindra bank credit card settlement',
     'kotak credit card settlement process',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Kotak Credit Card Settlement Case Study | SettleLoans',
-    description: 'Real case study: How a ₹4.2 Lakh Kotak Mahindra Bank credit card debt (₹1.55L principal + ₹2.65L interest/penalties) was settled for ₹1.35 Lakhs (68% total.',
+    description: 'Case study: How a ₹4.2 Lakh Kotak Bank credit card debt was settled for ₹1.35 Lakhs with an official No Dues Certificate under RBI OTS.',
     url: 'https://www.settleloans.in/case-study-kotak-credit-card-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Kotak Credit Card Settlement Case Study | SettleLoans',
-    description: 'Real case study: How a ₹4.2 Lakh Kotak Mahindra Bank credit card debt (₹1.55L principal + ₹2.65L interest/penalties) was settled for ₹1.35 Lakhs (68% total.',
+    description: 'Case study: How a ₹4.2 Lakh Kotak Bank credit card debt was settled for ₹1.35 Lakhs with an official No Dues Certificate under RBI OTS.',
     images: ['https://www.settleloans.in/images/infographics/case-study-kotak-credit-card-settlement.jpg'],
   },
 };

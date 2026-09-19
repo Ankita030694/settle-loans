@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "How to Check If Bank Account is Blocked Before EMI",
-  description: "Terrified your account is blocked and your EMI will bounce tomorrow? Use these 3 secret methods to check your account status instantly and avoid EMI bounce.",
+  description: "Worried your account is blocked before EMI debit? Check your bank account status quickly with these proven steps to avoid EMI bounce fees.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi",
   },

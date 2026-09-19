@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Received a Lok Adalat Notice for Loan Default? | SettleLoans",
-  description: "Demystifying the intimidating Lok Adalat Summons for loan defaults. Learn how to respond, why ignoring it is a mistake, and how to negotiate a massive discount.",
+  description: "Received a Lok Adalat notice for loan default? Learn how Lok Adalat works, how to respond, and negotiate an affordable settlement.",
   alternates: {
     canonical: "https://www.settleloans.in/received-lok-adalat-notice-for-loan-default-what-should-borrowers-do",
   }

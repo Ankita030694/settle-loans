@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Can Banks Freeze UPI Accounts for Loan Recovery?",
-  description: "Learn the truth about bank freeze UPI account loan default actions. Can recovery agents block Paytm or GPay? Understand the NPCI guidelines and DRT rules.",
+  description: "Can banks freeze your UPI, PhonePe, or GPay account for loan default? Learn NPCI guidelines, legal limitations, and your consumer rights.",
   alternates: {
     canonical: "https://www.settleloans.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery",
   },

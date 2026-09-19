@@ -4,7 +4,7 @@ import HowToSettleCreditCardDebtClient from './HowToSettleCreditCardDebtClient';
 export const metadata: Metadata = {
   title: 'How to Settle Credit Card Debt in India | SettleLoans',
   description:
-    'Trapped in 36%–42% APR credit card minimum dues? Learn how to legally settle credit card debt in India with 40%–70% waivers, stop recovery agent harassment.',
+    'Trapped in high-interest credit card debt? Learn how to legally settle credit card dues in India with 40-70% waivers and halt recovery calls.',
   keywords: [
     'credit card debt settlement',
     'settle credit card debt in india',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'How to Settle Credit Card Debt in India | SettleLoans',
     description:
-      'Trapped in 36%–42% APR credit card minimum dues? Learn how to legally settle credit card debt in India with 40%–70% waivers, stop recovery agent harassment.',
+      'Trapped in high-interest credit card debt? Learn how to legally settle credit card dues in India with 40-70% waivers and halt recovery calls.',
     url: 'https://www.settleloans.in/how-to-settle-credit-card-debt',
     siteName: 'SettleLoans',
     images: [
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Settle Credit Card Debt in India | SettleLoans',
     description:
-      'Break free from 42% APR compounding interest and minimum due traps. In-depth guide to negotiating credit card One-Time Settlements (OTS) with top Indian banks.',
+      'Trapped in high-interest credit card debt? Learn how to legally settle credit card dues in India with 40-70% waivers and halt recovery calls.',
     images: ['https://www.settleloans.in/images/infographics/how-to-settle-credit-card-debt.jpg'],
   },
 };

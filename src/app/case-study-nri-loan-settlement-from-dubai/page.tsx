@@ -3,7 +3,7 @@ import CaseStudyNriDubaiClient from './CaseStudyNriDubaiClient';
 
 export const metadata: Metadata = {
   title: 'NRI Personal Loan Settlement Case Study | SettleLoans',
-  description: 'Real case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian personal loan and settled it for ₹4. Get expert legal help to settle your debt for less.',
+  description: 'Case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian loan and settled for ₹4 Lakhs via legal POA representation and bank OTS.',
   keywords: [
     'nri personal loan settlement case study',
     'nri loan default airport arrest india',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'NRI Personal Loan Settlement Case Study | SettleLoans',
-    description: 'Real case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian personal loan and settled it for ₹4. Get expert legal help to settle your debt for less.',
+    description: 'Case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian loan and settled for ₹4 Lakhs via legal POA representation and bank OTS.',
     url: 'https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai',
     siteName: 'SettleLoans',
     images: [
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'NRI Personal Loan Settlement Case Study | SettleLoans',
-    description: 'Real case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian personal loan and settled it for ₹4. Get expert legal help to settle your debt for less.',
+    description: 'Case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian loan and settled for ₹4 Lakhs via legal POA representation and bank OTS.',
     images: ['https://www.settleloans.in/images/infographics/case-study-nri-loan-settlement-from-dubai.jpg'],
   },
 };

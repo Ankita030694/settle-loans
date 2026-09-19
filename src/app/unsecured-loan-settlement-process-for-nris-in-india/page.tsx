@@ -5,13 +5,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Unsecured Loan Settlement for NRIs in India',
-  description: 'A targeted resource for NRIs who took unsecured loans in India but are now facing job loss or financial hardship abroad. Understand the NRI loan default in...',
+  description: 'Resource for NRIs facing personal loan default in India due to overseas hardship. Understand legal rights, POA representation, and OTS steps.',
   alternates: {
     canonical: 'https://www.settleloans.in/unsecured-loan-settlement-process-for-nris-in-india',
   },
   openGraph: {
     title: 'Unsecured Loan Settlement for NRIs in India',
-    description: 'A targeted resource for NRIs who took unsecured loans in India but are now facing job loss or financial hardship abroad. Understand the NRI loan default in...',
+    description: 'Resource for NRIs facing personal loan default in India due to overseas hardship. Understand legal rights, POA representation, and OTS steps.',
     url: 'https://www.settleloans.in/unsecured-loan-settlement-process-for-nris-in-india',
     type: "article",
     images: ['https://www.settleloans.in/og-image.jpg'],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Unsecured Loan Settlement for NRIs in India',
-    description: 'A targeted resource for NRIs who took unsecured loans in India but are now facing job loss or financial hardship abroad. Understand the NRI loan default in...',
+    description: 'Resource for NRIs facing personal loan default in India due to overseas hardship. Understand legal rights, POA representation, and OTS steps.',
     images: ['https://www.settleloans.in/og-image.jpg'],
   },
 };

@@ -7,7 +7,7 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake,
 
 export const metadata: Metadata = {
   title: 'Lawyer for Bank Harassment for Loan Recovery',
-  description: 'Expert legal help to stop bank recovery agent harassment. Leverge RBI guidelines, IPC sections, and Supreme Court judgments to protect your rights. 4500+...',
+  description: 'Stop recovery agent harassment legally. Consult top banking lawyers using RBI guidelines and legal notices to protect your peace of mind.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan',
   },

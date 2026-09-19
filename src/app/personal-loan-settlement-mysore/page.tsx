@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Company in Mysore | SettleLoans',
-  description: 'Top personal loan settlement company in Mysore & Mandya. Senior advocate representation for IT professionals, silk & sandalwood merchants, and MSMEs.',
+  description: 'Top personal loan settlement in Mysore & Mandya. Senior advocate defense to stop recovery harassment and settle loans under RBI norms.',
   keywords: [
     'personal loan settlement company in mysore karnataka',
     'loan settlement services in mysore',

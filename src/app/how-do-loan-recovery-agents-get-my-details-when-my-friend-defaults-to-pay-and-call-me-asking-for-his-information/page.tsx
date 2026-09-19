@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Why Recovery Agents Call You for Friend's Loan Default",
-  description: "How do loan recovery agents get my details when my friend defaults to pay? Learn about contact scraping, RBI guidelines, and how to stop illegal calls legally.",
+  description: "Why are recovery agents calling you for a friend's loan default? Learn about contact scraping, RBI privacy rules, and how to stop calls.",
   alternates: {
     canonical: "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information",
   },

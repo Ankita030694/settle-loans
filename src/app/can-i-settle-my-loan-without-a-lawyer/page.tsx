@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Can I Settle My Loan Without a Lawyer? | RBI Guidelines 2025",
-  description: "Learn how to settle your bank loan in India without a lawyer. Expert DIY guide covering 2025 RBI settlement rules, Lok Adalat schedule, and saving 50%+ on debt.",
+  description: 'Learn how to settle your bank loan in India without a lawyer. DIY guide covering RBI settlement rules, Lok Adalat, and saving 50%+ on debt.',
   alternates: {
     canonical: "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer",
   },

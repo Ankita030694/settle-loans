@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Cooperative Bank Loan Settlement Rules | SettleLoans',
-  description: 'Master the cooperative bank loan settlement process in India. Learn how One-Time Settlement (OTS) works in Urban Co-operative Banks (UCBs) & DCCBs.',
+  description: 'Master cooperative bank loan settlement in India. Learn how One-Time Settlement (OTS) works in UCBs and DCCBs under RBI directives.',
   keywords: [
     'cooperative bank loan settlement process',
     'cooperative bank loan settlement rules',

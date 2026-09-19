@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Consumer Protection in Debt Settlement | SettleLoans",
-  description: "Learn about your legal rights under the Consumer Protection Act 2019 and RBI 2025 guidelines regarding debt settlement and recovery harassment in India.",
+  description: "Know your consumer rights under CPA 2019 and RBI guidelines regarding fair debt collection and recovery agent harassment in India.",
   alternates: {
     canonical: "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india",
   },

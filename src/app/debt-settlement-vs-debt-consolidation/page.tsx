@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Debt Settlement vs Debt Consolidation | SettleLoans",
-  description: "Compare Debt Settlement and Debt Consolidation in India. Learn the pros, cons, CIBIL impact, and interest rate differences to choose the best debt relief path.",
+  description: "Compare Debt Settlement vs Debt Consolidation in India. Understand pros, cons, CIBIL score impact, and choose the right debt relief path.",
   alternates: {
     canonical: "https://www.settleloans.in/debt-settlement-vs-debt-consolidation",
   },

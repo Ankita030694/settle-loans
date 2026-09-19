@@ -26,7 +26,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Loan App Settlement Services in India | SettleLoans",
-  description: "Trapped by instant loan apps? We settle loans for legal apps (KreditBee, MoneyView, CASHe) and help you handle harassment from illegal Chinese loan apps.",
+  description: "Trapped by instant loan apps? Settle loans from legal apps like KreditBee and CASHe, and stop recovery harassment under RBI norms.",
   alternates: {
     canonical: "https://www.settleloans.in/app-loan-settlement",
   },

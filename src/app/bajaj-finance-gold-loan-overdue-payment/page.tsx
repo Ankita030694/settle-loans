@@ -4,7 +4,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: 'Bajaj Finance Gold Loan Overdue Payment Rules: Stop Auction',
-  description: 'Overdue on your Bajaj Gold Loan? The clock is ticking before your pledged gold is auctioned. Learn your rights to stop the auction and understand NBFC gold.',
+  description: 'Overdue on your Bajaj Gold Loan? Understand NBFC auction rules, legal notice timelines, and your rights to halt the auction of pledged gold.',
   alternates: {
     canonical: 'https://www.settleloans.in/bajaj-finance-gold-loan-overdue-payment',
   },

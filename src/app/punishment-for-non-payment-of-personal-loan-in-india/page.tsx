@@ -5,13 +5,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Punishment for Non Payment of Loan in India',
-  description: 'Exhaustive guide on legal consequences, punishment, and RBI guidelines for non-payment of personal loans in India. Understand your rights against harassment.',
+  description: 'Guide on legal consequences and RBI rules for personal loan non-payment in India. Understand civil liability and your rights against harassment.',
   alternates: {
     canonical: 'https://www.settleloans.in/punishment-for-non-payment-of-personal-loan-in-india',
   },
   openGraph: {
     title: 'Punishment for Non Payment of Loan in India',
-    description: 'Exhaustive guide on legal consequences, punishment, and RBI guidelines for non-payment of personal loans in India. Understand your rights against harassment.',
+    description: 'Guide on legal consequences and RBI rules for personal loan non-payment in India. Understand civil liability and your rights against harassment.',
     url: 'https://www.settleloans.in/punishment-for-non-payment-of-personal-loan-in-india',
     type: "article",
     images: ['https://www.settleloans.in/images/loan-punishment-india.jpg'],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Punishment for Non Payment of Loan in India',
-    description: 'Exhaustive guide on legal consequences, punishment, and RBI guidelines for non-payment of personal loans in India. Understand your rights against harassment.',
+    description: 'Guide on legal consequences and RBI rules for personal loan non-payment in India. Understand civil liability and your rights against harassment.',
     images: ['https://www.settleloans.in/images/loan-punishment-india.jpg'],
   },
 };

@@ -7,7 +7,7 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake,
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Loan Recovery Cases in India',
-  description: 'Expert legal help for loan recovery in India. Resolve summary suits (Order 37 CPC), cheque bounce cases (Sec 138 NI Act), and SARFAESI actions for lenders....',
+  description: 'Expert legal defense for loan recovery in India. Resolve Order 37 summary suits, Section 138 cheque bounce cases, and SARFAESI actions.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-loan-recovery-cases',
   },

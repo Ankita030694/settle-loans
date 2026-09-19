@@ -31,7 +31,7 @@ import {
 export const metadata: Metadata = {
   title: 'RBL Bank Credit Card Settlement Guide | SettleLoans',
   description:
-    'Exhaustive guide to RBL Bank credit card settlement. Understand Bajaj SuperCard, Zomato & BookMyShow card debt traps, 48% APR compounding, NPA provisioning.',
+    'Exhaustive guide to RBL Bank credit card settlement. Settle Bajaj SuperCard debts for 40-70% less and stop collection harassment.',
   keywords: [
     'rbl bank credit card settlement',
     'rbl credit card settlement process',

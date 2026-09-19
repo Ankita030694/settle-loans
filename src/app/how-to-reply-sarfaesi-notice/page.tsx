@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: 'How to Reply to a SARFAESI 13(2) Notice | Stall Bank Auction',
-  description: 'Received a 60-day SARFAESI demand notice? Ignoring it will cost you your home. Learn how to reply, raise objections, and stall bank actions with a DRT lawyer.',
+  description: 'Received a 60-day SARFAESI demand notice? Learn how to legally reply, raise statutory objections, and protect your property with DRT counsel.',
   alternates: {
     canonical: 'https://www.settleloans.in/how-to-reply-sarfaesi-notice',
   },

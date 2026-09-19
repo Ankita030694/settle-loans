@@ -7,7 +7,7 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake,
 
 export const metadata: Metadata = {
   title: 'Lawyer for Loan Against Property Settlement',
-  description: 'Expert legal representation for Loan Against Property (LAP) settlements. Defend against SARFAESI Act, stop property auctions, and negotiate OTS with banks....',
+  description: 'Expert legal representation for Loan Against Property (LAP) settlement. Challenge SARFAESI notices, stop bank auctions, and negotiate OTS.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement',
   },

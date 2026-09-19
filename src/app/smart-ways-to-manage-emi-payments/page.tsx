@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Smart Ways to Manage EMI Payments | SettleLoans",
-  description: "Learn smart ways to manage EMI payments in India. Comprehensive guide on debt avalanche, snowball methods, budgeting, and loan consolidation to regain.",
+  description: "Smart ways to manage loan EMIs in India. Explore debt snowball, debt avalanche, and restructuring methods to regain financial freedom.",
   alternates: {
     canonical: "https://www.settleloans.in/smart-ways-to-manage-emi-payments",
   },

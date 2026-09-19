@@ -4,13 +4,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Legal Help for Loan Settlement in India | Guide',
-  description: 'Struggling with debt? Get legal help for loan settlement in India. Learn about borrower rights, RBI rules, and how specialized lawyers negotiate One-Time...',
+  description: 'Struggling with debt? Get legal help for loan settlement in India. Learn borrower rights, RBI rules, and how lawyers negotiate OTS waivers.',
   alternates: {
     canonical: 'https://www.settleloans.in/legal-help-for-loan-settlement',
   },
   openGraph: {
     title: 'Legal Help for Loan Settlement in India | Guide',
-    description: 'Struggling with debt? Get legal help for loan settlement in India. Learn about borrower rights, RBI rules, and how specialized lawyers negotiate One-Time...',
+    description: 'Struggling with debt? Get legal help for loan settlement in India. Learn borrower rights, RBI rules, and how lawyers negotiate OTS waivers.',
     url: 'https://www.settleloans.in/legal-help-for-loan-settlement',
     type: "article",
     images: ['https://www.settleloans.in/og-image.jpg'],
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Legal Help for Loan Settlement in India | Guide',
-    description: 'Struggling with debt? Get legal help for loan settlement in India. Learn about borrower rights, RBI rules, and how specialized lawyers negotiate One-Time...',
+    description: 'Struggling with debt? Get legal help for loan settlement in India. Learn borrower rights, RBI rules, and how lawyers negotiate OTS waivers.',
     images: ['https://www.settleloans.in/og-image.jpg'],
   },
 };

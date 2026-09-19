@@ -7,7 +7,7 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake,
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Unsecured Loan Settlement India',
-  description: 'Expert legal help for unsecured loan defaults. Stop recovery agent harassment, negotiate personal loan settlements, and navigate DRT cases. 4500+ word...',
+  description: 'Expert legal help for unsecured loan defaults in India. Stop recovery harassment, negotiate OTS settlements, and defend court summons.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-unsecured-loan',
   },

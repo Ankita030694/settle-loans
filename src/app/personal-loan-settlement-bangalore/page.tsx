@@ -4,7 +4,7 @@ import PersonalLoanSettlementBangaloreClient from './PersonalLoanSettlementBanga
 export const metadata: Metadata = {
   title: 'Loan Settlement Company in Bangalore | SettleLoans',
   description:
-    'Struggling with loan default, recovery harassment, or court summons in Bangalore, Whitefield, or Electronic City? Get premier legal defense, salary account.',
+    'Facing personal loan default or recovery calls in Bangalore? Get expert legal defense and settle your debt safely under RBI rules.',
   keywords: [
     'personal loan settlement company bangalore',
     'loan settlement advocates in bangalore',

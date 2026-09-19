@@ -7,7 +7,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
     title: '1 Crore Loan Settlement: High-Value Debt | SettleLoans',
-    description: 'Struggling with a 1 Crore loan? Learn about professional settlement strategies, SARFAESI defenses, and zonal bank committee approvals for massive debts.',
+    description: 'Struggling with a 1 Crore loan? Learn proven OTS negotiation strategies, SARFAESI legal defenses, and bank committee approval protocols.',
     alternates: {
         canonical: 'https://www.settleloans.in/1-crore-loan-settlement',
     },

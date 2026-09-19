@@ -9,7 +9,7 @@ import CompanyComparison from "@/components/CompanyComparison";
 
 export const metadata: Metadata = {
     title: "Government-Approved Loan Settlement Services | SettleLoans",
-    description: "Understand the legal and government-recognized ways to settle loans in India. Learn about RBI guidelines, Lok Adalats, and official debt resolution frameworks.",
+    description: 'Understand legal, government-recognized ways to settle loans in India. Learn about RBI guidelines, Lok Adalat, and debt resolution frameworks.',
     alternates: {
         canonical: "https://www.settleloans.in/faqs/government-approved-loan-settlement-services-online",
     },

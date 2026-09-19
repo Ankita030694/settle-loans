@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: 'SARFAESI Act: NBFC Property Action Notice Guide',
-  description: 'Has an NBFC initiated property action under the SARFAESI Act? Learn about NBFC home loan defaults, symbolic possession, and how to secure a stay order.',
+  description: 'Has an NBFC issued a SARFAESI property notice? Learn about symbolic possession, DRT stay orders, and legal defense against auctions.',
   alternates: {
     canonical: 'https://www.settleloans.in/sarfaesi-act-bajaj-finance-property-action-notice',
   },

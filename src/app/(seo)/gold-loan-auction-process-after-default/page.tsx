@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Gold Loan Auction Process After Default: Claim Surplus Funds",
-  description: "Learn about the gold loan auction notice period, how to stop a gold loan auction, and your legal rights to claim surplus money after a gold auction in India.",
+  description: "Learn the gold loan auction timeline, how to stop an auction legally, and claim surplus funds from gold auction sales in India.",
   alternates: {
     canonical: "https://www.settleloans.in/gold-loan-auction-process-after-default",
   },

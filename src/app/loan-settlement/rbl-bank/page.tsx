@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "RBL Bank Loan Settlement & Credit Card OTS Guide 2026",
-  description: "Struggling with RBL Bank debt? Learn the expert process for RBL Bank loan settlement and SuperCard OTS. Settle for 30-70% less and stop harassment legally.",
+  description: "Struggling with RBL Bank debt? Learn how to settle personal loans and SuperCard dues for 30-70% less under official RBI guidelines.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/rbl-bank",
   },

@@ -4,13 +4,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'What Happens if Loan EMI is Not Paid? Legal Guide',
-  description: 'Comprehensive guide on the financial, legal, and credit consequences of missing loan EMIs in India. Learn about penalty interest, CIBIL impact, and SARFAESI...',
+  description: 'Guide to the financial, legal, and credit consequences of missing loan EMIs in India. Learn about penalty rules, CIBIL impact, and SARFAESI.',
   alternates: {
     canonical: 'https://www.settleloans.in/what-happens-if-loan-emi-not-paid',
   },
   openGraph: {
     title: 'What Happens if Loan EMI is Not Paid? Legal Guide',
-    description: 'Comprehensive guide on the financial, legal, and credit consequences of missing loan EMIs in India. Learn about penalty interest, CIBIL impact, and SARFAESI...',
+    description: 'Guide to the financial, legal, and credit consequences of missing loan EMIs in India. Learn about penalty rules, CIBIL impact, and SARFAESI.',
     url: 'https://www.settleloans.in/what-happens-if-loan-emi-not-paid',
     type: "article",
     images: ['https://www.settleloans.in/og-image.jpg'],
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'What Happens if Loan EMI is Not Paid? Legal Guide',
-    description: 'Comprehensive guide on the financial, legal, and credit consequences of missing loan EMIs in India. Learn about penalty interest, CIBIL impact, and SARFAESI...',
+    description: 'Guide to the financial, legal, and credit consequences of missing loan EMIs in India. Learn about penalty rules, CIBIL impact, and SARFAESI.',
     images: ['https://www.settleloans.in/og-image.jpg'],
   },
 };

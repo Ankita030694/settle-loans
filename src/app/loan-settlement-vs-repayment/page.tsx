@@ -5,13 +5,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement vs Repayment: Which is Better?',
-  description: 'Understand the critical differences between loan settlement and full repayment. Learn about the impact on CIBIL scores, future loan eligibility, and how to...',
+  description: 'Understand key differences between loan settlement and repayment. Learn the impact on CIBIL scores, future credit eligibility, and OTS terms.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement-vs-repayment',
   },
   openGraph: {
     title: 'Loan Settlement vs Repayment: Which is Better?',
-    description: 'Understand the critical differences between loan settlement and full repayment. Learn about the impact on CIBIL scores, future loan eligibility, and how to...',
+    description: 'Understand key differences between loan settlement and repayment. Learn the impact on CIBIL scores, future credit eligibility, and OTS terms.',
     url: 'https://www.settleloans.in/loan-settlement-vs-repayment',
     type: "article",
     images: ['https://www.settleloans.in/images/loan-settlement-vs-repayment.jpg'],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Loan Settlement vs Repayment: Which is Better?',
-    description: 'Understand the critical differences between loan settlement and full repayment. Learn about the impact on CIBIL scores, future loan eligibility, and how to...',
+    description: 'Understand key differences between loan settlement and repayment. Learn the impact on CIBIL scores, future credit eligibility, and OTS terms.',
     images: ['https://www.settleloans.in/images/loan-settlement-vs-repayment.jpg'],
   },
 };

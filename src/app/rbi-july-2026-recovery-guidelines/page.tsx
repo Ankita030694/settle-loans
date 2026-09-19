@@ -5,13 +5,13 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'RBI Recovery Guidelines: Borrower Rights Guide',
-  description: 'Comprehensive analysis of the RBI July 2026 recovery guidelines. Learn about restricted contact hours, prohibition of harassment, and privacy protections...',
+  description: 'Analysis of RBI July 2026 recovery guidelines. Learn about restricted calling hours (8 AM-7 PM), harassment bans, and borrower privacy rights.',
   alternates: {
     canonical: 'https://www.settleloans.in/rbi-july-2026-recovery-guidelines',
   },
   openGraph: {
     title: 'RBI Recovery Guidelines: Borrower Rights Guide',
-    description: 'Comprehensive analysis of the RBI July 2026 recovery guidelines. Learn about restricted contact hours, prohibition of harassment, and privacy protections...',
+    description: 'Analysis of RBI July 2026 recovery guidelines. Learn about restricted calling hours (8 AM-7 PM), harassment bans, and borrower privacy rights.',
     url: 'https://www.settleloans.in/rbi-july-2026-recovery-guidelines',
     type: "article",
     images: ['https://www.settleloans.in/images/rbi-guidelines-2026.jpg'],
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'RBI Recovery Guidelines: Borrower Rights Guide',
-    description: 'Comprehensive analysis of the RBI July 2026 recovery guidelines. Learn about restricted contact hours, prohibition of harassment, and privacy protections...',
+    description: 'Analysis of RBI July 2026 recovery guidelines. Learn about restricted calling hours (8 AM-7 PM), harassment bans, and borrower privacy rights.',
     images: ['https://www.settleloans.in/images/rbi-guidelines-2026.jpg'],
   },
 };

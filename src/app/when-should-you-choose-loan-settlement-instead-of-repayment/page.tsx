@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "When to Choose Loan Settlement vs Repayment | SettleLoans",
-    description: "Confused between loan settlement and repayment? Our 5500+ word guide helps you decide when to choose settlement based on RBI guidelines, financial distress.",
+    description: 'Confused between loan settlement and repayment? Learn when to choose settlement based on RBI guidelines, hardship criteria, and CIBIL impact.',
     alternates: {
         canonical: "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment",
     },

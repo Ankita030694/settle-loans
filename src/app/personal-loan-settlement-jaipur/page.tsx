@@ -34,7 +34,7 @@ import {
 export const metadata: Metadata = {
   title: 'Debt Settlement Services in Jaipur | SettleLoans',
   description:
-    'Facing personal loan default, recovery harassment, or court notices in Jaipur, Mansarovar, or Vaishali Nagar? Learn your legal rights and debt relief options.',
+    'Facing personal loan default or recovery harassment in Jaipur? Get expert legal defense and negotiate debt settlement under RBI rules.',
   keywords: [
     'debt settlement services in jaipur',
     'personal loan settlement jaipur',

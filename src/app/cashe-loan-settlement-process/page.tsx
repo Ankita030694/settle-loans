@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'CASHe App Loan Settlement Process | SettleLoans',
-  description: 'Comprehensive guide to CASHe app loan settlement and Bhanix Finance debt resolution. Learn how to halt late fee accumulation, stop recovery harassment.',
+  description: 'Comprehensive guide to CASHe loan settlement and Bhanix Finance resolution. Halt late fees, stop harassment, and settle for less.',
   keywords: [
     'cashe app loan settlement',
     'cashe loan settlement process',

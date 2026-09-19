@@ -7,13 +7,13 @@ import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake,
 
 export const metadata: Metadata = {
   title: 'Best Lawyer for Education Loan Settlement',
-  description: 'Expert legal help for education loan settlements in India. Resolve student debt, stop recovery harassment, and negotiate OTS for study loans. 4500+ word...',
+  description: 'Expert legal help for education loan settlements in India. Resolve student debt, stop recovery harassment, and negotiate study loan waivers.',
   alternates: {
     canonical: 'https://www.settleloans.in/best-lawyer-for-education-loan-settlement',
   },
   openGraph: {
     title: 'Best Lawyer for Education Loan Settlement',
-    description: 'Expert legal help for education loan settlements in India. Resolve student debt, stop recovery harassment, and negotiate OTS for study loans. 4500+ word...',
+    description: 'Expert legal help for education loan settlements in India. Resolve student debt, stop recovery harassment, and negotiate study loan waivers.',
     url: 'https://www.settleloans.in/best-lawyer-for-education-loan-settlement',
     type: "article",
     images: ['https://www.settleloans.in/og-image.jpg'],
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: 'Best Lawyer for Education Loan Settlement',
-    description: 'Expert legal help for education loan settlements in India. Resolve student debt, stop recovery harassment, and negotiate OTS for study loans. 4500+ word...',
+    description: 'Expert legal help for education loan settlements in India. Resolve student debt, stop recovery harassment, and negotiate study loan waivers.',
     images: ['https://www.settleloans.in/og-image.jpg'],
   },
 };

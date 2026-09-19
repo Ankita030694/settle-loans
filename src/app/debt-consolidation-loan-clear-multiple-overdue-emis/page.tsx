@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: 'Debt Consolidation to Clear Overdue EMIs | SettleLoans',
-  description: 'Drowning in 5 different personal loans and credit cards? Find out if a Debt Consolidation Loan is the lifeline you need to clear your overdue EMIs and save.',
+  description: 'Struggling with multiple overdue EMIs? Discover how a Debt Consolidation Loan helps combine debts into a single manageable payment.',
   alternates: {
     canonical: 'https://www.settleloans.in/debt-consolidation-loan-clear-multiple-overdue-emis',
   },

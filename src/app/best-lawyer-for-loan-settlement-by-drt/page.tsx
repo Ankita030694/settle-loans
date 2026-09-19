@@ -6,7 +6,7 @@ import { faGavel, faScaleBalanced, faShieldHalved, faHandshake, faLandmark, faCi
 
 export const metadata: Metadata = {
     title: "Lawyer for Loan Settlement by DRT | SettleLoans",
-    description: "Facing a DRT case? Connect with the best lawyer for loan settlement by DRT in India. Expert defense for SARFAESI, SA filing, and bank settlement through.",
+    description: "Facing a DRT case? Connect with top lawyers for loan settlement via DRT. Expert defense for SARFAESI, SA filing, and bank negotiations.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt",
     },

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Process in India: Complete Guide',
-  description: 'The definitive guide to the loan settlement process in India. Learn about OTS negotiation stages, RBI rules 2024, and how to get a 100% waiver on interest.',
+  description: 'The definitive guide to the loan settlement process in India. Learn OTS negotiation stages, RBI rules, and how to waive unpaid interest.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement-process-in-india',
   },

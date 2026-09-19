@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "SBI Loan Settlement Guide 2026 | SettleLoans",
-  description: "Advanced legal strategies for State Bank of India (SBI) loan settlement. Master the Rinn Samadhan scheme, OTS 2026 protocols, and legal debt resolution.",
+  description: "Master State Bank of India loan settlement with Rinn Samadhan and official SBI OTS schemes. Stop legal action and settle debt legally.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/sbi",
   },
