@@ -3,13 +3,13 @@ import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: 'Can Recovery Agents Call Family or Colleagues?',
+  title: 'Can Recovery Agents Call Your Family? | SettleLoans',
   description: 'Exposing the legality of recovery agents calling family members, colleagues, and relatives. Learn about RBI guidelines, privacy laws, and how to stop...',
   alternates: {
     canonical: 'https://www.settleloans.in/can-recovery-agents-call-family-colleagues',
   },
   openGraph: {
-    title: 'Can Recovery Agents Call Family or Colleagues?',
+    title: 'Can Recovery Agents Call Your Family? | SettleLoans',
     description: 'Exposing the legality of recovery agents calling family members, colleagues, and relatives. Learn about RBI guidelines, privacy laws, and how to stop...',
     url: 'https://www.settleloans.in/can-recovery-agents-call-family-colleagues',
     type: "article",
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: 'Can Recovery Agents Call Family or Colleagues?',
+    title: 'Can Recovery Agents Call Your Family? | SettleLoans',
     description: 'Exposing the legality of recovery agents calling family members, colleagues, and relatives. Learn about RBI guidelines, privacy laws, and how to stop...',
     images: ['https://www.settleloans.in/og-image.jpg'],
   },

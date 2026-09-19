@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Ignoring Legal Notices: Financial & Default Consequences",
+  title: "Consequences of Ignoring Legal Notices | SettleLoans",
   description: "Discover what happens when you ignore bank legal notices, Section 138 summons, and how to prevent costly ex-parte court orders.",
   alternates: {
     canonical: "https://www.settleloans.in/ignoring-legal-notices-financial-default-consequences"

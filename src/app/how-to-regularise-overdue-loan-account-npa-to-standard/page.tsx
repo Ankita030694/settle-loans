@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "How to Regularise an Overdue Loan Account (NPA to Standard)",
+  title: "How to Regularise Overdue NPA Loans | SettleLoans",
   description: "Has your loan been classified as a Non-Performing Asset (NPA)? Discover the exact mathematical formula to regularise your account back to 'Standard'.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-regularise-overdue-loan-account-npa-to-standard"

@@ -4,7 +4,7 @@ import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Missed EMI? A Complete Guide to Regain Control',
+  title: 'Missed EMI? Guide to Regain Control | SettleLoans',
   description: 'Missed your first EMI and feeling overwhelmed? Take a deep breath and follow our 5-step crisis management guide to regain control of your finances.',
   alternates: { canonical: 'https://www.settleloans.in/missed-emi-guide-to-regain-control' },
 };

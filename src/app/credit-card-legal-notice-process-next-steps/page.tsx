@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Credit Card Legal Notice Process & Next Steps",
+  title: "Credit Card Legal Notice Guide | SettleLoans",
   description: "Received a legal notice for credit card default? Learn how to reply to a credit card legal notice, handle summons, and protect yourself from legal action.",
   alternates: {
     canonical: "https://www.settleloans.in/credit-card-legal-notice-process-next-steps",

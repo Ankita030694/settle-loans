@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Home Loan SARFAESI Auction: Reserve Price Process",
+  title: "SARFAESI Auction Reserve Price Rules | SettleLoans",
   description: "Is the bank trying to auction your house for pennies? Learn how to legally challenge a low 'Reserve Price' and protect your property's true value.",
   alternates: {
     canonical: "https://www.settleloans.in/home-loan-sarfaesi-auction-reserve-price-process",

@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Loan EMI Overdue by 1 Day: What Actually Happens?',
+  title: 'Loan EMI Overdue by 1 Day: Impact | SettleLoans',
   description: 'Missed your loan EMI by 1 day? Find out if there is a grace period for personal loans, the exact impact on your CIBIL score.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-emi-overdue-1-day-what-happens',

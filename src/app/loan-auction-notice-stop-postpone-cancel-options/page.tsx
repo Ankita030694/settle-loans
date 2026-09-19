@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Loan Auction Notice: Stop, Postpone, or Cancel Options",
+  title: "How to Stop Loan Auction Notices | SettleLoans",
   description: "Auction date announced? You still have options. Discover the 3 legal methods to postpone, cancel, or indefinitely delay a bank auction under SARFAESI.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-auction-notice-stop-postpone-cancel-options",

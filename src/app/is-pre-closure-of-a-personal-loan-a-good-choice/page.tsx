@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Is Pre-Closure of a Personal Loan a Good Choice",
+  title: "Is Personal Loan Pre-Closure Wise? | SettleLoans",
   description: "Have extra cash and wondering if you should pre-close your personal loan? Read this financial analysis first to compare pre-closing vs investing.",
   alternates: {
     canonical: "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice",

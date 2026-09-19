@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "What Are the Types of Unsecured Loans Available in India?",
+    title: "Types of Unsecured Loans in India | SettleLoans",
     description: "Discover the major types of unsecured loans in India: personal loans, credit cards, education loans, and peer-to-peer digital credit.",
     alternates: {
         canonical: "https://www.settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india",

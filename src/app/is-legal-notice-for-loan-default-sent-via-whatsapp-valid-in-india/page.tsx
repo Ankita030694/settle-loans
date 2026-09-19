@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Is a Legal Notice Sent via WhatsApp Valid for Loan Defaults?",
+  title: "Is Loan Legal Notice on WhatsApp Valid? | SettleLoans",
   description: 'Received legal notices or FIR threats on WhatsApp? Understand the validity of WhatsApp summons for loan default under Indian civil law.',
   alternates: {
     canonical: "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india",

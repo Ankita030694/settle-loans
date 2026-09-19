@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Wilful Defaulter vs Non-Wilful Defaulter: RBI Guidelines",
+  title: "Wilful vs Non-Wilful Defaulter Rules | SettleLoans",
   description: "Learn who is a wilful defaulter as per RBI, the difference between intentional and genuine default, consequences of the tag, and how to remove it.",
   alternates: {
     canonical: "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences",
