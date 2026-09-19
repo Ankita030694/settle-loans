@@ -279,8 +279,7 @@ Residential Address: [Your Full Postal Address]`;
       question: "How do banks calculate the OTS settlement amount and haircut for Non-Performing Assets (NPAs)?",
       answer: (
         <p>
-          Banks determine the acceptable OTS floor using a <strong>Net Present Value (NPV) recovery formula</strong>. The Credit Committee evaluates: (1) The realizable value of any underlying security, (2) The projected legal recovery timeframe (typically 3 to 7 years in DRT or Civil Courts), (3) Litigation costs and advocate fees, (4) The discount rate (cost of funds), and (5) The cumulative loan-loss provisioning already allocated against the asset. For unsecured personal loans or credit cards classified as <em>Doubtful (D1/D2/D3)</em> or <em>Loss Assets</em> where 100% provisioning is already recognized on the bank&apos;s balance sheet, banks are empowered to accept substantial debt haircuts ranging between <strong>40% and 70%</strong>.
-        </p>
+          Banks determine the acceptable OTS floor using a <strong>Net Present Value (NPV) recovery formula</strong>. The Credit Committee evaluates four key factors. First, the realizable value of any underlying security. Second, the projected legal recovery timeframe (typically 3 to 7 years in DRT or Civil Courts). Third, the expenses required to enforce a decree. Finally, the borrower&apos;s genuine, verifiable repaying capacity.</p>
       )
     },
     {
@@ -303,8 +302,7 @@ Residential Address: [Your Full Postal Address]`;
       question: "How should a borrower initiate and negotiate an OTS to achieve maximum debt waiver?",
       answer: (
         <p>
-          To secure the maximum legal haircut: (1) <strong>Establish Involuntary Distress:</strong> Compile rock-solid evidence of job loss, medical disability, or business insolvency to disprove willful default; (2) <strong>Bypass Low-Level Agents:</strong> Never negotiate terms with third-party recovery agents who lack sanctioning authority; (3) <strong>Submit a Formal Written OTS Proposal:</strong> Address the Branch Manager and Head of Stressed Assets Recovery Branch (SARB) referencing RBI Master Directions; (4) <strong>Anchor Your Initial Offer:</strong> Start with a realistic proposal of <strong>25% to 35%</strong> of book balance to negotiate toward a 40%–55% compromise; (5) <strong>Insist on Official Sanction:</strong> Never transfer funds until you receive a formal, stamped OTS Sanction Letter on official bank letterhead.
-        </p>
+          To secure the maximum legal haircut, follow these key steps. First, <strong>Establish Involuntary Distress:</strong> Compile documented evidence of job loss, medical disability, or business winding-up. Second, <strong>Audit Book Charges:</strong> Demand the removal of all compounding penal interest and bounce charges. Third, <strong>Leverage Provisioning Timing:</strong> Initiate negotiations after 12 months when the loan reaches 100% bank provisioning. Fourth, <strong>Offer Immediate Cash:</strong> Present an upfront lump sum rather than multi-year installments. Finally, <strong>Engage Legal Representation:</strong> Retain experienced advocates to negotiate directly with Credit Committee executives.</p>
       )
     },
     {
@@ -335,7 +333,7 @@ Residential Address: [Your Full Postal Address]`;
       question: "What precautions must a borrower take before remitting the settlement payment?",
       answer: (
         <p>
-          Borrowers must adhere to four cardinal security rules: (1) <strong>Zero Verbal Payments:</strong> Never pay based on phone calls, SMS, or WhatsApp promises from recovery agents; (2) <strong>Audit the Sanction Letter:</strong> Ensure you hold a physical, stamped OTS approval on official bank letterhead signed by an authorized officer; (3) <strong>Verify Direct Credit:</strong> Remit payments strictly into your designated loan account number via NEFT/RTGS or account payee draft—never into an individual&apos;s account; (4) <strong>Explicit Closure Clause:</strong> Confirm the letter explicitly states that the agreed sum constitutes full and final satisfaction with zero remaining liability.
+          Borrowers must adhere to four cardinal security rules. First, <strong>Zero Verbal Payments:</strong> Never pay based on phone calls, SMS, or WhatsApp promises from agents. Second, <strong>Audit the Sanction Letter:</strong> Ensure you hold a physical, stamped OTS approval on official bank letterhead. Third, <strong>Verify Direct Credit:</strong> Remit payments strictly into your designated loan account number via NEFT/RTGS—never to an individual. Finally, <strong>Explicit Closure Clause:</strong> Confirm the letter states that the agreed sum constitutes full satisfaction with zero remaining liability.
         </p>
       )
     },
@@ -683,8 +681,7 @@ Residential Address: [Your Full Postal Address]`;
                   <span>The Banking Secret: Why Aging Enhances Your Negotiation Leverage</span>
                 </div>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
-                  When a loan enters Doubtful (D1/D2) or Loss Asset status, the bank has already deducted 100% of the unsecured amount from its capital profits as mandatory RBI provisions. When you pay an OTS settlement sum on a written-off account, <strong>100% of that cash flows directly into the bank&apos;s current quarter operating profit</strong> as &apos;Recovery from Written-Off Accounts.&apos; This creates a powerful commercial incentive for senior recovery committees to approve deep discounts.
-                </p>
+                  When a loan enters Doubtful (D1/D2) or Loss Asset status, the bank has already deducted 100% of the unsecured amount from its capital profits as mandatory RBI provisions. When you pay an OTS settlement sum on a written-off account, <strong>100% of that cash flows directly into the bank&apos;s current quarter operating profit</strong>. This occurs because the bank already wrote off the asset and absorbed the loss. This accounting dynamic gives informed borrowers substantial negotiating leverage.</p>
               </div>
             </section>
 
@@ -1064,8 +1061,7 @@ Residential Address: [Your Full Postal Address]`;
                 9. Sanction Letter Audit & RBI 30-Day NDC Mandate
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
-                Over 40% of distressed borrowers who attempt settlement independently fall victim to payment traps—transferring money based on phone calls or WhatsApp messages from recovery agents, only to discover later that the bank credited the money towards overdue interest without closing the loan.
-              </p>
+                Over 40% of borrowers who attempt settlement independently fall victim to payment traps. Many transfer funds based on phone calls or WhatsApp messages from recovery agents, only to discover the bank credited the money as part-payment without closing the loan account.</p>
 
               {/* Sanction Letter Audit Table */}
               <div className="my-8 overflow-x-auto">

@@ -180,7 +180,7 @@ Yours faithfully,
       question: "Can recovery agents talk to my HR department, manager, or colleagues about my loan?",
       answer: (
         <p>
-          <strong>No, absolutely not. Disclosing debt details to third parties is illegal.</strong> Under RBI regulations, the Banking Codes and Standards Board of India (BCSBI) guidelines, and the landmark Supreme Court judgment on privacy (<em>K.S. Puttaswamy v. Union of India</em>), lenders and their agents are bound by strict customer confidentiality. Calling office landlines, approaching receptionists, or emailing HR departments to discuss your personal financial arrears constitutes actionable <strong>civil defamation (Section 499/500 IPC)</strong> and a major regulatory offense that attracts heavy monetary penalties on the lending bank.
+          <strong>No, absolutely not. Disclosing debt details to third parties is illegal.</strong> Under RBI regulations, the Banking Codes and Standards Board of India (BCSBI) guidelines, and the landmark Supreme Court judgment on privacy (<em>K.S. Puttaswamy v. Union of India</em>), lenders and their agents are bound by strict customer confidentiality. Calling office landlines or emailing HR departments about personal financial arrears constitutes actionable <strong>civil defamation (Section 499/500 IPC)</strong>. It is also a major regulatory violation that attracts heavy monetary penalties against the lending bank.
         </p>
       )
     },
@@ -188,7 +188,7 @@ Yours faithfully,
       question: "What should I do immediately if a recovery agent shows up at my office reception?",
       answer: (
         <p>
-          Follow this 4-step emergency protocol: 1) <strong>Do not panic</strong> and ask the receptionist to keep the agent seated in the visitor holding area; 2) Immediately demand their <strong>Bank Authority Letter, Agency Identity Card, and IIBF Debt Recovery Agent (DRA) Certification</strong>; 3) Clearly inform the agent on audio recording that the premises are private commercial property and that they must vacate immediately; 4) If they become aggressive, instruct corporate security to remove them for illegal trespass and immediately contact SettleLoans to serve a legal notice to the bank&apos;s Principal Nodal Officer.
+          Follow this 4-step emergency protocol when an agent visits. First, <strong>do not panic</strong> and ask the receptionist to keep the agent seated in the visitor holding area. Second, immediately demand their <strong>Bank Authority Letter, Agency Identity Card, and IIBF DRA Certification</strong>. Third, clearly inform the agent on audio recording that the premises are private commercial property and that they must vacate immediately. Finally, if they become aggressive, instruct security to remove them for illegal trespass, and contact SettleLoans to serve a legal notice to the bank&apos;s Principal Nodal Officer.
         </p>
       )
     },
@@ -204,7 +204,7 @@ Yours faithfully,
       question: "Can my employer terminate my employment if a recovery agent creates a scene at the office?",
       answer: (
         <p>
-          <strong>A personal loan default is a civil contractual dispute, not an employment crime.</strong> Under Indian labor and employment laws, an employer cannot legally terminate a confirmed employee solely because of a personal financial dispute with a bank. However, to safeguard your reputation against third-party nuisance, you should submit a formal confidential disclosure to your HR manager explaining that an external agency is acting unlawfully and that you have initiated legal proceedings against the bank.
+          <strong>A personal loan default is a civil contractual dispute, not an employment crime.</strong> Under Indian labor and employment laws, an employer cannot legally terminate a confirmed employee solely because of a personal financial dispute with a bank. To safeguard your workplace reputation against third-party nuisance, submit a confidential disclosure to your HR manager. Explain that an external agency is acting unlawfully, and clarify that legal proceedings against the lender are underway.
         </p>
       )
     },
@@ -212,7 +212,7 @@ Yours faithfully,
       question: "Which sections of the Indian Penal Code (IPC) and Bharatiya Nyaya Sanhita (BNS) protect borrowers from workplace harassment?",
       answer: (
         <p>
-          You can initiate criminal complaints under: 1) <strong>Criminal Trespass</strong> (Section 441/447 IPC / Section 329 BNS) for entering private office premises without authorization; 2) <strong>Criminal Intimidation</strong> (Section 503/506 IPC / Section 351 BNS) for threatening your job, livelihood, or safety; 3) <strong>Defamation</strong> (Section 499/500 IPC / Section 356 BNS) for tarnishing your professional standing in front of colleagues; and 4) <strong>Extortion</strong> (Section 383/384 IPC / Section 308 BNS) if they demand spot cash under duress.
+          You can initiate criminal complaints under multiple statutory provisions. First, invoke <strong>Criminal Trespass</strong> (Section 441/447 IPC / Section 329 BNS) for entering private office premises without authorization. Second, cite <strong>Criminal Intimidation</strong> (Section 503/506 IPC / Section 351 BNS) if they threaten your job or safety. Third, file for <strong>Defamation</strong> (Section 499/500 IPC / Section 356 BNS) for tarnishing your professional standing. Finally, report <strong>Extortion</strong> (Section 383/384 IPC / Section 308 BNS) if they demand spot cash under duress.
         </p>
       )
     },
@@ -440,7 +440,7 @@ Yours faithfully,
                 1. Can Recovery Agents Legally Visit Your Workplace?
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
-                Few experiences cause greater psychological distress than the fear of a loan recovery agent showing up at your corporate office, creating an embarrassing scene at the reception, or threatening to escalate debt defaults to your Human Resources (HR) department. For salaried professionals in India, this triggers an acute existential panic regarding job security, professional reputation, and career progression.
+                Few situations cause greater distress than a recovery agent arriving at your workplace. Agents often try to create scenes at reception or threaten to report defaults to your Human Resources (HR) department. For salaried professionals in India, this triggers an acute existential panic regarding job security, professional reputation, and career progression.
               </p>
 
               {/* Regulatory Definition Box for GEO */}
@@ -454,7 +454,7 @@ Yours faithfully,
               </div>
 
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                Under existing Indian banking jurisprudence established by the Reserve Bank of India and affirmed by multiple landmark High Court and Supreme Court rulings, <strong>loan recovery agents have NO automatic legal right to visit your workplace</strong>.
+                Under Indian banking regulations established by the RBI and affirmed by the Supreme Court, <strong>loan recovery agents have NO legal right to enter your workplace</strong>. Office premises are private commercial property governed by corporate access policies.
               </p>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 The regulatory framework mandates a strict hierarchy of communication:
@@ -471,7 +471,7 @@ Yours faithfully,
                 </li>
               </ul>
               <p className="text-base leading-relaxed text-slate-700">
-                When an outsourced recovery agency threatens to <em>&quot;visit your office tomorrow with recovery officers&quot;</em> or <em>&quot;serve notice to your HR director&quot;</em>, they are engaging in <strong>illegal psychological coercion</strong> specifically designed to exploit your fear of job loss. Such threats violate RBI Master Directions and expose the lending bank to severe regulatory sanctions.
+                Outsourced recovery agencies often threaten to visit your office or contact your HR director. These threats constitute <strong>illegal psychological coercion</strong> designed to exploit your fear of workplace embarrassment. Such threats violate RBI Master Directions and expose the lending bank to severe regulatory sanctions.
               </p>
             </section>
 
@@ -548,7 +548,7 @@ Yours faithfully,
                 3. Criminal Penal Codes &amp; Constitutional Privacy Protections
               </h2>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                When a recovery agent enters private commercial property, bypasses corporate visitor protocols, or harasses employees, their actions cross the boundary from civil debt recovery into <strong>cognizable criminal offenses</strong> under the Indian Penal Code (IPC) / Bharatiya Nyaya Sanhita (BNS).
+                When a recovery agent enters private commercial premises or harasses employees, their actions cross the line into <strong>cognizable criminal offenses</strong> under the IPC and Bharatiya Nyaya Sanhita (BNS). Legitimate debt recovery does not permit criminal trespass.
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5 my-8">
@@ -762,7 +762,7 @@ Yours faithfully,
                     </h4>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
-                    Politely inform the agent: <em>&quot;This conversation is being audio and video recorded for legal and regulatory submission.&quot;</em> Take photographs of their ID cards and preserve visitor logbook entry timestamps as prime evidence for the RBI Banking Ombudsman.
+                    Politely inform the agent that the interaction is being recorded for legal submission. Take photos of their identity cards and preserve visitor logbook timestamps as evidence for the RBI Banking Ombudsman.
                   </p>
                 </div>
 

@@ -114,7 +114,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
       question: 'How can I identify fake loan settlement companies in India?',
       answer: (
         <p>
-          Fake loan settlement companies exhibit identifiable warning signs: 1) Demanding massive upfront registration or processing fees before performing any legal or negotiation work; 2) Promising unrealistic &quot;guaranteed 80% to 90% waivers&quot; within 24 to 48 hours; 3) Instructing you to transfer compromise funds into personal UPI IDs, third-party current accounts, or so-called &quot;escrow accounts&quot; instead of directly into your official bank loan account; 4) Refusing to provide advocate Bar Council enrollment numbers; and 5) Sending amateurish, unverified OTS letters on WhatsApp containing mismatched branch codes or distorted bank logos.
+          Fake loan settlement companies show clear warning signs. First, they demand heavy upfront registration fees before performing any legal work. Second, they promise unrealistic 80% to 90% waivers within 24 to 48 hours. Third, they ask you to transfer funds to personal UPI IDs or third-party accounts instead of your official bank loan account. Fourth, they refuse to share advocate Bar Council enrollment numbers. Finally, they send unverified OTS letters on WhatsApp containing distorted logos and incorrect branch codes.
         </p>
       ),
     },
@@ -130,7 +130,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
       question: 'How can I verify if a loan settlement (OTS) sanction letter is genuine?',
       answer: (
         <p>
-          To verify an OTS sanction letter: 1) Ensure it is printed on official bank or NBFC letterhead featuring a legitimate reference number, date, and authorized signatory stamp; 2) Cross-verify the branch code and contact the bank&apos;s Stressed Asset Resolution Branch (SARB) or Principal Nodal Officer; 3) Confirm that the letter explicitly instructs you to deposit the compromise amount directly into your existing loan account number; and 4) Verify that the letter clearly promises the issuance of a formal ₹0 No Dues Certificate (NDC) and credit bureau update upon clearance.
+          Follow these steps to verify an OTS sanction letter. First, ensure it is printed on official bank letterhead with a legitimate reference number, date, and officer stamp. Second, cross-verify the branch code with the bank&apos;s Stressed Asset Resolution Branch (SARB) or Nodal Officer. Third, confirm that the letter instructs you to deposit the compromise sum into your actual loan account. Finally, verify that the letter clearly promises a formal ₹0 No Dues Certificate (NDC) and credit bureau update upon payment.
         </p>
       ),
     },
@@ -138,7 +138,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
       question: 'Is it safe to transfer settlement money to an agency&apos;s bank account or UPI ID?',
       answer: (
         <p>
-          <strong>Never transfer a single rupee of your loan settlement compromise funds to any private company, intermediary, lawyer&apos;s personal account, or third-party UPI ID.</strong> Under Reserve Bank of India (RBI) directives and standard banking law, all settlement compromise payments must be deposited directly into your designated bank loan account via NEFT, RTGS, IMPS, or directly at the home branch cash counter against an official bank receipt.
+          <strong>Never transfer a single rupee of your loan settlement compromise funds to any private company, intermediary, lawyer&apos;s personal account, or third-party UPI ID.</strong> Under RBI directives and banking law, all settlement compromise payments must be deposited directly into your official bank loan account. You can pay via NEFT, RTGS, IMPS, or directly at the home branch cash counter against an official bank receipt. Never deposit funds into third-party accounts.
         </p>
       ),
     },
@@ -154,7 +154,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
       question: 'What legal action can I take if I have been scammed by a fake settlement agency?',
       answer: (
         <p>
-          If you have fallen victim to a settlement scam: 1) File an immediate cybercrime complaint at <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">cybercrime.gov.in</a> or call the national cyber helpline at <strong>1930</strong>; 2) Lodge a formal police FIR under Bharatiya Nyaya Sanhita (BNS) Section 318(4) (Cheating) and Section 336(3) (Forgery) [formerly IPC Sections 420 and 468], along with Section 66D of the Information Technology Act, 2000; 3) Alert your lending bank&apos;s fraud prevention desk; and 4) If an advocate was complicit, file a statutory misconduct complaint before the respective State Bar Council.
+          If you have fallen victim to a settlement scam, take immediate action. First, file a cybercrime complaint at <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">cybercrime.gov.in</a> or call the national helpline at <strong>1930</strong>. Second, lodge a police FIR under BNS Section 318(4) (Cheating) and Section 336(3) (Forgery) [formerly IPC Sections 420 and 468], alongside Section 66D of the IT Act. Third, alert your lending bank&apos;s fraud prevention desk right away. Finally, file a misconduct complaint before the State Bar Council if an advocate was involved.
         </p>
       ),
     },
@@ -162,7 +162,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
       question: 'Are debt settlement companies officially licensed or approved by the RBI?',
       answer: (
         <p>
-          The Reserve Bank of India (RBI) regulates scheduled banks, NBFCs, and Asset Reconstruction Companies (ARCs), but it does not issue direct operational licenses to third-party debt settlement consultancies. Legitimate debt settlement assistance is conducted under legal advisory and representative frameworks through advocates enrolled with the Bar Council of India, who represent distressed borrowers under the Indian Contract Act, 1872 and the RBI Fair Practices Code.
+          The Reserve Bank of India (RBI) regulates scheduled banks, NBFCs, and Asset Reconstruction Companies (ARCs), but it does not issue direct operational licenses to third-party debt settlement consultancies. Legitimate debt settlement assistance operates under clear legal and representative frameworks. Advocates enrolled with the Bar Council of India represent distressed borrowers under the Indian Contract Act, 1872 and the RBI Fair Practices Code.
         </p>
       ),
     },
@@ -170,7 +170,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
       question: 'How does SettleLoans ensure 100% scam-proof and legal debt settlement?',
       answer: (
         <p>
-          SettleLoans eliminates all fraud vulnerabilities through a 4-pillar trust model: 1) <strong>Zero third-party fund handling:</strong> 100% of your settlement funds are paid directly to your lending bank; 2) <strong>Advocate-led representation:</strong> Empaneled Bar Council advocates represent your case directly before bank SARB executives; 3) <strong>Forensic letter audit:</strong> Every OTS letter undergoes legal authentication before any payment is authorized; and 4) <strong>Guaranteed NDC delivery:</strong> We follow through until you receive a physical ₹0 No Dues Certificate and verified credit bureau closure.
+          SettleLoans eliminates fraud risks through a 4-pillar trust model. First, <strong>Zero third-party fund handling:</strong> 100% of your settlement funds are paid directly to your lending bank. Second, <strong>Advocate-led representation:</strong> Empaneled Bar Council advocates represent your case directly before bank SARB executives. Third, <strong>Forensic letter audit:</strong> Every OTS letter undergoes legal authentication before any payment is authorized. Fourth, <strong>Guaranteed NDC delivery:</strong> We follow through until you receive a verified ₹0 No Dues Certificate and credit bureau closure.
         </p>
       ),
     },
@@ -178,7 +178,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
       question: 'What should I do if a recovery agent sends me a settlement offer on WhatsApp?',
       answer: (
         <p>
-          Do not make any payment based on WhatsApp text messages or unverified PDF attachments. Insist that the recovery agency arrange for the formal OTS sanction letter to be emailed directly from the bank&apos;s corporate domain (such as @hdfcbank.com, @icicibank.com, @axisbank.com) or collect a physical, stamped letter from the bank&apos;s regional stressed asset branch. Have an independent legal professional audit the letter before transferring funds.
+          Do not make any payment based on WhatsApp text messages or unverified PDF attachments. Insist that the recovery agency arrange for the formal OTS letter to be emailed directly from the bank&apos;s corporate domain (such as @hdfcbank.com, @icicibank.com, or @axisbank.com). You can also collect a physical, stamped letter from the bank&apos;s regional stressed asset branch. Have an independent legal professional audit the letter before transferring funds.
         </p>
       ),
     },
@@ -186,7 +186,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
       question: 'Can paying a scammer cause me to face court cases from my actual bank?',
       answer: (
         <p>
-          Yes. If you pay money to a fraudulent agency based on a forged OTS letter, your actual bank loan remains unpaid, active, and delinquent. The bank will continue to levy compounding penal charges and may initiate legal proceedings (such as Section 138 NI Act cheque bounce complaints, Section 25 Payment and Settlement Systems Act proceedings, or civil recovery suits) because the bank never sanctioned the settlement and never received your funds.
+          Yes. If you pay money to a fraudulent agency based on a forged OTS letter, your actual bank loan remains unpaid, active, and delinquent. The bank will continue to levy compounding penal charges. It may also initiate Section 138 NI Act cheque bounce complaints, Section 25 PSSA proceedings, or civil recovery suits. This occurs because the bank never approved the compromise and never received your settlement funds.
         </p>
       ),
     },
@@ -386,7 +386,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                 When you are trapped in severe debt, facing relentless collection calls, and struggling to make ends meet, the psychological pressure is suffocating. In this state of acute distress, borrowers become prime targets for predatory operators, fly-by-night telecallers, and organized cyber syndicates running sophisticated loan settlement scams across India.
               </p>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
-                Over the past three years, banking dispute records and cybercrime registries have witnessed an alarming surge in fraudulent &quot;debt relief consultancies&quot;. These syndicates obtain leaked database leads of defaulting borrowers from rogue collection agents. They contact borrowers claiming to be &quot;RBI-authorized settlement officers&quot;, &quot;National Debt Relief Boards&quot;, or &quot;Bank Dispute Ombudsmen&quot;, promising to erase 80% to 90% of their debt within 48 hours in exchange for an immediate upfront processing charge.
+                Over the past three years, banking dispute records and cybercrime registries have witnessed an alarming surge in fraudulent &quot;debt relief consultancies&quot;. These syndicates obtain leaked database leads of defaulting borrowers from rogue collection agents. They contact borrowers claiming to be &quot;RBI-authorized settlement officers&quot; or &quot;Bank Dispute Ombudsmen&quot;. They promise to erase 80% to 90% of debt within 48 hours in exchange for an immediate upfront fee.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-r-2xl my-6">
                 <h3 className="font-bold text-amber-900 text-base mb-2 flex items-center gap-2">
@@ -447,7 +447,7 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                         </span>
                       </h3>
                       <p className="text-sm text-slate-600 leading-relaxed">
-                        The ultimate acid test: <strong>Where does your settlement money go?</strong> If an agency instructs you to transfer money to a private company current account, an &quot;escrow trust&quot;, or a personal Google Pay / PhonePe UPI ID claiming &quot;we will pay the bank on your behalf&quot;, you are being scammed. In authentic banking settlements, 100% of compromise funds are deposited straight into your designated loan account number.
+                        The ultimate acid test: <strong>Where does your settlement money go?</strong> Never transfer funds to a private company current account, an &quot;escrow trust&quot;, or a personal UPI ID. If an agency claims they will pay the bank on your behalf, it is a scam. In authentic banking settlements, 100% of compromise funds are deposited straight into your designated loan account number.
                       </p>
                     </div>
                   </div>

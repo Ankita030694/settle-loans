@@ -145,7 +145,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
       question: "Which debt should I prioritize settling first if I have limited cash?",
       answer: (
         <p>
-          If you have limited liquid funds, prioritize settling debts carrying active legal notice exposure (such as Section 138 NI Act or Section 25 PSS Act NACH bounce notices common in personal loans) to eliminate criminal summons risk. If legal risk is equal, prioritize credit card settlement to maximize direct cash savings through 50%–75% discounts and halt aggressive 4% monthly interest compounding.
+          If you have limited liquid funds, prioritize debts carrying active legal exposure first. Address Section 138 NI Act or Section 25 PSSA bounce notices to eliminate criminal summons risks before dealing with static debts. If legal risk is equal, prioritize credit card settlement to maximize direct cash savings through 50%–75% discounts and halt aggressive 4% monthly interest compounding.
         </p>
       )
     },
@@ -185,7 +185,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
       question: "What documents are required to prove financial hardship for card and loan settlements?",
       answer: (
         <p>
-          To establish genuine financial distress under RBI compromise settlement guidelines, you need to provide bank account statements showing income loss or cash exhaustion, salary reduction or job termination letters, medical diagnosis/hospitalization bills, business closure proof (GST cancellation/ITR returns), or evidence of dependent family crises.
+          To establish financial distress under RBI guidelines, compile objective documentation. Provide bank statements showing income loss, job termination letters, medical records, or business closure filings (GST cancellation/ITR returns).
         </p>
       )
     },
@@ -358,7 +358,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 Borrowers facing acute liquidity stress in India often carry a toxic combination of unsecured credit cards and personal loans across multiple commercial banks. Understanding the fundamental architectural differences between revolving credit card lines and amortized personal loans is essential for determining your negotiation leverage, projected settlement haircuts, and debt settlement priority.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
-                A personal loan is a closed-end contractual credit facility. The bank disburses a lump sum of raw capital directly into your savings account, which is amortized over a fixed tenure of 12 to 60 months with Equated Monthly Installments (EMIs) calculated on a reducing balance basis at interest rates typically ranging between 11% and 24% per annum. Conversely, a credit card is an open-end revolving credit line. Cardholders borrow against an assigned limit, and if the total balance is not paid within the grace period, finance charges compound monthly at annualized percentage rates (APR) between 42% and 48%, coupled with 18% Goods and Services Tax (GST) on all accrued interest and late payment penalties.
+                A personal loan is a closed-end contractual credit facility. The bank disburses capital directly into your savings account. The loan is amortized over 12 to 60 months with EMIs calculated on a reducing balance basis at interest rates between 11% and 24% per annum. Conversely, a credit card is an open-end revolving credit line. Cardholders borrow against an assigned limit. If the balance is unpaid within the grace period, finance charges compound at 42% to 48% APR, along with 18% GST on interest and late fees.
               </p>
 
               {/* Side-by-Side Structural Comparison Cards */}
@@ -427,10 +427,10 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 2. Banking Accounting &amp; Provisioning: How Lenders Treat Default
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                Under the Reserve Bank of India Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP), scheduled commercial banks and Non-Banking Financial Companies (NBFCs) must follow strict statutory guidelines when classifying delinquent accounts. When a borrower misses payments, both credit cards and personal loans progress through Special Mention Account buckets: SMA-0 (1 to 30 days overdue), SMA-1 (31 to 60 days overdue), and SMA-2 (61 to 90 days overdue). At 90 days past due (DPD), the account is formally classified as a Non-Performing Asset (NPA).
+                Under the RBI Master Circular on IRACP norms, commercial banks and NBFCs follow strict rules for delinquent accounts. Asset classifications dictate when provisioning reserves must be set aside. When payments are missed, debts progress through Special Mention Account stages. These buckets are SMA-0 (1 to 30 days), SMA-1 (31 to 60 days), and SMA-2 (61 to 90 days overdue). At 90 days past due (DPD), the account is formally classified as a Non-Performing Asset (NPA).
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                However, internal banking accounting diverges sharply once an account crosses the 90-day NPA threshold. Because credit cards are revolving retail instruments with zero collateral and minimal legal recovery prospects, major private and public sector banks (including HDFC Bank, ICICI Bank, SBI, Axis Bank, and Kotak Mahindra Bank) subject credit cards to aggressive charge-off schedules. By 120 to 180 days of default, credit card balances are categorized as loss assets and 100% provisioned on the bank balance sheet.
+                However, internal banking accounting diverges sharply once an account crosses the 90-day NPA threshold. Credit cards are revolving instruments with zero collateral and low litigation yields. Consequently, major banks like HDFC, ICICI, SBI, Axis, and Kotak subject delinquent cards to aggressive charge-off schedules. By 120 to 180 days of default, credit card balances are categorized as loss assets and 100% provisioned on the bank balance sheet.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 Once an asset is 100% provisioned, any recovery achieved through a One-Time Settlement (OTS) is booked directly as clean, immediate non-interest profit. Consequently, bank credit card recovery managers have extensive decentralized mandate powers to authorize deep settlement haircuts without requiring board-level sign-offs. Personal loans, conversely, undergo standard provisioning of 15% to 25% during the sub-standard phase, and retail credit committees enforce stricter floor recovery thresholds to safeguard disbursed principal capital.
@@ -446,7 +446,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 The most critical mathematical reality in Indian debt resolution is that credit card settlements consistently yield substantially larger percentage haircuts than personal loan settlements. This discrepancy is not arbitrary; it is rooted directly in balance composition and bank recovery economics.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
-                When a borrower defaults on a ₹3,00,000 credit card limit for 6 to 9 months, the statement balance rapidly balloons to ₹5,20,000 due to 48% APR compounding, monthly late payment charges of ₹1,200 to ₹1,500, over-limit penalties, and 18% GST. The bank recognizes that ₹2,20,000 of the outstanding total represents artificial accounting interest. When SettleLoans advocates present formal hardship representation, the bank readily waives the entire ₹2,20,000 penalty component, plus an additional 30% to 50% discount on the original ₹3,00,000 principal. This results in an effective 65% to 75% overall haircut from gross statement dues.
+                Defaulting on a ₹3,00,000 credit card limit for 6 to 9 months causes balances to balloon to ₹5,20,000. This increase is driven by 48% APR compounding, monthly late fees, over-limit penalties, and 18% GST. The bank recognizes that ₹2,20,000 of the outstanding total represents artificial accounting interest. When SettleLoans advocates present formal hardship representation, the bank readily waives the entire ₹2,20,000 penalty component, plus an additional 30% to 50% discount on the original ₹3,00,000 principal. This results in an effective 65% to 75% overall haircut from gross statement dues.
               </p>
 
               {/* 4-Sided Bordered Comparison Table */}
@@ -519,7 +519,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 When borrowers default simultaneously on credit cards and personal loans, recovery dynamics and legal exposure differ substantially. Personal loans carry structured statutory enforcement mechanisms because banks mandate pre-authorized National Automated Clearing House (NACH) e-mandates or physical post-dated cheques prior to loan disbursal.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                When a personal loan EMI bounces due to insufficient funds, the lender can initiate quasi-criminal proceedings under Section 25 of the Payment and Settlement Systems Act, 2007 (PSS Act) or Section 138 of the Negotiable Instruments Act, 1881. The bank issues a mandatory 30-day statutory demand notice through legal counsel, followed by filing a formal complaint before a Judicial Magistrate. If ignored, the court may issue bailable summons.
+                When an EMI bounces, lenders can initiate quasi-criminal proceedings. These actions are filed under Section 25 of the PSSA, 2007 or Section 138 of the Negotiable Instruments Act, 1881. The bank issues a mandatory 30-day statutory demand notice through legal counsel, followed by filing a formal complaint before a Judicial Magistrate. If ignored, the court may issue bailable summons.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 In contrast, credit card accounts rarely involve pre-signed cheques or NACH mandates. A default on a credit card constitutes a civil breach of contract rather than a criminal offence. Lenders cannot file Section 138 or Section 25 PSS Act complaints for card defaults unless you issued a physical cheque that subsequently dishonoured. Instead, credit card recovery divisions rely heavily on external collection agencies, pre-litigation Lok Adalat notices, or unilateral arbitration proceedings. Knowing these statutory distinctions is vital for protecting your legal rights under the RBI Fair Practices Code.
@@ -585,7 +585,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 5. Strategic Debt Triage: Which Debt to Settle First?
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                When a borrower holds multiple delinquent credit cards and personal loans but possesses only a limited cash reserve (such as provident fund withdrawal, family assistance, or liquidated gold), deploying those funds without a strategic triage plan leads to catastrophic misallocation. Paying a small amount to every bank satisfies no creditor and leaves you exposed to both legal summons and aggressive collection harassment.
+                Borrowers with limited cash reserves must avoid deploying funds without a structured plan. Distributing small partial payments across multiple lenders without formal agreements leads to rapid fund depletion without closing accounts. Paying a small amount to every bank satisfies no creditor and leaves you exposed to both legal summons and aggressive collection harassment.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 SettleLoans employs a 3-tier triage diagnostic to maximize cash efficiency and extinguish legal liability in strict order of strategic necessity:
@@ -631,7 +631,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 6. NPV & Risk Modeling in Bank Settlement Committees
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                To negotiate effectively, borrowers must understand how bank recovery committees evaluate settlement proposals. Lenders do not make settlement decisions based on emotional pleas; they utilize Net Present Value (NPV) recovery modeling to assess whether accepting an immediate discounted cash offer yields a higher risk-adjusted return than pursuing protracted legal litigation.
+                To negotiate effectively, borrowers must understand how bank recovery committees evaluate settlement proposals. Lenders do not settle based on emotional appeals. Instead, they use Net Present Value (NPV) modeling to determine if an immediate cash offer yields a higher return than protracted court litigation.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 The bank risk committee calculates the expected recovery value of civil litigation using the following discounted cash flow formula:
@@ -742,7 +742,7 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 Managing multi-lender debt negotiations independently while facing aggressive collection agents is intimidating and legally risky. SettleLoans provides a comprehensive institutional defense framework designed to protect your dignity, preserve your rights, and achieve maximum lawful debt reduction.
               </p>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
-                Our empaneled team of legal advocates represents borrowers across all major public banks, private financial institutions, and NBFCs in India. We handle all direct creditor communications, quash illegal collection harassment through formal statutory notices, draft robust legal responses to Section 138 and Section 25 PSS Act demand notices, and structure compromise agreements that eliminate up to 75% of your total outstanding debt.
+                Our empaneled team of legal advocates represents borrowers across all major public banks, private financial institutions, and NBFCs in India. We handle all creditor communications and halt illegal collection harassment through statutory notices. Our legal team drafts responses to Section 138 and Section 25 PSSA notices, securing compromise agreements that eliminate up to 75% of outstanding debt.
               </p>
               <p className="text-base leading-relaxed mb-6 text-slate-700">
                 With SettleLoans, every settlement is backed by verified bank sanction letters and official ₹0 No Dues Certificates, providing you with a clean financial slate and a roadmap to complete credit recovery.

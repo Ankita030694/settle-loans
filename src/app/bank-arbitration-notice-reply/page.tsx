@@ -425,7 +425,7 @@ export default function BankArbitrationNoticeReplyPage() {
           </h1>
 
           <p className="text-xs sm:text-sm md:text-base text-slate-300 mb-5 max-w-2xl mx-auto leading-relaxed font-normal">
-            Received an arbitration notice from ICICI, Axis, HDFC, or Kotak for an overdue personal loan or credit card? Learn why unilateral arbitrator appointments violate Supreme Court law, how to challenge biased proceedings under Section 12(5), and how advocate representation forces a favorable One-Time Settlement.
+            Received an arbitration notice from ICICI, Axis, HDFC, or Kotak for an overdue debt? Learn why unilateral arbitrator appointments violate Supreme Court law. Discover how Section 12(5) challenges and advocate representation force a favorable One-Time Settlement.
           </p>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
@@ -525,10 +525,10 @@ export default function BankArbitrationNoticeReplyPage() {
                 1. Demystifying Bank Arbitration Notices & Fast-Track Route
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Receiving a formal envelope or digital notice titled <em>&quot;Notice of Invocation of Arbitration&quot;</em> or <em>&quot;Notice of Appointment of Sole Arbitrator&quot;</em> causes immediate procedural panic for borrowers managing defaulted unsecured personal loans or credit cards. Major private banking institutions—most prominently ICICI Bank, Axis Bank, HDFC Bank, Kotak Mahindra Bank, and leading Non-Banking Financial Companies (NBFCs) like Bajaj Finance—routinely trigger arbitration proceedings once an unsecured debt crosses 90 to 180 days of delinquency.
+                Receiving a formal envelope or digital notice titled <em>&quot;Notice of Invocation of Arbitration&quot;</em> or <em>&quot;Notice of Appointment of Sole Arbitrator&quot;</em> causes immediate procedural panic for borrowers managing defaulted unsecured personal loans or credit cards. Major private banks and NBFCs—including ICICI Bank, Axis Bank, HDFC Bank, Kotak Mahindra Bank, and Bajaj Finance—routinely trigger arbitration. This typically occurs once an unsecured debt crosses 90 to 180 days of delinquency.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To respond effectively, one must understand why commercial lenders initiate arbitration rather than approaching regular civil courts. Under Indian civil jurisprudence, instituting a regular recovery suit or summary suit under Order 37 of the Code of Civil Procedure (CPC) entails substantial court fees, extensive procedural formalities, and years of judicial backlogs before a trial court reaches a decree. Conversely, arbitration under the <strong>Arbitration and Conciliation Act, 1996</strong> offers lenders a fast-track alternative dispute resolution mechanism designed to conclude proceedings within 6 to 12 months.
+                To respond effectively, one must understand why commercial lenders initiate arbitration rather than approaching regular civil courts. Filing a regular recovery suit under Order 37 of the CPC involves substantial court fees and complex formalities. In addition, years of judicial backlogs delay trial courts from reaching a decree. Conversely, arbitration under the <strong>Arbitration and Conciliation Act, 1996</strong> offers lenders a fast-track alternative dispute resolution mechanism designed to conclude proceedings within 6 to 12 months.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When you executed your digital or physical loan agreement, the standard terms included a mandatory dispute resolution clause granting the bank the purported right to refer disputes to a sole arbitrator. When payments cease, the bank issues a notice under <strong>Section 21 of the Arbitration Act</strong>, marking the official commencement of arbitral proceedings. However, in their haste to secure rapid awards, private banks frequently bypass statutory neutrality norms, creating powerful legal vulnerabilities that experienced debt defense advocates exploit to protect borrowers.
@@ -704,12 +704,12 @@ export default function BankArbitrationNoticeReplyPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoverable cash flows over time, r is the bank&apos;s discount rate, and deductions account for 2–4 years of court execution delays, advocate retainers, arbitrator fees, Section 34 appeal risks, and capital locked in idle provisioning.
+                  Here, C_t represents estimated recoverable cash flows over time, while r is the bank&apos;s discount rate. Deductions account for court execution delays, advocate retainers, arbitrator fees, Section 34 appeal risks, and idle capital provisioning.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because enforcing an arbitral award through civil execution courts takes several years and carries substantial legal costs, a bank&apos;s Stressed Asset Management Group readily concludes that recovering 35% to 50% in immediate cash via a structured settlement yields a significantly superior financial return than dragging out contested legal battles.
+                Enforcing an arbitral award through civil courts takes years and incurs substantial legal costs. Consequently, a bank&apos;s Stressed Asset Management Group recognizes that recovering 35% to 50% in immediate cash yields a superior financial return over prolonged litigation.
               </p>
             </section>
 
@@ -719,7 +719,7 @@ export default function BankArbitrationNoticeReplyPage() {
                 5. Bank Arbitration Notice Resolution &amp; Settlement Visual Roadmap
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The visual roadmap below details the complete 5-stage institutional progression from receiving a unilateral arbitration notice from a private bank to advocate defense, filing jurisdictional challenges, negotiating compromise terms, and executing a binding Consent Award with a zero-balance No Dues Certificate.
+                The roadmap below details the 5-stage institutional process. It guides you from receiving an arbitration notice to advocate defense, filing jurisdictional challenges, negotiating compromise terms, and executing a binding Consent Award with a No Dues Certificate.
               </p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -781,7 +781,7 @@ export default function BankArbitrationNoticeReplyPage() {
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Converting Claims into a Section 30 Consent Award or Lok Adalat Decree</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Once settlement terms (usually 35% to 55% of the principal ledger) are mutually agreed, the parties jointly petition the arbitrator to pass a <strong>Consent Award under Section 30</strong> or refer the matter to the National Lok Adalat, cementing the settlement with full judicial protection.
+                    Once settlement terms (typically 35% to 55% of principal) are agreed, both parties jointly petition the arbitrator for a <strong>Consent Award under Section 30</strong>. Alternatively, they can refer the matter to National Lok Adalat for full judicial protection.
                   </p>
                 </div>
               </div>
@@ -868,7 +868,7 @@ export default function BankArbitrationNoticeReplyPage() {
                   <span>Statutory Compensation for Delayed NDC Issuance</span>
                 </div>
                 <p className="leading-relaxed text-emerald-900">
-                  If the lending bank or NBFC fails to deliver your No Dues Certificate or delays updating credit bureau closure records beyond 30 calendar days without lawful justification, the lender is legally required to pay compensation of <strong>₹5,000 for each day of delay</strong> directly to the borrower under RBI regulatory directives.
+                  If a lender delays delivering your NDC or updating credit bureau records beyond 30 days without lawful justification, it faces financial penalties. Under RBI directives, the lender must pay compensation of <strong>₹5,000 for each day of delay</strong> directly to the borrower.
                 </p>
               </div>
 
@@ -959,7 +959,7 @@ export default function BankArbitrationNoticeReplyPage() {
                   10. SettleLoans Legal Defense &amp; Strategic Arbitration Advisory
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating an institutional arbitration claim from a major private bank requires seasoned legal advocates who specialize in banking litigation, the Arbitration Act, and RBI debt resolution frameworks. SettleLoans provides complete legal defense for borrowers across India: drafting formal Section 12(5) objection notices, appearing before arbitral tribunals, halting unlawful recovery harassment, and negotiating directly with bank zonal authorities to secure the deepest possible principal haircuts backed by official, bank-stamped No Dues Certificates.
+                  Navigating an institutional arbitration claim from a major private bank requires seasoned legal advocates who specialize in banking litigation, the Arbitration Act, and RBI debt resolution frameworks. SettleLoans provides complete legal defense for borrowers nationwide. We draft formal Section 12(5) objection notices, appear before arbitral tribunals, and halt recovery harassment. Our advocates negotiate directly with bank zonal authorities to secure substantial haircuts backed by official No Dues Certificates.
                 </p>
               </div>
 
