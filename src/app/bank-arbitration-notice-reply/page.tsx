@@ -763,7 +763,7 @@ export default function BankArbitrationNoticeReplyPage() {
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Serving the Formal Statutory Objection</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Within 15 days of receiving the Section 21 notice, your advocate serves a formal legal reply on both the bank and the appointed arbitrator. The reply explicitly challenges the arbitrator&apos;s appointment under Section 12(5) read with the Seventh Schedule and cites <em>Perkins Eastman</em> and <em>TRF Ltd.</em>, placing the bank on notice that any unilateral award will be challenged in High Court / Commercial Court.
+                    Within 15 days of receiving the Section 21 notice, your advocate serves a formal legal reply on both the bank and the arbitrator. The reply challenges the arbitrator&apos;s appointment under Section 12(5) read with the Seventh Schedule. Citing <em>Perkins Eastman</em> and <em>TRF Ltd.</em>, it notifies the bank that any unilateral award will be challenged in High Court or Commercial Court.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
@@ -859,7 +859,7 @@ export default function BankArbitrationNoticeReplyPage() {
                 8. Loan Remittance, RBI ₹0 NDC Mandate & CIBIL Impact
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Following the remittance of the final settlement tranche, the final milestone is obtaining unassailable debt discharge documentation. Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable/Immovable Property Documents and Issuance of NDC), all regulated entities are statutorily required to deliver an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and update credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) within <strong>30 calendar days</strong>.
+                Following the remittance of the final settlement tranche, the final milestone is obtaining unassailable debt discharge documentation. Under <strong>RBI Circular RBI/2023-24/60</strong> on Responsible Lending Conduct, all regulated entities must deliver an official <strong>No Dues Certificate (NDC) or Loan Closure Letter</strong>. In addition, lenders must update credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) within <strong>30 calendar days</strong>.
               </p>
 
               <div className="p-4 rounded-2xl bg-emerald-50 border border-emerald-200 text-xs sm:text-sm text-emerald-950 space-y-2">
