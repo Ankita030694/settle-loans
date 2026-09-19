@@ -421,7 +421,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Does SARFAESI Act Apply to Personal Loans? <span className="text-[#3b82f6] md:text-[#60a5fa]">Section 13(2) Rules, Home Seizure Reality &amp; Unsecured Debt Rights</span>
+            Does SARFAESI Act Apply to Personal Loans? <span className="text-[#3b82f6] md:text-[#60a5fa]">Exemption &amp; Rights</span>
           </h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">

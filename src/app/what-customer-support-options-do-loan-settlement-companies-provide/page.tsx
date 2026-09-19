@@ -445,7 +445,7 @@ export default function SupportOptionsPage() {
                     {
                       name: "Vikram S.",
                       loc: "Noida",
-                      loan: <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> + " Client",
+                      loan: <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> + " Client",
                       res: "Legal Support Excellence",
                       story: "AMA Legal provided me with a dedicated lawyer who understood my Sarfaesi case. Their support wasn't just over the phone; they represented me professionally and stopped the auction. Truly a world class legal shield."
                     },

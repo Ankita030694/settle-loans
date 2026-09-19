@@ -557,25 +557,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 <div className="border border-slate-200 rounded-xl p-4 sm:p-5 bg-white shadow-sm">
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
-                    <a
-                      href="https://indiacode.gov.in/handle/123456789/2189"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="hover:text-[#1F5EFF] hover:underline flex items-center gap-1.5 transition-colors"
-                    >
-                      <span>Section 138 of Negotiable Instruments Act</span>
-                      <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                    </a>
-                    <span>&amp;</span>
-                    <a
-                      href="https://indiacode.gov.in/handle/123456789/2048"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="hover:text-[#1F5EFF] hover:underline flex items-center gap-1.5 transition-colors"
-                    >
-                      <span>Section 25 PSS Act (NACH)</span>
-                      <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                    </a>
+                    <span>Section 138 of Negotiable Instruments Act &amp; Section 25 PSS Act (NACH)</span>
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     Lenders frequently issue statutory notices when NACH debits or security cheques bounce. <strong>Crucial Legal Fact:</strong> Section 138 of the NI Act, 1881 and Section 25 of the PSSA, 2007 are compoundable offenses under Indian law. Our legal counsel drafts formal statutory replies establishing genuine financial distress. This prevents ex-parte court summons and compels lenders into formal compromise settlement talks.</p>
@@ -584,15 +566,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 <div className="border border-slate-200 rounded-xl p-4 sm:p-5 bg-white shadow-sm">
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <ShieldAlert className="w-4 h-4 text-emerald-600" />
-                    <a
-                      href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12372&Mode=0"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="hover:text-[#1F5EFF] hover:underline flex items-center gap-1.5 transition-colors"
-                    >
-                      <span>RBI Master Circulars on Recovery Agents (Updated Directives)</span>
-                      <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                    </a>
+                    <span>RBI Master Circulars on Recovery Agents (Updated Directives)</span>
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     The Reserve Bank of India has repeatedly held that recovery agents cannot breach borrower privacy or dignity. Specifically:
@@ -605,7 +579,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                       <a
                         href="https://cms.rbi.org.in"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="nofollow noopener noreferrer"
                         className="text-[#1F5EFF] font-semibold hover:underline inline-flex items-center gap-0.5"
                       >
                         RBI Banking Ombudsman
@@ -619,27 +593,10 @@ export default function MultiplePersonalLoanSettlementClient() {
                 <div className="border border-slate-200 rounded-xl p-4 sm:p-5 bg-white shadow-sm">
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Landmark className="w-4 h-4 text-amber-600" />
-                    <a
-                      href="https://indiacode.gov.in/handle/123456789/2006"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="hover:text-[#1F5EFF] hover:underline flex items-center gap-1.5 transition-colors"
-                    >
-                      <span>SARFAESI Act Non-Applicability on Unsecured Loans</span>
-                      <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                    </a>
+                    <span>SARFAESI Act Non-Applicability on Unsecured Loans</span>
                   </h3>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
-                    Recovery agents often falsely threaten to seize residential property or attach personal vehicles. <strong>Under Indian Law:</strong> The{' '}
-                    <a
-                      href="https://indiacode.gov.in/handle/123456789/2006"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-[#1F5EFF] font-semibold hover:underline"
-                    >
-                      Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002
-                    </a>{' '}
-                    applies <strong>strictly to secured loans</strong> (mortgages, LAP, auto loans with active hypothecation). Unsecured personal loans and credit cards do not carry a property lien. A bank cannot attach any property without obtaining a formal decree through a lengthy Civil Suit (Order 37 CPC), which takes years and incentivizes lenders to settle out of court.
+                    Recovery agents often falsely threaten to seize residential property or attach personal vehicles. <strong>Under Indian Law:</strong> The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002 applies <strong>strictly to secured loans</strong> (mortgages, LAP, auto loans with active hypothecation). Unsecured personal loans and credit cards do not carry a property lien. A bank cannot attach any property without obtaining a formal decree through a lengthy Civil Suit (Order 37 CPC), which takes years and incentivizes lenders to settle out of court.
                   </p>
                 </div>
               </div>
@@ -880,7 +837,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 <a
                   href="https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=10585"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow noopener noreferrer"
                   className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
                 >
                   <div>
@@ -897,7 +854,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 <a
                   href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12372&Mode=0"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow noopener noreferrer"
                   className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
                 >
                   <div>
@@ -914,7 +871,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2189"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow noopener noreferrer"
                   className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
                 >
                   <div>
@@ -931,7 +888,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 <a
                   href="https://indiacode.gov.in/handle/123456789/2048"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow noopener noreferrer"
                   className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
                 >
                   <div>
@@ -946,9 +903,9 @@ export default function MultiplePersonalLoanSettlementClient() {
                 </a>
 
                 <a
-                  href="https://indiacode.gov.in/handle/123456789/2187"
+                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow noopener noreferrer"
                   className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
                 >
                   <div>
@@ -965,7 +922,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="nofollow noopener noreferrer"
                   className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
                 >
                   <div>

@@ -304,7 +304,7 @@ const jsonLdGraph = {
           "name": "Can I file a consumer court complaint online from home?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Under the Consumer Protection Act 2019, consumers can file petitions digitally via the official Government of India portal 'e-Daakhil' (edaakhil.nic.in). You can register, upload scanned pleadings, annex evidentiary documents, pay nominal court fees online, and attend hearings virtually without traveling to physical courtrooms."
+            "text": "Yes. Under the Consumer Protection Act 2019, consumers can file petitions digitally via the official Government of India portal 'e-Daakhil' (e-daakhil.nic.in). You can register, upload scanned pleadings, annex evidentiary documents, pay nominal court fees online, and attend hearings virtually without traveling to physical courtrooms."
           }
         },
         {
@@ -768,7 +768,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                 6. Step-by-Step DCDRC Filing Procedure via e-Daakhil &amp; Advocate Pleadings
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Filing a consumer complaint against a major bank or NBFC has been streamlined by the National Consumer Commission through the online <strong>e-Daakhil portal (edaakhil.nic.in)</strong>. The complaint must be drafted with precise legal structure to ensure immediate admission and prevent procedural rejection:
+                Filing a consumer complaint against a major bank or NBFC has been streamlined by the National Consumer Commission through the online <strong>e-Daakhil portal (e-daakhil.nic.in)</strong>. The complaint must be drafted with precise legal structure to ensure immediate admission and prevent procedural rejection:
               </p>
 
               <div className="space-y-3 my-6">
@@ -1013,7 +1013,7 @@ export default function ConsumerCourtBankHarassmentPage() {
               </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
-                  href="https://edaakhil.nic.in"
+                  href="https://e-daakhil.nic.in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
@@ -1049,7 +1049,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
-                  href="https://main.sci.gov.in"
+                  href="https://www.sci.gov.in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"

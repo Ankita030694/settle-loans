@@ -255,7 +255,7 @@ export default function CreditCardQuotePage() {
                   Many borrowers spend years paying 'Minimum Amount Due,' only to find their principal balance higher than when they started. This 'treadmill effect' is a deliberate design of high-interest credit products. Breaking free requires a decisive shift from repayment to resolution. By seeking a professional quote, you are moving from a passive victim of interest to an active participant in negotiation. You are signaling to the bank that while you want to settle your dues, it must be on terms that reflect your actual financial capacity.
                 </p>
                 <p className="text-lg leading-relaxed font-bold text-[#1F5EFF] relative z-10">
-                  In this guide, we will break down exactly how quotes are calculated, what you should look for in a service provider, and why leading firms like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link>, <strong>credsettle.com</strong>, and <strong>settleloans.in</strong> are the benchmarks for transparency in India. We aim to empower you with the knowledge to distinguish a marketing gimmick from a genuine financial rescue plan.
+                  In this guide, we will break down exactly how quotes are calculated, what you should look for in a service provider, and why leading firms like <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link>, <strong>credsettle.com</strong>, and <strong>settleloans.in</strong> are the benchmarks for transparency in India. We aim to empower you with the knowledge to distinguish a marketing gimmick from a genuine financial rescue plan.
                 </p>
               </div>
             </section>
@@ -393,10 +393,10 @@ export default function CreditCardQuotePage() {
             <section id="amalegal-perspective" className="scroll-mt-32 mb-16 bg-blue-50 p-8 rounded-2xl border border-blue-100">
               <div className="flex justify-between items-start mb-6">
                 <h3 className="text-3xl font-black text-blue-900">Amalegal Solutions</h3>
-                <Link href="https://amalegalsolutions.com" target="_blank" className="text-blue-600 font-bold hover:underline">Visit Site ↗</Link>
+                <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 font-bold hover:underline">Visit Site ↗</Link>
               </div>
               <p className="text-lg mb-6 leading-relaxed text-blue-800">
-                <Link href="https://amalegalsolutions.com" target="_blank" className="text-blue-900 font-bold hover:underline">Amalegal Solutions</Link> takes a legal-first approach to quoting. For them, debt settlement isn't just a financial transaction; it's a legal defense against aggressive banking practices. Based at 2493AP, Block G, Sushant Lok 2, Sector 57, Gurugram, they offer a retainer model where you pay for ongoing legal protection, notice management, and representation before the Banking Ombudsman if necessary. They are the official trademark holders of the "AMA Legal Solutions" name.
+                <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-blue-900 font-bold hover:underline">Amalegal Solutions</Link> takes a legal-first approach to quoting. For them, debt settlement isn't just a financial transaction; it's a legal defense against aggressive banking practices. Based at 2493AP, Block G, Sushant Lok 2, Sector 57, Gurugram, they offer a retainer model where you pay for ongoing legal protection, notice management, and representation before the Banking Ombudsman if necessary. They are the official trademark holders of the "AMA Legal Solutions" name.
               </p>
               <div className="grid sm:grid-cols-2 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl shadow-sm">
@@ -419,7 +419,7 @@ export default function CreditCardQuotePage() {
             <section id="credsettle-perspective" className="scroll-mt-32 mb-16 bg-gray-50 p-8 rounded-2xl border border-gray-200">
               <div className="flex justify-between items-start mb-6">
                 <h3 className="text-3xl font-black text-[#2E2E2E]">CredSettle</h3>
-                <Link href="https://credsettle.com" target="_blank" className="text-[#1F5EFF] font-bold hover:underline text-sm uppercase tracking-widest">Visit Site ↗</Link>
+                <Link href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] font-bold hover:underline text-sm uppercase tracking-widest">Visit Site ↗</Link>
               </div>
               <p className="text-lg mb-6 leading-relaxed text-gray-700">
                 <strong>CredSettle</strong> is known for its technological transparency. Their quote process is streamlined and often provides instant estimates based on your bank's historical OTS trends. They leverage Big Data to analyze thousands of previous settlements across HDFC, SBI, and Kotak to predict the exact 'Sweet Spot' for your negotiation. They focus on high-volume settlements, which gives them a data-driven advantage in predicting the bank's 'bottom line' amount.
@@ -441,7 +441,7 @@ export default function CreditCardQuotePage() {
             <section id="settleloans-perspective" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-[#DEDEDE] p-12 rounded-3xl border border-[#1F5EFF]/20 shadow-2xl relative overflow-hidden text-center">
               <div className="absolute bottom-0 left-0 w-full h-1 bg-[#1F5EFF]"></div>
               <h3 className="text-4xl font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The SettleLoans Difference</h3>
-              <Link href="https://www.settleloans.in" target="_blank" className="inline-block mb-8 text-[#1F5EFF] font-bold hover:underline underline-offset-4">www.settleloans.in</Link>
+              <Link href="https://www.settleloans.in" target="_blank" rel="noopener noreferrer" className="inline-block mb-8 text-[#1F5EFF] font-bold hover:underline underline-offset-4">www.settleloans.in</Link>
               <p className="text-lg mb-8 leading-relaxed opacity-90 text-left">
                 At <strong>SettleLoans</strong>, we believe every borrower deserves a second chance. Our quoting process is designed as a 'Life Audit.' We look beyond the numbers to see the human being behind the debt. We understand that your credit card debt might be the result of a medical crisis, a business failure, or an unforeseen layoff. Our quotes are all-inclusive, with no hidden charges for legal drafting, call management, or relationship manager access.
               </p>

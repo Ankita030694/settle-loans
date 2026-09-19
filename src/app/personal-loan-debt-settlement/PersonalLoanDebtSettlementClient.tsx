@@ -365,7 +365,7 @@ export default function PersonalLoanDebtSettlementClient() {
               <h3 className="font-bold text-slate-900 text-xl mb-4">Official References & Legal Citations</h3>
               <ul className="list-disc pl-5 space-y-2 text-sm text-slate-600">
                 <li><Link href="/top-10-rbi-rules-for-loan-defaulters-rights" className="text-[#2D68FF] hover:underline">Reserve Bank of India (RBI) Guidelines on Fair Practices Code for Lenders</Link></li>
-                <li><a href="https://indiacode.gov.in/handle/123456789/2187" target="_blank" rel="noopener noreferrer" className="text-[#2D68FF] hover:underline">The Indian Contract Act, 1872 (Section 63 regarding waiver of claims)</a></li>
+                <li><a href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf" target="_blank" rel="noopener noreferrer" className="text-[#2D68FF] hover:underline">The Indian Contract Act, 1872 (Section 63 regarding waiver of claims)</a></li>
                 <li><Link href="/rbi-debt-resolution-framework-vs-loan-settlement" className="text-[#2D68FF] hover:underline">RBI Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning</Link></li>
                 <li><Link href="/rbi-ombudsman-complaint-loan-recovery-harassment" className="text-[#2D68FF] hover:underline">Banking Ombudsman Scheme & Resolution Guidelines</Link></li>
               </ul>

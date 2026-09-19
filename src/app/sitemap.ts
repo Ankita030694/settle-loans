@@ -2041,7 +2041,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
-            url: `${baseUrl}/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers`,
+            url: `${baseUrl}/faqs/joint-loan-settlement-co-borrower-implications`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.8,
@@ -2295,7 +2295,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
-            url: `${baseUrl}/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information`,
+            url: `${baseUrl}/how-recovery-agents-get-your-number-when-friend-defaults`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,

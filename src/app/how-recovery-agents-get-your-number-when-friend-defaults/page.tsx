@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Why Recovery Agents Call You for Friend's Loan Default",
   description: "Why are recovery agents calling you for a friend's loan default? Learn about contact scraping, RBI privacy rules, and how to stop calls.",
   alternates: {
-    canonical: "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information",
+    canonical: "https://www.settleloans.in/how-recovery-agents-get-your-number-when-friend-defaults",
   },
 };
 
@@ -16,16 +16,16 @@ export default function RecoveryAgentHarassmentGuide() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#webpage",
-        "url": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information",
+        "@id": "https://www.settleloans.in/how-recovery-agents-get-your-number-when-friend-defaults#webpage",
+        "url": "https://www.settleloans.in/how-recovery-agents-get-your-number-when-friend-defaults",
         "name": "How Loan Recovery Agents Get Your Details and Stop Harassment",
         "description": "Comprehensive guide on how recovery agents find third-party contacts and the legal steps to stop harassment in India.",
-        "breadcrumb": { "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-recovery-agents-get-your-number-when-friend-defaults#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#breadcrumb",
+        "@id": "https://www.settleloans.in/how-recovery-agents-get-your-number-when-friend-defaults#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -43,13 +43,13 @@ export default function RecoveryAgentHarassmentGuide() {
             "@type": "ListItem",
             "position": 3,
             "name": "Recovery Agent Harassment Guide",
-            "item": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information"
+            "item": "https://www.settleloans.in/how-recovery-agents-get-your-number-when-friend-defaults"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#article",
+        "@id": "https://www.settleloans.in/how-recovery-agents-get-your-number-when-friend-defaults#article",
         "headline": "How Recovery Agents Get Your Details and How to Stop Harassment",
         "author": {
           "@type": "Organization",
@@ -66,11 +66,11 @@ export default function RecoveryAgentHarassmentGuide() {
         "datePublished": "2024-03-01",
         "dateModified": "2024-03-01",
         "description": "Learn the technical and legal reasons why recovery agents call you for someone else's debt and the RBI rules that protect you.",
-        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-recovery-agents-get-your-number-when-friend-defaults#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#faq",
+        "@id": "https://www.settleloans.in/how-recovery-agents-get-your-number-when-friend-defaults#faq",
         "mainEntity": [
           {
             "@type": "Question",

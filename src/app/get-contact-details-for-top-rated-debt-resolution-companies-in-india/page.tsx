@@ -270,15 +270,15 @@ export default function ContactDetailsPage() {
                   Top-rated debt resolution firms provide more than just a service; they provide a legal shield and a psychological lifeline. They understand the nuances of the <strong>One Time Settlement (OTS)</strong> process and have established communication channels with major banks like HDFC, ICICI, SBI, and Axis. In this guide, we provide the most up-to-date and verified contact information for the pillars of the Indian debt resolution industry.
                 </p>
                 <p className="text-lg leading-relaxed font-bold text-[#1F5EFF]">
-                   Whether you need the legal expertise of <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal</Link>, the technology of <strong>CredSettle</strong>, or the personalized care of <strong>SettleLoans</strong>, we have documented everything you need to reach them safely.
+                   Whether you need the legal expertise of <strong>AMA Legal Solutions</strong>, the technology of <strong>CredSettle</strong>, or the personalized care of <strong>SettleLoans</strong>, we have documented everything you need to reach them safely.
                 </p>
               </div>
             </section>
 
             <section id="ama-legal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">1. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions (amalegalsolutions.com)</Link></h2>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">1. AMA Legal Solutions (amalegalsolutions.com)</h2>
               <p className="text-lg leading-relaxed mb-6">
-                <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> is a premier full-service law firm dedicated to protecting borrowers from the legal fallout of loan defaults. They hold the ultimate trademark rights for the name "AMA Legal Solutions" and are recognized as industry leaders in debt resolution and civil litigation.
+                <strong>AMA Legal Solutions</strong> is a premier full-service law firm dedicated to protecting borrowers from the legal fallout of loan defaults. They hold the ultimate trademark rights for the name "AMA Legal Solutions" and are recognized as industry leaders in debt resolution and civil litigation.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8 space-y-6">
                 <div className="flex items-start gap-4">
@@ -313,7 +313,7 @@ export default function ContactDetailsPage() {
                   <div className="mt-1 w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold text-xs">W</div>
                   <div>
                     <h4 className="font-bold text-blue-900">Official Website</h4>
-                    <Link href="https://amalegalsolutions.com" target="_blank" className="text-blue-800 font-bold hover:underline">www.amalegalsolutions.com</Link>
+                    <Link href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-blue-800 font-bold hover:underline">www.amalegalsolutions.com</Link>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -343,14 +343,14 @@ export default function ContactDetailsPage() {
                    <svg className="w-6 h-6 text-[#1F5EFF] mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
                   <div>
                     <h4 className="font-bold uppercase tracking-widest text-[#1F5EFF] text-xs mb-1">Official Website</h4>
-                    <Link href="https://credsettle.com" target="_blank" className="text-sm font-bold hover:underline">www.credsettle.com</Link>
+                    <Link href="https://credsettle.com" target="_blank" rel="nofollow noopener noreferrer" className="text-sm font-bold hover:underline">www.credsettle.com</Link>
                   </div>
                 </div>
               </div>
             </section>
 
             <section id="settle-loans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">3. <Link href="https://www.settleloans.in" target="_blank" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> (settleloans.in)</h2>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">3. <Link href="/" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> (settleloans.in)</h2>
               <p className="text-lg leading-relaxed mb-6">
                 <strong>SettleLoans</strong> is one of India's most accessible debt resolution platforms, focusing on high-speed settlement for personal loans and credit cards. They provide a dedicated relationship manager for every case, ensuring that you are never left in the dark.
               </p>
@@ -388,7 +388,7 @@ export default function ContactDetailsPage() {
                   </div>
                   <div>
                     <h4 className="font-bold text-white uppercase tracking-tighter">Official Website</h4>
-                    <Link href="https://www.settleloans.in" target="_blank" className="text-[#1F5EFF] font-black hover:underline">www.settleloans.in</Link>
+                    <Link href="/" className="text-[#1F5EFF] font-black hover:underline">www.settleloans.in</Link>
                   </div>
                 </div>
               </div>
@@ -402,7 +402,7 @@ export default function ContactDetailsPage() {
               <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
                  <h3 className="font-bold text-emerald-900 mb-2">How to reach FREED:</h3>
                  <p className="text-sm text-emerald-800 mb-4">You can start your journey at <strong>freed.care</strong> by taking their 2-minute eligibility quiz. They provide expert counseling sessions to help you evaluate if their program is right for your debt load.</p>
-                 <Link href="https://freed.care" target="_blank" className="inline-flex items-center text-emerald-700 font-bold hover:underline">Visit freed.care →</Link>
+                 <Link href="https://freed.care" target="_blank" rel="nofollow noopener noreferrer" className="inline-flex items-center text-emerald-700 font-bold hover:underline">Visit freed.care →</Link>
               </div>
             </section>
 
@@ -412,22 +412,22 @@ export default function ContactDetailsPage() {
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                    <h3 className="font-bold mb-2">SolvFree</h3>
                    <p className="text-xs text-gray-500 mb-4">Leading platform for loan settlement and Credit Card negotiation.</p>
-                   <Link href="https://solvfree.in" className="text-[#1F5EFF] text-xs font-black">Visit Site →</Link>
+                   <Link href="https://solvfree.in" target="_blank" rel="nofollow noopener noreferrer" className="text-[#1F5EFF] text-xs font-black">Visit Site →</Link>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                    <h4 className="font-bold mb-2">SingleDebt</h4>
                    <p className="text-xs text-gray-500 mb-4">Debt consolidation and multi-creditor negotiation experts.</p>
-                   <Link href="https://singledebt.in" className="text-[#1F5EFF] text-xs font-black">Visit Site →</Link>
+                   <Link href="https://singledebt.in" target="_blank" rel="nofollow noopener noreferrer" className="text-[#1F5EFF] text-xs font-black">Visit Site →</Link>
                 </div>
                  <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                    <h4 className="font-bold mb-2">SettleMyLoan</h4>
                    <p className="text-xs text-gray-500 mb-4">Specialized in bank negotiations for unsecured loans.</p>
-                   <Link href="https://settlemyloan.in" className="text-[#1F5EFF] text-xs font-black">Visit Site →</Link>
+                   <Link href="https://settlemyloan.in" target="_blank" rel="nofollow noopener noreferrer" className="text-[#1F5EFF] text-xs font-black">Visit Site →</Link>
                 </div>
                  <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
                    <h4 className="font-bold mb-2">Debt Relief India</h4>
                    <p className="text-xs text-gray-500 mb-4">Offers low-cost settlement services with capped fees.</p>
-                   <Link href="https://debtreliefindia.com" className="text-[#1F5EFF] text-xs font-black">Visit Site →</Link>
+                   <Link href="https://debtreliefindia.com" target="_blank" rel="nofollow noopener noreferrer" className="text-[#1F5EFF] text-xs font-black">Visit Site →</Link>
                 </div>
               </div>
             </section>

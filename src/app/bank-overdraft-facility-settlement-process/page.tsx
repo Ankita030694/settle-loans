@@ -408,7 +408,7 @@ export default function BankOverdraftFacilitySettlementPage() {
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Bank Overdraft Facility Settlement Process: <span className="text-[#3b82f6] md:text-[#60a5fa]">How to Settle Unsecured &amp; Dropline OD Loans</span>
+            Bank Overdraft Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Settle Unsecured &amp; Dropline OD Loans</span>
           </h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
@@ -505,7 +505,7 @@ export default function BankOverdraftFacilitySettlementPage() {
             {/* Section 1: Demystifying Bank Overdraft Facilities & The Irregularity Trap */}
             <section id="demystifying-bank-overdraft-facilities" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Bank Overdraft Facilities: Unsecured ODs, Dropline Credit &amp; The Trap of Account Irregularity
+                1. Demystifying Bank Overdraft Facilities &amp; The Irregularity Trap
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Bank Overdraft (OD) facilities and Dropline Overdraft lines are common yet hazardous credit structures in India. They are widely used by MSMEs, self-employed professionals, and salaried individuals. Unlike term loans amortized through predictable EMIs, an overdraft facility functions as a flexible revolving credit window linked to an operational current or savings account.
@@ -524,7 +524,7 @@ export default function BankOverdraftFacilitySettlementPage() {
             {/* Section 2: Statutory & Regulatory Framework */}
             <section id="statutory-regulatory-framework-rbi-norms" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory &amp; Regulatory Grounding: RBI IRACP Master Directions, SARFAESI Distinctions &amp; Contractual Protections
+                2. RBI IRACP Norms, SARFAESI Limits &amp; Banker Lien Protections
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating an overdraft default requires an acute understanding of Indian banking jurisprudence, regulatory circulars issued by the Reserve Bank of India, and statutory civil safeguards. Commercial lenders frequently exploit borrower unfamiliarity with banking regulations to deploy aggressive recovery tactics. However, Indian statutory frameworks provide robust legal protections that govern delinquent overdraft credit facilities.
@@ -586,7 +586,7 @@ export default function BankOverdraftFacilitySettlementPage() {
             {/* Section 3: Danger of Default & Compounding Penalties */}
             <section id="danger-of-compounding-penalties-frozen-accounts" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. The Compounding Penal Trap: Frozen Accounts, Lien Invocations &amp; Legal Escalation Risks
+                3. Compounding Interest, Account Freezes &amp; Recovery Risks
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower ignores an irregular overdraft account or attempts to manage the default by making sporadic, insufficient token payments, the compounding mechanics of the banking ledger create severe operational paralysis. Because overdrafts do not have fixed EMI dates, interest continues to accrue daily against the peak ledger balance.
@@ -632,7 +632,7 @@ export default function BankOverdraftFacilitySettlementPage() {
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npa-provisioning-npv-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
+                4. Balance Sheet NPA Provisioning &amp; NPV Recovery Formula
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a deep 45% to 65% principal haircut on an overdraft facility requires understanding the economic motivations of commercial bank credit committees. Indian commercial banks do not view delinquent debt through emotional lenses; their decisions are strictly governed by RBI balance sheet provisioning mandates and mathematical recovery models.
@@ -743,7 +743,7 @@ export default function BankOverdraftFacilitySettlementPage() {
             {/* Section 6: Advocate-Led Negotiation Strategy */}
             <section id="advocate-led-negotiation-strategy-ots" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Strategic Legal Defense: How Advocates Convert an Irregular OD Account into a Structured OTS
+                6. Strategic Legal Defense &amp; Converting Irregular OD to OTS
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Attempting to negotiate an overdraft settlement independently often results in frustration. Branch managers lack the discretionary authority to sanction significant principal haircuts, while outsourced recovery agencies earn commissions based on maximum collection, intentionally keeping borrowers trapped in cycles of token payments.
@@ -787,7 +787,7 @@ export default function BankOverdraftFacilitySettlementPage() {
             {/* Section 7: Sanction Letter Forensics */}
             <section id="sanction-letter-forensics-legal-finality" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Forensic Checklist for Watertight OD Sanction Letters: Safeguarding Legal Finality
+                7. Forensic Checklist for Watertight OD Sanction Letters
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical phase in the overdraft settlement process is the forensic verification of the One-Time Settlement Sanction Letter. Delinquent borrowers are frequently targeted by rogue recovery agents who issue fabricated &quot;settlement approval emails&quot; or verbal promises to extract partial payments. Remitting funds without a genuine, bank-authorized sanction letter leaves your overdraft facility open and accumulating interest.
@@ -849,7 +849,7 @@ export default function BankOverdraftFacilitySettlementPage() {
             {/* Section 8: Remittance, RBI NDC Mandate & CIBIL Recovery */}
             <section id="remittance-rbi-ndc-mandate-cibil-recovery" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Settlement Remittance, RBI ₹0 No Dues Certificate Mandate &amp; CIBIL Bureau Restoration
+                8. Settlement Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Recovery
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Executing the financial settlement by remitting the agreed compromised amount represents a major victory. However, the debt resolution process is complete only when the account is legally closed and credit bureau records reflect zero outstanding liability.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -1011,7 +1011,7 @@ export default function BankOverdraftFacilitySettlementPage() {
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
-                  href="https://indiacode.gov.in/handle/123456789/2187"
+                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"

@@ -313,7 +313,7 @@ const jsonLdGraph = {
           "name": "Can a borrower file a complaint online against unfair banking contract terms?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. You can file online complaints via the Government portal 'e-Daakhil' at edaakhil.nic.in. Simply upload your loan letter, agreement, bank statements. And legal notices with small fees."
+            "text": "Yes. You can file online complaints via the Government portal 'e-Daakhil' at e-daakhil.nic.in. Simply upload your loan letter, agreement, bank statements. And legal notices with small fees."
           }
         },
         {
@@ -993,7 +993,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
               </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
-                  href="https://edaakhil.nic.in"
+                  href="https://e-daakhil.nic.in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
@@ -1029,7 +1029,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
-                  href="https://main.sci.gov.in"
+                  href="https://www.sci.gov.in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"

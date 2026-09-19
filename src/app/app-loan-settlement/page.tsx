@@ -596,7 +596,7 @@ export default function AppLoanSettlementPage() {
                     <FontAwesomeIcon icon={faHandcuffs} className="text-red-500 mt-1 mr-3 w-12 h-12" />
                     <div>
                         <strong className="block text-gray-900">2. Cyber Crime Reporting:</strong>
-                        <span className="text-gray-600 text-sm">We assist you in drafting a formal complaint on <a href="https://cybercrime.gov.in" target="_blank" className="text-blue-600 hover:underline">cybercrime.gov.in</a>. We ensure the complaint highlights the IT Act violations (Section 66E for privacy, 67 for obscenity). Having an official acknowledgment number is often enough to silence these scammers when shared with them.</span>
+                        <span className="text-gray-600 text-sm">We assist you in drafting a formal complaint on <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">cybercrime.gov.in</a>. We ensure the complaint highlights the IT Act violations (Section 66E for privacy, 67 for obscenity). Having an official acknowledgment number is often enough to silence these scammers when shared with them.</span>
                     </div>
                 </li>
                  <li className="flex items-start bg-white p-4 rounded-lg shadow-sm border border-gray-200">

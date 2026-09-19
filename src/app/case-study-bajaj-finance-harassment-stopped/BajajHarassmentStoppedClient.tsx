@@ -716,7 +716,7 @@ export default function BajajHarassmentStoppedClient() {
                 </li>
                 <li>
                   <a
-                    href="https://main.sci.gov.in/judgment/judgments.php"
+                    href="https://www.sci.gov.in/judgment/judgments.php"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"

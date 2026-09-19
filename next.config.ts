@@ -38,6 +38,23 @@ const nextConfig: NextConfig = {
           },
         ],
       },
+      {
+        source: '/_next/:path*',
+        headers: [
+          {
+            key: 'X-Frame-Options',
+            value: 'SAMEORIGIN',
+          },
+          {
+            key: 'X-Content-Type-Options',
+            value: 'nosniff',
+          },
+          {
+            key: 'Referrer-Policy',
+            value: 'strict-origin-when-cross-origin',
+          },
+        ],
+      },
     ];
   },
   async rewrites() {
@@ -188,7 +205,7 @@ const nextConfig: NextConfig = {
       },
       {
         source: '/is-is-possible-to-settle-joint-loan',
-        destination: '/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers',
+        destination: '/faqs/joint-loan-settlement-co-borrower-implications',
         permanent: true,
       },
       {
@@ -1827,20 +1844,34 @@ const nextConfig: NextConfig = {
         source: '/SME-loan-dispute-resolution',
         destination: '/sme-loan-dispute-resolution',
         permanent: true,
+        caseSensitive: true,
       },
       {
         source: '/best-lawyer-for-MSME-loan-recovery-defence',
         destination: '/best-lawyer-for-msme-loan-recovery-defence',
         permanent: true,
+        caseSensitive: true,
       },
       {
         source: '/best-lawyer-for-MSME-personal-loan',
         destination: '/best-lawyer-for-msme-personal-loan',
         permanent: true,
+        caseSensitive: true,
       },
       {
         source: '/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi',
         destination: '/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi',
+        permanent: true,
+        caseSensitive: true,
+      },
+      {
+        source: '/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information',
+        destination: '/how-recovery-agents-get-your-number-when-friend-defaults',
+        permanent: true,
+      },
+      {
+        source: '/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers',
+        destination: '/faqs/joint-loan-settlement-co-borrower-implications',
         permanent: true,
       },
     ];

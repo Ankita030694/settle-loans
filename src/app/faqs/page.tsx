@@ -198,7 +198,7 @@ export default function FAQsPage() {
               "@type": "ListItem",
               "position": 26,
               "name": "Joint Loan Settlement Implications",
-              "url": "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers"
+              "url": "https://www.settleloans.in/faqs/joint-loan-settlement-co-borrower-implications"
             },
             {
               "@type": "ListItem",
@@ -210,7 +210,7 @@ export default function FAQsPage() {
               "@type": "ListItem",
               "position": 28,
               "name": "Recovery Agent Harassment Guide",
-              "url": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information"
+              "url": "https://www.settleloans.in/how-recovery-agents-get-your-number-when-friend-defaults"
             }
           ]
         }
@@ -700,7 +700,7 @@ export default function FAQsPage() {
             </Link>
 
             {/* Card 31: Joint Loans (New) */}
-            <Link href="/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+            <Link href="/faqs/joint-loan-settlement-co-borrower-implications" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
               <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
               </div>
@@ -728,7 +728,7 @@ export default function FAQsPage() {
             </Link>
 
             {/* Card 33: Recovery Agent Harassment (New) */}
-            <Link href="/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information" className="group flex flex-col h-full bg-[#1F5EFF] rounded-2xl border border-[#DEDEDE] p-8 shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1">
+            <Link href="/how-recovery-agents-get-your-number-when-friend-defaults" className="group flex flex-col h-full bg-[#1F5EFF] rounded-2xl border border-[#DEDEDE] p-8 shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1">
               <div className="w-12 h-12 rounded-full bg-white text-[#1F5EFF] flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
               </div>

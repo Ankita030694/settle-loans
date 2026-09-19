@@ -120,6 +120,7 @@ const Testimonials2 = () => {
                  <Link 
                     href="https://maps.app.goo.gl/C11eKgqm46oUwdio9"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className="px-6 py-2.5 rounded-full bg-black text-white text-sm font-medium hover:bg-neutral-800 transition-colors"
                 >
                     Read Google Reviews

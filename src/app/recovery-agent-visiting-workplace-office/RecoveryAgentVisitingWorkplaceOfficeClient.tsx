@@ -890,7 +890,7 @@ Yours faithfully,
                       <tr>
                         <td className="font-bold text-slate-900">District Consumer Disputes Commission</td>
                         <td>Deficiency of banking service, mental harassment &amp; reputation damages.</td>
-                        <td><a href="https://edaakhil.nic.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">edaakhil.nic.in</a></td>
+                        <td><a href="https://e-daakhil.nic.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">e-daakhil.nic.in</a></td>
                         <td>45 to 90 Days</td>
                       </tr>
                     </tbody>
