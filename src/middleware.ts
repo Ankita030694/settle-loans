@@ -13,10 +13,6 @@ export function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
-    /*
-     * Match all request paths including _next/image and dynamic routes
-     */
-    '/:path*',
-    '/_next/:path*',
+    '/((?!api).*)',
   ],
 };

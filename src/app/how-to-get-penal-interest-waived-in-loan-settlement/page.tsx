@@ -495,9 +495,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* Section 1: Anatomy of Debt Inflation */}
             <section id="anatomy-of-debt-inflation-penal-charges" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Anatomy of Debt Inflation: How Defaulted Balances Artificially Double
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. How Defaulted Balances Artificially Double in Banks</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower experiences severe financial hardship and misses consecutive monthly installments on an unsecured personal loan, business line of credit, or credit card, the account enters a rapid institutional escalation cycle. Within twelve to twenty-four months of delinquency, borrowers are frequently shocked to discover that an original outstanding principal balance of ₹10 Lakhs has expanded on the bank&apos;s statement of account to ₹16 Lakhs, ₹18 Lakhs, or even ₹22 Lakhs.
               </p>
@@ -1040,15 +1038,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction: Fair Lending Practice – Penal Charges</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 74 Penalty Stipulations)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 74 Penalty Stipulations)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"

@@ -173,8 +173,8 @@ export default function FAQsPage() {
             {
               "@type": "ListItem",
               "position": 22,
-              "name": "Debt Settlement with Effective talks",
-              "url": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-talks"
+              "name": "Debt Settlement with Effective Negotiation",
+              "url": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation"
             },
             {
               "@type": "ListItem",
@@ -587,14 +587,14 @@ export default function FAQsPage() {
               </div>
             </Link>
 
-            {/* Card 23: Effective talks Services (Page 3) */}
-            <Link href="/faqs/find-debt-settlement-services-known-for-effective-talks" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+            {/* Card 23: Effective Negotiation Services (Page 3) */}
+            <Link href="/faqs/find-debt-settlement-services-known-for-effective-negotiation" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
               <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"></path></svg>
               </div>
-              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Effective talks Services</h3>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Effective Negotiation Services</h3>
               <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
-                How to identify debt relief agencies with proven track records of high-waiver bank talks and legal defense.
+                How to identify debt relief agencies with proven track records of high-waiver bank negotiation and legal defense.
               </p>
               <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
                 Find Negotiators <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>

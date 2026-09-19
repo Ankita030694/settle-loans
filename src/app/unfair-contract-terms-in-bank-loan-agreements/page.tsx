@@ -313,7 +313,7 @@ const jsonLdGraph = {
           "name": "Can a borrower file a complaint online against unfair banking contract terms?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. You can file online complaints via the Government portal 'e-Daakhil' at e-daakhil.nic.in. Simply upload your loan letter, agreement, bank statements. And legal notices with small fees."
+            "text": "Yes. You can file online complaints via the Government portal 'National Consumer Helpline (consumerhelpline.gov.in)' at consumerhelpline.gov.in. Simply upload your loan letter, agreement, bank statements. And legal notices with small fees."
           }
         },
         {
@@ -993,23 +993,15 @@ export default function UnfairContractTermsLoanAgreementsPage() {
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
-                  href="https://e-daakhil.nic.in"
+                  href="https://consumerhelpline.gov.in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">e-Daakhil Consumer Court Online Filing Portal (Government of India)</span>
+                  <span className="font-semibold text-slate-800">National Consumer Helpline (consumerhelpline.gov.in) Consumer Court Online Filing Portal (Government of India)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/15256"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Consumer Protection Act, 2019 (Section 2(46) Full Text &amp; Sections)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Consumer Protection Act, 2019 (Section 2(46) Full Text &amp; Sections)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"
@@ -1181,7 +1173,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
                 </div>
                 <div className="flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-indigo-500 flex-shrink-0" />
-                  <span>e-Daakhil Digital Litigation Support</span>
+                  <span>National Consumer Helpline (consumerhelpline.gov.in) Digital Litigation Support</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Scale className="w-4 h-4 text-amber-500 flex-shrink-0" />

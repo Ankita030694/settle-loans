@@ -570,7 +570,7 @@ export default function PnbPersonalLoanSettlementPage() {
                 <span>1. Institutional Architecture &amp; PNB Regional Footprint</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Punjab National Bank&apos;s Retail Portfolio &amp; Risk Recovery Infrastructure
+                PNB Retail Portfolio &amp; Recovery Systems
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Punjab National Bank (PNB) operates as India&apos;s second-largest public sector bank following its historic mega-merger with Oriental Bank of Commerce (OBC) and United Bank of India (UBI). With an expansive retail network exceeding 10,000 domestic branches and a massive presence across Punjab, Haryana, Delhi NCR, Uttar Pradesh, Bihar, Rajasthan, and Madhya Pradesh, PNB commands a vast retail loan book. This includes unsecured personal loans, salaried overdrafts, pensioner credit lines, festive personal credit, and pre-approved digital lending products.
@@ -1074,15 +1074,7 @@ export default function PnbPersonalLoanSettlementPage() {
                   <span className="font-semibold text-slate-800">National Legal Services Authority (Lok Adalat Guidelines)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between"
-                >
-                  <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25)</span></span>
               </div>
             </section>
 

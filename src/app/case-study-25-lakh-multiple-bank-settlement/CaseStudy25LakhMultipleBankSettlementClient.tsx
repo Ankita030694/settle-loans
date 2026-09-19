@@ -964,15 +964,7 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                   <span>TransUnion CIBIL</span>
                   <ExternalLink className="w-3.5 h-3.5 text-[#1886ff]" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 rounded-xl border border-slate-200 bg-slate-50/60 hover:bg-blue-50/50 hover:border-blue-200 transition-all flex items-center justify-between text-xs font-bold text-slate-800"
-                >
-                  <span>India Code Database</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-[#1886ff]" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span>India Code Database</span></span>
                 <a
                   href="https://nalsa.gov.in"
                   target="_blank"

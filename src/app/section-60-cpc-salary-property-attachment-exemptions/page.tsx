@@ -521,9 +521,7 @@ export default function Section60CpcExemptionsPage() {
 
             {/* Section 1: Statutory Framework */}
             <section id="section-60-statutory-framework" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Statutory Architecture of Section 60 CPC: Understanding Civil Execution &amp; Creditor Limits
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Statutory Architecture of Section 60 CPC:</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When borrowers default on unsecured personal loans, business credit facilities, or credit card obligations, financial institutions frequently resort to high-pressure intimidation. Third-party collection agencies and bank legal departments routinely dispatch aggressive notices threatening the immediate seizure of residential homes, the freezing of total monthly salaries, the confiscation of household appliances, and the attachment of family gold. These aggressive assertions intentionally exploit the borrower&apos;s unfamiliarity with the foundational principles of Indian civil jurisprudence.
               </p>
@@ -1039,15 +1037,7 @@ export default function Section60CpcExemptionsPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2191"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 &amp; Order XXI)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 &amp; Order XXI)</span></span>
                 <a
                   href="https://rbi.org.in"
                   target="_blank"

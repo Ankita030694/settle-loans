@@ -422,7 +422,7 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                 <span>Section 2: Underwriting Analytics</span>
               </div>
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
-                Why Banks Reject Home Loan Applications for &quot;Settled&quot; Accounts
+                Why Banks Reject Home Loans for Settled Accounts
               </h2>
               <p>
                 Indian retail lenders evaluate credit eligibility across two dimensions: quantitative credit scoring and qualitative credit taxonomy. A borrower may raise their numerical CIBIL score above 740 through disciplined payments. However, automated underwriting engines of major mortgage lenders mandate an automatic rejection upon detecting negative account tags.
@@ -884,15 +884,7 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                   <span>TransUnion CIBIL</span>
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF]" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 rounded-xl border border-slate-200 bg-slate-50/60 hover:bg-blue-50/50 hover:border-blue-200 transition-all flex items-center justify-between text-xs font-bold text-slate-800"
-                >
-                  <span>CICRA Act 2005</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF]" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span>CICRA Act 2005</span></span>
                 <a
                   href="https://nalsa.gov.in"
                   target="_blank"

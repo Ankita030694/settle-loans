@@ -472,9 +472,7 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 01</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. NPA Classification &amp; Stressed Asset Dynamics: When Does a Loan Qualify for OTS?
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">1. NPA Classification Stressed Asset Dynamics: When Does a</h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Jab koi udhardata (borrower) kisi vyaktigat loan (personal loan), credit card, auto loan ya unsecured business loan ki masik EMI lagatar teen mahine ya 90 dinon tak jamane mein asafal rehta hai, toh Reserve Bank of India ke prudential accounting norms ke tehat us loan account ko <strong>Special Mention Account-2 (SMA-2)</strong> se transition karke <strong>Non-Performing Asset (NPA)</strong> ghoshit kar diya jata hai. Banking jurisprudence mein NPA ka darja milte hi bank ki balance sheet mein us account se aane wala interest income recognize hona band ho jata hai, aur bank par statutory provisioning ka bhari bojh padna shuru ho jata hai.
@@ -982,14 +980,7 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2191"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Banking Regulation Act, 1949 – Section 35A &amp; Resolution of Stressed Assets Provisions
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Banking Regulation Act, 1949 – Section 35A &amp; Resolution of Stressed Assets Provisions</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />

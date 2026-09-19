@@ -522,9 +522,7 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* Section 1: Workplace Recovery Harassment & Legal Notices to Employer */}
             <section id="workplace-recovery-harassment-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Crisis of Workplace Debt Collection: Illegal HR Emails, Office Visits &amp; Defamatory Notices
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Crisis of Workplace Debt Collection: Illegal HR</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Few events are more distressing for a salaried professional than discovering that an overdue personal loan or credit card balance has spilled into their workplace. In recent years, aggressive collection agencies representing major private banks and digital lending NBFCs have increasingly resorted to coercive workplace tactics: sending intimidating emails to Human Resources desks, repeatedly dialling corporate reception boards, confronting employees at office reception lobbies, or serving purported &quot;Legal Notices for Salary Attachment&quot; directly on corporate management.
               </p>
@@ -1012,24 +1010,8 @@ export default function BankSendingLegalNoticeToEmployerPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Privity of Contract &amp; Section 171)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2263"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Penal Code / Bharatiya Nyaya Sanhita (Defamation &amp; Intimidation)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Privity of Contract &amp; Section 171)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Penal Code / Bharatiya Nyaya Sanhita (Defamation &amp; Intimidation)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"

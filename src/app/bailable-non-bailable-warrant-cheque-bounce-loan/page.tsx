@@ -500,9 +500,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* Section 1: Anatomy of Cheque Bounce Escalation */}
             <section id="anatomy-cheque-bounce-warrant-escalation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Anatomy of Cheque Bounce Escalation: From Missed EMI to Magistrate Court Summons &amp; Arrest Warrant
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Anatomy of Cheque Bounce Escalation: From Missed EMI to</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Discovering that a Judicial Magistrate or Metropolitan Magistrate court has issued an active <strong>Bailable Warrant (BW)</strong> or <strong>Non-Bailable Warrant (NBW)</strong> against you for a defaulted loan EMI or bounced security cheque triggers intense psychological panic. Borrowers across India who defaulted on personal loans, credit cards, business credit lines, or SME overdrafts with major commercial banks and NBFCs—including State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, and Bajaj Finance—often find themselves suddenly contacted by local police officers or recovery agents brandishing arrest threats.
               </p>
@@ -1011,24 +1009,8 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2189"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 &amp; Section 147 Compounding)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/16225"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Criminal Procedure, 1973 (Section 70, 71 &amp; 70(2) Recall of Warrants)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 &amp; Section 147 Compounding)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Criminal Procedure, 1973 (Section 70, 71 &amp; 70(2) Recall of Warrants)</span></span>
                 <a
                   href="https://www.sci.gov.in"
                   target="_blank"

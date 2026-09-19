@@ -569,9 +569,7 @@ export default function MoneyViewLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Digital Underwriting &amp; NBFC Partner Ecosystem</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding MoneyView&apos;s Digital Lending Architecture &amp; Co-Lending Network
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding MoneyViews Digital Lending Architecture</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 MoneyView, managed by Whizdm Innovations Private Limited, is one of India&apos;s largest digital financial platforms offering unsecured personal loans ranging from ₹5,000 to ₹10,00,000 with flexible repayment tenures spanning 3 to 60 months. To navigate a debt default effectively, borrowers must first understand how MoneyView operates from a legal and regulatory perspective. MoneyView is not a standalone scheduled bank; rather, it functions as a regulated Digital Lending App (DLA) and Lending Service Provider (LSP) governed by the Reserve Bank of India (RBI) Digital Lending Guidelines.
               </p>

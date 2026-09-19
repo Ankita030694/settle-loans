@@ -348,9 +348,7 @@ export default function CaseStudyKotakCreditCardSettlementClient() {
             
             {/* Section 1: The ₹4.2 Lakh Crisis & MAD Trap */}
             <section id="case-background-mad-trap" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The ₹4.2 Lakh Crisis: Borrower Profile, Minimum Amount Due &amp; Compounding Genesis
-              </h2>
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">1. The ₹4.2 Lakh Crisis: Borrower Profile, Minimum Amount Due</h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 In January 2024, Rajesh Verma, a 34-year-old IT consultant residing in Bengaluru, experienced an acute cash-flow dislocation when his independent consulting contract was abruptly terminated amidst industry-wide software budget contractions. Facing simultaneous relocation expenses and emergency medical treatment for his mother, Rajesh utilized his Kotak Mahindra Bank League Platinum Credit Card, possessing an approved credit line of ₹2,00,000, incurring cumulative living and medical charges totaling ₹1,55,000.
               </p>

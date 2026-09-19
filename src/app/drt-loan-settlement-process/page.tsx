@@ -998,24 +998,8 @@ export default function DRTLoanSettlementProcessPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1943"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Recovery of Debts and Bankruptcy Act, 1993 (Section 19 &amp; 25)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2006"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Section 13, 14 &amp; 17 Securitisation Application)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Recovery of Debts and Bankruptcy Act, 1993 (Section 19 &amp; 25)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Section 13, 14 &amp; 17 Securitisation Application)</span></span>
                 <a
                   href="https://drt.gov.in"
                   target="_blank"

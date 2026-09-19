@@ -321,7 +321,7 @@ export default function KreditBeeLoanSettlementClient() {
                 <span>1. App Ecosystem &amp; Krazybee NBFC Architecture</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding KreditBee&apos;s Fintech Architecture &amp; Krazybee Services NBFC
+                KreditBee &amp; Krazybee Services Framework
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 KreditBee has established itself as one of India&apos;s fastest-growing digital lending platforms, operated by Finnov Private Limited. The mobile application delivers instant personal loans, salaried credit lines, and short-term merchant financing ranging from ₹5,000 to ₹5,00,000 with rapid paperless disbursement. However, behind the consumer-facing mobile interface lies a regulated non-banking financial infrastructure primarily driven by <strong>Krazybee Services Private Limited</strong>, a Systemically Important Non-Deposit Taking Non-Banking Financial Company (NBFC-ND-SI) registered with the Reserve Bank of India under Section 45-IA of the RBI Act, 1934.

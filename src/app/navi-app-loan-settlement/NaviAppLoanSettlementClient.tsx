@@ -307,9 +307,7 @@ export default function NaviAppLoanSettlementClient() {
 
             {/* Section 1: Navi Lending Ecosystem, Digital Underwriting & Default Cycles */}
             <section id="navi-lending-ecosystem-digital-underwriting" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Navi Lending Architecture, 100% Digital Underwriting &amp; Default Delinquency Cycles
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Navi Lending Architecture, 100% Digital Underwriting</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navi Technologies Limited, founded by Sachin Bansal, has fundamentally transformed Indian retail credit by deploying high-velocity, fully algorithmic digital lending architecture. Operating through its primary lending subsidiary, <strong>Navi Finserv Limited</strong> (a Systemically Important Non-Deposit Taking Non-Banking Financial Company registered with the Reserve Bank of India), the platform disburses unsecured instant personal loans ranging from ₹10,000 up to ₹20 Lakhs with repayment tenures spanning 3 to 72 months. Unlike legacy commercial banks that require extensive physical documentation, wet-ink signatures, and branch verification, Navi utilizes automated digital underwriting engines that evaluate bank account aggregators, device telemetry, PAN-linked credit bureau algorithms, and cash flow predictability within minutes.
               </p>
@@ -785,15 +783,7 @@ export default function NaviAppLoanSettlementClient() {
                   <span className="font-semibold text-slate-800">National Legal Services Authority (Lok Adalat Pre-Litigation)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span></span>
                 <a
                   href="https://legislative.gov.in"
                   target="_blank"

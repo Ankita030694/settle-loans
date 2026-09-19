@@ -504,9 +504,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
 
             {/* Section 1: Demystifying Full Closure, Compromise Settlement & Write-Off */}
             <section id="demystifying-closure-vs-settlement-vs-write-off" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Full Closure, Compromise Settlement (OTS) &amp; Credit Write-Off
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying Full Closure, Compromise Settlement (OTS)</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In Indian banking and retail credit terminology, borrowers frequently encounter three distinct phrases when dealing with overdue credit facilities: <strong>Full and Final Loan Closure</strong>, <strong>Compromise Settlement (One-Time Settlement or OTS)</strong>, and <strong>Credit Write-Off</strong>. Although these terms are often casually interchanged by collection executives, call center representatives, and stressed borrowers, they represent fundamentally different legal, accounting, and credit realities under Reserve Bank of India (RBI) regulations and the Indian Contract Act, 1872.
               </p>
@@ -891,15 +889,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction – Framework for Compromise Settlements &amp; Technical Write-offs (2023)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 62 Novation &amp; Section 63 Remission)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 62 Novation &amp; Section 63 Remission)</span></span>
                 <a
                   href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12534&Mode=0"
                   target="_blank"
@@ -909,15 +899,7 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
                   <span className="font-semibold text-slate-800">RBI Circular – Release of Property Documents within 30 Days of Loan Settlement</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2006"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Credit Information Companies (Regulation) Act, 2005 (CICRA)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Credit Information Companies (Regulation) Act, 2005 (CICRA)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"

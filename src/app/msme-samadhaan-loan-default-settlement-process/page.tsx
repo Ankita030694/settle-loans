@@ -798,24 +798,8 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction – Prudential Framework for Stressed Assets Resolution</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2006"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Securitisation &amp; Security Interest Enforcement)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2012"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"
-                >
-                  <span className="font-semibold text-slate-800">Micro, Small and Medium Enterprises Development (MSMED) Act, 2006</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Securitisation &amp; Security Interest Enforcement)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Micro, Small and Medium Enterprises Development (MSMED) Act, 2006</span></span>
               </div>
             </section>
 

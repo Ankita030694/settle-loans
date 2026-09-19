@@ -867,15 +867,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
                   <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Portal (Recovery Harassment Grievance Redressal)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"
-                >
-                  <span className="font-semibold text-slate-800">Bharatiya Nagarik Suraksha Sanhita, 2023 (Section 173 &amp; 223 Criminal FIR Procedure)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Bharatiya Nagarik Suraksha Sanhita, 2023 (Section 173 &amp; 223 Criminal FIR Procedure)</span></span>
               </div>
             </section>
 

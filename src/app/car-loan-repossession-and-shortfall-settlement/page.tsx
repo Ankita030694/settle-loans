@@ -518,9 +518,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* Section 1: The Reality of Car Loan Default & Repossession in India */}
             <section id="reality-of-car-loan-default-repossession" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Reality of Car Loan Default &amp; Repossession in India: The Double Tragedy of Asset Loss and Residual Debt
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Reality of Car Loan Default Repossession in India: The</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Defaulting on a vehicle loan in India exposes middle-class families and small business operators to one of the most aggressive debt collection ecosystems in the financial sector. When unforeseen economic disruptions—such as acute business losses, job retrenchment, medical crises, or inflation-driven cash flow shortfalls—cause a borrower to miss two or three consecutive equated monthly installments (EMIs), commercial banks and Non-Banking Financial Companies (NBFCs) quickly shift from automated payment reminders to active recovery protocols. Unlike unsecured personal loans where recovery relies on tele-calling or civil litigation, car loans are secured by a contractual hypothecation charge registered on the vehicle with the regional transport authority under the Motor Vehicles Act, 1988.
               </p>
@@ -942,15 +940,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction – Fair Practices Code for Lenders</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 176 Notice Requirements)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 176 Notice Requirements)</span></span>
                 <a
                   href="https://ncdrc.nic.in"
                   target="_blank"

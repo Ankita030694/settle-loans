@@ -959,15 +959,7 @@ export default function LokAdalatOrderNonCompliancePage() {
                   <span className="font-semibold text-slate-800">National Legal Services Authority (NALSA) – Lok Adalat Regulations</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1942"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Legal Services Authorities Act, 1987 (Section 19, 20 &amp; 21 Statutory Text)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Legal Services Authorities Act, 1987 (Section 19, 20 &amp; 21 Statutory Text)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"

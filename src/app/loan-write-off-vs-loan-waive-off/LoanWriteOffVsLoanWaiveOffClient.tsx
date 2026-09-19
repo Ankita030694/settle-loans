@@ -354,7 +354,7 @@ export default function LoanWriteOffVsLoanWaiveOffClient() {
             {/* Section 1: The Dangerous Illusion of "Written Off" */}
             <section id="illusion-of-written-off" className="scroll-mt-28 mb-12">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                1. The Dangerous Illusion of &quot;Written Off&quot; in Indian Retail Banking
+                1. The Illusion of Written Off Loans in India
               </h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 One of the most catastrophic and widespread financial misconceptions among Indian borrowers is the belief that when a bank marks an overdue loan or credit card as &quot;Written Off,&quot; the outstanding debt has been forgiven, canceled, or erased by the government. Borrowers who download their credit reports from TransUnion CIBIL, Experian, or CRIF High Mark frequently observe a zero current balance alongside a stark &quot;Written Off&quot; remark, leading them to falsely conclude that their financial nightmare is over and no further payments are required.

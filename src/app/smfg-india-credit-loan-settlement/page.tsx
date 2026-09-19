@@ -564,9 +564,7 @@ export default function SmfgIndiaCreditLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Corporate NBFC Architecture &amp; SARB Infrastructure</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding SMFG India Credit&apos;s High-Ticket Retail Portfolio &amp; SARB Risk Engine
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding SMFG India Credits High-Ticket Retail Portfolio</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SMFG India Credit Company Limited (formerly Fullerton India Credit Company Limited), backed by Japan&apos;s Sumitomo Mitsui Financial Group (SMFG), operates as one of India&apos;s leading systemically important non-banking financial companies categorized under the Reserve Bank of India&apos;s Middle/Upper Layer regulatory structure. With a multi-thousand-crore asset book heavily concentrated in high-ticket unsecured personal loans, business installment facilities, and MSME working capital credit lines, SMFG deploys a sophisticated, algorithmic credit and collections architecture.
               </p>

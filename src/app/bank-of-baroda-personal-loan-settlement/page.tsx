@@ -543,7 +543,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                 <span>1. Institutional Architecture &amp; Public Sector Governance</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Debt Default in India&apos;s Second-Largest Public Sector Bank
+                Resolving Debt Default in Bank of Baroda
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Bank of Baroda stands as India&apos;s second-largest public sector undertaking bank following its historic tripartite amalgamation with Dena Bank and Vijaya Bank. Bank of Baroda manages an extensive retail lending footprint across India. This encompasses Baroda Salary Classic accounts, schemes for defense personnel and government staff, and digital pre-approved loans via bob World. so, the institution manages a massive unsecured retail loan book. However, resolving an unsecured loan default with Bank of Baroda represents a vastly different operational and legal challenge compared to dealing with aggressive private fintech lenders or non-banking financial companies (NBFCs).
@@ -1073,15 +1073,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
                   <span className="font-semibold text-slate-800">National Legal Services Authority (Lok Adalat Guidelines)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between"
-                >
-                  <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act, 2007 (Section 25)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act, 2007 (Section 25)</span></span>
               </div>
             </section>
 

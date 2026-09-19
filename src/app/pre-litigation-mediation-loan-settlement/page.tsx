@@ -516,9 +516,7 @@ export default function PreLitigationMediationLoanSettlementPage() {
 
             {/* Section 1: Demystifying Pre-Litigation Mediation */}
             <section id="demystifying-pre-litigation-mediation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Pre-Litigation Mediation: Why Proactive Dispute Resolution Empowers Borrowers
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Pre-Litigation Mediation: Dispute Resolution Guide</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower defaults on an unsecured personal loan, business line of credit, or credit card facility due to severe financial adversity—such as sudden job loss, catastrophic medical emergencies, or commercial business insolvency—the conventional banking recovery machinery immediately swings into punitive action. Commercial lenders and Non-Banking Financial Companies (NBFCs) deploy aggressive third-party collection agencies, flood borrowers with automated legal notices, and initiate adversarial proceedings under the Negotiable Instruments Act (Section 138 cheque bounce) or the Payment and Settlement Systems Act (Section 25 NACH bounce).
               </p>
@@ -1011,24 +1009,8 @@ export default function PreLitigationMediationLoanSettlementPage() {
                   <span className="font-semibold text-slate-800">National Legal Services Authority (NALSA &amp; DLSA Mediation Scheme)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1937"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Legal Services Authorities Act, 1987 (Section 19, 20 &amp; 21)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 89 ADR Mandate)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Legal Services Authorities Act, 1987 (Section 19, 20 &amp; 21)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 89 ADR Mandate)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"

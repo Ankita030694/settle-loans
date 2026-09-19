@@ -349,9 +349,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
             
             {/* Section 1: Understanding CIBIL Score Thresholds */}
             <section id="cibil-score-thresholds" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. Understanding CIBIL Score Thresholds: How Institutional Underwriting Models Function
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">1. Understanding CIBIL Score Thresholds: How Institutional</h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 In the Indian retail banking ecosystem, an unsecured personal loan represents the highest-risk credit product in a commercial lender&apos;s portfolio. Because personal loans require zero collateral, hypothecation, or asset pledging, credit institutions rely almost entirely on algorithmic risk assessment engines. At the center of this underwriting architecture sits the TransUnion CIBIL score—a three-digit numerical summary ranging between 300 and 900 that quantifies a borrower&apos;s statistical Probability of Default (PD).
               </p>
@@ -868,7 +866,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF] flex-shrink-0" />
                   <a
-                    href="https://sci.gov.in"
+                    href="https://www.sci.gov.in"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"

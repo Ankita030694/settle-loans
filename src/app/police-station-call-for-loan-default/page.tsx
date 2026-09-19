@@ -512,9 +512,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
 
             {/* Section 1: Demystifying Police Calls for Loan Defaults */}
             <section id="demystifying-police-calls-for-loan-defaults" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Police Calls for Loan Defaults: The Psychology of Rogue Extortion
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Police Calls for Loan Defaults: Stopping Extortion</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Few experiences trigger more intense psychological panic than answering a phone call to hear an aggressive voice claim: <em>&quot;I am Sub-Inspector Sharma calling from the Cyber Crime Cell / Crime Branch Police Station. A non-bailable cheating warrant has been issued against you by the bank. If you do not deposit ₹85,000 within two hours, a police team will arrive at your workplace to place you under arrest.&quot;</em>
               </p>
@@ -1013,15 +1011,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2263"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Penal Code (Sections 170, 384, 419 &amp; 506) / BNS</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Penal Code (Sections 170, 384, 419 &amp; 506) / BNS</span></span>
                 <a
                   href="https://www.sci.gov.in"
                   target="_blank"

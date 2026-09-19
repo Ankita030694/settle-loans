@@ -974,15 +974,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                 Official Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2263"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Bharatiya Nyaya Sanhita, 2023</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Bharatiya Nyaya Sanhita, 2023</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"

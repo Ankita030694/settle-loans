@@ -502,9 +502,7 @@ export default function PersonalLoanSettlementAhmedabadPage() {
 
             {/* Section 1: Commercial Debt Landscape in Ahmedabad */}
             <section id="commercial-debt-landscape-ahmedabad" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Commercial Debt Landscape in Ahmedabad: The Dilemma of Traders, MSMEs, and Borrowers
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Commercial Debt Landscape in Ahmedabad: The Dilemma of</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Ahmedabad represents the formidable economic powerhouse of western India, driven by deep-rooted mercantile traditions, thriving textile trading hubs across the historic Maskati Market and New Cloth Market, engineering clusters in Naroda, Changodar, and Vatva GIDCs, alongside modern financial corridors across SG Highway, CG Road, and Prahlad Nagar. In this high-velocity commercial ecosystem, liquidity is the lifeblood of everyday commerce. However, prolonged credit cycles, deferred payments from inter-state buyers, post-pandemic demand shocks, and global export contractions in diamond processing hubs across Surat have combined to create severe liquidity crunches for thousands of Gujarati entrepreneurs and salaried professionals.
               </p>
@@ -932,15 +930,7 @@ export default function PersonalLoanSettlementAhmedabadPage() {
                   <span className="font-semibold text-slate-800">Reserve Bank of India (Master Direction on Fair Practices Code)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2189"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 &amp; Section 147)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 &amp; Section 147)</span></span>
                 <a
                   href="https://www.sci.gov.in"
                   target="_blank"

@@ -159,12 +159,12 @@ export default function Services() {
 
       <div className="relative z-10 max-w-8xl mx-auto px-4 md:px-16">
         <div className="text-center mb-12 space-y-4">
-          <h2 
+          <h3 
             className="text-[#2E2E2E] text-[32px] md:text-[60px] font-bold leading-[1] max-w-4xl mx-auto"
             style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}
           >
             Trusted by Thousands to Resolve Loans with Confidence
-          </h2>
+          </h3>
           <p 
             className="text-[#2E2E2E] text-[18px] md:text-[22px] font-normal leading-[1.07] max-w-3xl mx-auto"
             style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}

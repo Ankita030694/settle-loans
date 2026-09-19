@@ -814,42 +814,10 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1566"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Limitation Act, 1963 (Section 3, Articles 19 &amp; 55 – Bar of Limitation on Money Claims)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2191"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Order 37 &amp; Order 7 Rule 11 – Rejection of Plaint)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1982"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Recovery of Debts &amp; Bankruptcy Act, 1993 (Section 24 – Application of Limitation Act)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2006"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Section 36 – Limitation on Secured Creditor Enforcement)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Limitation Act, 1963 (Section 3, Articles 19 &amp; 55 – Bar of Limitation on Money Claims)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Order 37 &amp; Order 7 Rule 11 – Rejection of Plaint)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Recovery of Debts &amp; Bankruptcy Act, 1993 (Section 24 – Application of Limitation Act)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Section 36 – Limitation on Secured Creditor Enforcement)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"

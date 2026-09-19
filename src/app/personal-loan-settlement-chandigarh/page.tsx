@@ -550,9 +550,7 @@ export default function PersonalLoanSettlementChandigarh() {
                 <Building2 className="w-4 h-4" />
                 <span>1. High-Income &amp; NRI Debt Ecosystem in Tricity</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating High-Ticket Personal Loan &amp; Credit Card Defaults in Chandigarh, Mohali &amp; Panchkula
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating High-Ticket Personal Loan Credit Card Defaults in</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The Chandigarh Tricity corridor—spanning Chandigarh UT, SAS Nagar Mohali, and Panchkula—stands among North India&apos;s wealthiest urban centers. Powered by tech leaders in Mohali Knowledge City, manufacturing entrepreneurs in Chandigarh Industrial Area, and a large Non-Resident Indian (NRI) diaspora across Canada, the UK, and the Gulf, the region holds heavy exposure to high-ticket unsecured credit lines.
               </p>

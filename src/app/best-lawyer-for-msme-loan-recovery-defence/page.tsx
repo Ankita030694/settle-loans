@@ -244,9 +244,7 @@ export default function MSMELoanRecoveryDefencePage() {
                     <article className="w-full lg:w-3/5 flex-1 prose prose-slate max-w-none">
 
                         <section id="introduction" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">
-                                Protecting the Backbone of India: A Lawyer's Guide to MSME Loan Defence
-                            </h2>
+                            <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-8 leading-tight">Protecting the Backbone of India: A Lawyer's Guide to MSME</h2>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
                                 Micro, Small, and Medium Enterprises (MSMEs) are the undisputed engines of growth in India. They contribute nearly 30% to the GDP, roughly 45% to manufacturing output, and over 48% to exports. Yet, when financial turbulence hits, these vital institutions are often the most vulnerable. A sudden slump in demand, a delayed payment from a major corporate buyer, or a global supply chain disruption can quickly turn a healthy business account into a Non-Performing Asset (NPA).
                             </p>

@@ -839,15 +839,7 @@ export default function PersonalLoanSettlementRajkotPage() {
                   <span className="font-semibold text-slate-800">Reserve Bank of India (Fair Practices Code on Recovery Agents &amp; OTS Directives)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2189"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 &amp; Section 147 Compounding)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 &amp; Section 147 Compounding)</span></span>
                 <a
                   href="https://samadhaan.msme.gov.in"
                   target="_blank"
@@ -857,15 +849,7 @@ export default function PersonalLoanSettlementRajkotPage() {
                   <span className="font-semibold text-slate-800">MSME Samadhaan (Delayed Payment Redressal &amp; MSEFC Facilitation Portal)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2191"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 Exemption of Tools &amp; Implements)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 Exemption of Tools &amp; Implements)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"

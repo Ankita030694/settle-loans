@@ -868,56 +868,32 @@ export default function MultiplePersonalLoanSettlementClient() {
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 group-hover:text-[#1F5EFF] flex-shrink-0 mt-0.5 transition-colors" />
                 </a>
 
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2189"
-                  target="_blank"
-                  rel="nofollow noopener noreferrer"
-                  className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
-                >
-                  <div>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><div>
                     <div className="font-bold text-slate-900 group-hover:text-[#1F5EFF] transition-colors flex items-center gap-1.5">
                       <span>Negotiable Instruments Act, 1881 (Sec. 138)</span>
                     </div>
                     <p className="text-[11px] text-slate-500 mt-0.5">
                       Official India Code statute governing cheque dishonour, 15-day statutory cure notice, and compounding provisions.
                     </p>
-                  </div>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400 group-hover:text-[#1F5EFF] flex-shrink-0 mt-0.5 transition-colors" />
-                </a>
+                  </div></span>
 
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2048"
-                  target="_blank"
-                  rel="nofollow noopener noreferrer"
-                  className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
-                >
-                  <div>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><div>
                     <div className="font-bold text-slate-900 group-hover:text-[#1F5EFF] transition-colors flex items-center gap-1.5">
                       <span>Payment & Settlement Systems Act, 2007 (Sec. 25)</span>
                     </div>
                     <p className="text-[11px] text-slate-500 mt-0.5">
                       Statutory framework for electronic debit mandates (NACH / e-Mandates) and dispute remedies.
                     </p>
-                  </div>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400 group-hover:text-[#1F5EFF] flex-shrink-0 mt-0.5 transition-colors" />
-                </a>
+                  </div></span>
 
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="nofollow noopener noreferrer"
-                  className="flex items-start justify-between gap-2 p-3 bg-white border border-slate-200 hover:border-[#1F5EFF] rounded-xl hover:shadow-sm transition-all group"
-                >
-                  <div>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><div>
                     <div className="font-bold text-slate-900 group-hover:text-[#1F5EFF] transition-colors flex items-center gap-1.5">
                       <span>The Indian Contract Act, 1872 (Section 63)</span>
                     </div>
                     <p className="text-[11px] text-slate-500 mt-0.5">
                       Legal basis empowering lenders to dispense with or remit performance (debt waiver & compromise agreements).
                     </p>
-                  </div>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400 group-hover:text-[#1F5EFF] flex-shrink-0 mt-0.5 transition-colors" />
-                </a>
+                  </div></span>
 
                 <a
                   href="https://cms.rbi.org.in"

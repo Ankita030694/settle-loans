@@ -570,7 +570,7 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <span>1. Tech Industry Macroeconomics &amp; Debt Vulnerability</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Tech Layoff &amp; Lifestyle Debt Crisis in Bengaluru, Hyderabad &amp; Pune
+                Tech Layoffs &amp; Debt in Bengaluru, Hyderabad &amp; Pune
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 India&apos;s premier technology corridors—spanning Whitefield, Bellandur, and Manyata Tech Park in Bengaluru; HITEC City, Gachibowli, and the Financial District in Hyderabad; and Hinjawadi, Kharadi, and Magarpatta in Pune—have long represented the pinnacle of high-velocity white-collar compensation. Over the past decade, aggressive hiring sprees by multinational software conglomerates, venture-backed unicorns, and Global Capability Centers (GCCs) created a compensation architecture characterized by elevated base salaries, generous joining bonuses, variable performance pay, and substantial Restricted Stock Unit (RSU) vesting schedules.

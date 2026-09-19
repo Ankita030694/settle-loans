@@ -520,9 +520,7 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* Section 1: Demystifying the Salary Account Freeze */}
             <section id="demystifying-salary-account-freeze" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying the Salary Account Freeze: Banker&apos;s Right of Set-Off vs. Right of General Lien
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying the Salary Account Freeze: Bankers Right of</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Waking up on salary day to discover that your entire monthly earnings have been swept or that your debit card is declined due to an unexpected &quot;Total Debit Freeze&quot; represents an acute financial emergency. For salaried professionals across India who have defaulted on an unsecured personal loan or credit card, this sudden paralysis is frequently executed by the very bank hosting their corporate payroll account. Prominent private banking institutions—including ICICI Bank, HDFC Bank, Axis Bank, Kotak Mahindra Bank, and State Bank of India—routinely invoke internal banking clauses to seize incoming salary credits.
               </p>
@@ -1010,24 +1008,8 @@ export default function BankFreezeSalaryAccountPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2191"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 Salary Exemption)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 171 Banker&apos;s Lien)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 Salary Exemption)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 171 Banker&apos;s Lien)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"

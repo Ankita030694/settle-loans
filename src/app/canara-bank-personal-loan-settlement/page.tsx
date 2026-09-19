@@ -546,9 +546,7 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Institutional Architecture &amp; Public Sector Governance</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Retail Loan Default in India&apos;s Third-Largest Public Sector Bank
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Retail Loan Default in Indias Third-Largest Public</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Canara Bank represents one of the premier public sector financial institutions in India, significantly expanding its retail lending footprint following its mega-merger with Syndicate Bank. The bank oversees millions of retail credit facilities, including Canara Budget Personal Loans, Canara Payroll Packages for corporate and government employees, Canara Teachers Loans, and instant pre-approved digital credit lines disbursed through the Canara ai1 mobile banking platform. However, resolving a defaulted unsecured personal loan with Canara Bank involves procedural mechanisms entirely distinct from negotiating with private commercial lenders or digital fintech platforms.
               </p>
@@ -1107,15 +1105,7 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                   <span className="font-semibold text-slate-800">National Legal Services Authority (Lok Adalat Guidelines)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between"
-                >
-                  <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act, 2007 (Section 25)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act, 2007 (Section 25)</span></span>
               </div>
             </section>
 

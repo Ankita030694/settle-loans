@@ -987,15 +987,7 @@ export default function Page() {
                     <span className="font-semibold text-slate-800">UP State Legal Services Authority (UPSLSA)</span>
                     <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                   </a>
-                  <a
-                    href="https://indiacode.gov.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between"
-                  >
-                    <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span>
-                    <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span></span>
                 </div>
               </section>
 

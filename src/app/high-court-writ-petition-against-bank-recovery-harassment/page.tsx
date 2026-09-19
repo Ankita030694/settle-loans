@@ -913,15 +913,7 @@ export default function HighCourtWritBankHarassmentPage() {
                   <span className="font-semibold text-slate-800">Supreme Court of India (Landmark Prakash Kaur &amp; Article 21 Judgments)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1362"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Constitution of India: Article 226 &amp; Article 21 Text (India Code)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Constitution of India: Article 226 &amp; Article 21 Text (India Code)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"
@@ -931,15 +923,7 @@ export default function HighCourtWritBankHarassmentPage() {
                   <span className="font-semibold text-slate-800">Reserve Bank of India (Master Direction on Recovery Agents &amp; Fair Practices)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1514"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Contempt of Courts Act, 1971 (Statutory Provisions on Judicial Disobedience)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Contempt of Courts Act, 1971 (Statutory Provisions on Judicial Disobedience)</span></span>
                 <a
                   href="https://ecourts.gov.in"
                   target="_blank"

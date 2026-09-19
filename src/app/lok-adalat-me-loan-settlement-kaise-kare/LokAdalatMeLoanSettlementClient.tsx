@@ -746,15 +746,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                   <span className="font-semibold text-slate-800">RBI Master Directions on Compromise Settlements &amp; Technical Write-offs</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between"
-                >
-                  <span className="font-semibold text-slate-800">Legal Services Authorities Act, 1987 (India Code Official Act)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Legal Services Authorities Act, 1987 (India Code Official Act)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"

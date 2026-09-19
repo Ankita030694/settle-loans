@@ -358,7 +358,7 @@ export default function HdfcPersonalLoanSettlementClient() {
                 <span>1. Institutional Context &amp; Risk Architecture</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding HDFC Bank&apos;s Retail Loan Portfolio &amp; Default Dynamics
+                HDFC Bank Retail Loans &amp; Default Dynamics
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 HDFC Bank Limited is the cornerstone of India&apos;s private retail credit market, managing an expansive loan book spanning unsecured personal loans, pre-approved InstaLoans, Jumbo loans linked to credit cards, and digital revolving credit facilities. These credit products are extended without any underlying physical security or mortgage backing. so, HDFC Bank safeguards its capital through algorithmic risk modeling, stringent credit bureau cutoffs, and automated NACH mandate sweeps.

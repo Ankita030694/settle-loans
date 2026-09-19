@@ -568,9 +568,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Corporate NBFC Architecture &amp; Recovery Infrastructure</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Aditya Birla Finance&apos;s Algorithmic Credit &amp; Recovery Infrastructure
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Aditya Birla Finances Algorithmic Credit</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Aditya Birla Finance Limited (ABFL), the flagship lending subsidiary of Aditya Birla Capital Limited (ABCL), represents one of India&apos;s largest systemically important non-banking financial companies categorized under the Reserve Bank of India&apos;s Upper Layer NBFC (NBFC-UL) regulatory framework. With an extensive multi-crore asset book spanning unsecured personal loans, business installment loans (BIL), professional lines of credit, and commercial term facilities, ABFL operates through an institutional recovery infrastructure engineered for high-velocity default containment.
               </p>

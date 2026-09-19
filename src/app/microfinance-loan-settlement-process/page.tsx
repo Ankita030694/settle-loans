@@ -552,9 +552,7 @@ export default function MicrofinanceLoanSettlementPage() {
                 <Users className="w-4 h-4" />
                 <span>1. MFI Architecture &amp; Joint Liability Group (JLG) Dynamics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding the Joint Liability Group Structure and Vulnerable Borrower Vulnerabilities
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Joint Liability Group Structure in India</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The Indian microfinance sector has expanded rapidly across semi-urban and rural landscapes, driven by Non-Banking Financial Company Microfinance Institutions (NBFC-MFIs), Small Finance Banks (SFBs), and commercial banking entities such as Bandhan Bank, CreditAccess Grameen, Fusion Micro Finance, Spandana Sphoorty Financial, Muthoot Microfin, Satin Creditcare Network, and Annapurna Finance. The foundation of this lending architecture rests upon the Joint Liability Group (JLG) and Self-Help Group (SHG) credit delivery mechanisms, wherein small cohorts of four to ten borrowers—predominantly women entrepreneurs—assume mutual social responsibility for uncollateralized credit disbursements.
               </p>

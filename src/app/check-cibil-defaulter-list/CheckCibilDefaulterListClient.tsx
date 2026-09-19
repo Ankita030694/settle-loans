@@ -348,9 +348,7 @@ export default function CheckCibilDefaulterListClient() {
             
             {/* Section 1: The Defaulter List Myth & CICRA Reality */}
             <section id="cibil-defaulter-list-myth" className="scroll-mt-28 mb-12">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The Myth of the Public &quot;CIBIL Defaulter List&quot;: Legal &amp; Regulatory Reality
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">1. The Myth of the Public CIBIL Defaulter List: Legal</h2>
               <p className="text-base leading-relaxed mb-4 text-slate-700">
                 Every month, thousands of borrowers across India search anxiously for ways to check if their name appears on an alleged &quot;CIBIL Defaulter List.&quot; This pervasive anxiety is often stoked by aggressive third-party recovery agents who unlawfully threaten borrowers that failing to pay an overdue personal loan or credit card bill will lead to their name being publicly published on a nationwide blacklist, ruining their social reputation and employment prospects.
               </p>
@@ -827,7 +825,7 @@ export default function CheckCibilDefaulterListClient() {
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF] flex-shrink-0" />
                   <a
-                    href="https://sci.gov.in"
+                    href="https://www.sci.gov.in"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"

@@ -328,7 +328,7 @@ export default function CaseStudySbiLokAdalatClient() {
             {/* Section 1: MSME Distress & PSU Default */}
             <section id="case-background-borrower-profile" className="mb-10 scroll-mt-24">
               <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The ₹12 Lakh Crisis: MSME Revenue Collapse &amp; SBI Loan Default Genesis
+                1. ₹12 Lakh Crisis: MSME Revenue Drop &amp; Default
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 In October 2023, Vikram Verma, a 41-year-old proprietor managing a precision engineering and auto-ancillary unit in Pune, secured an unsecured term loan facility of ₹12,00,000 from State Bank of India (SBI) to finance capital tooling and raw material inventories. The credit agreement stipulated a repayment tenure of 48 months at an interest rate of 12.85% per annum, translating into a fixed equated monthly installment (EMI) of ₹32,150. For nearly two years, Vikram maintained a flawless repayment track record, servicing twenty-one consecutive EMIs through an automated National Automated Clearing House (NACH) mandate linked to his primary current account.

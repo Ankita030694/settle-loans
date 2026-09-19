@@ -510,9 +510,7 @@ export default function CooperativeBankLoanSettlementRulesPage() {
 
             {/* Section 1: Demystifying Cooperative Bank Loans & Regional Recovery Mechanics */}
             <section id="demystifying-cooperative-bank-loans" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Cooperative Bank Loans: The Distinct Mechanics of Regional Co-operative Credit
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Cooperative Bank Loans: Distinct Regional Mechanics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Co-operative banking in India occupies a unique institutional space within the national financial architecture. Unlike Scheduled Commercial Banks (such as HDFC Bank, ICICI Bank, State Bank of India, or Axis Bank) that operate under unified corporate mandates and centralized credit management software, co-operative institutions are structured on democratic, member-driven principles. These institutions include Primary Urban Co-operative Banks (UCBs), District Central Co-operative Banks (DCCBs), State Co-operative Banks (StCBs), and Multi-State Co-operative Banks operating across state borders.
               </p>
@@ -1041,15 +1039,7 @@ export default function CooperativeBankLoanSettlementRulesPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction – Prudential Norms for Primary Urban Co-operative Banks</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1922"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Multi-State Co-operative Societies Act, 2002 (Official Legislative Portal)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Multi-State Co-operative Societies Act, 2002 (Official Legislative Portal)</span></span>
                 <a
                   href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12513&Mode=0"
                   target="_blank"

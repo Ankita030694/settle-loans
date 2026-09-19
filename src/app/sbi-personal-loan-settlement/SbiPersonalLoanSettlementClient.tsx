@@ -348,7 +348,7 @@ export default function SbiPersonalLoanSettlementClient() {
                 <span>1. Institutional Context &amp; PSU Governance</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                SBI&apos;s Retail Credit Architecture &amp; Public Sector Accountability
+                SBI Retail Credit &amp; Recovery Accountability
               </h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-base">
                 State Bank of India (SBI) is India&apos;s largest public sector lender, managing over a quarter of domestic consumer credit. Its unsecured portfolio—spanning SBI Xpress Credit for salaried personnel, Quick Personal Loans, and Pension Loans—is underwritten against strict employment stability benchmarks. When economic hardship disrupts repayments, borrowers encounter a dispute resolution framework fundamentally distinct from private banking institutions.

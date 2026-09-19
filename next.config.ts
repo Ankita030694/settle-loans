@@ -18,7 +18,7 @@ const nextConfig: NextConfig = {
   async headers() {
     return [
       {
-        source: '/:path*',
+        source: '/(.*)',
         headers: [
           {
             key: 'X-Frame-Options',
@@ -1848,6 +1848,16 @@ const nextConfig: NextConfig = {
       {
         source: '/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers',
         destination: '/faqs/joint-loan-settlement-co-borrower-implications',
+        permanent: true,
+      },
+      {
+        source: '/faqs/find-debt-settlement-services-known-for-effective-talks',
+        destination: '/faqs/find-debt-settlement-services-known-for-effective-negotiation',
+        permanent: true,
+      },
+      {
+        source: '/find-debt-settlement-services-known-for-effective-talks',
+        destination: '/faqs/find-debt-settlement-services-known-for-effective-negotiation',
         permanent: true,
       },
     ];

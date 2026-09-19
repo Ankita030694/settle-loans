@@ -502,9 +502,7 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 01</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The Reality of Personal Loan Default in India: Institutional Psychology &amp; Operational Stages
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">1. The Reality of Personal Loan Default in India:</h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Jab ek borrower personal loan ki regular Equated Monthly Installments (EMIs) pay karne me asamarth ho jata hai, to wo aksar collection agents ki calling, ghar par physical visits aur legal threats ke chalte severe mental trauma aur confusion ka shikar ho jata hai. Bharat me HDFC Bank, ICICI Bank, State Bank of India, Axis Bank, Kotak Mahindra Bank ya kisi leading NBFC jaise Bajaj Finance, Tata Capital ya Aditya Birla Capital se liya gaya personal loan ek <strong>unsecured credit facility</strong> hota hai. Iska matlab hai ki bank ke paas loan sanction karte waqt koi collateral security, property mortgage ya gold pledge nahi hota.
@@ -1038,25 +1036,11 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2088"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Section 25 of the Payment and Settlement Systems Act, 2007 (Electronic Clearing Mandate Bounce Laws)
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Section 25 of the Payment and Settlement Systems Act, 2007 (Electronic Clearing Mandate Bounce Laws)</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2281"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Section 138 &amp; Section 147 of the Negotiable Instruments Act, 1881 (Cheque Dishonor &amp; Legal Compounding)
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Section 138 &amp; Section 147 of the Negotiable Instruments Act, 1881 (Cheque Dishonor &amp; Legal Compounding)</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />

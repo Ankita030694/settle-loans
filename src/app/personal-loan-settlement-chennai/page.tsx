@@ -557,7 +557,7 @@ export default function Page() {
                   <span>1. Chennai &amp; Tamil Nadu Debt Landscape</span>
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  The Unsecured Debt Crisis Across Chennai&apos;s Tech &amp; Industrial Corridors
+                  Debt Crisis in Chennai&apos;s Tech &amp; Industrial Hubs
                 </h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Chennai occupies a pivotal position in India&apos;s economic engine, driven by sprawling information technology corridors along Old Mahabalipuram Road (OMR), Navalur, and Sholinganallur, alongside major automotive and industrial manufacturing hubs in Guindy, Ambattur, Sriperumbudur, and Oragadam. Over the past decade, aggressive retail lending by leading commercial banks and non-banking financial companies (NBFCs) flooded salaried professionals and MSME entrepreneurs with instant pre-approved personal loans, revolving credit cards, and digital credit lines.
@@ -1023,15 +1023,7 @@ export default function Page() {
                     <span className="font-semibold text-slate-800">Tamil Nadu State Legal Services Authority (TNSLSA)</span>
                     <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                   </a>
-                  <a
-                    href="https://indiacode.gov.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between"
-                  >
-                    <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span>
-                    <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span></span>
                 </div>
               </section>
 

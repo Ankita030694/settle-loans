@@ -506,9 +506,7 @@ export default function PersonalLoanSettlementSuratPage() {
 
             {/* Section 1: Economic Landscape of Surat */}
             <section id="economic-landscape-surat-trader-debt-crises" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Surat Trade Cycles, MSME Liquidity &amp; Unsecured Loan Defaults: Understanding Commercial Distress
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Surat Trade Cycles, MSME Liquidity Unsecured Loan</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Surat stands as India&apos;s undisputed commercial powerhouse for man-made synthetic textiles and diamond cutting and polishing. From the bustling wholesale corridors of the Ring Road Textile Market, Millennium Market, and Surat Textile Market (STM) to the traditional diamond bourses in Mahidharpura, Varachha, and the modern Surat Diamond Bourse (SDB) at Khajod, the city operates on an interconnected web of high-volume, credit-driven commerce. Industrial estates in Sachin GIDC, Pandesara, Katargam, and Olpad house thousands of power loom weaving units, yarn texturizing plants, processing mills, and diamond manufacturing workshops.
               </p>
@@ -1014,15 +1012,7 @@ export default function PersonalLoanSettlementSuratPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction – Income Recognition &amp; Asset Classification (IRACP)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 Statutory Defense)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 Statutory Defense)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"

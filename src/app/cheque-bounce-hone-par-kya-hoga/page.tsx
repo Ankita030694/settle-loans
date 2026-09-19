@@ -469,9 +469,7 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 01</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. Anatomy of Cheque Bounce Under Section 138 NI Act: Security Cheques vs. Legally Enforceable Debt
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">1. Cheque Bounce Under Section 138 NI Act: Legal Rules</h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   Jab koi udhardata (borrower) kisi commercial bank, non-banking financial company (NBFC), ya personal lender se loan leta hai, toh loan sanctioning ke dauran aksar lender dwara multiple blank signed cheques &quot;security deposit&quot; ke taur par jama karwaye jate hain. Jab borrower ki financial sthiti bigadti hai aur consecutive monthly installments (EMIs) miss hoti hain, toh lenders aksar in blank security cheques par manmani rakam bharkar bina borrower ki prior intimation ke unhe clearinghouse mein deposit kar dete hain. Account mein balance na hone ke kaaran jab cheque return memo ke sath &quot;Funds Insufficient&quot; ya &quot;Account Closed&quot; likhkar wapas aata hai, toh <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> ke tahat statutory dispute generate hota hai.
@@ -959,14 +957,7 @@ export default function ChequeBounceHoneParKyaHogaPage() {
               <ul className="space-y-2">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2191"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Negotiable Instruments Act, 1881 – Section 138, 142, and 147 Statutory Compounding Provisions
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Negotiable Instruments Act, 1881 – Section 138, 142, and 147 Statutory Compounding Provisions</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
@@ -981,14 +972,7 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2042"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Payment and Settlement Systems Act, 2007 – Section 25 Electronic Clearing Mandate Regulations
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Payment and Settlement Systems Act, 2007 – Section 25 Electronic Clearing Mandate Regulations</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />

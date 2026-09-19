@@ -886,15 +886,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
                   <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Scheme (File Bank Harassment Grievance)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2263"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Penal Code / BNS (Sections on Forgery of Court Records &amp; Extortion)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Penal Code / BNS (Sections on Forgery of Court Records &amp; Extortion)</span></span>
                 <a
                   href="https://nalsa.gov.in"
                   target="_blank"

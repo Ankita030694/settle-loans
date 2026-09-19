@@ -364,9 +364,7 @@ export default function PersonalLoanSettlementMumbaiClient() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Mumbai MMR Debt Ecosystem &amp; Banking Litigation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating High-Ticket Debt Traps &amp; Bank Recovery in Mumbai, Thane &amp; Navi Mumbai
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating High-Ticket Debt Traps Bank Recovery in Mumbai,</h2>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 The Mumbai Metropolitan Region (MMR) functions as India&apos;s commercial epicenter, hosting the headquarters of major scheduled commercial banks, multinational financial institutions, and leading Non-Banking Financial Companies (NBFCs). It also concentrates India&apos;s highest density of salaried corporate executives, investment professionals, IT leaders, and business founders across hubs like Bandra-Kurla Complex (BKC), Lower Parel, Nariman Point, Andheri East, Powai, Thane, and Navi Mumbai. While corporate salaries in Mumbai are substantial, the cost of living—characterized by staggering rental expenses, premium home loan EMIs, children&apos;s education fees, and lifestyle inflation—leaves corporate borrowers exceptionally vulnerable to sudden economic shocks.
               </p>

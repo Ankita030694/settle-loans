@@ -365,9 +365,7 @@ export default function PersonalLoanSettlementHyderabadClient() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Hyderabad &amp; Secunderabad Debt Ecosystem</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating High-Ticket Debt Traps &amp; Bank Recovery Across Hyderabad, Cyberabad &amp; Secunderabad
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating High-Ticket Debt Traps Bank Recovery Across</h2>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 The Hyderabad metropolitan area, encompassing the twin cities of Hyderabad and Secunderabad alongside the high-growth technology corridor of Cyberabad, has emerged as one of India&apos;s foremost economic engines. Home to global technology campuses, pharmaceutical conglomerates, biotechnology enterprises, and financial service centers across HITEC City, Gachibowli, Madhapur, the Financial District, Kondapur, Begumpet, and Banjara Hills, the region concentrates a massive population of ambitious IT professionals, corporate leaders, and tech entrepreneurs. While corporate compensation packages in Hyderabad have expanded significantly, rapid urban expansion has brought steep residential rental inflation, high-ticket home loan EMIs, private schooling costs, and escalating lifestyle leverage.
               </p>

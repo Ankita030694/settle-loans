@@ -510,9 +510,7 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* Section 1: Demystifying Personal Insolvency & Bankruptcy */}
             <section id="demystifying-personal-insolvency-india" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Personal Insolvency &amp; Bankruptcy in India: Historical Context vs Modern IBC Framework
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying Personal Insolvency Bankruptcy in India:</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For over a century, personal debt distress in India was governed by antiquated colonial legislation: the <strong>Presidency Towns Insolvency Act, 1909</strong> (applicable to Mumbai, Kolkata, and Chennai) and the <strong>Provincial Insolvency Act, 1920</strong> (applicable across the rest of India). These historical statutes were inherently punitive, cumbersome, and rarely offered honest but unfortunate borrowers a viable economic restart. Debtors who suffered severe business loss, debilitating medical emergencies, or systemic economic crises faced lifelong civil litigation, continuous asset attachment, and acute societal stigmatization without ever achieving legal debt finality.
               </p>
@@ -996,15 +994,7 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2154"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Insolvency and Bankruptcy Code, 2016 (Part III - Individual Insolvency)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Insolvency and Bankruptcy Code, 2016 (Part III - Individual Insolvency)</span></span>
                 <a
                   href="https://ibbi.gov.in"
                   target="_blank"

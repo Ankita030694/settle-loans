@@ -564,9 +564,7 @@ export default function PoonawallaFincorpLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Fast-Growing NBFC Risk Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Poonawalla Fincorp&apos;s Digital Credit Engine &amp; Recovery Infrastructure
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Poonawalla Fincorps Digital Credit Engine</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Poonawalla Fincorp Limited (formerly Magma Fincorp Limited), backed by the Cyrus Poonawalla Group, has rapidly expanded as a leading technology-driven systemically important Non-Banking Financial Company (NBFC-ND-SI) in India. Headquartered in Pune with corporate registration details (CIN: L51504PN1978PLC209007), the institution disburses thousands of crores annually across retail credit segments, including unsecured personal loans, professional loans for doctors and chartered accountants, business loans, and pre-owned vehicle financing facilities.
               </p>

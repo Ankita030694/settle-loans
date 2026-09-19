@@ -868,25 +868,11 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2088"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA e-Mandate Bounce Laws)
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA e-Mandate Bounce Laws)</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2281"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Section 138 &amp; Section 147 of the Negotiable Instruments Act, 1881 (Cheque Dishonor &amp; Compounding)
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Section 138 &amp; Section 147 of the Negotiable Instruments Act, 1881 (Cheque Dishonor &amp; Compounding)</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />

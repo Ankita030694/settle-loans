@@ -1005,24 +1005,8 @@ export default function SalaryAccountEcsMandateCancellationPage() {
                   <span className="font-semibold text-slate-800">RBI Circular RBI/2019-20/200 (e-Mandate Processing &amp; Revocation)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2381"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Payment of Wages Act, 1936 (Section 7 Wage Deductions)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2085"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Payment and Settlement Systems Act, 2007 (Section 25 Dishonour)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment of Wages Act, 1936 (Section 7 Wage Deductions)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment and Settlement Systems Act, 2007 (Section 25 Dishonour)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"

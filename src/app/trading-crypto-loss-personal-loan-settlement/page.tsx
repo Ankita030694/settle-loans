@@ -516,9 +516,7 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </span>
                 <span className="text-xs font-black tracking-widest text-[#1F5EFF] uppercase">Section 01</span>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The Anatomy of Trading &amp; Crypto Debt Collapse: Psychological Ruin and Leverage Spirals
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mb-4 leading-tight">1. The Anatomy of Trading Crypto Debt Collapse: Psychological</h2>
               <div className="space-y-4 text-slate-700 leading-relaxed text-base">
                 <p>
                   The democratization of digital retail broking and instant consumer credit in India has birthed an acute socio-financial crisis: retail individuals borrowing heavily through unsecured personal loans and credit lines to speculate in equity derivatives (Futures &amp; Options) or volatile cryptocurrency markets. According to landmark research published by the Securities and Exchange Board of India (SEBI), over 93% of individual retail traders in the equity F&amp;O segment incur net financial losses, with the average loss exceeding ₹1.25 Lakhs per trader excluding transaction friction. When speculative exposure is funded not through discretionary savings, but through high-interest personal loans carrying interest rates between 14% and 28% per annum, the outcome is almost invariably catastrophic financial ruin.
@@ -1046,25 +1044,11 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2088"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA e-Mandate Bounce Laws)
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA e-Mandate Bounce Laws)</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2281"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Section 138 &amp; Section 147 of the Negotiable Instruments Act, 1881 (Cheque Dishonor &amp; Compounding)
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Section 138 &amp; Section 147 of the Negotiable Instruments Act, 1881 (Cheque Dishonor &amp; Compounding)</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />

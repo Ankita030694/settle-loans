@@ -519,9 +519,7 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Section 1: Statutory Pension Immunity */}
             <section id="statutory-pension-immunity" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Statutory Pension Immunity: The Absolute Protective Shield of Section 60(1)(g) CPC &amp; The Pensions Act, 1871
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Statutory Pension Immunity: The Absolute Protective Shield</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For millions of senior citizens, superannuated public servants, defense veterans, and family pensioners across India, retirement earnings represent the solitary economic lifeline sustaining their daily food, medical prescriptions, and basic human dignity. When unforeseen financial shocks—such as severe illness, surgical hospitalization, or business losses suffered by dependent adult children—result in default on personal loans or credit card balances, commercial lending institutions frequently subject elderly borrowers to intense collection pressure. In many egregious cases, banks attempt to confiscate monthly pension credits or assert that court bailiffs will attach retirement corpus.
               </p>
@@ -963,24 +961,8 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2191"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60(1)(g) Pension Exemption)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2311"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">The Pensions Act, 1871 (Section 11 Exemption from Attachment)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60(1)(g) Pension Exemption)</span></span>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">The Pensions Act, 1871 (Section 11 Exemption from Attachment)</span></span>
                 <a
                   href="https://socialjustice.gov.in"
                   target="_blank"

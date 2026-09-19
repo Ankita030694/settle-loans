@@ -555,9 +555,7 @@ export default function Page() {
                   <Building2 className="w-4 h-4" />
                   <span>1. Kolkata &amp; Bengal Debt Ecosystem</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  The Credit Distress Landscape Across Kolkata&apos;s Tech, Corporate &amp; Commercial Hubs
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Credit Distress Landscape Across Kolkatas Tech, Corporate</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Kolkata occupies a historic and strategic position in Eastern India&apos;s financial architecture. The city hosts major public sector banking headquarters and regional zonal offices across BBD Bagh (Dalhousie Square), Strand Road, Park Street, and Camac Street, alongside a rapidly expanding technology and IT-services corridor in Sector V Salt Lake and Rajarhat New Town. Over the past decade, aggressive digital underwriting and unsecured retail credit expansion by major commercial banks (such as State Bank of India, UCO Bank, Punjab National Bank, HDFC Bank, ICICI Bank, Axis Bank, and Bandhan Bank) and non-banking financial companies (NBFCs) flooded salaried tech employees, corporate managers, and MSME entrepreneurs with instant personal loans and high-limit credit cards.
                 </p>
@@ -992,15 +990,7 @@ export default function Page() {
                     <span className="font-semibold text-slate-800">West Bengal State Legal Services Authority (WBSLSA)</span>
                     <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                   </a>
-                  <a
-                    href="https://indiacode.gov.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between"
-                  >
-                    <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span>
-                    <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span></span>
                 </div>
               </section>
 

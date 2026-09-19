@@ -547,9 +547,7 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Section 1: The Co-Branded High-Risk Debt Trap */}
             <section id="co-branded-debt-trap" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The Co-Branded High-Risk Debt Trap: Anatomy of RBL Bank Credit Card Exposure
-              </h2>
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">1. The Co-Branded High-Risk Debt Trap: Anatomy of RBL Bank</h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 Over the past decade, RBL Bank Limited established an aggressive retail credit card expansion strategy heavily centered on third-party co-branded distribution partnerships. Flagship products—including the Bajaj Finserv RBL Bank SuperCard series, the Zomato Edition Card, the BookMyShow Play Credit Card, Paisabazaar Duet, and Shoprite cards—were marketed aggressively across digital checkout flows and consumer retail counters. These co-branded cards were frequently disbursed through frictionless, pre-approved digital funnels with minimal manual underwriting, extending substantial revolving credit lines to salaried professionals, self-employed gig economy workers, and retail merchants.
               </p>

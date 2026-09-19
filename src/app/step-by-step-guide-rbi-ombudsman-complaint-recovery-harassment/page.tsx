@@ -918,15 +918,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction – Outsourcing of Financial Services &amp; Code of Conduct</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Bharatiya Sakshya Adhiniyam, 2023 (Section 63 Electronic Evidence)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Bharatiya Sakshya Adhiniyam, 2023 (Section 63 Electronic Evidence)</span></span>
                 <a
                   href="https://legislative.gov.in"
                   target="_blank"

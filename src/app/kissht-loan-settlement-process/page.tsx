@@ -554,9 +554,7 @@ export default function KisshtLoanSettlementProcessPage() {
                 <Smartphone className="w-4 h-4" />
                 <span>1. Fintech Architecture &amp; NBFC Ecosystem</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Kissht, Ring App &amp; the Si Creva Capital Lending Architecture
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Kissht, Ring App the Si Creva Capital Lending</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The digital lending landscape in India has witnessed rapid expansion through fintech platforms such as Kissht and its sister product, the Ring app, both managed under Onemi Technology Solutions Private Limited. While retail borrowers interact with sleek smartphone interfaces offering instant revolving credit lines, merchant checkout finance, and personal loans, the actual underwriting and capital disbursement operate through Reserve Bank of India (RBI) registered Non-Banking Financial Companies (NBFCs). The principal balance sheet lender for Kissht is Si Creva Capital Services Private Limited, frequently supported by co-lending institutional syndicates including MAS Financial Services Limited and Northern Arc Capital.
               </p>

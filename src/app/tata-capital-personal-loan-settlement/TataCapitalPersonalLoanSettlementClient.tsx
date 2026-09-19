@@ -375,7 +375,7 @@ export default function TataCapitalPersonalLoanSettlementClient() {
                 <span>1. Corporate NBFC Architecture &amp; Recovery Infrastructure</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Tata Capital&apos;s Algorithmic Credit &amp; Recovery Infrastructure
+                Tata Capital Credit &amp; Recovery System
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Tata Capital Limited (alongside Tata Capital Financial Services Limited) represents one of India&apos;s premier systemically important non-banking financial companies (NBFC-ICC). Backed by the institutional pedigree of the Tata Group, the lender operates extensive retail portfolios encompassing unsecured personal loans, business installment credit, and digital consumer durables loans. Unlike traditional public sector banks that rely on branch-level human discretion, Tata Capital utilizes a centralized, algorithmic risk engine engineered to detect default early and enforce swift automated recovery.

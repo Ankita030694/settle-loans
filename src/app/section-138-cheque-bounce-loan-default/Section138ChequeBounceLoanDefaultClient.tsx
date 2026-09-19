@@ -427,7 +427,7 @@ SettleLoans Legal Advisory Network`;
             {/* Section 1 */}
             <section id="loan-cheque-bounce-anatomy" className="scroll-mt-28 mb-14">
               <h2 className="text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                1. The Anatomy of Personal Loan Cheque Bounce &amp; Bank Pressure Tactics
+                1. Personal Loan Cheque Bounce &amp; Bank Pressure
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
                 When financial distress strikes—whether from sudden job loss, salary reductions, severe medical emergencies, or business downturns—defaulting on an unsecured personal loan is a distressing reality for hundreds of thousands of salaried Indians. However, the psychological trauma escalates exponentially when the lending bank or NBFC deposits an undated security cheque (PDC) that bounces, followed by alarming legal notices threatening criminal prosecution and immediate imprisonment under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>.
@@ -960,7 +960,7 @@ SettleLoans Legal Advisory Network`;
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
                   <a
-                    href="https://sci.gov.in"
+                    href="https://www.sci.gov.in"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"

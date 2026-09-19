@@ -491,7 +491,7 @@ export default function TaxImplicationsLoanSettlementPage() {
             {/* Section 1: Introduction to Loan Settlement Haircut & The Core Tax Dilemma */}
             <section id="understanding-loan-settlement-haircut-tax-dilemma" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Anatomy of a Loan Settlement Haircut &amp; The Core Tax Dilemma in India
+                1. Loan Settlement Haircut &amp; Tax Issues in India
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an individual borrower or commercial enterprise in India defaults on an unsecured credit card, personal loan, or business credit facility due to severe insolvency, medical catastrophe, or economic downturn, commercial banks and Non-Banking Financial Companies (NBFCs) frequently offer a negotiated compromise known as a <strong>One-Time Settlement (OTS)</strong>. In banking parlance, the portion of the outstanding balance forgiven or written off by the lending institution is termed a <strong>haircut</strong>. For example, if a borrower has an accumulated ledger liability of ₹10 Lakhs—comprising ₹6 Lakhs of principal and ₹4 Lakhs of accrued penal interest and late fees—and the bank agrees to close the loan upon a lump-sum payment of ₹4.5 Lakhs, the borrower receives a total debt remission of ₹5.5 Lakhs.
@@ -929,15 +929,7 @@ export default function TaxImplicationsLoanSettlementPage() {
                   <span className="font-semibold text-slate-800">Income Tax Department of India (CBDT Official Portal)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2435"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Income Tax Act, 1961 (Sections 28, 41 &amp; 194R Provisions)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Income Tax Act, 1961 (Sections 28, 41 &amp; 194R Provisions)</span></span>
                 <a
                   href="https://incometaxindia.gov.in/communications/circular/circular-12-2022.pdf"
                   target="_blank"

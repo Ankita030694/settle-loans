@@ -861,15 +861,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
                   <span className="font-semibold text-slate-800">Supreme Court of India (Justice K.S. Puttaswamy Spatial Privacy Jurisprudence)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"
-                >
-                  <span className="font-semibold text-slate-800">Indian Contract Act, 1872 &amp; Banking Regulation Act, 1949 (Statutory Civil Protections)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 &amp; Banking Regulation Act, 1949 (Statutory Civil Protections)</span></span>
               </div>
             </section>
 

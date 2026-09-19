@@ -561,9 +561,7 @@ export default function PersonalLoanSettlementMysorePage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Southern Satellite Tech Hub &amp; Commercial Corridor</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Debt Default Dynamics in Mysore: The Southern Tech Hub &amp; Commercial Corridor
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Debt Default Dynamics in Mysore: The Southern Tech</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Mysore (Mysuru) serves as Karnataka&apos;s second-largest software exporter and a premier satellite technology hub connected to Bengaluru via the NH 275 expressway. The city hosts major software development centers across the Hebbal Electronic City corridor alongside traditional commerce: silk weaving houses, sandalwood oil and handicraft manufacturing, heritage tourism, and trading establishments throughout Sayyaji Rao Road and Mandi Mohalla. Neighboring Mandya adds an agro-processing and manufacturing belt centered on sugar mills, jaggery production, and allied engineering units.
               </p>

@@ -561,9 +561,7 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Institutional Context &amp; Credit Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Standard Chartered Bank India: Retail Portfolio Architecture and High-Ticket Exposure
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Standard Chartered Bank India: Retail Portfolio & OTS</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Standard Chartered Bank stands as one of the oldest and most established foreign banking institutions operating in India, catering extensively to affluent professionals, senior corporate executives, high-net-worth individuals, and business owners. The bank&apos;s retail lending architecture in India is heavily anchored in premium, high-ticket unsecured credit products, including the Standard Chartered Ultimate Credit Card, EaseMyTrip Credit Card, Smart Credit Card, DigiSmart Credit Card, Platinum Rewards Card, and substantial unsecured Personal Loans extending up to ₹30 Lakhs to ₹50 Lakhs.
               </p>

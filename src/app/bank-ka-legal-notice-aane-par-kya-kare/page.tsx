@@ -957,25 +957,11 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2191"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Negotiable Instruments Act, 1881 – Section 138 Cheque Dishonour Statutory Notice Rules
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Negotiable Instruments Act, 1881 – Section 138 Cheque Dishonour Statutory Notice Rules</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2042"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Payment and Settlement Systems Act, 2007 – Section 25 Electronic Clearance Mandate Rules
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Payment and Settlement Systems Act, 2007 – Section 25 Electronic Clearance Mandate Rules</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />

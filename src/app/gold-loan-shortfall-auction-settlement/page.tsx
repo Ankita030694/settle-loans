@@ -504,9 +504,7 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Section 1 */}
             <section id="demystifying-gold-loan-shortfalls" className="space-y-4">
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
-                1. Demystifying Gold Loan Shortfalls: How Collateral Liquidation Leaves Residual Debt
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 tracking-tight">1. Gold Loan Shortfalls: Auction & Residual Debt Rules</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For millions of Indian households and MSME proprietors, pledging gold jewellery or coins represents the fastest avenue to bridge immediate liquidity shortfalls. Gold loans are structured under the premise of being fully secured, self-liquidating facilities where the intrinsic value of the pledged 22-karat or 24-karat metal substantially exceeds the sanctioned loan-to-value (LTV) ceiling of 75% prescribed by the Reserve Bank of India. However, when economic distress, business cash-flow contraction, or medical emergencies precipitate payment defaults across multiple monthly cycles, borrowers face a sudden and traumatic institutional transition. Non-Banking Financial Companies (NBFCs) such as Muthoot Finance, Manappuram Finance, and IIFL, alongside commercial scheduled banks like State Bank of India, HDFC Bank, ICICI Bank, and Canara Bank, initiate rapid recovery protocols that culminate in the public auction of the pledged ornaments.
               </p>
@@ -832,15 +830,7 @@ export default function GoldLoanShortfallSettlementPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 176 - Pawnee Rights)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 176 - Pawnee Rights)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"

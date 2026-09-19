@@ -563,9 +563,7 @@ export default function PersonalLoanSettlementIndorePage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Commercial Hub Architecture &amp; Debt Distress</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Economic Reality of Debt Distress in Indore: Commercial Traders, MSMEs &amp; Salaried Borrowers
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Economic Reality of Debt Distress in Indore: Commercial</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Indore stands as the unchallenged commercial, financial, and industrial capital of Madhya Pradesh and the broader Malwa region. The city&apos;s rapid economic expansion over the past decade has created a vibrant, dual-structured credit ecosystem. On one side lies the traditional commercial trading core centered in historic markets—such as the Sitlamata Cloth Market, the Sarafa bullion exchange, Siyaganj wholesale trade corridors, Marothia, and the transport terminals of Loha Mandi. On the other side sits a modern, fast-growing service and manufacturing economy anchored by IT campuses in Vijay Nagar and the Super Corridor, alongside heavy industrial belts in Pithampur, Sanwer Road, Dewas, and Dhar.
               </p>

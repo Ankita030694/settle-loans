@@ -568,9 +568,7 @@ export default function HSBCPersonalLoanCreditCardSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Corporate Retail Credit Landscape &amp; High-Income Exposure</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Corporate Default Dilemma: HSBC Retail Credit Architecture &amp; High-Income Exposure
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Corporate Default Dilemma: HSBC Retail Credit</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The Hongkong and Shanghai Banking Corporation Limited (HSBC India), operating as a premier foreign scheduled commercial bank licensed by the Reserve Bank of India, occupies a distinct niche in India&apos;s retail banking ecosystem. Rather than catering to mass-market micro-borrowers, HSBC India specializes in underwriting high-ticket unsecured credit lines, structured personal loans, and Premier World Elite credit cards tailored almost exclusively for affluent salaried professionals, multinational enterprise executives, technology leads, management consultants, and commercial corporate leaders.
               </p>

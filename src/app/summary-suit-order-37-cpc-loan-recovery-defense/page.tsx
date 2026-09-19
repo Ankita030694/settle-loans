@@ -496,9 +496,7 @@ export default function Order37SummarySuitDefensePage() {
 
             {/* Section 1: The 10-Day Civil Litigation Emergency */}
             <section id="the-10-day-civil-litigation-emergency" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The 10-Day Civil Litigation Emergency: Demystifying Order 37 CPC Summary Recovery Suits
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. 10-Day Civil Litigation Emergency: Order 37 CPC Suits</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower defaults on an unsecured personal loan, business line of credit, or credit card facility with an outstanding claim below the ₹20 Lakh threshold of the Debt Recovery Tribunal (DRT), commercial banks and Non-Banking Financial Companies (NBFCs) frequently bypass standard civil litigation. Instead, institutional lenders—including State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, and Kotak Mahindra Bank—initiate fast-track recovery proceedings by filing a <strong>Summary Suit under Order XXXVII (Order 37) of the Code of Civil Procedure, 1908 (CPC)</strong> in the City Civil Court, District Court, or High Court exercising original civil jurisdiction.
               </p>
@@ -989,15 +987,7 @@ export default function Order37SummarySuitDefensePage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2191"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Order XXXVII – Summary Procedure)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Order XXXVII – Summary Procedure)</span></span>
                 <a
                   href="https://www.sci.gov.in"
                   target="_blank"
@@ -1025,15 +1015,7 @@ export default function Order37SummarySuitDefensePage() {
                   <span className="font-semibold text-slate-800">National Legal Services Authority (Lok Adalat Civil Dispute Compromise)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1546"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"
-                >
-                  <span className="font-semibold text-slate-800">The Limitation Act, 1963 (Articles 19, 21 &amp; Section 18 Debt Acknowledgment)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">The Limitation Act, 1963 (Articles 19, 21 &amp; Section 18 Debt Acknowledgment)</span></span>
               </div>
             </section>
 

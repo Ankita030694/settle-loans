@@ -511,9 +511,7 @@ export default function NriCreditBureauMappingPage() {
 
             {/* Section 1: Demystifying Cross-Border Credit Reporting */}
             <section id="demystifying-cross-border-credit-reporting" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Cross-Border Credit Reporting: Will an Indian Loan Default Affect Overseas Credit Scores?
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying Cross-Border Credit Reporting & NRI Scores</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For hundreds of thousands of Non-Resident Indians (NRIs), Overseas Citizens of India (OCIs), and expatriates residing in the United States, the United Kingdom, Canada, Australia, Singapore, and the Gulf Cooperation Council (GCC) nations such as the United Arab Emirates and Saudi Arabia, unresolved debts in India represent a source of profound emotional distress. Whether triggered by an unexpected job relocation, medical emergencies, currency fluctuations, real estate stalling, or startup ventures that folded during economic downturns, unpaid personal loans, credit card balances, education loans, and home loan facilities left behind with Indian commercial lenders—such as State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, or Bajaj Finance—frequently produce intense cross-border anxiety.
               </p>
@@ -992,15 +990,7 @@ export default function NriCreditBureauMappingPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2042"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Credit Information Companies (Regulation) Act, 2005 (CICRA)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Credit Information Companies (Regulation) Act, 2005 (CICRA)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"

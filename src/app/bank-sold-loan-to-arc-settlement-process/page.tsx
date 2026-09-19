@@ -502,9 +502,7 @@ export default function BankSoldLoanToArcSettlementPage() {
 
             {/* Section 1: Demystifying Debt Assignment */}
             <section id="demystifying-debt-assignment-bank-to-arc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Debt Assignment: What Happens When a Bank Sells Your Loan to an ARC
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying Debt Assignment: What Happens When a Bank</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Discovering that your commercial bank or Non-Banking Financial Company (NBFC) has sold or assigned your delinquent loan to an Asset Reconstruction Company (ARC) often triggers severe anxiety. Borrowers across India—whether managing defaulted personal loans, business credit facilities, home loans, or credit cards with major institutions such as State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, or Punjab National Bank—frequently receive sudden notices from unfamiliar entities like <strong>Phoenix ARC, ARCIL (Asset Reconstruction Company India Ltd), Edelweiss ARC, CFM ARC, Prudent ARC, Omkara ARC, UV ARCL, or Invent ARC</strong>.
               </p>
@@ -974,15 +972,7 @@ export default function BankSoldLoanToArcSettlementPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2006"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Section 5 – Acquisition of Financial Assets by ARCs)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Section 5 – Acquisition of Financial Assets by ARCs)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"

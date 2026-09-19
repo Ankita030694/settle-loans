@@ -135,7 +135,7 @@ export default function SitemapPage() {
               { name: "Required Settlement Documents", href: "/what-documents-are-required-for-loan-settlement-with-a-professional-service" },
               { name: "Secured vs Unsecured Settlement", href: "/can-i-settle-a-secured-loan-like-a-home-loan-or-only-unsecured-ones" },
               { name: "Settle via Mobile App", href: "/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps" },
-              { name: "Effective Debt talks Services", href: "/find-debt-settlement-services-known-for-effective-talks" },
+              { name: "Effective Debt Negotiation Services", href: "/faqs/find-debt-settlement-services-known-for-effective-negotiation" },
               { name: "Compare Loan Settlement Apps", href: "/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" },
               { name: "Best Vehicle Loan Settlement Deal", href: "/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services" },
               { name: "Government Credit Counseling Chennai", href: "/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai" },
@@ -246,8 +246,10 @@ export default function SitemapPage() {
     <main className="min-h-screen bg-gray-50 pt-24 pb-20 px-4 md:px-8">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-black text-[#2E2E2E] mb-6">Sitemap</h1>
-        <p className="text-gray-600 mb-12 text-lg font-medium">Browse our comprehensive list of resources, guides, and services regarding loan settlements.</p>
+        <p className="text-gray-600 mb-8 text-lg font-medium">Browse our comprehensive list of resources, guides, and services regarding loan settlements.</p>
         
+        <h2 className="text-2xl font-bold text-slate-900 mb-8">Browse All Loan Settlement Topics & Guides</h2>
+
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {sortedQueries.map((query, index) => (
             <Link
@@ -255,9 +257,9 @@ export default function SitemapPage() {
               href={query.href}
               className="bg-white p-5 rounded-2xl shadow-sm hover:shadow-md transition-shadow border border-gray-100 flex items-center justify-start group"
             >
-              <h2 className="text-[#1F5EFF] font-bold text-sm md:text-base group-hover:text-blue-800 transition-colors">
+              <p className="text-[#1F5EFF] font-bold text-sm md:text-base group-hover:text-blue-800 transition-colors">
                 {query.name}
-              </h2>
+              </p>
             </Link>
           ))}
         </div>

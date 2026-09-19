@@ -1009,15 +1009,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                   <span className="font-semibold text-slate-800">RBI Prudential Framework for Resolution of Stressed Assets (June 7, 2019)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1885"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Banking Regulation Act, 1949 (Sections 21 &amp; 35A – Reserve Bank Powers)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Banking Regulation Act, 1949 (Sections 21 &amp; 35A – Reserve Bank Powers)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"
@@ -1027,15 +1019,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction – Fair Lending Practice &amp; Penal Charges in Loan Accounts</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2006"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Section 13 – Enforcement of Security Interest Conditions)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">SARFAESI Act, 2002 (Section 13 – Enforcement of Security Interest Conditions)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"

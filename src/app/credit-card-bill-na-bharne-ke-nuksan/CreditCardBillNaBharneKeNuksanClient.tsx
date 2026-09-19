@@ -351,9 +351,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <Building2 className="w-4 h-4" />
                 <span>1. The Anatomy of Unsecured Credit Card Default</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Credit Card Bill Na Bharne Par Kya Hota Hai: Understanding the Panic &amp; Financial Mechanics
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Credit Card Bill Na Bharne Par Kya Hota Hai: Understanding</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Facing an unmanageable credit card balance in India often triggers acute psychological distress, commonly characterized as debt trap panic. When income disruptions occur due to job loss, business insolvency, or catastrophic family medical emergencies, borrowers suddenly find themselves incapable of paying their monthly statement dues. The fundamental question millions ask during this crisis is: <em>credit card bill na bharne par kya hota hai</em>? Understanding the operational, accounting, and legal reality of credit card default is essential to dismantling fear and executing an effective financial recovery strategy.
               </p>
@@ -940,14 +938,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 </li>
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://indiacode.gov.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Legislative Department, Ministry of Law and Justice:</strong> The Indian Contract Act, 1872 &amp; Payment and Settlement Systems Act, 2007 (Section 25)
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300"><strong>Legislative Department, Ministry of Law and Justice:</strong> The Indian Contract Act, 1872 &amp; Payment and Settlement Systems Act, 2007 (Section 25)</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />

@@ -562,9 +562,7 @@ export default function MPokketLoanSettlementPage() {
                 <Landmark className="w-4 h-4" />
                 <span>1. mPokket &amp; Maybright NBFC Underwriting Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding mPokket&apos;s Digital Lending Engine and NBFC Underwriting Structure
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding mPokkets Digital Lending Engine and NBFC</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 mPokket has established itself as one of India&apos;s largest digital micro-lending platforms, catering primarily to college students, fresh university graduates, gig economy workers, and entry-level salaried professionals. While the consumer experience is delivered via the proprietary mPokket mobile application (operated by mPokket Financial Services Private Limited, CIN: U65999WB2019PTC233120), the core credit underwriting, regulatory compliance, risk provisioning, and balance-sheet lending are executed by Maybright Ventures Private Limited (CIN: U51909WB2016PTC216269). Maybright Ventures is a Systemically Important Non-Deposit Taking Non-Banking Financial Company (NBFC-ND-SI) duly registered with the Reserve Bank of India (RBI Registration No. B-05.05837) with its principal registered corporate headquarters in Kolkata, West Bengal.
               </p>

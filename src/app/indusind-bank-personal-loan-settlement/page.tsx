@@ -537,7 +537,7 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
             {/* Section 1: IndusInd Loan Delinquency & Recovery Framework */}
             <section id="understanding-indusind-loan-defaults" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. IndusInd Bank Loan Delinquency &amp; Retail Risk Management Architecture
+                1. IndusInd Bank Delinquency &amp; Risk Framework
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 IndusInd Bank Limited operates an extensive retail asset and digital consumer financing portfolio across India, distributing unsecured personal loans, consumer durable lines, and premium credit cards. When severe socioeconomic shocks—such as involuntary job loss, business revenue contraction, catastrophic medical emergencies, or family crises—render a borrower incapable of servicing monthly equated monthly installments (EMIs), IndusInd Bank&apos;s automated credit risk architecture initiates a tightly regulated recovery protocol.
@@ -1040,15 +1040,7 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
                   <span className="font-semibold text-slate-800">National Legal Services Authority (Lok Adalat)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25)</span></span>
                 <a
                   href="https://legislative.gov.in"
                   target="_blank"

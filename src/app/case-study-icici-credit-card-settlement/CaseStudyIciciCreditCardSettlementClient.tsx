@@ -348,9 +348,7 @@ export default function CaseStudyIciciCreditCardSettlementClient() {
             
             {/* Section 1: The ₹5 Lakh Crisis & MAD Trap */}
             <section id="case-background-mad-trap" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The ₹5 Lakh Trap: Borrower Profile, Minimum Amount Due &amp; Compounding Genesis
-              </h2>
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">1. The ₹5 Lakh Trap: Borrower Profile, Minimum Amount Due</h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 In March 2024, Siddharth Menon, a 32-year-old marketing manager based in Pune, was confronted with an acute domestic emergency when his father required immediate, uncovered cardiac surgery. Lacking immediate liquidity, Siddharth utilized his ICICI Bank Rubyx Credit Card, which carried an approved credit limit of ₹2,50,000, incurring cumulative medical charges of ₹1,80,000. Under ordinary circumstances, Siddharth intended to pay off the entire balance across four consecutive salary cycles.
               </p>

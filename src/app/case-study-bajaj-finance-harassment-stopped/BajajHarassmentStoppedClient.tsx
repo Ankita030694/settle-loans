@@ -293,9 +293,7 @@ export default function BajajHarassmentStoppedClient() {
             
             {/* Section 1: Borrower Profile & Workplace Crisis */}
             <section id="case-background-workplace-crisis" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The ₹3 Lakh Crisis: Borrower Profile, Workplace Infiltration &amp; Default Genesis
-              </h2>
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">1. The ₹3 Lakh Crisis: Borrower Profile, Workplace</h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 In October 2024, Vikram Malhotra, a 32-year-old mid-level operations analyst working at an IT services multinational in Hinjawadi Infotech Park, Pune, availed an unsecured personal loan of ₹3,00,000 from Bajaj Finance Limited. The credit facility was structured over a 36-month tenure at an effective interest rate of 16.5% per annum, translating into a monthly equated installment (EMI) of ₹10,630. For eighteen consecutive months, Vikram maintained a flawless repayment track record through automated National Automated Clearing House (NACH) mandates debited directly from his salary account.
               </p>

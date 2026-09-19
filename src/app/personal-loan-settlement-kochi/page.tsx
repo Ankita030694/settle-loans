@@ -547,7 +547,7 @@ export default function Page() {
                 <span>1. Kochi &amp; Kerala Commercial Debt Landscape</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Retail Debt Crisis Across Kochi&apos;s Commercial Corridors &amp; Expat Hubs
+                Debt Resolution Across Kochi &amp; Expat Hubs
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Kochi stands as the undisputed commercial and financial capital of Kerala, anchoring the state&apos;s trade, maritime commerce, tourism, and high-growth technology ecosystems across Infopark Kakkanad, SmartCity, and the Willingdon Island logistics corridors. Over recent years, aggressive retail lending by leading private banks and non-banking financial companies (NBFCs) disbursed tens of thousands of unsecured personal loans, multi-card credit facilities, and instant digital personal credit lines to salaried IT professionals, marine executives, trading entrepreneurs, and Non-Resident Indian (NRI) families across Ernakulam, Thiruvananthapuram, and Kozhikode.
@@ -960,15 +960,7 @@ export default function Page() {
                   <span className="font-semibold text-slate-800">Kerala State Legal Services Authority (KELSA)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between"
-                >
-                  <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span></span>
               </div>
             </section>
 

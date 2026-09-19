@@ -860,15 +860,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2191"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 Property Exemptions)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 Property Exemptions)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"
@@ -896,15 +888,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                   <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Scheme (Grievance Portal)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2263"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"
-                >
-                  <span className="font-semibold text-slate-800">Indian Penal Code (Sections 441 Trespass &amp; 383 Extortion)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Penal Code (Sections 441 Trespass &amp; 383 Extortion)</span></span>
               </div>
             </section>
 

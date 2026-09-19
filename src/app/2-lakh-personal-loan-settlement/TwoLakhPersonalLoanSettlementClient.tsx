@@ -350,9 +350,7 @@ export default function TwoLakhPersonalLoanSettlementClient() {
                 <Scale className="w-4 h-4" />
                 <span>1. Institutional Economics &amp; Small Debt Legal Reality</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The ₹2 Lakh Personal Loan Dilemma: Institutional Economics vs. Borrower Panic
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The ₹2 Lakh Loan Dilemma: Bank Economics vs Panic</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Across India&apos;s retail credit ecosystem, a <strong>₹2,00,000 personal loan</strong> is one of the most common debt instruments. Frequently disbursed through instant fintech lending applications, NBFC credit lines, or pre-approved banking facilities, these funds are typically secured during acute life crises such as emergency hospitalizations, unexpected job layoffs, or urgent family commitments. When consecutive EMIs are missed due to severe financial distress, borrowers find themselves overwhelmed by sudden panic, wondering whether the bank will initiate immediate court proceedings, attach household assets, or send the police.
               </p>

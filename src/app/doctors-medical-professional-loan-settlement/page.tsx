@@ -551,9 +551,7 @@ export default function DoctorsLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Clinic Debt Realities &amp; Healthcare Economics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Anatomy of Medical Professional Debt: High-Ticket Expansion vs Cash-Flow Shocks
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Medical Professional Debt: Expansion vs Cash-Flow</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In India&apos;s healthcare sector, establishing and scaling a private medical clinic, diagnostic center, dental operatory, or surgical nursing home requires immense capital expenditure. Leading private banks and systemically important NBFCs—including HDFC Bank, ICICI Bank, Axis Bank, State Bank of India, Bajaj Finance, and Aditya Birla Finance—aggressively market specialized &apos;Doctor Loans&apos; and professional credit lines with limits reaching ₹50 Lakhs to ₹1.5 Crores without demanding tangible collateral upfront.
               </p>

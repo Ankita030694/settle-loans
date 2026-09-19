@@ -281,9 +281,7 @@ export default function MultipleAppLoanSettlementClient() {
             
             {/* Section 1: The ₹2L Multi-App Debt Trap */}
             <section id="case-background-multi-app-trap" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The ₹2 Lakh Multi-App Debt Trap: Genesis of Cyber Loan Panic &amp; Multi-Creditor Delinquency
-              </h2>
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">1. The ₹2 Lakh Multi-App Debt Trap: Genesis of Cyber Loan</h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 In November 2024, Rahul Sharma, a 28-year-old digital marketing executive based in Bengaluru, encountered an acute short-term cash shortfall following delayed client retainers and rising medical expenses for his diabetic mother. Attracted by instant digital disbursals requiring minimal documentation, Rahul availed an initial micro-credit line of ₹50,000 from Navi Finserv. To manage routine household outlays and service initial interest charges over the ensuing months, he subsequently downloaded and secured additional instant loans from KreditBee (₹45,000), MoneyView (₹40,000), SmartCoin (₹35,000), and mPokket (₹30,000). Within four months, his cumulative unsecured digital loan liability reached exactly ₹2,00,000 across five separate mobile lending applications.
               </p>

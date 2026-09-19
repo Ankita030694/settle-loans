@@ -346,7 +346,7 @@ export default function CaseStudyHdfcClient() {
             {/* Section 1: Borrower Profile & Layoff Crisis */}
             <section id="case-background-borrower-profile" className="mb-10 scroll-mt-24">
               <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The ₹8 Lakh Crisis: Borrower Profile, Layoff Shock &amp; Default Genesis
+                1. ₹8 Lakh Crisis: Layoff Shock &amp; Default Genesis
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 In November 2024, Rahul Sharma, a 34-year-old senior software QA specialist based in Bengaluru, secured an unsecured personal loan of ₹8,00,000 from HDFC Bank Limited to finance an urgent family medical contingency. The loan agreement stipulated a tenure of 48 months at an interest rate of 13.75% per annum, translating into a fixed equated monthly installment (EMI) of ₹21,780. For fourteen consecutive months, Rahul maintained a pristine repayment track record, crediting payments promptly through automated National Automated Clearing House (NACH) debits linked to his salary account.

@@ -957,15 +957,7 @@ export default function LoanSettlementBankingOmbudsmanPage() {
                   <span className="font-semibold text-slate-800">Reserve Bank - Integrated Ombudsman Scheme, 2021 (RB-IOS Full Text)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/1885"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Banking Regulation Act, 1949 (Section 47A - Regulatory Penalties)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Banking Regulation Act, 1949 (Section 47A - Regulatory Penalties)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"

@@ -890,7 +890,7 @@ Yours faithfully,
                       <tr>
                         <td className="font-bold text-slate-900">District Consumer Disputes Commission</td>
                         <td>Deficiency of banking service, mental harassment &amp; reputation damages.</td>
-                        <td><a href="https://e-daakhil.nic.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">e-daakhil.nic.in</a></td>
+                        <td><a href="https://consumerhelpline.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">consumerhelpline.gov.in</a></td>
                         <td>45 to 90 Days</td>
                       </tr>
                     </tbody>
@@ -1004,7 +1004,7 @@ Yours faithfully,
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
                   <a
-                    href="https://sci.gov.in"
+                    href="https://www.sci.gov.in"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"

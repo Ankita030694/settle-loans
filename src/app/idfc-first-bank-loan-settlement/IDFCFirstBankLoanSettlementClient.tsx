@@ -307,9 +307,7 @@ export default function IDFCFirstBankLoanSettlementClient() {
 
             {/* Section 1: IDFC Retail Portfolio & Default Lifecycle */}
             <section id="idfc-retail-lending-delinquencies" className="scroll-mt-24 md:scroll-mt-28 space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. IDFC First Bank Retail Lending Ecosystem, Consumer Durable Loans &amp; Default Lifecycle
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. IDFC First Bank Retail Lending Ecosystem, Consumer Durable</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 IDFC First Bank Limited has established itself as one of the fastest-growing retail credit powerhouses in India, originating millions of unsecured personal loans, instant point-of-sale consumer durable loans, two-wheeler financing, and digital revolving credit lines. Through seamless smartphone app integrations and instant paperless underwriting, the bank rapidly scales retail credit exposure across salaried and self-employed demographics. However, when borrowers experience unexpected financial catastrophes—such as sudden job displacement, catastrophic illness, business insolvency, or micro-enterprise cash flow collapse—this rapid digital lending infrastructure transitions into a relentless automated recovery pipeline.
               </p>
@@ -874,15 +872,7 @@ export default function IDFCFirstBankLoanSettlementClient() {
                   <span className="font-semibold text-slate-800">National Legal Services Authority (Lok Adalat)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25)</span></span>
                 <a
                   href="https://legislative.gov.in"
                   target="_blank"

@@ -199,7 +199,7 @@ const jsonLdGraph = {
             "name": "Kavita Nair"
           },
           "datePublished": "2026-07-11",
-          "reviewBody": "Rogue recovery agents called my office colleagues and threatened my HR department after I defaulted on credit card dues following job loss. SettleLoans filed an e-Daakhil petition before the District Consumer Commission alleging unfair trade practices and breach of privacy under RBI Master Directions. The consumer forum issued immediate notice, prompting the bank to recall all third-party agents and grant an official One-Time Settlement with an immediate No Dues Certificate.",
+          "reviewBody": "Rogue recovery agents called my office colleagues and threatened my HR department after I defaulted on credit card dues following job loss. SettleLoans filed an National Consumer Helpline (consumerhelpline.gov.in) petition before the District Consumer Commission alleging unfair trade practices and breach of privacy under RBI Master Directions. The consumer forum issued immediate notice, prompting the bank to recall all third-party agents and grant an official One-Time Settlement with an immediate No Dues Certificate.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -304,7 +304,7 @@ const jsonLdGraph = {
           "name": "Can I file a consumer court complaint online from home?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Under the Consumer Protection Act 2019, consumers can file petitions digitally via the official Government of India portal 'e-Daakhil' (e-daakhil.nic.in). You can register, upload scanned pleadings, annex evidentiary documents, pay nominal court fees online, and attend hearings virtually without traveling to physical courtrooms."
+            "text": "Yes. Under the Consumer Protection Act 2019, consumers can file petitions digitally via the official Government of India portal 'National Consumer Helpline (consumerhelpline.gov.in)' (consumerhelpline.gov.in). You can register, upload scanned pleadings, annex evidentiary documents, pay nominal court fees online, and attend hearings virtually without traveling to physical courtrooms."
           }
         },
         {
@@ -349,7 +349,7 @@ const tocItems = [
   { id: 'evidentiary-threshold-dcdrc-claims', title: '3. Evidentiary Threshold for DCDRC Claims' },
   { id: 'bank-accounting-npv-recovery-formula', title: '4. NPA Accounting & Recovery NPV Formula' },
   { id: 'consumer-court-complaint-roadmap', title: '5. DCDRC Litigation & Settlement Roadmap' },
-  { id: 'edaakhil-filing-pleading-procedure', title: '6. e-Daakhil Filing & Pleading Protocol' },
+  { id: 'edaakhil-filing-pleading-procedure', title: '6. National Consumer Helpline (consumerhelpline.gov.in) Filing & Pleading Protocol' },
   { id: 'quantifying-damages-mental-agony', title: '7. Quantifying Damages & Tort Claims' },
   { id: 'converting-litigation-to-compromise-ots', title: '8. Converting Litigation into 60% OTS' },
   { id: 'dispute-resolution-comparative-matrix', title: '9. Dispute Resolution Comparative Matrix' },
@@ -507,7 +507,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Digital Filing via e-Daakhil:</strong> Aggrieved borrowers can initiate nationwide complaints electronically through the official e-Daakhil portal, eliminating procedural friction and enabling prompt judicial notice issuance.</span>
+                  <span><strong>Digital Filing via National Consumer Helpline (consumerhelpline.gov.in):</strong> Aggrieved borrowers can initiate nationwide complaints electronically through the official National Consumer Helpline (consumerhelpline.gov.in) portal, eliminating procedural friction and enabling prompt judicial notice issuance.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -518,9 +518,7 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Section 1: Demystifying Bank Harassment Under CPA 2019 */}
             <section id="demystifying-bank-harassment-cpa" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Bank Harassment Under the Consumer Protection Act, 2019
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Bank Harassment Under Consumer Protection Act, 2019</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower defaults on an unsecured personal loan, credit card balance, or business credit facility due to genuine financial distress—such as severe medical emergencies, enterprise liquidation, or involuntary employment termination—commercial banks and Non-Banking Financial Companies (NBFCs) frequently deploy aggressive third-party Direct Recovery Agents (DRAs). While financial institutions maintain a legitimate legal right to pursue civil recovery of outstanding dues, Indian law draws an uncompromising boundary between lawful debt demand and extra-judicial harassment, criminal intimidation, and public defamation.
               </p>
@@ -731,7 +729,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                 5. Consumer Court Complaint &amp; Settlement Visual Roadmap
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The visual roadmap below illustrates the structured 5-stage institutional progression from evidence preservation and advocate notice to e-Daakhil DCDRC filing, claiming tort damages, and executing an advantageous One-Time Settlement with a complete debt discharge.
+                The visual roadmap below illustrates the structured 5-stage institutional progression from evidence preservation and advocate notice to National Consumer Helpline (consumerhelpline.gov.in) DCDRC filing, claiming tort damages, and executing an advantageous One-Time Settlement with a complete debt discharge.
               </p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -752,7 +750,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                   <span>Preserve audio recordings, CDRs, and medical proof; issue a mandatory 15-day statutory cure notice to the bank Nodal Officer.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
-                  <span className="font-bold text-slate-900 block mb-1">Stages 3–4: e-Daakhil Filing &amp; Damages</span>
+                  <span className="font-bold text-slate-900 block mb-1">Stages 3–4: National Consumer Helpline (consumerhelpline.gov.in) Filing &amp; Damages</span>
                   <span>File formal DCDRC petition under Section 35 CPA 2019; seek interim injunction against agents and claim ₹10L+ tort damages.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
@@ -762,13 +760,13 @@ export default function ConsumerCourtBankHarassmentPage() {
               </div>
             </section>
 
-            {/* Section 6: Step-by-Step DCDRC Filing Procedure via e-Daakhil */}
+            {/* Section 6: Step-by-Step DCDRC Filing Procedure via National Consumer Helpline (consumerhelpline.gov.in) */}
             <section id="edaakhil-filing-pleading-procedure" className="space-y-4">
               <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Step-by-Step DCDRC Filing Procedure via e-Daakhil &amp; Advocate Pleadings
+                6. Step-by-Step DCDRC Filing Procedure via National Consumer Helpline (consumerhelpline.gov.in) &amp; Advocate Pleadings
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Filing a consumer complaint against a major bank or NBFC has been streamlined by the National Consumer Commission through the online <strong>e-Daakhil portal (e-daakhil.nic.in)</strong>. The complaint must be drafted with precise legal structure to ensure immediate admission and prevent procedural rejection:
+                Filing a consumer complaint against a major bank or NBFC has been streamlined by the National Consumer Commission through the online <strong>National Consumer Helpline (consumerhelpline.gov.in) portal (consumerhelpline.gov.in)</strong>. The complaint must be drafted with precise legal structure to ensure immediate admission and prevent procedural rejection:
               </p>
 
               <div className="space-y-3 my-6">
@@ -805,10 +803,10 @@ export default function ConsumerCourtBankHarassmentPage() {
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm space-y-1.5">
                   <div className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <span className="w-5 h-5 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">4</span>
-                    <span>e-Daakhil Submission &amp; Nominal Court Fee Remittance</span>
+                    <span>National Consumer Helpline (consumerhelpline.gov.in) Submission &amp; Nominal Court Fee Remittance</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed pl-7">
-                    Upload digitized pleadings, sworn affidavits, vakalatnama, and evidence exhibits onto e-Daakhil. Under Consumer Protection Rules, claims up to ₹5 Lakhs require zero court fees, while claims from ₹5 Lakhs to ₹50 Lakhs require only nominal fees (₹200 to ₹1,000), making consumer court immensely cost-effective.
+                    Upload digitized pleadings, sworn affidavits, vakalatnama, and evidence exhibits onto National Consumer Helpline (consumerhelpline.gov.in). Under Consumer Protection Rules, claims up to ₹5 Lakhs require zero court fees, while claims from ₹5 Lakhs to ₹50 Lakhs require only nominal fees (₹200 to ₹1,000), making consumer court immensely cost-effective.
                   </p>
                 </div>
 
@@ -977,7 +975,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                 Navigating complex consumer litigation while facing intense collection pressure requires experienced legal counsel and tactical financial negotiation. At <strong>SettleLoans</strong>, our nationwide panel of senior banking advocates, consumer litigation specialists, and debt negotiators provides an unyielding shield for distressed borrowers.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                From drafting pre-litigation cease-and-desist notices and preserving digital evidence with Section 65B compliance to filing e-Daakhil DCDRC complaints and negotiating 50%–70% One-Time Settlements, we ensure our clients regain dignity, peace of mind, and financial freedom.
+                From drafting pre-litigation cease-and-desist notices and preserving digital evidence with Section 65B compliance to filing National Consumer Helpline (consumerhelpline.gov.in) DCDRC complaints and negotiating 50%–70% One-Time Settlements, we ensure our clients regain dignity, peace of mind, and financial freedom.
               </p>
 
               <CompanySection />
@@ -1013,23 +1011,15 @@ export default function ConsumerCourtBankHarassmentPage() {
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
-                  href="https://e-daakhil.nic.in"
+                  href="https://consumerhelpline.gov.in"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">e-Daakhil Consumer Court Online Filing Portal (Government of India)</span>
+                  <span className="font-semibold text-slate-800">National Consumer Helpline (consumerhelpline.gov.in) Consumer Court Online Filing Portal (Government of India)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/15256"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Consumer Protection Act, 2019 (Full Statutory Text &amp; Sections)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Consumer Protection Act, 2019 (Full Statutory Text &amp; Sections)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"
@@ -1201,7 +1191,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                 </div>
                 <div className="flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-indigo-500 flex-shrink-0" />
-                  <span>e-Daakhil Electronic Filing Support</span>
+                  <span>National Consumer Helpline (consumerhelpline.gov.in) Electronic Filing Support</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Scale className="w-4 h-4 text-amber-500 flex-shrink-0" />

@@ -837,15 +837,7 @@ export default function BestSecuredCreditCardsPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction – Credit Card and Debit Card Issuance (2022/2024)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2048"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Credit Information Companies (Regulation) Act, 2005 (CICRA)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Credit Information Companies (Regulation) Act, 2005 (CICRA)</span></span>
                 <a
                   href="https://www.cibil.com/dispute-resolution"
                   target="_blank"
@@ -864,15 +856,7 @@ export default function BestSecuredCreditCardsPage() {
                   <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Scheme (Fair Lending Redressal)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"
-                >
-                  <span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 171 – Banker&apos;s General Lien)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 171 – Banker&apos;s General Lien)</span></span>
               </div>
             </section>
 

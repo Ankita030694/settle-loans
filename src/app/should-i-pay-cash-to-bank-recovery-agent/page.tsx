@@ -974,15 +974,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction on Fair Practices Code for Lenders (Recovery Conduct)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2263"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Penal Code / BNS (Section 406 &amp; 420 Criminal Breach of Trust &amp; Fraud)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Penal Code / BNS (Section 406 &amp; 420 Criminal Breach of Trust &amp; Fraud)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"
@@ -992,15 +984,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
                   <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Scheme (Complaints Against Recovery Agency Misconduct)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2042"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Credit Information Companies (Regulation) Act, 2005 (Mandatory ₹0 Bureau Update)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Credit Information Companies (Regulation) Act, 2005 (Mandatory ₹0 Bureau Update)</span></span>
                 <a
                   href="https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12535&Mode=0"
                   target="_blank"

@@ -1058,15 +1058,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                   <span className="font-semibold text-slate-800">RBI Circular RBI/2023-24/60 (Responsible Lending Conduct &amp; Release of Property Documents)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://www.indiacode.gov.in/bitstream/123456789/2187/1/A1872-09.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 63 – Remission of Contract Performance)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Indian Contract Act, 1872 (Section 63 – Remission of Contract Performance)</span></span>
                 <a
                   href="https://nalsa.gov.in"
                   target="_blank"

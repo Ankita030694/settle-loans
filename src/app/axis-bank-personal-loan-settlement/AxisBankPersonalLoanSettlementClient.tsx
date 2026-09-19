@@ -388,7 +388,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <span>1. Institutional Context &amp; Risk Architecture</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Axis Bank&apos;s Retail Portfolio &amp; Risk Management Framework
+                Axis Bank Retail Loans &amp; Risk Framework
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Axis Bank Limited stands as one of India&apos;s largest private sector financial institutions. It commands a massive retail credit footprint, including unsecured personal loans, 24x7 digital loans, Burgundy credit facilities, and revolving credit lines. Because these credit products are extended without mortgage collateral or tangible hypothecation, Axis Bank manages its institutional risk through automated credit underwriting, algorithmic bureau monitoring, and tight National Automated Clearing House (NACH) mandate sweeps.
@@ -825,15 +825,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                   <span className="font-semibold text-slate-800">National Legal Services Authority (Lok Adalat)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between"
-                >
-                  <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25)</span></span>
               </div>
             </section>
 

@@ -195,9 +195,7 @@ export default function ChennaiCreditCounselingPage() {
           <article className="w-full lg:w-2/4 flex-1 max-w-none">
 
             <section id="defining-counseling" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight italic underline decoration-[#1F5EFF]">
-                Understanding Consumer Credit Counseling: <span className="text-[#1F5EFF]">A Lifeline for Chennai residents</span>
-              </h2>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight italic underline decoration-[#1F5EFF]">Understanding Consumer Credit Counseling: A Lifeline for</h2>
               <div className="prose prose-lg max-w-none text-[var(--color-text-body)] font-medium">
                 <p className="mb-6 leading-relaxed">
                   The rapidly evolving economic landscape of Chennai, marked by a surge in digital lending and credit card usage, has created a significant need for credible financial advice. For many residents, from software professionals in the IT corridor of OMR to small business owners in T. Nagar, the burden of multiple EMIs can become overwhelming. This is where consumer credit counseling serves as a vital resource.

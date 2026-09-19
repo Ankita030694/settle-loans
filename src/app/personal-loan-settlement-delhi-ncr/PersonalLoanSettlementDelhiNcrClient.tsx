@@ -372,9 +372,7 @@ export default function PersonalLoanSettlementDelhiNcrClient() {
                 <Building2 className="w-4 h-4" />
                 <span>1. NCR Court Jurisdiction &amp; Banking Litigation Landscape</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating the High-Stakes Loan Dispute Ecosystem Across Delhi, Gurugram &amp; Noida
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating the High-Stakes Loan Dispute Ecosystem Across</h2>
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 The National Capital Region (NCR) represents India&apos;s densest concentration of retail unsecured borrowing, driven by competitive white-collar professionals, ambitious small business founders, and expanding corporate executives. However, when macroeconomic headwinds, sudden medical crises, business cash flow disruptions, or corporate layoffs trigger personal loan defaults, borrowers find themselves entangled in an aggressive multi-jurisdictional legal web. Major scheduled commercial banks such as HDFC Bank, ICICI Bank, State Bank of India, Axis Bank, and Kotak Mahindra Bank, alongside prominent NBFCs like Bajaj Finance and Tata Capital, maintain specialized recovery litigation panels across the district court complexes of Delhi NCR.
               </p>

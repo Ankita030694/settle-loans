@@ -564,9 +564,7 @@ export default function DMIFinanceLoanSettlementPage() {
                 <Smartphone className="w-4 h-4" />
                 <span>1. Fintech Underwriting Architecture &amp; Co-Lending Ecosystem</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding DMI Finance&apos;s Digital Balance-Sheet Engine Behind Consumer Apps
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding DMI Finances Digital Balance-Sheet Engine</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 DMI Finance Private Limited (CIN: U65929DL2008PTC182749) represents one of India&apos;s most prominent technology-driven systemically important Non-Banking Financial Companies (NBFC-ND-SI) regulated by the Reserve Bank of India. While retail consumers frequently apply for credit through household digital interfaces—such as Samsung Finance+ device financing kiosks, Google Pay Personal Loans, or Airtel Finance embedded credit—the underlying capital, risk underwriting, regulatory reporting, and legal loan agreements originate directly from DMI Finance.
               </p>

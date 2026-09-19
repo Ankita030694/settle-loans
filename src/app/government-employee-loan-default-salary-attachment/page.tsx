@@ -519,9 +519,7 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* Section 1: Service Conduct Rules vs. Civil Debt Liability */}
             <section id="service-conduct-vs-civil-debt" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Government &amp; PSU Employee Loan Default: Service Conduct Rules vs. Civil Debt Liability
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying Government PSU Employee Loan Default: Service</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For employees serving across Central Ministries, State Civil Departments, Indian Railways, Defense Establishments, and Public Sector Undertakings (PSUs), the onset of financial distress carries a psychological terror far exceeding that felt by private sector workers. The primary dread is not merely financial loss, but the haunting specter of losing one&apos;s hard-earned public service post, enduring departmental disciplinary inquiries, or suffering the public humiliation of having bank legal notices served directly upon departmental superiors or Drawing and Disbursing Officers (DDOs).
               </p>
@@ -1021,15 +1019,7 @@ export default function GovernmentEmployeeLoanDefaultPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2191"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 &amp; Order 21 Rule 48)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 &amp; Order 21 Rule 48)</span></span>
                 <a
                   href="https://dopt.gov.in"
                   target="_blank"

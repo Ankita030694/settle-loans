@@ -507,9 +507,7 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* Section 1: The Core Fear: Kya Police Pakad Legi? */}
             <section id="anxiety-and-the-police-arrest-myth" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Core Fear: Kya Police Pakad Legi? Understanding Loan Default Reality
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Kya Police Pakad Legi? Loan Default Legal Reality</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Jab kisi vyakti ki aarthik sthiti kharab hoti hai—chahe job loss se ya medical emergency se—aur wo bank loan EMIs nahi chuka pata, to sabse bada darr hota hai: <em>&quot;Kya bank police complaint karega? Kya police mujhe pakad legi?&quot;</em>
               </p>
@@ -850,15 +848,7 @@ export default function LoanNaChukaneParKyaHogaPage() {
                   <span className="font-semibold text-slate-800">RBI Master Direction – Fair Practices Code</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2263"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure (Section 60 CPC)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure (Section 60 CPC)</span></span>
                 <a
                   href="https://cms.rbi.org.in"
                   target="_blank"

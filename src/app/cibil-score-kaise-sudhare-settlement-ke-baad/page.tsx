@@ -1054,14 +1054,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />
-                  <a
-                    href="https://indiacode.gov.in/handle/123456789/2042"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] hover:underline"
-                  >
-                    Credit Information Companies (Regulation) Act, 2005 (CICRA Section 21 Dispute Rules)
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300">Credit Information Companies (Regulation) Act, 2005 (CICRA Section 21 Dispute Rules)</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-blue-500 flex-shrink-0" />

@@ -346,9 +346,7 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
             
             {/* Section 1: SME Collapse & Default Genesis */}
             <section id="sme-venture-collapse-default-genesis" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. SME Venture Collapse: Borrower Profile, Cash Flow Shock &amp; ₹15 Lakh Default Genesis
-              </h2>
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">1. SME Venture Collapse: Borrower Profile, Cash Flow Shock</h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 In October 2023, Rajesh Singhal, a 41-year-old entrepreneur operating a proprietary textile and apparel trading enterprise in Surat, secured an unsecured collateral-free business loan of ₹15,00,000 from Axis Bank Limited. Designed to fund peak-season inventory procurement and working capital expansion, the commercial facility was disbursed over a 36-month repayment tenure at an annualized interest rate of 16.50%, generating a substantial monthly equated installment (EMI) of ₹53,120. Rajesh executed the facility agreement as sole proprietor while signing an irrevocable personal guarantee agreement in his individual capacity.
               </p>

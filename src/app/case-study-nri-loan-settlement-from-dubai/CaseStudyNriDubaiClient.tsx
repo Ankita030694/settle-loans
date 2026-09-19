@@ -376,9 +376,7 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Section 1: Expat Relocation & Default Genesis */}
             <section id="case-background-nri-crisis" className="mb-10 scroll-mt-24">
-              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                1. The ₹10 Lakh Crisis: Expat Relocation, Cash Flow Shock &amp; Default Genesis
-              </h2>
+              <h2 className="text-xl md:text-2xl lg:text-3xl font-black text-slate-900 mb-4 leading-tight">1. The ₹10 Lakh Crisis: Expat Relocation, Cash Flow Shock</h2>
               <p className="text-slate-700 leading-relaxed mb-4">
                 In October 2024, Tariq Siddiqui, a 36-year-old structural design engineer residing in Hyderabad, availed an unsecured personal loan of ₹10,00,000 from a major Indian private sector bank to consolidate domestic family commitments prior to his relocation to the United Arab Emirates. The sanctioned facility carried a repayment tenure of 48 months at an annualized interest rate of 14.25%, generating a fixed equated monthly installment (EMI) of ₹27,450. For eight consecutive billing cycles, Tariq serviced his loan obligations promptly through automated National Automated Clearing House (NACH) mandates debited from his domestic resident salary account.
               </p>

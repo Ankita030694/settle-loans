@@ -564,9 +564,7 @@ export default function CasheLoanSettlementProcessPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Fintech Architecture &amp; Bhanix Risk Engine</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding CASHe App&apos;s Digital Underwriting &amp; Bhanix Finance&apos;s Risk Architecture
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding CASHe Apps Digital Underwriting Bhanix Finances</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The CASHe mobile application, engineered by Aeries Financial Technologies Private Limited, operates as one of India&apos;s most prominent digital lending platforms tailored primarily for young salaried professionals, gig-economy workers, and tech employees seeking short-term unsecured credit lines and instant personal loans ranging from ₹10,000 to ₹4,00,000. While the consumer interacts with the sleek mobile interface of CASHe, the actual credit evaluation, capital disbursement, and regulatory reporting are legally executed by its associated Reserve Bank of India (RBI) registered Non-Banking Financial Company (NBFC), Bhanix Finance and Investment Limited.
               </p>

@@ -525,9 +525,7 @@ export default function Page() {
                   <Building2 className="w-4 h-4" />
                   <span>1. Jaipur &amp; Rajasthan Debt Realities</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  The Unsecured Debt Dilemma for Salaried Professionals, MSMEs &amp; Traders in Jaipur
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Unsecured Debt Dilemma for Salaried Professionals, MSMEs</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   As the administrative, industrial, and commercial powerhouse of Rajasthan, Jaipur represents a dynamic socio-economic ecosystem. The city is home to major government administrative complexes around the Rajasthan Government Secretariat, Vidhan Sabha, state public sector undertakings such as Rajasthan Rajya Vidyut Utpadan Nigam Limited (RRVUNL) and RSRTC, premier healthcare institutions including SMS Hospital and Fortis Escorts, educational clusters in Jagatpura, bustling IT and business process hubs across Sitapura Industrial Area and Mahindra World City, alongside massive wholesale and retail trade networks in Johari Bazaar, Bapu Bazaar, Mansarovar, Vaishali Nagar, and Vidyadhar Nagar.
                 </p>
@@ -998,15 +996,7 @@ export default function Page() {
                     <span className="font-semibold text-slate-800">Rajasthan State Legal Services Authority (RSLSA)</span>
                     <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                   </a>
-                  <a
-                    href="https://indiacode.gov.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between"
-                  >
-                    <span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span>
-                    <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                  </a>
+                  <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Payment &amp; Settlement Systems Act (Section 25 PSSA)</span></span>
                 </div>
               </section>
 

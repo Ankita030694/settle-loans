@@ -523,9 +523,7 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* Section 1: Bank Credit Committee Psychology */}
             <section id="credit-committee-psychology" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Bank Credit Committee Psychology: Salaried Predictability vs. Self-Employed Commercial Risk
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Bank Credit Committee Psychology: Salaried Predictability</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower defaults on an unsecured personal loan, credit card portfolio, or business credit line, the account transitions from front-line recovery call centers to the specialized Stressed Asset Resolution Group (SARG) and the Bank Credit Sanction Committee. Institutional lenders—including State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, and leading non-banking financial companies (NBFCs)—do not evaluate all distressed debtors through a uniform lens. Instead, their valuation algorithms and settlement mandates divide borrowers into two distinct risk classifications: salaried professionals and self-employed business owners.
               </p>
@@ -958,15 +956,7 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
                 Official Statutory &amp; Regulatory References
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2191"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 Salary Exemption)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Code of Civil Procedure, 1908 (Section 60 Salary Exemption)</span></span>
                 <a
                   href="https://www.rbi.org.in"
                   target="_blank"
@@ -985,15 +975,7 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
                   <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Scheme (Grievance Redressal)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
-                <a
-                  href="https://indiacode.gov.in/handle/123456789/2189"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
-                >
-                  <span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 Cheque Dishonour)</span>
-                  <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
-                </a>
+                <span className="font-semibold text-slate-800 underline decoration-slate-300"><span className="font-semibold text-slate-800">Negotiable Instruments Act, 1881 (Section 138 Cheque Dishonour)</span></span>
                 <a
                   href="https://www.sci.gov.in"
                   target="_blank"

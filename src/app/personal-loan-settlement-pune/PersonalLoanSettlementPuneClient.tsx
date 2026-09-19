@@ -385,9 +385,7 @@ export default function PersonalLoanSettlementPuneClient() {
                 <Briefcase className="w-4 h-4" />
                 <span>1. Economic Architecture &amp; The Multi-Loan Trap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Pune&apos;s Dual IT &amp; Automotive Corridor: The Anatomy of Multi-Loan Overleveraging
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Punes Dual IT Automotive Corridor: The Anatomy of Multi-Loan</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The Pune metropolitan region and the Pimpri-Chinchwad Municipal Corporation (PCMC) represent one of India&apos;s most dynamic economic engines. The city houses major Information Technology epicenters—including Rajiv Gandhi Infotech Park at Hinjewadi, Cybercity Magarpatta, EON Free Zone in Kharadi, and tech hubs in Baner and Viman Nagar—alongside the premier automotive and engineering belt spanning Bhosari, Chakan, Talegaon, and Nigdi. While this vibrant landscape offers lucrative career opportunities, it has also created a high-cost environment characterized by soaring residential rents, steep living expenses, and widespread access to instant digital credit.
               </p>
