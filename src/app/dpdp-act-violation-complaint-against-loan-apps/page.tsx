@@ -631,7 +631,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/dpdp-act-violation-complaint-against-loan-apps.jpg"
-                  alt="DPDP Act Violation Complaint Against Loan Apps Infographic: Data Protection Board of India Architecture, RBI Guidelines, and Grievance Redressal Workflow"
+                  alt="DPDP Act Violation Complaint Against Loan Apps Redressal Guide"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

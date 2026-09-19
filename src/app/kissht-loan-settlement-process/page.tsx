@@ -744,7 +744,7 @@ export default function KisshtLoanSettlementProcessPage() {
                       width={1200}
                       height={675}
                       src="/images/infographics/kissht-loan-settlement-process.jpg"
-                      alt="Kissht Loan Settlement Process, RBI Digital Lending Guidelines and Anti-Harassment Defense Infographic"
+                      alt="Kissht Loan Settlement Process and RBI Digital Lending Rules"
                       className="w-full h-auto object-contain max-h-[440px] mx-auto hover:scale-[1.01] transition-transform duration-300"
                       loading="lazy"
                     />

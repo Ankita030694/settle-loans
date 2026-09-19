@@ -550,7 +550,7 @@ export default function TradingLoanSettlementPage() {
                                 <Link href="/loan-settlement-for-traders" className="p-4 bg-gray-50 rounded-xl hover:bg-[#1F5EFF]/5 border border-[#DEDEDE] transition-colors font-bold text-[#2E2E2E]">
                                     Specialized Loan Settlement for Traders
                                 </Link>
-                                <Link href="/SME-loan-dispute-resolution" className="p-4 bg-gray-50 rounded-xl hover:bg-[#1F5EFF]/5 border border-[#DEDEDE] transition-colors font-bold text-[#2E2E2E]">
+                                <Link href="/sme-loan-dispute-resolution" className="p-4 bg-gray-50 rounded-xl hover:bg-[#1F5EFF]/5 border border-[#DEDEDE] transition-colors font-bold text-[#2E2E2E]">
                                     SME Loan Dispute Resolution Guide
                                 </Link>
                                 <Link href="/loan-settlement-lawyers" className="p-4 bg-gray-50 rounded-xl hover:bg-[#1F5EFF]/5 border border-[#DEDEDE] transition-colors font-bold text-[#2E2E2E]">

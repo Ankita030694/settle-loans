@@ -539,7 +539,7 @@ export default function MudraLoanSettlementPage() {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/SME-loan-dispute-resolution" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                                        <Link href="/sme-loan-dispute-resolution" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                                             <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
                                             SME Disputes
                                         </Link>

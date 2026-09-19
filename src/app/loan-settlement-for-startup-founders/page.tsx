@@ -659,7 +659,7 @@ export default function LoanSettlementStartupFoundersPage() {
                 <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Founder Resources</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
-                    <Link href="/SME-loan-dispute-resolution" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/sme-loan-dispute-resolution" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
                       SME Dispute Resolution
                     </Link>

@@ -593,7 +593,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/can-recovery-agents-enter-house-without-permission.jpg"
-                  alt="Can Recovery Agents Enter House Without Permission Infographic: Borrower Legal Protections, Criminal Trespass, and Doorstep Defense Protocol"
+                  alt="Recovery Agents Trespassing and Home Entry Legal Protections"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

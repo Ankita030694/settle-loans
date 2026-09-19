@@ -1403,7 +1403,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
-            url: `${baseUrl}/SME-loan-dispute-resolution`,
+            url: `${baseUrl}/sme-loan-dispute-resolution`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
@@ -1499,7 +1499,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
-            url: `${baseUrl}/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi`,
+            url: `${baseUrl}/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
@@ -2397,13 +2397,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
-            url: `${baseUrl}/best-lawyer-for-MSME-personal-loan`,
+            url: `${baseUrl}/best-lawyer-for-msme-personal-loan`,
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: `${baseUrl}/best-lawyer-for-MSME-loan-recovery-defence`,
+            url: `${baseUrl}/best-lawyer-for-msme-loan-recovery-defence`,
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,

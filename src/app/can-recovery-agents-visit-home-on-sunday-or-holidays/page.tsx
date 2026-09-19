@@ -608,7 +608,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/can-recovery-agents-visit-home-on-sunday-or-holidays.jpg"
-                  alt="Can Recovery Agents Visit on Sunday or Public Holidays Infographic: Borrower Legal Rights, RBI Guidelines, Permissible Hours, and Doorstep Defense Rules"
+                  alt="RBI Rules on Recovery Agent Visits on Sundays and Holidays"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

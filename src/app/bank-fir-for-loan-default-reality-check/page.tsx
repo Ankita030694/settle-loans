@@ -637,7 +637,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/bank-fir-for-loan-default-reality-check.jpg"
-                  alt="Bank FIR for Loan Default Reality Check Infographic: Civil Default vs Criminal Offense, Section 420 Debunked, Supreme Court Guidelines"
+                  alt="Bank FIR for Loan Default Reality Check: Civil vs Criminal Offense"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

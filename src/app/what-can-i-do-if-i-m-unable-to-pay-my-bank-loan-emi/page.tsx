@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Unable to Pay Bank Loan EMI? What to Do | SettleLoans",
   description: "Facing difficulty in paying your bank loan EMI in India? Discover RBI guidelines for 2024-2025, loan restructuring options, legal rights.",
   alternates: {
-    canonical: "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi",
+    canonical: "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi",
   },
 };
 
@@ -16,16 +16,16 @@ export default function UnableToPayEMIPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi#webpage",
-        "url": "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi",
+        "@id": "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi#webpage",
+        "url": "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi",
         "name": "What Can I Do If I am Unable to Pay My Bank Loan EMI? | Step-by-Step Recovery Guide",
         "description": "Comprehensive guide for individuals in India unable to pay their bank loan EMIs. Covers restructuring, moratoriums, legal rights, and RBI protection.",
-        "breadcrumb": { "@id": "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi#breadcrumb",
+        "@id": "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -37,13 +37,13 @@ export default function UnableToPayEMIPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "Unable to Pay EMI Guide",
-            "item": "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi"
+            "item": "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi#article",
+        "@id": "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi#article",
         "headline": "What Can I Do If I am Unable to Pay My Bank Loan EMI? Your Complete Roadmap",
         "description": "Financial crisis can happen to anyone. If you are unable to pay your EMI, don't lose hope. This guide outlines the legal and financial solutions available in India today.",
         "author": {
@@ -60,18 +60,18 @@ export default function UnableToPayEMIPage() {
         },
         "datePublished": "2024-02-27",
         "dateModified": "2024-02-27",
-        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi#webpage" }
       },
       {
         "@type": "AggregateRating",
-        "@id": "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi#rating",
-        "itemReviewed": { "@id": "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi#article" },
+        "@id": "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi#rating",
+        "itemReviewed": { "@id": "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi#article" },
         "ratingValue": "4.8",
         "reviewCount": "2150"
       },
       {
         "@type": "FAQPage",
-        "@id": "https://www.settleloans.in/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi#faq",
+        "@id": "https://www.settleloans.in/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi#faq",
         "mainEntity": [
           {
             "@type": "Question",

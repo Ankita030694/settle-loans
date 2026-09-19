@@ -593,7 +593,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                       width={1200}
                       height={675}
                   src="/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg"
-                  alt="Credit Card Bill Na Bharne Ke Nuksan, 42% APR Compounding Trap, and 60-70% One Time Settlement Blueprint"
+                  alt="Credit Card Bill Na Bharne Ke Nuksan and OTS Settlement Guide"
                   className="w-full h-auto object-cover"
                   loading="lazy"
                 />

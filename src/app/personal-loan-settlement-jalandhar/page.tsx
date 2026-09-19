@@ -679,7 +679,7 @@ export default function PersonalLoanSettlementJalandharPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/personal-loan-settlement-jalandhar.jpg"
-                  alt="Personal Loan and Business Debt Settlement in Jalandhar Punjab Infographic: Legal Defense, RBI Fair Practice Guidelines, Bank OTS Compromise, and No Dues Certificate Protocol"
+                  alt="Personal Loan and Business Debt Settlement in Jalandhar Punjab"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

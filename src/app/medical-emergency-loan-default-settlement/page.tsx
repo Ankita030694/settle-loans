@@ -65,7 +65,7 @@ export const metadata: Metadata = {
         url: "https://www.settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg",
         width: 1200,
         height: 675,
-        alt: "Medical Emergency Loan Default Settlement, Hospital Discharge Evidence, and Compassionate Grounds OTS Guide",
+        alt: "Medical Emergency Loan Default Settlement and Compassionate OTS",
       },
     ],
     locale: "en_IN",
@@ -788,7 +788,7 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                       width={1200}
                       height={675}
                   src="/images/infographics/medical-emergency-loan-default-settlement.jpg"
-                  alt="Medical Emergency Loan Default Settlement, Hospital Discharge Evidence, and Compassionate Grounds OTS Guide"
+                  alt="Medical Emergency Loan Default Settlement and Compassionate OTS"
                   className="w-full h-auto object-cover"
                   loading="lazy"
                 />

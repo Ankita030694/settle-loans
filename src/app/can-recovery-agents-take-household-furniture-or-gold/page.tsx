@@ -626,7 +626,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/can-recovery-agents-take-household-furniture-or-gold.jpg"
-                  alt="Can Recovery Agents Seize Household Furniture or Gold Infographic: Legal Realities of Debt Collection & Property Rights in India"
+                  alt="Legal Realities of Property Rights and Debt Collection in India"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

@@ -617,7 +617,7 @@ export default function LoanNaChukaneParKyaHogaPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/loan-na-chukane-par-kya-hoga.jpg"
-                  alt="Loan Na Chukane Par Kya Hota Hai Infographic: Civil Law vs Recovery Myths, Supreme Court Rulings, NPV Formula & OTS Process"
+                  alt="Loan Na Chukane Par Kya Hota Hai: Civil Law vs Recovery Myths"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

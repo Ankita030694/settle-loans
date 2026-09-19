@@ -603,7 +603,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/personal-loan-settlement-ludhiana.jpg"
-                  alt="Personal Loan and Business Debt Settlement in Ludhiana Punjab Infographic: Legal Defense, RBI Fair Practice Guidelines, Bank OTS Compromise, and No Dues Certificate Protocol"
+                  alt="Personal Loan and Business Debt Settlement in Ludhiana Punjab"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"
@@ -919,7 +919,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
               </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
-                  href="/best-lawyer-for-MSME-loan-recovery-defence"
+                  href="/best-lawyer-for-msme-loan-recovery-defence"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
                   Best Lawyer for MSME Loan Recovery Defence

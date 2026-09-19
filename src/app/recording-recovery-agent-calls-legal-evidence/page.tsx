@@ -651,7 +651,7 @@ export default function RecordingRecoveryAgentCallsLegalEvidencePage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/recording-recovery-agent-calls-legal-evidence.jpg"
-                  alt="Recording Recovery Agent Calls for Legal Evidence Infographic: Audio Recording, CCTV Footage, WhatsApp Archives, Section 65B / Section 63 BSA Certification, Police FIR & Court Injunction"
+                  alt="Recording Recovery Agent Calls for Legal Evidence Infographic"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

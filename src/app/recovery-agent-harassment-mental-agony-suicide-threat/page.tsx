@@ -634,7 +634,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/recovery-agent-harassment-mental-agony-suicide-threat.jpg"
-                  alt="Recovery Agent Harassment Mental Agony and Life Protection Legal Infographic: Section 108 BNS, Crisis Helplines, and 24-Hour Advocate Defense"
+                  alt="Recovery Harassment Mental Agony and Life Protection Guide"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

@@ -590,7 +590,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/recovery-agents-blocking-gate-wrongful-confinement.jpg"
-                  alt="Recovery Agents Blocking Gate and Wrongful Confinement Infographic: Section 127 BNS, Key Snatching Penalties, and Emergency Police FIR Protocol"
+                  alt="Recovery Agents Blocking Gate and Wrongful Confinement Guide"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

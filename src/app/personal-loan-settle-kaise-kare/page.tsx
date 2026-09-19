@@ -696,7 +696,7 @@ export default function PersonalLoanSettleKaiseKarePage() {
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-900">
                 <Image
                   src="/images/infographics/personal-loan-settle-kaise-kare.jpg"
-                  alt="Personal Loan Settlement Process Workflow - From NPA Classification to Sanction Letter and Zero Balance No Dues Certificate"
+                  alt="Personal Loan Settlement Process Workflow from NPA to Zero NDC"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

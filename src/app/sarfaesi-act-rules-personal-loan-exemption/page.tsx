@@ -661,7 +661,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                   width={1200}
                   height={675}
                     src="/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg"
-                    alt="Infographic illustrating SARFAESI Act Rules, Secured vs Unsecured Loans, Section 13 Exemption and Borrower Protections"
+                    alt="SARFAESI Act Rules: Secured vs Unsecured Loans Exemption Guide"
                     className="w-full h-full object-contain"
                     priority
                   />

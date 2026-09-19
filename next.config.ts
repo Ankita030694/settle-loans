@@ -1823,6 +1823,26 @@ const nextConfig: NextConfig = {
         destination: '/#process',
         permanent: true,
       },
+      {
+        source: '/SME-loan-dispute-resolution',
+        destination: '/sme-loan-dispute-resolution',
+        permanent: true,
+      },
+      {
+        source: '/best-lawyer-for-MSME-loan-recovery-defence',
+        destination: '/best-lawyer-for-msme-loan-recovery-defence',
+        permanent: true,
+      },
+      {
+        source: '/best-lawyer-for-MSME-personal-loan',
+        destination: '/best-lawyer-for-msme-personal-loan',
+        permanent: true,
+      },
+      {
+        source: '/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi',
+        destination: '/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi',
+        permanent: true,
+      },
     ];
 
   },

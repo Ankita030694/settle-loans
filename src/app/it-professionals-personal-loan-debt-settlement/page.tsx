@@ -763,7 +763,7 @@ export default function ITProfessionalsLoanSettlementPage() {
                       width={1200}
                       height={675}
                   src="/images/infographics/it-professionals-personal-loan-debt-settlement.jpg"
-                  alt="Personal Loan & Credit Card Debt Settlement Process for IT Professionals in Bengaluru, Hyderabad and Pune"
+                  alt="Debt Settlement Process for IT Professionals in Tech Hubs"
                   className="w-full h-auto object-cover"
                 />
                 <div className="p-4 bg-slate-900 text-slate-300 text-xs text-center border-t border-slate-800">

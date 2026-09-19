@@ -657,7 +657,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment.jpg"
-                  alt="Step-by-Step Guide to Filing an RBI Ombudsman Complaint Against Recovery Agents Infographic: Flowchart covering evidence, GRO escalation, CMS filing, and compensation"
+                  alt="Step-by-Step Guide to Filing an RBI Ombudsman Complaint"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

@@ -221,7 +221,7 @@ export default function LoanSettlementPage() {
               Start Your Journey
             </Link>
               <Link href="/#services" className="w-full sm:w-auto inline-flex items-center justify-center bg-white text-[#2E2E2E] font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg border border-[#DEDEDE]">
-              Learn More
+              Explore Settlement Services
             </Link>
           </div>
         </div>

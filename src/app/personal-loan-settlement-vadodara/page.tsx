@@ -68,7 +68,7 @@ export const metadata: Metadata = {
         url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-vadodara.jpg',
         width: 1200,
         height: 675,
-        alt: 'Debt Settlement Services in Vadodara: Gujarat Industrial Corridor Legal OTS Blueprint and Bank NPA Resolution Process',
+        alt: 'Debt Settlement Services in Vadodara Gujarat Legal Blueprint',
       },
     ],
     locale: 'en_IN',
@@ -639,7 +639,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                       width={1200}
                       height={675}
                   src="/images/infographics/personal-loan-settlement-vadodara.jpg"
-                  alt="Debt Settlement Services in Vadodara: Gujarat Industrial Corridor Legal OTS Blueprint and Bank NPA Resolution Process"
+                  alt="Debt Settlement Services in Vadodara Gujarat Legal Blueprint"
                   className="w-full h-auto object-cover"
                 />
                 <div className="p-4 bg-slate-900 text-white text-xs leading-relaxed">

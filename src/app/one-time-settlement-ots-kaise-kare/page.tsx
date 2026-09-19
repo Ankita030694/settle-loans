@@ -640,7 +640,7 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                       width={1200}
                       height={675}
                       src="/images/infographics/one-time-settlement-ots-kaise-kare.jpg"
-                      alt="One Time Settlement OTS Process in Indian Banking Sequential 4-Stage Resolution Blueprint Infographic"
+                      alt="One Time Settlement OTS 4-Stage Resolution Blueprint Guide"
                       className="w-full h-auto object-contain max-h-[440px] mx-auto hover:scale-[1.01] transition-transform duration-300"
                       loading="lazy"
                     />

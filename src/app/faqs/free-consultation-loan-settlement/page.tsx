@@ -128,7 +128,7 @@ export default function FreeConsultationPage() {
                 Book Appointment
               </Link>
               <Link href="#why-consult" className="w-full sm:w-auto inline-flex items-center justify-center bg-white text-[#2E2E2E] font-bold py-4 px-10 rounded-[10px] border border-[#DEDEDE] hover:bg-gray-50 transition-all duration-300 text-lg">
-                Learn More
+                Why Get a Consultation
               </Link>
             </div>
           </div>

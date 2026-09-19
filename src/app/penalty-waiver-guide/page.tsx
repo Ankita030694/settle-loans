@@ -441,15 +441,15 @@ export default function PenaltyWaiverGuidePage() {
                 </div>
                 <ul className="space-y-4">
                   {[
-                    "Stop EMI Bounce Cycle",
-                    "RBI Guidelines on Defaults",
-                    "How to Handle Recovery Agents",
-                    "Banking Ombudsman Process"
+                    { name: "Stop EMI Bounce Cycle", href: "/bounce-charges-legal-limit-rbi" },
+                    { name: "RBI Guidelines on Defaults", href: "/top-10-rbi-rules-for-loan-defaulters-rights" },
+                    { name: "How to Handle Recovery Agents", href: "/how-to-stop-loan-recovery-harassment" },
+                    { name: "Banking Ombudsman Process", href: "/rbi-ombudsman-complaint-loan-recovery-harassment" }
                   ].map((item, i) => (
                     <li key={i}>
-                      <Link href="#" className="group flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors font-medium">
+                      <Link href={item.href} className="group flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors font-medium">
                         <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
-                        {item}
+                        {item.name}
                       </Link>
                     </li>
                   ))}

@@ -662,7 +662,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/guarantor-liability-personal-loan-settlement.jpg"
-                  alt="Guarantor and Co-Applicant Liability in Personal Loan Default Infographic: Section 128 Indian Contract Act, Harassment Protections, and Dual OTS Discharge"
+                  alt="Guarantor and Co-Applicant Liability in Personal Loan Default"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

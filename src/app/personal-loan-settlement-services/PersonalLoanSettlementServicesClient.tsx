@@ -450,7 +450,7 @@ export default function PersonalLoanSettlementServicesClient() {
 
               {/* References Section */}
               <div className="mt-16 pt-8 border-t border-slate-100 text-[13px] text-slate-400 leading-relaxed font-medium not-prose">
-                References: <a href="#" className="text-[#2D68FF] hover:underline font-semibold">[1] Reserve Bank of India (RBI) Guidelines on Fair Practices Code for Lenders</a>. <a href="#" className="text-[#2D68FF] hover:underline font-semibold">[2] The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002</a>.
+                References: <Link href="/top-10-rbi-rules-for-loan-defaulters-rights" className="text-[#2D68FF] hover:underline font-semibold">[1] Reserve Bank of India (RBI) Guidelines on Fair Practices Code for Lenders</Link>. <Link href="/sarfaesi-act-rules-personal-loan-exemption" className="text-[#2D68FF] hover:underline font-semibold">[2] The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002</Link>.
               </div>
 
             </article>

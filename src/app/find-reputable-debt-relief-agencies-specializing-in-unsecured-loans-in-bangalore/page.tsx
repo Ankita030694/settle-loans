@@ -553,7 +553,7 @@ export default function BangaloreDebtReliefPage() {
                 <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Bangalore Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   {[
-                    { name: "SME Loan Disputes", href: "/SME-loan-dispute-resolution" },
+                    { name: "SME Loan Disputes", href: "/sme-loan-dispute-resolution" },
                     { name: "Legal Rights Hub", href: "/legal-case-for-loan-sanction-without-consent" },
                     { name: "Personal Loan Terms", href: "/what-is-personal-loan-settlement" },
                     { name: "Debt Consolidation", href: "/which-banks-offer-debt-consolidation-loans-in-india" },

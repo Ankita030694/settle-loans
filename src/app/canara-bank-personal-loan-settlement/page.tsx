@@ -70,7 +70,7 @@ export const metadata: Metadata = {
         url: 'https://www.settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
-        alt: 'Canara Bank Personal Loan Settlement Process, SAMB OTS Haircut Hierarchy and Circle Office Approval Flow',
+        alt: 'Canara Bank Personal Loan Settlement and SAMB OTS Approval Flow',
       },
     ],
     locale: 'en_IN',
@@ -712,7 +712,7 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                       width={1200}
                       height={675}
                   src="/images/infographics/canara-bank-personal-loan-settlement.jpg"
-                  alt="Canara Bank Personal Loan Settlement Process, SAMB OTS Haircut Hierarchy and Circle Office Approval Flow"
+                  alt="Canara Bank Personal Loan Settlement and SAMB OTS Approval Flow"
                   className="w-full h-auto object-cover"
                 />
                 <div className="p-4 bg-slate-900 text-white text-xs leading-relaxed">

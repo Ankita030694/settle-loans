@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   title: 'Lawyer for MSME Loan Recovery Defense | Relief',
   description: 'Expert MSME legal defense against bank recovery actions. Challenge SARFAESI notices, file Securitisation Applications, and protect your firm.',
   alternates: {
-    canonical: 'https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence',
+    canonical: 'https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence',
   },
   openGraph: {
     title: 'Lawyer for MSME Loan Recovery Defense | Relief',
     description: 'Expert MSME legal defence for bank recovery actions. Challenge SARFAESI notices, file SAs in DRT, and leverage MSMED Act for business survival. 4500+ word...',
-    url: 'https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence',
+    url: 'https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence',
     type: "article",
     images: ['https://www.settleloans.in/og-image.jpg'],
   },
@@ -32,24 +32,24 @@ export default function MSMELoanRecoveryDefencePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence#webpage",
-                "url": "https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence",
+                "@id": "https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence",
                 "name": "Best Lawyer for MSME Loan Recovery Defence | Expert SARFAESI & DRT Support",
                 "description": "Expert MSME legal defence for bank recovery actions. Challenge SARFAESI notices, file SAs in DRT, and leverage MSMED Act for business survival. 4500+ word comprehensive guide.",
-                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence#breadcrumb",
                 "itemListElement": [
                     { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "MSME Loan Recovery Defence", "item": "https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence" }
+                    { "@type": "ListItem", "position": 2, "name": "MSME Loan Recovery Defence", "item": "https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence#article",
                 "headline": "Best Lawyer for MSME Loan Recovery Defence: A Comprehensive Legal Guide to Saving Your Business",
                 "description": "Detailed analysis of MSME rights under SARFAESI, MSMED, and RDB Acts. Learn how to defend against bank recovery and manage stressed assets effectively.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Content Team" },
@@ -60,11 +60,11 @@ export default function MSMELoanRecoveryDefencePage() {
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence#product",
                 "name": "MSME Legal Defence Services",
                 "description": "Strategic legal representation for MSMEs facing bank recovery, auction notices, and insolvency proceedings.",
                 "aggregateRating": {
@@ -84,7 +84,7 @@ export default function MSMELoanRecoveryDefencePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-msme-loan-recovery-defence#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

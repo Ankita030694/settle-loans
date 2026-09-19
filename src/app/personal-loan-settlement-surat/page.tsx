@@ -1072,7 +1072,7 @@ export default function PersonalLoanSettlementSuratPage() {
                   Overdraft Settlement Process
                 </Link>
                 <Link
-                  href="/SME-loan-dispute-resolution"
+                  href="/sme-loan-dispute-resolution"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
                   SME Loan Dispute Resolution

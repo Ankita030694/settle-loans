@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "SME Loan Dispute Resolution in India | SettleLoans",
     description: "Comprehensive guide to SME loan dispute resolution in India. Learn about MSME Samadhan, MSEFC conciliation, DRT litigation.",
     alternates: {
-        canonical: "https://www.settleloans.in/SME-loan-dispute-resolution",
+        canonical: "https://www.settleloans.in/sme-loan-dispute-resolution",
     },
 };
 
@@ -17,16 +17,16 @@ export default function SMELoanDisputePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#webpage",
-                "url": "https://www.settleloans.in/SME-loan-dispute-resolution",
+                "@id": "https://www.settleloans.in/sme-loan-dispute-resolution#webpage",
+                "url": "https://www.settleloans.in/sme-loan-dispute-resolution",
                 "name": "SME Loan Dispute Resolution India | MSME Samadhan & Legal Defense",
                 "description": "Expert legal guide on resolving SME and MSME loan disputes through formal and informal mechanisms in India.",
-                "breadcrumb": { "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/sme-loan-dispute-resolution#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#breadcrumb",
+                "@id": "https://www.settleloans.in/sme-loan-dispute-resolution#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
@@ -38,13 +38,13 @@ export default function SMELoanDisputePage() {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "SME Loan Dispute Resolution",
-                        "item": "https://www.settleloans.in/SME-loan-dispute-resolution"
+                        "item": "https://www.settleloans.in/sme-loan-dispute-resolution"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#article",
+                "@id": "https://www.settleloans.in/sme-loan-dispute-resolution#article",
                 "headline": "SME Loan Dispute Resolution: Protecting Your MSME from Predatory Recovery",
                 "description": "Navigate the complex landscape of SME loan disputes in India with our comprehensive guide on MSME Samadhan, DRT, and legal settlements.",
                 "author": {
@@ -61,11 +61,11 @@ export default function SMELoanDisputePage() {
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/sme-loan-dispute-resolution#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#product",
+                "@id": "https://www.settleloans.in/sme-loan-dispute-resolution#product",
                 "name": "MSME Legal Defense Services",
                 "description": "Professional legal assistance for MSMEs facing loan disputes, recovery actions, and NPA classifications.",
                 "aggregateRating": {
@@ -92,7 +92,7 @@ export default function SMELoanDisputePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#faq",
+                "@id": "https://www.settleloans.in/sme-loan-dispute-resolution#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -555,7 +555,7 @@ export default function SMELoanDisputePage() {
                                     <Link href="/business-corporate-loan-matters" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Corporate Loan Matters</Link>
                                     <Link href="/best-lawyer-for-msme-business-loan-dispute" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">MSME Loan Dispute Lawyer</Link>
                                     <Link href="/best-lawyer-for-msme-and-business-loans" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">SME & Business Lawyer</Link>
-                                    <Link href="/best-lawyer-for-MSME-loan-recovery-defence" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Recovery Defense Experts</Link>
+                                    <Link href="/best-lawyer-for-msme-loan-recovery-defence" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Recovery Defense Experts</Link>
                                     <Link href="/working-capital-loan-legal-help" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Working Capital Help</Link>
                                 </nav>
                             </div>

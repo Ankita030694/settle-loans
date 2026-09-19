@@ -674,7 +674,7 @@ export default function Top10RbiRulesForLoanDefaultersRightsPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/top-10-rbi-rules-for-loan-defaulters-rights.jpg"
-                  alt="Top 10 RBI Rules for Loan Defaulters Rights Infographic: Calling Hours, Anti-Harassment, Privacy Bans, OTS Guidelines, and Ombudsman Redressal"
+                  alt="Top 10 RBI Rules for Loan Defaulters Rights Infographic"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

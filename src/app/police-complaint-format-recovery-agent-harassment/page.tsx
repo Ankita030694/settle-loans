@@ -677,7 +677,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
                   src="/images/infographics/police-complaint-format-recovery-agent-harassment.jpg"
-                  alt="Police Complaint Against Recovery Agent Format Infographic: Know Your Legal Rights, IPC Sections 506, 509, 383, and Clear Resolution Steps"
+                  alt="Police Complaint Against Recovery Agent Harassment Legal Guide"
                   width={1200}
                   height={675}
                   className="w-full h-auto object-cover"

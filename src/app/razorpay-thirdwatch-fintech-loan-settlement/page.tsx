@@ -749,7 +749,7 @@ export default function RazorpayThirdwatchFintechLoanSettlementPage() {
                       width={1200}
                       height={675}
                       src="/images/infographics/razorpay-thirdwatch-fintech-loan-settlement.jpg"
-                      alt="Structured Legal and Financial Workflow for Fintech Merchant Cash Advance and Razorpay Loan Settlement"
+                      alt="Workflow for Fintech Merchant Advance and Razorpay Settlement"
                       className="w-full h-auto object-contain max-h-[440px] mx-auto hover:scale-[1.01] transition-transform duration-300"
                       loading="lazy"
                     />

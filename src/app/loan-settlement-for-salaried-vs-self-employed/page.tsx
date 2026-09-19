@@ -1025,7 +1025,7 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
                   Bank Loan Settlement Guidelines
                 </Link>
                 <Link
-                  href="/best-lawyer-for-MSME-loan-recovery-defence"
+                  href="/best-lawyer-for-msme-loan-recovery-defence"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
                   MSME Loan Recovery Defense

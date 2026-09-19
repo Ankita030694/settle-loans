@@ -720,7 +720,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
                   width={1200}
                   height={675}
                   src="/images/infographics/recovery-agents-contacting-previous-employer-or-college.jpg"
-                  alt="Legal Defense Strategic Roadmap for Stopping Recovery Agents Contacting Previous Employers and Colleges"
+                  alt="Stopping Recovery Agents Contacting Employers and Colleges"
                   className="w-full h-full object-contain"
                   sizes="(max-width: 1200px) 100vw, 900px"
                   priority

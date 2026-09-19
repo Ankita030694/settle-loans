@@ -514,15 +514,15 @@ export default function NachBounceGuidePage() {
                   </div>
                   <ul className="space-y-4">
                     {[
-                      "Stop Harassment Instantly",
-                      "Cheque Bounce Legal Notice",
-                      "Credit Score Repair Guide",
-                      "Debt Settlement Process"
+                      { name: "Stop Harassment Instantly", href: "/how-to-stop-loan-recovery-harassment" },
+                      { name: "Cheque Bounce Legal Notice", href: "/section-138-cheque-bounce-loan-default" },
+                      { name: "Credit Score Repair Guide", href: "/credit-score-improvement" },
+                      { name: "Debt Settlement Process", href: "/personal-loan-settlement-services" }
                     ].map((item, i) => (
                       <li key={i}>
-                        <Link href="#" className="flex items-center text-gray-600 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                        <Link href={item.href} className="flex items-center text-gray-600 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                           <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
-                          {item}
+                          {item.name}
                         </Link>
                       </li>
                     ))}

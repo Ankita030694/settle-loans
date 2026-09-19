@@ -538,16 +538,16 @@ export default function CanBanksFreezeUPIAccountPage() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</div>
                 <ul className="space-y-4">
                   {[
-                    "Defending Against DRT Notices",
-                    "How to Stop Recovery Harassment",
-                    "Understanding RBI Guidelines",
-                    "Personal Loan Settlement Process",
-                    "Credit Card Settlement"
+                    { name: "Defending Against DRT Notices", href: "/drt-loan-settlement-process" },
+                    { name: "How to Stop Recovery Harassment", href: "/how-to-stop-loan-recovery-harassment" },
+                    { name: "Understanding RBI Guidelines", href: "/top-10-rbi-rules-for-loan-defaulters-rights" },
+                    { name: "Personal Loan Settlement Process", href: "/personal-loan-settlement-services" },
+                    { name: "Credit Card Settlement", href: "/services/credit-card-settlement" }
                   ].map((item, i) => (
                     <li key={i}>
-                      <Link href="#" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm group">
+                      <Link href={item.href} className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm group">
                         <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
-                        {item}
+                        {item.name}
                       </Link>
                     </li>
                   ))}

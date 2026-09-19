@@ -667,7 +667,7 @@ export default function HighCourtWritBankHarassmentPage() {
                   width={1200}
                   height={675}
                   src="/images/infographics/high-court-writ-petition-against-bank-recovery-harassment.jpg"
-                  alt="High Court Article 226 Writ Petition Against Bank Recovery Harassment Legal Defense and Police Protection Roadmap"
+                  alt="High Court Article 226 Writ Petition Against Recovery Harassment"
                   className="w-full h-full object-contain"
                   sizes="(max-width: 1200px) 100vw, 900px"
                   priority
