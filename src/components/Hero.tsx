@@ -135,12 +135,12 @@ export default function Hero() {
               </div>
 
               <div className="flex flex-col items-center text-center space-y-6">
-                <h1
+                <h2
                   className="font-black leading-[1.1] text-[#DEDEDE] text-4xl"
                   style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}
                 >
                   Facing pressure from lenders or recovery agents?
-                </h1>
+                </h2>
                 <p
                   className="font-normal leading-normal text-[#DEDEDE] text-lg px-2"
                   style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}
@@ -164,12 +164,12 @@ export default function Hero() {
           ) : (
             /* Form View (Active) */
             <div className="w-full flex flex-col items-center gap-6">
-              <h1
+              <h2
                 className="font-black leading-[1.1] text-white text-3xl text-center"
                 style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}
               >
                 Settle Your Loans with Confidence and Clarity
-              </h1>
+              </h2>
 
               <ContactForm
                 variant="simple"
