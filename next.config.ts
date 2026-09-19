@@ -1841,30 +1841,6 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
-        source: '/SME-loan-dispute-resolution',
-        destination: '/sme-loan-dispute-resolution',
-        permanent: true,
-        caseSensitive: true,
-      },
-      {
-        source: '/best-lawyer-for-MSME-loan-recovery-defence',
-        destination: '/best-lawyer-for-msme-loan-recovery-defence',
-        permanent: true,
-        caseSensitive: true,
-      },
-      {
-        source: '/best-lawyer-for-MSME-personal-loan',
-        destination: '/best-lawyer-for-msme-personal-loan',
-        permanent: true,
-        caseSensitive: true,
-      },
-      {
-        source: '/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi',
-        destination: '/what-can-i-do-if-i-m-unable-to-pay-my-bank-loan-emi',
-        permanent: true,
-        caseSensitive: true,
-      },
-      {
         source: '/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information',
         destination: '/how-recovery-agents-get-your-number-when-friend-defaults',
         permanent: true,
