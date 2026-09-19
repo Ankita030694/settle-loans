@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-delhi-ncr',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Lawyer in Delhi NCR: Court Representation & Debt Relief',
+    title: 'Loan Settlement Lawyer in Delhi NCR | SettleLoans',
     description: 'Expert legal defense and One-Time Settlement (OTS) representation for personal loan defaulters across Delhi, Noida, and Gurugram courts under RBI guidelines.',
     url: 'https://www.settleloans.in/personal-loan-settlement-delhi-ncr',
     siteName: 'SettleLoans',
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Lawyer in Delhi NCR: Legal Defense & Lok Adalat Guide',
-    description: 'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, Lok Adalat compromise decrees, and anti-harassment injunctions across Delhi NCR.',
+    title: 'Loan Settlement Lawyer in Delhi NCR | SettleLoans',
+    description: 'Facing personal loan default, court summons, or recovery harassment in Delhi NCR? Connect with experienced debt settlement lawyers for Tis Hazari, Saket.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-delhi-ncr.jpg'],
   },
 };

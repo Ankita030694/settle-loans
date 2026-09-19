@@ -61,8 +61,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts',
   },
   openGraph: {
-    title: 'Can Bank Freeze Family Member Account for Loan Default? Legal Rights & Protection Guide',
-    description: 'Learn why banks and recovery agents cannot legally freeze, attach, or touch your family members bank accounts for your individual personal loan or credit card default in India.',
+    title: 'Can Agents Freeze Family Bank Accounts? | SettleLoans',
+    description: 'Can recovery agents freeze bank accounts of family members? Learn third-party account immunity and separate PAN protections with SettleLoans.',
     url: 'https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts',
     siteName: 'SettleLoans',
     images: [
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Can Bank Freeze Family Member Account for Loan Default? Legal Rights & Protection Guide',
+    title: 'Can Agents Freeze Family Bank Accounts? | SettleLoans',
     description: 'Are recovery agents threatening to freeze your spouse or parents bank accounts? Discover your statutory rights under Indian law and RBI Fair Practices Code.',
     images: ['https://www.settleloans.in/images/infographics/can-recovery-agents-freeze-family-bank-accounts.jpg'],
   },
@@ -1178,7 +1178,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
                   Bank Sent Legal Notice What to Do
                 </Link>
                 <Link
-                  href="/personal-loan-settlement-process"
+                  href="/services/personal-loan-settlement"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
                   Personal Loan Settlement Process

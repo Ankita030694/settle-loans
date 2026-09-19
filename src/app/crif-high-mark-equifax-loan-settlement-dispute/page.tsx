@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute',
   },
   openGraph: {
-    title: 'CRIF High Mark & Equifax Loan Settlement Dispute: Online Correction Guide (2026)',
-    description: 'Learn how to file online dispute corrections with CRIF High Mark and Equifax after a loan compromise settlement. Clear unupdated overdue balances to ₹0, enforce RBI 30-day resolution mandates, and rebuild your credit rating.',
+    title: 'Fix CRIF & Equifax Settlement Disputes | SettleLoans',
+    description: 'Fix incorrect settled loan records on CRIF High Mark and Equifax credit bureaus. Learn the CICRA statutory dispute process with SettleLoans.',
     url: 'https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute',
     siteName: 'SettleLoans',
     images: [
@@ -67,8 +67,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'CRIF High Mark & Equifax Loan Settlement Dispute: Online Correction Guide',
-    description: 'Comprehensive legal and procedural manual for correcting unupdated loan settlement records and wrong overdue balances in CRIF High Mark and Equifax under CICRA 2005 and RBI regulations.',
+    title: 'Fix CRIF & Equifax Settlement Disputes | SettleLoans',
+    description: 'Fix incorrect settled loan records on CRIF High Mark and Equifax credit bureaus. Learn the CICRA statutory dispute process with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/crif-high-mark-equifax-loan-settlement-dispute.jpg'],
   },
 };

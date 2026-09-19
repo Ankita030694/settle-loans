@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Lawyer for Loan Recovery Documentation | Help',
+  description: 'Expert legal guidance on loan recovery documentation, SARFAESI notices, DRT procedures, and building a robust paper trail for debt recovery in India.',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-loan-recovery-documentation',
+  },
+  openGraph: {
+    title: 'Lawyer for Loan Recovery Documentation | Help',
+    description: 'Expert legal guidance on loan recovery documentation, SARFAESI notices, DRT procedures, and building a robust paper trail for debt recovery in India.',
+    url: 'https://www.settleloans.in/best-lawyer-for-loan-recovery-documentation',
+    type: "article",
+    images: ['https://www.settleloans.in/images/loan-recovery-docs.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Lawyer for Loan Recovery Documentation | Help',
+    description: 'Expert legal guidance on loan recovery documentation, SARFAESI notices, DRT procedures, and building a robust paper trail for debt recovery in India.',
+    images: ['https://www.settleloans.in/images/loan-recovery-docs.jpg'],
+  },
+};
 
 export default function LoanRecoveryDocumentationPage() {
     const schemaData = {
@@ -120,7 +140,7 @@ export default function LoanRecoveryDocumentationPage() {
                             In the high-stakes world of debt recovery, your paper trail is your only admissible truth. We build airtight legal documentation for complex recovery actions.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-[12px] hover:scale-110 transition-all duration-300 text-lg shadow-xl hover:shadow-[#1F5EFF]/20">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-[12px] hover:scale-110 transition-all duration-300 text-lg shadow-xl hover:shadow-[#1F5EFF]/20">
                                 Build Your Paper Trail
                             </Link>
                         </div>
@@ -527,7 +547,7 @@ export default function LoanRecoveryDocumentationPage() {
                                     <p className="mb-10 text-base text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Build an airtight paper trail. Let our recovery legal experts audit your files today.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-5 px-6 rounded-[14px] hover:scale-110 transition-all shadow-2xl group-hover:shadow-[#1F5EFF]/40">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-5 px-6 rounded-[14px] hover:scale-110 transition-all shadow-2xl group-hover:shadow-[#1F5EFF]/40">
                                         Talk to an Expert
                                     </Link>
                                     <p className="mt-8 text-[11px] text-[#DEDEDE]/60 uppercase tracking-[0.4em] font-black">24-Hour Case Review</p>

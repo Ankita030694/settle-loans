@@ -21,8 +21,8 @@ export const metadata: Metadata = {
     'section 138 ni act nri defense',
   ],
   openGraph: {
-    title: 'How NRI Can Settle Personal Loan in India: Remote Settlement & Legal Defense',
-    description: 'Living abroad with unpaid personal loans in India? Discover how to execute a remote Power of Attorney (POA), resolve airport LOC fears, negotiate One-Time Settlement (OTS), and get an official No Dues Certificate.',
+    title: 'How NRIs Can Settle Personal Loans in India | SettleLoans',
+    description: 'Can an NRI settle a personal loan in India remotely? Learn how to settle bank debt from abroad via Consular Power of Attorney (POA).',
     url: 'https://www.settleloans.in/nri-personal-loan-settlement-india',
     siteName: 'SettleLoans',
     images: [
@@ -38,8 +38,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'NRI Personal Loan Settlement India: Settle Remotely via Power of Attorney (POA)',
-    description: 'Comprehensive legal and financial guide for Non-Resident Indians to resolve defaulted personal loans, eliminate airport arrest anxiety, and negotiate One-Time Settlements from abroad.',
+    title: 'How NRIs Can Settle Personal Loans in India | SettleLoans',
+    description: 'Can an NRI settle a personal loan in India remotely? Learn how to settle bank debt from abroad via Consular Power of Attorney (POA).',
     images: ['https://www.settleloans.in/images/infographics/nri-personal-loan-settlement-india.jpg'],
   },
 };

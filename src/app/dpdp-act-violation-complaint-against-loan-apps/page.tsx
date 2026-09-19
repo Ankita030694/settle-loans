@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps',
   },
   openGraph: {
-    title: 'DPDP Act Violation Complaint Against Loan Apps Accessing Contacts: Legal Guide',
-    description: 'Statutory breakdown on filing complaints under the Digital Personal Data Protection Act, 2023 against predatory loan apps harvesting contacts, photos, and private data.',
+    title: 'DPDP Act Complaint Against Loan Apps | SettleLoans',
+    description: 'Loan apps accessing your phone contacts illegally? File a Data Protection Board complaint under the DPDP Act 2023 with SettleLoans.',
     url: 'https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps',
     siteName: 'SettleLoans',
     images: [
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'DPDP Act Violation Complaint Against Loan Apps Accessing Contacts: Legal Guide',
+    title: 'DPDP Act Complaint Against Loan Apps | SettleLoans',
     description: 'Predatory loan apps scraped your phonebook or photos? Discover how to invoke the DPDP Act 2023, file with the Data Protection Board, and halt cyber harassment.',
     images: ['https://www.settleloans.in/images/infographics/dpdp-act-violation-complaint-against-loan-apps.jpg'],
   },

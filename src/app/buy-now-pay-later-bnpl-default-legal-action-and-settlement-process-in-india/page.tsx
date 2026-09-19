@@ -207,7 +207,7 @@ export default function BNPLDefaultPage() {
           <div className="max-w-7xl mx-auto px-4 md:px-8 lg:px-12 py-3 flex items-center gap-2">
             <Link href="/" className="text-xs md:text-sm text-[#747474] hover:text-[#1F5EFF] transition-colors">Home</Link>
             <span className="text-gray-300">/</span>
-            <Link href="/services" className="text-xs md:text-sm text-[#747474] hover:text-[#1F5EFF] transition-colors">Services</Link>
+            <Link href="/#services" className="text-xs md:text-sm text-[#747474] hover:text-[#1F5EFF] transition-colors">Services</Link>
             <span className="text-gray-300">/</span>
             <span className="text-xs md:text-sm font-bold text-[#2E2E2E]">BNPL Legal Action & Settlement Process</span>
           </div>

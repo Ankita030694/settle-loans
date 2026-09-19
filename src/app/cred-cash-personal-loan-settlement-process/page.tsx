@@ -52,8 +52,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/cred-cash-personal-loan-settlement-process',
   },
   openGraph: {
-    title: 'CRED Cash Loan Default Settlement: Settle Partner Bank Dues (2026)',
-    description: 'Expert legal and financial guide for resolving defaulted CRED Cash personal loan lines. Discover how to negotiate One-Time Settlements (OTS) directly with IDFC FIRST Bank, Newtap Finance, and L&T Finance.',
+    title: 'CRED Cash Loan Settlement Guide | SettleLoans',
+    description: 'Learn how to settle CRED Cash loans legally. Negotiate a single-shot compromise with partner banks and stop collection calls with SettleLoans.',
     url: 'https://www.settleloans.in/cred-cash-personal-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -69,8 +69,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'CRED Cash Loan Default Settlement: Settle Partner Bank Dues (2026)',
-    description: 'Technical manual for prime borrowers to settle defaulted CRED Cash credit lines directly with underwriting partner banks and NBFCs under RBI compromise guidelines.',
+    title: 'CRED Cash Loan Settlement Guide | SettleLoans',
+    description: 'Learn how to settle CRED Cash loans legally. Negotiate a single-shot compromise with partner banks and stop collection calls with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/cred-cash-personal-loan-settlement-process.jpg'],
   },
 };

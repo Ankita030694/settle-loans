@@ -250,7 +250,7 @@ export default function BankersRightOfSetOffPage() {
               <nav className="flex text-xs md:text-sm text-[#747474] space-x-2">
                 <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
                 <span className="text-gray-300">/</span>
-                <Link href="/blog" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
+                <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
                 <span className="text-gray-300">/</span>
                 <span className="font-bold text-[#2E2E2E]">Banker's Right of Set-Off</span>
               </nav>

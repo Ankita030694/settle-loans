@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bajaj-finance-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Bajaj Finance Personal Loan Settlement: OTS Rules, Bounce Charges & Legal Defense (2026)',
-    description: 'Learn how to settle a Bajaj Finance personal loan, Flexi loan, or EMI card. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
+    title: 'Bajaj Finance Personal Loan Settlement Guide | SettleLoans',
+    description: 'Exhaustive guide to Bajaj Finance personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, NACH bounce defense.',
     url: 'https://www.settleloans.in/bajaj-finance-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bajaj Finance Personal Loan Settlement: OTS Rules, Bounce Charges & Legal Defense',
+    title: 'Bajaj Finance Personal Loan Settlement Guide | SettleLoans',
     description: 'Technical and legal manual for settling defaulted Bajaj Finance personal loans and credit lines under RBI Compromise Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/bajaj-finance-personal-loan-settlement.jpg'],
   },

@@ -19,8 +19,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-calling-relatives-friends',
   },
   openGraph: {
-    title: 'Bank Recovery Agent Calling My Family? Legal Rights & Immediate Action Plan',
-    description: 'Learn how to stop loan recovery agents from calling your relatives, parents, and friends. Understand RBI Fair Practices, legal penalties for agents, and emergency complaint steps.',
+    title: 'Recovery Agents Calling Family? RBI Rules | SettleLoans',
+    description: 'Is a bank recovery agent calling your family, parents, or friends? Discover strict RBI guidelines prohibiting third-party contact, legal rights.',
     url: 'https://www.settleloans.in/recovery-agents-calling-relatives-friends',
     siteName: 'SettleLoans',
     images: [
@@ -36,8 +36,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bank Recovery Agent Calling My Family? Know Your Rights & RBI Rules',
-    description: 'Strict RBI circulars prohibit recovery agents from calling relatives or friends. Discover legal solutions, grievance filing steps, and anti-harassment protections.',
+    title: 'Recovery Agents Calling Family? RBI Rules | SettleLoans',
+    description: 'Is a bank recovery agent calling your family, parents, or friends? Discover strict RBI guidelines prohibiting third-party contact, legal rights.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agents-calling-relatives-friends.jpg'],
   },
 };

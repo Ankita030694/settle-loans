@@ -194,7 +194,7 @@ export default function SundayRecoveryRulesPage() {
               <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                 <li><span className="text-gray-300">/</span></li>
-                <li><Link href="/legal-rights" className="hover:text-[#1F5EFF] transition-colors">Legal Rights</Link></li>
+                <li><Link href="/how-to-stop-loan-recovery-harassment" className="hover:text-[#1F5EFF] transition-colors">Legal Rights</Link></li>
                 <li><span className="text-gray-300">/</span></li>
                 <li className="font-bold text-[#2E2E2E]">Recovery Agent Sunday Rules</li>
               </ol>

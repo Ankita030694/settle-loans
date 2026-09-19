@@ -4,6 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Ashish Jhangra - Debt Resolution Expert | SettleLoans',
   description: 'Ashish Jhangra is a legal and debt resolution professional at AMA Legal Solutions, specializing in personal loan settlement, credit card debt resolution.',
+  alternates: {
+    canonical: 'https://www.settleloans.in/authors/ashish-jhangra',
+  },
 };
 
 export default function AshishJhangraProfile() {
@@ -37,6 +40,9 @@ export default function AshishJhangraProfile() {
             </p>
             <p>
               At AMA Legal Solutions, I work closely with clients who are facing financial stress due to personal loans, credit cards, business loans, and recovery-related issues. My role is to understand each client's situation, provide practical legal support, and help them explore lawful debt resolution options while protecting their rights.
+            </p>
+            <p>
+              Over the years, I have advised salaried individuals, self-employed professionals, and MSME entrepreneurs on navigating complex NPA classifications, countering unlawful recovery agent harassment, and obtaining legally enforceable compromise settlements under Reserve Bank of India (RBI) circulars. My advisory methodology focuses on establishing direct legal dialogue with bank Principal Nodal Officers, defending against premature Section 138 cheque bounce or Section 25 PSSA summons, and representing borrowers before National Lok Adalats to ensure debt discharge agreements are final, binding, and non-appealable.
             </p>
             
             <h2 className="text-xl font-bold text-slate-900 mt-10 mb-6">My Areas of Expertise</h2>

@@ -487,7 +487,7 @@ export default function MumbaiLoanSettlementPage() {
                     <Link href="/contact" className="bg-[#1F5EFF] text-white font-black py-5 px-14 rounded-2xl hover:scale-105 transition-all text-xl shadow-xl uppercase tracking-widest">
                        Free Analysis Now
                     </Link>
-                    <Link href="/services" className="bg-transparent text-white font-bold py-5 px-14 rounded-2xl border-2 border-white/20 hover:bg-white/5 transition-all text-xl uppercase tracking-widest">
+                    <Link href="/#services" className="bg-transparent text-white font-bold py-5 px-14 rounded-2xl border-2 border-white/20 hover:bg-white/5 transition-all text-xl uppercase tracking-widest">
                        Our Services
                     </Link>
                  </div>

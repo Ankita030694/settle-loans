@@ -56,8 +56,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-visakhapatnam',
   },
   openGraph: {
-    title: 'Loan Settlement Lawyer in Vizag Visakhapatnam: Legal Defense & OTS Haircut (2026)',
-    description: 'Expert legal defense and One-Time Settlement (OTS) representation for salaried professionals, port employees, and business owners facing loan defaults across Visakhapatnam, Gajuwaka, and Madhurawada.',
+    title: 'Personal Loan Settlement in Vizag | SettleLoans',
+    description: 'Settle personal loans legally in Visakhapatnam Vizag. Stop recovery harassment and resolve debt with structured bank OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-visakhapatnam',
     siteName: 'SettleLoans',
     images: [
@@ -73,8 +73,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Lawyer in Vizag Visakhapatnam: Legal Defense & RBI OTS Relief',
-    description: 'Authoritative legal manual for personal loan settlement in Visakhapatnam. Advocate-led defense against Section 25 PSSA and Section 138 notices across Vizag District Courts with DLSA Lok Adalat resolution.',
+    title: 'Personal Loan Settlement in Vizag | SettleLoans',
+    description: 'Settle personal loans legally in Visakhapatnam Vizag. Stop recovery harassment and resolve debt with structured bank OTS via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-visakhapatnam.jpg'],
   },
 };

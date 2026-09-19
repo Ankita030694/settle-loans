@@ -56,7 +56,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Guarantor Liability in Loan Settlement | SettleLoans',
-    description: 'Comprehensive legal analysis on co-signer and guarantor liability under Section 128 of the Indian Contract Act. Learn how to halt collection harassment against family members and execute a comprehensive dual OTS discharge.',
+    description: 'Worried about guarantor liability in personal loan default? Understand Section 128 Indian Contract Act co-extensive liability.',
     url: 'https://www.settleloans.in/guarantor-liability-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -72,8 +72,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Guarantor Liability in Personal Loan Settlement: Section 128 & Family Protections',
-    description: 'Are collection agents threatening your co-signing parent or spouse for an unpaid loan? Discover statutory protections under the Indian Contract Act and RBI guidelines to secure a full dual release.',
+    title: 'Guarantor Liability in Loan Settlement | SettleLoans',
+    description: 'Worried about guarantor liability in personal loan default? Understand Section 128 Indian Contract Act co-extensive liability.',
     images: ['https://www.settleloans.in/images/infographics/guarantor-liability-personal-loan-settlement.jpg'],
   },
 };

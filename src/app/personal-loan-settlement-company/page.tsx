@@ -2,19 +2,19 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementCompanyClient from './PersonalLoanSettlementCompanyClient';
 
 const urlSlug = "personal-loan-settlement-company";
-const pageTitle = "Best Personal Loan Settlement Company in 2024 | Find Reliable Relief";
+const pageTitle = "Best Personal Loan Settlement Company | Debt Relief";
 const pageDescription = "Compare the best personal loan settlement companies. Learn how to verify credentials, check reviews, and safely settle your debt without getting scammed.";
 
 export const metadata: Metadata = {
   title: pageTitle,
   description: pageDescription,
   alternates: {
-    canonical: `https://settleloan.in/${urlSlug}`,
+    canonical: `https://www.settleloans.in/${urlSlug}`,
   },
   openGraph: {
     title: pageTitle,
     description: pageDescription,
-    url: `https://settleloan.in/${urlSlug}`,
+    url: `https://www.settleloans.in/${urlSlug}`,
     type: 'article',
     images: [
       {
@@ -39,22 +39,22 @@ export default function PersonalLoanSettlementCompanyPage() {
     "@type": "Article",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://settleloan.in/${urlSlug}`
+      "@id": `https://www.settleloans.in/${urlSlug}`
     },
     "headline": pageTitle,
     "description": pageDescription,
-    "image": `https://settleloan.in/images/og/${urlSlug}.jpg`,
+    "image": `https://www.settleloans.in/images/og/${urlSlug}.jpg`,
     "author": {
       "@type": "Organization",
-      "name": "Settle Loan Financial Review Team",
-      "url": "https://settleloan.in/author"
+      "name": "SettleLoans Financial Review Team",
+      "url": "https://www.settleloans.in"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Settle Loan",
+      "name": "SettleLoans",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloan.in/logo.png"
+        "url": "https://www.settleloans.in/logo.png"
       }
     },
     "datePublished": new Date().toISOString(),

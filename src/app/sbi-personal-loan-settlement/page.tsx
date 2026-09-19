@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/sbi-personal-loan-settlement',
   },
   openGraph: {
-    title: 'SBI Personal Loan Settlement: OTS Rules, Rin Samadhan Scheme & Lok Adalat (2026)',
-    description: 'Learn how to settle an SBI personal loan, Xpress Credit, or credit card. Understand PSU banking OTS frameworks, Rin Samadhan guidelines, Lok Adalat settlement slabs, and legal protections.',
+    title: 'SBI Personal Loan Settlement Guide | SettleLoans',
+    description: 'Exhaustive guide to State Bank of India (SBI) personal loan settlement. Understand PSU OTS policies, Rin Samadhan scheme, SARB escalation.',
     url: 'https://www.settleloans.in/sbi-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'SBI Personal Loan Settlement: OTS Rules, Rin Samadhan Scheme & Legal Process',
-    description: 'Technical and legal manual for settling defaulted State Bank of India personal loans, Xpress Credit, and credit cards under PSU compromise frameworks and Lok Adalat.',
+    title: 'SBI Personal Loan Settlement Guide | SettleLoans',
+    description: 'Exhaustive guide to State Bank of India (SBI) personal loan settlement. Understand PSU OTS policies, Rin Samadhan scheme, SARB escalation.',
     images: ['https://www.settleloans.in/images/infographics/sbi-personal-loan-settlement.jpg'],
   },
 };

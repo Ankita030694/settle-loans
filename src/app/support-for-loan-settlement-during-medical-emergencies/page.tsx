@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement During Medical Emergency | SettleLoans",
+  title: "Medical Emergency Loan Settlement Support | SettleLoans",
   description: "Find legal support and RBI guidelines for loan settlement during medical emergencies. Learn how to negotiate with banks, stop harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies",

@@ -58,7 +58,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Car Loan Repossession & Shortfall Settlement | SettleLoans',
-    description: 'Master the legal defense against illegal vehicle seizure and inflated loan shortfall demands. Understand Supreme Court rulings, RBI Fair Practices Code, auction transparency, and advocate-led ₹0 shortfall settlements.',
+    description: 'Vehicle seized or facing a car loan shortfall recovery notice? Learn Supreme Court rulings against forceful repossession.',
     url: 'https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -74,8 +74,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Car Loan Repossession Rules & Shortfall Settlement: Stop Seizure & Settle Residual Debt',
-    description: 'Vehicle repossessed by bank musclemen and now facing an aggressive shortfall notice? Discover how to leverage Supreme Court precedents to settle residual vehicle loan debt for ₹0.',
+    title: 'Car Loan Repossession & Shortfall Settlement | SettleLoans',
+    description: 'Vehicle seized or facing a car loan shortfall recovery notice? Learn Supreme Court rulings against forceful repossession.',
     images: ['https://www.settleloans.in/images/infographics/car-loan-repossession-and-shortfall-settlement.jpg'],
   },
 };

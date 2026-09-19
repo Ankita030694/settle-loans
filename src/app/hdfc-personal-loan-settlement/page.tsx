@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/hdfc-personal-loan-settlement',
   },
   openGraph: {
-    title: 'HDFC Personal Loan Settlement: OTS Rules, Haircut Formula & Legal Process (2026)',
-    description: 'Learn how to settle an HDFC Bank personal loan or credit card. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
+    title: 'HDFC Personal Loan Settlement Guide | SettleLoans',
+    description: 'Exhaustive guide to HDFC Bank personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, recovery agent defense.',
     url: 'https://www.settleloans.in/hdfc-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'HDFC Personal Loan Settlement: OTS Rules, Haircut Formula & Legal Process',
+    title: 'HDFC Personal Loan Settlement Guide | SettleLoans',
     description: 'Technical and legal manual for settling defaulted HDFC Bank personal loans and credit cards under RBI Compromise Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/hdfc-personal-loan-settlement.jpg'],
   },

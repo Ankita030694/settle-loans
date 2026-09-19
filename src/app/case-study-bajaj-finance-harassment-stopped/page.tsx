@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped',
   },
   openGraph: {
-    title: 'How to Stop Bajaj Finance Recovery Harassment: ₹3L Case Study & Legal Cease-and-Desist',
-    description: 'In-depth case study: How aggressive Bajaj Finance recovery agent workplace visits for a ₹3 Lakh loan were stopped immediately through formal RBI legal notices and resolved via OTS.',
+    title: 'Stop Bajaj Finance Harassment Case Study | SettleLoans',
+    description: 'Real case study: How SettleLoans halted illegal Bajaj Finance recovery agent workplace visits for a ₹3 Lakh loan using RBI cease-and-desist notices.',
     url: 'https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Stop Bajaj Finance Recovery Harassment: ₹3L Case Study & Legal Cease-and-Desist',
+    title: 'Stop Bajaj Finance Harassment Case Study | SettleLoans',
     description: 'Case study proof: Step-by-step breakdown of how illegal recovery agent office visits were halted and a ₹3 Lakh Bajaj Finance loan was settled for ₹1.35 Lakhs.',
     images: ['https://www.settleloans.in/images/infographics/case-study-bajaj-finance-harassment-stopped.jpg'],
   },

@@ -608,10 +608,10 @@ export default function HomeLoanAfterSettlementPage() {
                 <div className="text-sm font-bold uppercase tracking-wider text-[#2E2E2E] mb-4">Mortgage Resources</div>
                 <nav className="flex flex-col gap-3">
                   <Link href="/loan-settlement-process-in-hindi" className="text-sm text-blue-600 hover:underline">Settlement Process Guide</Link>
-                  <Link href="/is-is-possible-to-settle-joint-loan" className="text-sm text-blue-600 hover:underline">Settling a Joint Loan</Link>
+                  <Link href="/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers" className="text-sm text-blue-600 hover:underline">Settling a Joint Loan</Link>
                   <Link href="/best-apps-for-managing-and-settling-unsecured-loans" className="text-sm text-blue-600 hover:underline">CIBIL Repair Apps</Link>
                   <Link href="/rbi-rules-for-recovery-agents" className="text-sm text-blue-600 hover:underline">Know Your Rights</Link>
-                  <Link href="/can-i-get-loan-after-settlement" className="text-sm text-blue-600 hover:underline">Loans Post-Settlement</Link>
+                  <Link href="/faqs/can-i-get-loan-after-settlement" className="text-sm text-blue-600 hover:underline">Loans Post-Settlement</Link>
                 </nav>
               </div>
 

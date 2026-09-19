@@ -61,9 +61,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-jalandhar',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Company in Jalandhar Punjab | SettleLoans',
+    title: 'Loan Settlement in Jalandhar | SettleLoans',
     description:
-      'Strategic legal defense and institutional debt resolution for sports goods manufacturers, leather exporters, and NRI expat families across Jalandhar, Phagwara, and Hoshiarpur. Halt recovery harassment, quash illegal notices, and negotiate 40% to 65% OTS waivers under RBI directives.',
+      'Settle personal loans in Jalandhar Punjab. Stop recovery calls, defend legal notices, and negotiate 40%–70% OTS debt waivers with SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-jalandhar',
     siteName: 'SettleLoans',
     images: [
@@ -79,9 +79,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Company in Jalandhar Punjab | SettleLoans',
+    title: 'Loan Settlement in Jalandhar | SettleLoans',
     description:
-      'Expert debt settlement advocates in Jalandhar Punjab for sports goods exporters, leather traders, and expat corridor borrowers. Secure 40% to 65% bank OTS waivers with complete civil protection.',
+      'Settle personal loans in Jalandhar Punjab. Stop recovery calls, defend legal notices, and negotiate 40%–70% OTS debt waivers with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-jalandhar.jpg'],
   },
 };

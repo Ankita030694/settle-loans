@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/one-time-settlement-ots-kaise-kare',
   },
   openGraph: {
-    title: 'One Time Settlement (OTS) Kaise Le: Complete Bank NPA Negotiation & NDC Roadmap',
-    description: 'Struggling with unpaid personal loans or credit cards? Discover how to bypass third-party recovery agents, approach the bank Stressed Asset Department, negotiate OTS waivers, and secure an authentic No Dues Certificate.',
+    title: 'One Time Settlement OTS Kaise Kare: Full Guide | SettleLoans',
+    description: 'One Time Settlement OTS kaise le? Learn how to approach bank NPA Stressed Asset management, draft an OTS proposal, secure 40-70% waivers, and get a ₹0 NDC.',
     url: 'https://www.settleloans.in/one-time-settlement-ots-kaise-kare',
     siteName: 'SettleLoans',
     images: [
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'One Time Settlement OTS Kaise Le: Bank NPA Negotiation & ₹0 NDC Guide',
+    title: 'One Time Settlement OTS Kaise Kare: Full Guide | SettleLoans',
     description: 'Step-by-step masterclass: approach bank NPA branches, leverage RBI Compromise Settlement circulars, calculate NPV recovery, and obtain ₹0 No Dues Certificate.',
     images: ['https://www.settleloans.in/images/infographics/one-time-settlement-ots-kaise-kare.jpg'],
   },

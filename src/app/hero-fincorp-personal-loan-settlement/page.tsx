@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/hero-fincorp-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Hero Fincorp Loan Settlement: Process, OTS Rules & Legal Defense (2026)',
+    title: 'Hero FinCorp Loan Settlement Guide | SettleLoans',
     description: 'Learn how to settle defaulted Hero Fincorp personal loans. Stop recovery calls, invoke RBI compromise frameworks, and negotiate 40% to 60% debt haircuts.',
     url: 'https://www.settleloans.in/hero-fincorp-personal-loan-settlement',
     siteName: 'SettleLoans',
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Hero Fincorp Personal Loan Settlement Process & OTS Guidelines',
+    title: 'Hero FinCorp Loan Settlement Guide | SettleLoans',
     description: 'Legal guide for settling defaulted Hero Fincorp unsecured personal loans under RBI compromise settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/hero-fincorp-personal-loan-settlement.jpg'],
   },

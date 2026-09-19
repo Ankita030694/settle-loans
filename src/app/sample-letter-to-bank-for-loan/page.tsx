@@ -1,8 +1,35 @@
-"use client";
-
 import React from "react";
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: "Sample Letter to Bank for Loan: Guide & Format",
+  description: "Learn how to write a sample letter to bank for loan. Download free templates for personal, business, home, and education loans with expert tips.",
+  alternates: {
+    canonical: "https://www.settleloans.in/sample-letter-to-bank-for-loan",
+  },
+  openGraph: {
+    title: "Sample Letter to Bank for Loan: Format & Guide | SettleLoans",
+    description: "Learn how to write a sample letter to bank for loan. Download free templates for personal, business, home, and education loans with expert tips.",
+    url: "https://www.settleloans.in/sample-letter-to-bank-for-loan",
+    type: "article",
+    images: [
+      {
+        url: "https://www.settleloans.in/images/sample-letter-to-bank-for-loan.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Sample Letter to Bank for Loan",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Sample Letter to Bank for Loan: Format & Guide | SettleLoans",
+    description: "Learn how to write a sample letter to bank for loan. Download free templates for personal, business, home, and education loans with expert tips.",
+    images: ["https://www.settleloans.in/images/sample-letter-to-bank-for-loan.jpg"],
+  },
+};
 
 export default function SampleLetterToBankForLoanPage() {
     const schemaData = {
@@ -212,7 +239,7 @@ export default function SampleLetterToBankForLoanPage() {
                             Discover comprehensive templates, expert tips, and a step by step guide to drafting the perfect formal loan application letter to secure your financial future today.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Consult Financial Experts
                             </Link>
                         </div>
@@ -889,7 +916,7 @@ Yours faithfully,
                             <p className="text-xl mb-8 opacity-90">
                                 Our financial experts are standing by to help you craft the perfect sample letter to bank for loan and review your documentation.
                             </p>
-                            <Link href="/contact-us" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
+                            <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
                                 Request a Free Consultation Today
                             </Link>
                         </div>
@@ -909,7 +936,7 @@ Yours faithfully,
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Struggling to get your loan approved? Let our experienced consultants guide your application process.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
                                         Get Expert Assistance
                                     </Link>
                                     <p className="mt-6 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.3em] font-black">Certified Consultants</p>

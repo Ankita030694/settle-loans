@@ -21,8 +21,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/lok-adalat-notice-for-personal-loan',
   },
   openGraph: {
-    title: 'Lok Adalat Notice for Personal Loan: Is It Mandatory? Legal Rights & Settlement Blueprint',
-    description: 'Received a Lok Adalat summons or pre-litigation notice for unpaid personal loan EMIs? Discover why attendance is 100% voluntary, arrest is legally impossible, and how to secure a 40%–70% binding OTS decree.',
+    title: 'Lok Adalat Notice for Personal Loan | SettleLoans',
+    description: 'Received a Lok Adalat notice for personal loan default? Learn if attendance is mandatory, if you can be arrested, how pre-litigation conciliation works.',
     url: 'https://www.settleloans.in/lok-adalat-notice-for-personal-loan',
     siteName: 'SettleLoans',
     images: [
@@ -38,8 +38,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Lok Adalat Notice for Personal Loan Default: Real Consequences & Settlement Guide',
-    description: 'Comprehensive legal guide for Indian borrowers on handling Lok Adalat notices, avoiding legal panic, negotiating OTS discounts with senior bank officials, and obtaining non-appealable court awards.',
+    title: 'Lok Adalat Notice for Personal Loan | SettleLoans',
+    description: 'Received a Lok Adalat notice for personal loan default? Learn if attendance is mandatory, if you can be arrested, how pre-litigation conciliation works.',
     images: ['https://www.settleloans.in/images/infographics/lok-adalat-notice-for-personal-loan.jpg'],
   },
 };

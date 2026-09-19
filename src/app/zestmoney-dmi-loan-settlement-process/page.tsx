@@ -52,8 +52,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/zestmoney-dmi-loan-settlement-process',
   },
   openGraph: {
-    title: 'ZestMoney Loan Default Settlement: DMI Finance OTS & Haircut Guide (2026)',
-    description: 'Strategic guide to settling defaulted ZestMoney BNPL credit lines and consumer durable loans backed by DMI Finance and Aditya Birla under RBI compromise regulations.',
+    title: 'ZestMoney Loan Default Settlement Guide | SettleLoans',
+    description: 'Settle defaulted ZestMoney loans backed by DMI Finance & Aditya Birla. Stop recovery notices, waive penalty fees, and negotiate 50% to 60% OTS.',
     url: 'https://www.settleloans.in/zestmoney-dmi-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ZestMoney Loan Default Settlement: DMI Finance OTS & Haircut Guide (2026)',
+    title: 'ZestMoney Loan Default Settlement Guide | SettleLoans',
     description: 'Technical and legal manual for negotiating One-Time Settlements (OTS) on defaulted ZestMoney loans backed by DMI Finance under RBI guidelines.',
     images: ['https://www.settleloans.in/images/infographics/zestmoney-dmi-loan-settlement-process.jpg'],
   },

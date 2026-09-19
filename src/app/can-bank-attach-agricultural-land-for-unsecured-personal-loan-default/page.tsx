@@ -524,19 +524,19 @@ export default function AgriculturalLandAttachmentPage() {
                 </div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/section-60-cpc-protection-from-attachment" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Section 60 CPC Protections
                     </Link>
                   </li>
                   <li>
-                    <Link href="/kisan-credit-card-loan-default-rules" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/loan-settlement" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Kisan Credit Card Defaults
                     </Link>
                   </li>
                   <li>
-                    <Link href="/illegal-bank-recovery-agent-harassment" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Stop Recovery Agent Harassment
                     </Link>

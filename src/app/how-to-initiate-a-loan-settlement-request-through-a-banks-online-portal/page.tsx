@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
-  title: "How to Initiate Loan Settlement Through Bank's Online Portal | Step-by-Step",
+  title: "Initiate Loan Settlement via Bank Online Portal | Guide",
   description: "Learn how to start your loan settlement process online. Step-by-step guide for SBI, HDFC, ICICI, and Axis Bank portals. Discover the documents needed.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal",

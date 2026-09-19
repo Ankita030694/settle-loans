@@ -61,8 +61,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/canara-bank-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Canara Bank Personal Loan Settlement: OTS Rules, SAMB Process & Haircut Hierarchy (2026)',
-    description: 'Strategic legal guide to settling defaulted Canara Bank personal loans. Understand SAMB Stressed Assets transfers, Circle Office financial delegation, Lok Adalat conciliation, and RBI compromise rules.',
+    title: 'Canara Bank Personal Loan Settlement | SettleLoans',
+    description: 'Master the Canara Bank personal loan settlement process under RBI guidelines. Learn tier-based haircut approvals (Branch vs Circle Office), SAMB escalation.',
     url: 'https://www.settleloans.in/canara-bank-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -78,8 +78,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Canara Bank Personal Loan Settlement: OTS Rules, SAMB Process & Haircut Hierarchy',
-    description: 'Technical and legal playbook for settling defaulted Canara Bank personal loans under RBI Compromise Settlement frameworks, Circle Office delegation, and Lok Adalat benches.',
+    title: 'Canara Bank Personal Loan Settlement | SettleLoans',
+    description: 'Master the Canara Bank personal loan settlement process under RBI guidelines. Learn tier-based haircut approvals (Branch vs Circle Office), SAMB escalation.',
     images: ['https://www.settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg'],
   },
 };

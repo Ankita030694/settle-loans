@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faBuilding, faCalendarAlt, faScaleBalanced, faInfoCircle, faCity, faIndustry } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Best Lawyer for Business Loan Settlement India',
+  description: 'Expert legal representation for business loan settlements. MSME debt restructuring, SARFAESI defense for commercial property, and NPA resolution strategies....',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-business-loan-settlement',
+  },
+  openGraph: {
+    title: 'Best Lawyer for Business Loan Settlement India',
+    description: 'Expert legal representation for business loan settlements. MSME debt restructuring, SARFAESI defense for commercial property, and NPA resolution strategies....',
+    url: 'https://www.settleloans.in/best-lawyer-for-business-loan-settlement',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Best Lawyer for Business Loan Settlement India',
+    description: 'Expert legal representation for business loan settlements. MSME debt restructuring, SARFAESI defense for commercial property, and NPA resolution strategies....',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function BusinessLoanSettlementPage() {
     const jsonLd = {

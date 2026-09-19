@@ -23,9 +23,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-settlement-vs-debt-consolidation',
   },
   openGraph: {
-    title: 'Personal Loan Settlement vs Debt Consolidation: Financial Planning Guide (2026)',
+    title: 'Loan Settlement vs Debt Consolidation Guide | SettleLoans',
     description:
-      'Should you take one large consolidation loan or hire advocates to settle multiple debts with 40%–70% haircuts? In-depth legal, financial, and credit analysis under RBI guidelines.',
+      'Confused between loan settlement vs debt consolidation? Compare monthly EMI relief vs 40%–70% debt haircuts, CIBIL score impact, eligibility, costs.',
     url: 'https://www.settleloans.in/loan-settlement-vs-debt-consolidation',
     siteName: 'SettleLoans',
     images: [
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement vs Debt Consolidation: Which Strategy Solves Multi-Debt Traps?',
+    title: 'Loan Settlement vs Debt Consolidation Guide | SettleLoans',
     description:
       'Compare 1 single monthly EMI vs one-time OTS haircuts. Discover CIBIL bureau impacts, total interest costs, eligibility hurdles, and RBI legal protections.',
     images: ['https://www.settleloans.in/images/infographics/loan-settlement-vs-debt-consolidation.jpg'],

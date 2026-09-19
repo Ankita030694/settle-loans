@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/lendingkart-business-loan-settlement-process',
   },
   openGraph: {
-    title: 'Lendingkart Loan Settlement Process: MSME OTS Rules, Legal Defense & Haircut (2026)',
-    description: 'A technical legal guide to settling defaulted Lendingkart MSME working capital loans. Understand algorithmic underwriting, halt NACH bounce charges, contest arbitration, and negotiate 40%–55% debt waivers under RBI frameworks.',
+    title: 'Lendingkart Loan Settlement Process | SettleLoans',
+    description: 'Settle your Lendingkart MSME business loan legally. Stop NACH bounce fees, defend arbitration notices, and negotiate up to 55% OTS haircut.',
     url: 'https://www.settleloans.in/lendingkart-business-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Lendingkart Business Loan Settlement Process: MSME Working Capital Default',
+    title: 'Lendingkart Loan Settlement Process | SettleLoans',
     description: 'Comprehensive legal roadmap for settling defaulted Lendingkart unsecured business credit facilities under RBI compromise settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/lendingkart-business-loan-settlement-process.jpg'],
   },

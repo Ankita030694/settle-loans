@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/navi-app-loan-settlement',
   },
   openGraph: {
-    title: 'Navi App Personal Loan Settlement: OTS Rules, Bounce Fees & Legal Defense (2026)',
-    description: 'Master Navi app personal loan settlement. Discover how to negotiate with Navi Finserv NBFC, stop repetitive NACH bounce penalties and automated collection calls, reply to legal notices, and secure a 50%–65% OTS haircut with zero balance NDC.',
+    title: 'Navi App Personal Loan Settlement Guide | SettleLoans',
+    description: 'Exhaustive legal guide to Navi app personal loan settlement. Learn how Navi Finserv NBFC lending works, stop automated calling & NACH bounce fees.',
     url: 'https://www.settleloans.in/navi-app-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Navi App Personal Loan Settlement Guide: Legal OTS & Haircuts',
+    title: 'Navi App Personal Loan Settlement Guide | SettleLoans',
     description: 'Technical and legal defense manual for settling defaulted Navi app personal loans up to ₹20 Lakhs under RBI compromise frameworks and Fair Practices Code.',
     images: ['https://www.settleloans.in/images/infographics/navi-app-loan-settlement.jpg'],
   },

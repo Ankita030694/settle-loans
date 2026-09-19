@@ -1,8 +1,28 @@
-"use client";
-
 import React from 'react';
+import type { Metadata } from "next";
 import Link from 'next/link';
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Loan Settlement vs Restructuring: Comparison',
+  description: 'A stark comparative analysis of loan restructuring vs settlement. Discover how to convert personal loan to EMI, RBI loan restructuring guidelines, and...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/loan-settlement-vs-loan-restructuring-which-is-better',
+  },
+  openGraph: {
+    title: 'Loan Settlement vs Restructuring: Comparison',
+    description: 'A stark comparative analysis of loan restructuring vs settlement. Discover how to convert personal loan to EMI, RBI loan restructuring guidelines, and...',
+    url: 'https://www.settleloans.in/loan-settlement-vs-loan-restructuring-which-is-better',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Loan Settlement vs Restructuring: Comparison',
+    description: 'A stark comparative analysis of loan restructuring vs settlement. Discover how to convert personal loan to EMI, RBI loan restructuring guidelines, and...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function LoanRestructuringVsSettlement() {
   const jsonLd = {
@@ -227,7 +247,7 @@ export default function LoanRestructuringVsSettlement() {
               When debt becomes unmanageable, Indian banks offer two primary relief mechanisms. Discover the mathematical trade-offs, RBI guidelines, and CIBIL impacts to make the smartest financial decision.
             </p>
             <Link 
-              href="/contact-us"
+              href="/contact"
               className="bg-[#1F5EFF] hover:bg-[#1F5EFF]/90 text-white font-bold py-4 px-10 rounded-full text-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
             >
               Get Expert Financial Consultation
@@ -240,7 +260,7 @@ export default function LoanRestructuringVsSettlement() {
           <nav className="text-sm font-medium text-gray-500 max-w-7xl mx-auto flex gap-2 items-center">
             <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
             <span>/</span>
-            <Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
+            <Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
             <span>/</span>
             <span className="text-[#2E2E2E]">Loan Restructuring vs. Loan Settlement</span>
           </nav>
@@ -599,7 +619,7 @@ export default function LoanRestructuringVsSettlement() {
                 Not sure whether to restructure or settle your debt? Let our experts analyze your financial situation and negotiate the best terms with your bank.
               </p>
               <Link 
-                href="/contact-us"
+                href="/contact"
                 className="inline-block bg-white text-[#1F5EFF] hover:bg-gray-50 font-bold py-4 px-10 rounded-full text-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"
               >
                 Book Your Free Consultation
@@ -618,7 +638,7 @@ export default function LoanRestructuringVsSettlement() {
                   Our legal experts talk directly to banks so you don't have to face recovery agent harassment.
                 </p>
                 <Link 
-                  href="/contact-us"
+                  href="/contact"
                   className="block w-full text-center bg-[#1F5EFF] hover:bg-[#1F5EFF]/90 text-white font-bold py-3 px-4 rounded-lg transition-colors text-sm"
                 >
                   Speak to an Expert
@@ -629,22 +649,22 @@ export default function LoanRestructuringVsSettlement() {
                 <div className="text-lg font-bold text-[#2E2E2E] mb-4 border-b border-[#DEDEDE] pb-2">Helpful Resources</div>
                 <ul className="space-y-3 text-sm">
                   <li>
-                    <Link href="/services/how-to-stop-recovery-agent-harassment" className="text-gray-600 hover:text-[#1F5EFF] transition-colors flex gap-2">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="text-gray-600 hover:text-[#1F5EFF] transition-colors flex gap-2">
                       <span className="text-[#1F5EFF]">→</span> Stop Recovery Agents
                     </Link>
                   </li>
                   <li>
-                    <Link href="/services/cibil-score-after-loan-settlement" className="text-gray-600 hover:text-[#1F5EFF] transition-colors flex gap-2">
+                    <Link href="/how-to-improve-cibil-score-after-loan-settlement" className="text-gray-600 hover:text-[#1F5EFF] transition-colors flex gap-2">
                       <span className="text-[#1F5EFF]">→</span> CIBIL Score Impact
                     </Link>
                   </li>
                   <li>
-                    <Link href="/services/credit-card-settlement-process" className="text-gray-600 hover:text-[#1F5EFF] transition-colors flex gap-2">
+                    <Link href="/services/credit-card-settlement" className="text-gray-600 hover:text-[#1F5EFF] transition-colors flex gap-2">
                       <span className="text-[#1F5EFF]">→</span> Credit Card Settlement
                     </Link>
                   </li>
                   <li>
-                    <Link href="/services/rbi-guidelines-for-loan-defaulters" className="text-gray-600 hover:text-[#1F5EFF] transition-colors flex gap-2">
+                    <Link href="/top-10-rbi-rules-for-loan-defaulters-rights" className="text-gray-600 hover:text-[#1F5EFF] transition-colors flex gap-2">
                       <span className="text-[#1F5EFF]">→</span> RBI Rules for Defaulters
                     </Link>
                   </li>

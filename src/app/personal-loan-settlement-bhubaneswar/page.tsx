@@ -54,9 +54,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-bhubaneswar',
   },
   openGraph: {
-    title: 'Loan Settlement Lawyer in Bhubaneswar Odisha: Personal Loan OTS & Legal Relief (2026)',
+    title: 'Personal Loan Settlement in Bhubaneswar | SettleLoans',
     description:
-      'Expert legal defense and compromise One-Time Settlement (OTS) representation for IT professionals, mining contractors, and salaried personnel facing loan defaults across Bhubaneswar, Cuttack, and Odisha.',
+      'Settle personal loans legally in Bhubaneswar & Odisha. Stop recovery harassment and resolve bank debt with expert OTS guidance from SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-bhubaneswar',
     siteName: 'SettleLoans',
     images: [
@@ -72,9 +72,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Lawyer in Bhubaneswar Odisha: Legal Notice Defense & RBI OTS Relief',
+    title: 'Personal Loan Settlement in Bhubaneswar | SettleLoans',
     description:
-      'Authoritative legal guide for personal loan settlement in Bhubaneswar and Cuttack. Advocate-led defense against SARB notices, Section 25 PSSA, and Section 138 summons with DLSA Khordha Lok Adalat resolution.',
+      'Settle personal loans legally in Bhubaneswar & Odisha. Stop recovery harassment and resolve bank debt with expert OTS guidance from SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-bhubaneswar.jpg'],
   },
 };

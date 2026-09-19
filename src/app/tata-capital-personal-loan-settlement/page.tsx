@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/tata-capital-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Tata Capital Personal Loan Settlement: OTS Rules, Bounce Charges & Legal Rights (2026)',
-    description: 'Learn how to settle a Tata Capital personal loan or business credit line. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
+    title: 'Tata Capital Personal Loan Settlement | SettleLoans',
+    description: 'Comprehensive guide to Tata Capital personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, NACH bounce defense.',
     url: 'https://www.settleloans.in/tata-capital-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Tata Capital Personal Loan Settlement: OTS Rules, Bounce Charges & Legal Rights',
+    title: 'Tata Capital Personal Loan Settlement | SettleLoans',
     description: 'Technical and legal manual for settling defaulted Tata Capital personal loans and consumer credit facilities under RBI Compromise Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/tata-capital-personal-loan-settlement.jpg'],
   },

@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/au-small-finance-bank-loan-settlement',
   },
   openGraph: {
-    title: 'AU Small Finance Bank Loan Settlement: SARB Rules, Legal Defense & Haircut (2026)',
-    description: 'Learn how to settle an AU Small Finance Bank personal or business loan. Understand internal NPA haircuts, SARB escalation, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
+    title: 'AU Small Finance Bank Settlement | SettleLoans',
+    description: 'Learn how to settle AU Small Finance Bank loans legally. Negotiate directly with SARB teams and resolve overdue debt with SettleLoans.',
     url: 'https://www.settleloans.in/au-small-finance-bank-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'AU Small Finance Bank Loan Settlement: SARB Rules, Legal Defense & Haircut',
-    description: 'Technical and legal manual for settling defaulted AU Small Finance Bank personal loans and business credit facilities under RBI Compromise Settlement frameworks.',
+    title: 'AU Small Finance Bank Settlement | SettleLoans',
+    description: 'Learn how to settle AU Small Finance Bank loans legally. Negotiate directly with SARB teams and resolve overdue debt with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/au-small-finance-bank-loan-settlement.jpg'],
   },
 };

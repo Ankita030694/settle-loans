@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer',
   },
   openGraph: {
-    title: 'How to Escalate Bank Loan Harassment to Principal Nodal Officer (PNO) | RBI Grievance & Collection Freeze Guide',
-    description: 'Learn how to bypass local branch managers and file formal statutory representations directly with the bank’s Principal Nodal Officer (PNO) under RBI Internal Ombudsman guidelines to freeze collection actions.',
+    title: 'Escalate Loan Harassment to Nodal Officer | SettleLoans',
+    description: 'Learn how to escalate bank recovery harassment to Principal Nodal Officers under RBI guidelines and freeze illegal recovery via SettleLoans.',
     url: 'https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer',
     siteName: 'SettleLoans',
     images: [
@@ -76,8 +76,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Escalate Bank Loan Harassment to Principal Nodal Officer (PNO): RBI Freeze Guide',
-    description: 'Facing rogue recovery calls, third-party defamation, or workplace visits? Discover how to file a statutory Level-3 complaint with the bank Principal Nodal Officer to stop harassment immediately.',
+    title: 'Escalate Loan Harassment to Nodal Officer | SettleLoans',
+    description: 'Learn how to escalate bank recovery harassment to Principal Nodal Officers under RBI guidelines and freeze illegal recovery via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/how-to-escalate-loan-harassment-to-principal-nodal-officer.jpg'],
   },
 };

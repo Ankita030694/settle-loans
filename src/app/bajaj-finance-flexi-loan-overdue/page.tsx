@@ -241,7 +241,7 @@ export default function Page() {
               <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
                 <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
                 <span className="text-gray-300">/</span>
-                <Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
+                <Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
                 <span className="text-gray-300">/</span>
                 <span className="font-bold text-[#2E2E2E]">Bajaj Flexi Loan Overdue</span>
               </div>

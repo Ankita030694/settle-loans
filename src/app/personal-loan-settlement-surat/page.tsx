@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-surat',
   },
   openGraph: {
-    title: 'Loan Settlement Services in Surat: Settle Unsecured & Business Loans',
-    description: 'Master the legal and financial roadmap for personal loan, business loan, and overdraft settlement in Surat. Learn how advocate representation halts recovery harassment, defends against court notices, and secures 45%–65% One-Time Settlements.',
+    title: 'Loan Settlement Services in Surat | SettleLoans',
+    description: 'Struggling with unsecured personal loans, business loans, or OD facilities in Surat? Discover how diamond merchants, textile traders.',
     url: 'https://www.settleloans.in/personal-loan-settlement-surat',
     siteName: 'SettleLoans',
     images: [
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Services in Surat: Settle Unsecured & Business Loans',
+    title: 'Loan Settlement Services in Surat | SettleLoans',
     description: 'Facing loan default in Surat? Legal debt settlement guide for diamond traders, textile MSMEs, and salaried borrowers in Surat, Gujarat.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-surat.jpg'],
   },

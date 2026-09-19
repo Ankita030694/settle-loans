@@ -112,7 +112,7 @@ export default function ForeclosureChargesPage() {
           <div className="max-w-7xl mx-auto px-4 md:px-8 lg:px-12 py-4 flex items-center gap-2 text-xs md:text-sm text-[#747474]">
             <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
             <span className="text-gray-300">/</span>
-            <Link href="/personal-loans" className="hover:text-[#1F5EFF] transition-colors">Personal Loans</Link>
+            <Link href="/services/personal-loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Personal Loans</Link>
             <span className="text-gray-300">/</span>
             <span className="font-bold text-[#2E2E2E]">Foreclosure Charges RBI Rules</span>
           </div>
@@ -412,25 +412,25 @@ export default function ForeclosureChargesPage() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/personal-loan-settlement" className="group flex items-center text-sm text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/services/personal-loan-settlement" className="group flex items-center text-sm text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Personal Loan Settlement
                     </Link>
                   </li>
                   <li>
-                    <Link href="/cibil-score-after-settlement" className="group flex items-center text-sm text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/credit-score-improvement" className="group flex items-center text-sm text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       CIBIL Score Impacts
                     </Link>
                   </li>
                   <li>
-                    <Link href="/credit-card-settlement" className="group flex items-center text-sm text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/services/credit-card-settlement" className="group flex items-center text-sm text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Credit Card Settlement
                     </Link>
                   </li>
                   <li>
-                    <Link href="/harassment-by-recovery-agents" className="group flex items-center text-sm text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center text-sm text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Stop Recovery Agents
                     </Link>

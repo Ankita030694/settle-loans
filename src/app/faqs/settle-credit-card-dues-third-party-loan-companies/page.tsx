@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Settle Credit Card Dues with Debt Settlement Companies",
+    title: "FAQ: Settle Credit Cards via Debt Companies | SettleLoans",
     description: "Learn how to settle credit card dues with third party companies like SettleLoans. Expert guide on negotiation, legal protection.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies",
@@ -806,13 +806,13 @@ export default function SettleCreditCardDuesPage() {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/faqs/what-is-loan-settlement-process-in-india" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">
+                                        <Link href="/loan-settlement-process-in-india" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">
                                             <span className="w-1.5 h-1.5 bg-gray-300 rounded-full mr-3 group-hover:bg-[var(--color-primary)] transition-colors"></span>
                                             General Process
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/faqs/loan-settlement-letter-format-india" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">
+                                        <Link href="/loan-settlement-letter-format-noc-format" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">
                                             <span className="w-1.5 h-1.5 bg-gray-300 rounded-full mr-3 group-hover:bg-[var(--color-primary)] transition-colors"></span>
                                             Letter Formats
                                         </Link>

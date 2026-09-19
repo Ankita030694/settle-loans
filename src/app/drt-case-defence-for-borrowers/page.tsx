@@ -675,7 +675,7 @@ export default function DRTCaseDefencePage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-initiate-a-full-and-final-settlement-discussion-with-my-bank" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
                       F&F Discussion Guide
                     </Link>

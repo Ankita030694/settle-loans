@@ -176,7 +176,7 @@ export default function ArrearEMIPage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/loan-guides" className="hover:text-[#1F5EFF] transition-colors">Loan Guides</Link>
+              <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Loan Guides</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">What is an Arrear EMI?</span>
             </div>
@@ -510,7 +510,7 @@ export default function ArrearEMIPage() {
                 <div className="relative z-10">
                   <div className="text-xl font-black mb-3">Facing Harassment?</div>
                   <p className="text-sm text-gray-300 mb-6">Learn your legal rights against recovery agents for EMI defaults.</p>
-                  <Link href="/stop-recovery-harassment" className="block w-full bg-[#1F5EFF] text-white text-sm font-bold py-3 rounded-lg hover:bg-blue-600 transition-colors">
+                  <Link href="/how-to-stop-loan-recovery-harassment" className="block w-full bg-[#1F5EFF] text-white text-sm font-bold py-3 rounded-lg hover:bg-blue-600 transition-colors">
                     Get Legal Help
                   </Link>
                 </div>
@@ -535,13 +535,13 @@ export default function ArrearEMIPage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/one-time-settlement-process" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/loan-settlement-process-in-india" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       How OTS Works
                     </Link>
                   </li>
                   <li>
-                    <Link href="/cibil-score-after-default" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/credit-score-improvement" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Fixing CIBIL After Default
                     </Link>

@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'DRT Lawyer in Mumbai for Loan Recovery Defense',
+  description: 'Expert DRT lawyers in Mumbai for debt recovery defense. We represent borrowers in DRT 1, 2, and 3 Mumbai and Vashi. Specialized in SARFAESI stays and DRAT...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/drt-lawyer-in-mumbai-loan-recovery',
+  },
+  openGraph: {
+    title: 'DRT Lawyer in Mumbai for Loan Recovery Defense',
+    description: 'Expert DRT lawyers in Mumbai for debt recovery defense. We represent borrowers in DRT 1, 2, and 3 Mumbai and Vashi. Specialized in SARFAESI stays and DRAT...',
+    url: 'https://www.settleloans.in/drt-lawyer-in-mumbai-loan-recovery',
+    type: "article",
+    images: ['https://www.settleloans.in/images/mumbai-drt-lawyer.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'DRT Lawyer in Mumbai for Loan Recovery Defense',
+    description: 'Expert DRT lawyers in Mumbai for debt recovery defense. We represent borrowers in DRT 1, 2, and 3 Mumbai and Vashi. Specialized in SARFAESI stays and DRAT...',
+    images: ['https://www.settleloans.in/images/mumbai-drt-lawyer.jpg'],
+  },
+};
 
 export default function MumbaiDrtLawyerPage() {
     const schemaData = {
@@ -102,7 +122,7 @@ export default function MumbaiDrtLawyerPage() {
                             High-stakes debt recovery defense in DRT 1, 2, and 3 Mumbai. Expert representation for SARFAESI stays, DRAT appeals, and Mumbai-specific property disputes.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Consult Mumbai DRT Expert
                             </Link>
                         </div>
@@ -116,7 +136,7 @@ export default function MumbaiDrtLawyerPage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
+                                <li><Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">DRT Lawyer Mumbai</li>
                             </ol>
@@ -442,7 +462,7 @@ export default function MumbaiDrtLawyerPage() {
                             <p className="text-xl mb-8 opacity-90">
                                 Don't wait for the bank to take your keys. Our senior Mumbai advocates are ready to defend your property rights.
                             </p>
-                            <Link href="/contact-us" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
+                            <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
                                 Request Urgent DRT Consultation
                             </Link>
                         </div>
@@ -462,7 +482,7 @@ export default function MumbaiDrtLawyerPage() {
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Facing a recovery case in Colaba or Vashi? Get specialized legal defense to protect your property.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
                                         Start My Defense
                                     </Link>
                                     <p className="mt-6 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.3em] font-black">Senior Mumbai Advocates</p>

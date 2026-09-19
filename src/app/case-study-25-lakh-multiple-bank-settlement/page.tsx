@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement',
   },
   openGraph: {
-    title: 'How to Settle Multiple Personal Loans: ₹25 Lakh Multi-Bank Case Study',
-    description: 'Real case study: How a distressed borrower settled ₹25 Lakhs across 3 personal loans and 4 credit cards for ₹10.5 Lakhs (58% waiver). Learn multi-bank prioritization, legal shields, and OTS negotiations.',
+    title: 'Settle Multiple Personal Loans: Case Study | SettleLoans',
+    description: 'Real case study: How a distressed borrower settled ₹25 Lakhs across 3 personal loans and 4 credit cards for ₹10. 5 Lakhs (58% waiver).',
     url: 'https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Settle Multiple Personal Loans: ₹25 Lakh Multi-Bank Case Study',
+    title: 'Settle Multiple Personal Loans: Case Study | SettleLoans',
     description: 'Case study proof: Step-by-step breakdown of settling ₹25 Lakhs across 7 defaulted accounts for ₹10.5 Lakhs with zero dues NDCs.',
     images: ['https://www.settleloans.in/images/infographics/case-study-25-lakh-multiple-bank-settlement-settleloans.jpg'],
   },

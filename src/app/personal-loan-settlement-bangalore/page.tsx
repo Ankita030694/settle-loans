@@ -23,9 +23,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-bangalore',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Company Bangalore: Legal Defense & OTS Advisory',
+    title: 'Loan Settlement Company in Bangalore | SettleLoans',
     description:
-      'Expert legal defense and One-Time Settlement (OTS) representation for IT professionals, salaried executives, and founders facing loan defaults across Bangalore, Whitefield, Electronic City, and ORR.',
+      'Struggling with loan default, recovery harassment, or court summons in Bangalore, Whitefield, or Electronic City? Get premier legal defense, salary account.',
     url: 'https://www.settleloans.in/personal-loan-settlement-bangalore',
     siteName: 'SettleLoans',
     images: [
@@ -41,9 +41,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Company Bangalore: Legal Defense & Lok Adalat Guide',
+    title: 'Loan Settlement Company in Bangalore | SettleLoans',
     description:
-      'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, KSLSA Lok Adalat compromise decrees, and anti-harassment shielding across Bengaluru.',
+      'Struggling with loan default, recovery harassment, or court summons in Bangalore, Whitefield, or Electronic City? Get premier legal defense, salary account.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-bangalore.jpg'],
   },
 };

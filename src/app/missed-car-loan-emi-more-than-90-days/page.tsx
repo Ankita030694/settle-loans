@@ -223,7 +223,7 @@ export default function MissedCarLoanEmiPage() {
             <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-3xl mx-auto leading-[1.3] font-normal">
               Missed your car loan EMI for 3 months? The bank might seize your vehicle tomorrow. Learn how to stop illegal towing and protect your asset.
             </p>
-            <Link href="/consultation" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
               Get Immediate Legal Protection
             </Link>
           </div>
@@ -235,7 +235,7 @@ export default function MissedCarLoanEmiPage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/auto-loan" className="hover:text-[#1F5EFF] transition-colors">Auto Loan Setup</Link>
+              <Link href="/overdue-payment-for-auto-loan" className="hover:text-[#1F5EFF] transition-colors">Auto Loan Setup</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Missed Car Loan EMI &gt; 90 Days</span>
             </div>
@@ -472,7 +472,7 @@ export default function MissedCarLoanEmiPage() {
                 <p className="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
                   Stop illegal towing immediately. Our expert legal team will send a strict notice to the bank and force them to the negotiation table.
                 </p>
-                <Link href="/consultation" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-xl hover:scale-105 transition-transform text-lg shadow-[0_0_20px_rgba(31,94,255,0.4)]">
+                <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-xl hover:scale-105 transition-transform text-lg shadow-[0_0_20px_rgba(31,94,255,0.4)]">
                   Get Legal Protection Now
                 </Link>
                 <div className="mt-16 pt-8 border-t border-gray-100/20 text-center">
@@ -506,19 +506,19 @@ export default function MissedCarLoanEmiPage() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Legal Resources</div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/auto-loan-settlement" className="flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold group">
+                    <Link href="/overdue-payment-for-auto-loan" className="flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Auto Loan Settlement Guide
                     </Link>
                   </li>
                   <li>
-                    <Link href="/sarfaesi-act-rules" className="flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold group">
+                    <Link href="/auction-notice-challenge" className="flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       SARFAESI Act Rules Explained
                     </Link>
                   </li>
                   <li>
-                    <Link href="/rbi-recovery-agent-guidelines" className="flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold group">
+                    <Link href="/rbi-rules-for-recovery-agents" className="flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Rules for Recovery Agents
                     </Link>

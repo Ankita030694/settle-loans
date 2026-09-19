@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Can Bank File FIR for Loan Default? Section 420 Myth',
-    description: 'Definitive legal analysis on loan default and criminal law in India. Understand why banks cannot lodge an FIR under Section 420/406 IPC for genuine defaults, Supreme Court protections, and how advocates stop recovery harassment.',
+    description: 'Can a bank file an FIR for loan default? Uncover the truth behind Section 420 & 406 IPC threats by collection agencies, Supreme Court precedents.',
     url: 'https://www.settleloans.in/bank-fir-for-loan-default-reality-check',
     siteName: 'SettleLoans',
     images: [
@@ -71,8 +71,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Can Bank File FIR for Personal Loan Default? Legal Reality Check',
-    description: 'Collection agents threatening an FIR under Section 420 IPC? Discover landmark Supreme Court rulings that protect honest borrowers from criminal intimidation and how to settle safely.',
+    title: 'Can Bank File FIR for Loan Default? Section 420 Myth',
+    description: 'Can a bank file an FIR for loan default? Uncover the truth behind Section 420 & 406 IPC threats by collection agencies, Supreme Court precedents.',
     images: ['https://www.settleloans.in/images/infographics/bank-fir-for-loan-default-reality-check.jpg'],
   },
 };

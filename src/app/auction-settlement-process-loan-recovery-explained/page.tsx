@@ -541,19 +541,19 @@ export default function AuctionSettlementProcessPage() {
                 </div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/understanding-sarfaesi-act-rules" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/auction-notice-challenge" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       SARFAESI Act Explained
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-file-case-in-drt" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/best-lawyer-for-drt-case-defence-for-bank-loan-recovery" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       How to Approach the DRT
                     </Link>
                   </li>
                   <li>
-                    <Link href="/one-time-settlement-process-for-loans" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/loan-settlement-process-in-india" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       One Time Settlement (OTS)
                     </Link>

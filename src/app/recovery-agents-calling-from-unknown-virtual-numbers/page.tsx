@@ -66,8 +66,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers',
   },
   openGraph: {
-    title: 'Recovery Agents Calling from Virtual Numbers & WhatsApp? Legal Defenses & DoT Chakshu Guide',
-    description: 'Stop digital debt collection harassment. Discover statutory protections against VoIP auto-dialers, illegal virtual numbers, and disappearing WhatsApp threats under RBI, DoT, and IT Act frameworks.',
+    title: 'Stop Recovery Calls from Virtual Numbers | SettleLoans',
+    description: 'Recovery agents calling from unknown virtual VoIP numbers? Learn how to trace digital harassment and file DOT complaints with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers',
     siteName: 'SettleLoans',
     images: [
@@ -83,8 +83,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agents Calling from Virtual Numbers & WhatsApp? Legal Defenses & DoT Chakshu Guide',
-    description: 'Facing relentless calls from spoofed VoIP lines, automated dialers, or WhatsApp bots? Learn how to preserve digital evidence, report to DoT Chakshu, and hold banks vicariously liable.',
+    title: 'Stop Recovery Calls from Virtual Numbers | SettleLoans',
+    description: 'Recovery agents calling from unknown virtual VoIP numbers? Learn how to trace digital harassment and file DOT complaints with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agents-calling-from-unknown-virtual-numbers.jpg'],
   },
 };

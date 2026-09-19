@@ -22,7 +22,7 @@ import {
 
 
 export const metadata: Metadata = {
-  title: "Credit Score Improvement Services | Remove 'Settled' Status & Boost CIBIL",
+  title: "Credit Score Improvement: Boost CIBIL Score | SettleLoans",
   description: "Struggling with a low CIBIL score? Learn how to remove 'Settled' status, dispute errors, and use secured cards to rebuild your credit score above 750+.",
   alternates: {
     canonical: "https://www.settleloans.in/credit-score-improvement",

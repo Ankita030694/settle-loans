@@ -479,7 +479,7 @@ export default function ChennaiLoanSettlementPage() {
                     <Link href="/contact" className="bg-[#1F5EFF] text-white font-black py-5 px-14 rounded-2xl hover:scale-110 transition-all text-xl shadow-xl uppercase tracking-widest leading-none">
                        Free Legal Audit
                     </Link>
-                    <Link href="/services" className="bg-transparent text-white font-bold py-5 px-14 rounded-2xl border-2 border-white/20 hover:bg-white/5 transition-all text-xl uppercase tracking-widest leading-none">
+                    <Link href="/#services" className="bg-transparent text-white font-bold py-5 px-14 rounded-2xl border-2 border-white/20 hover:bg-white/5 transition-all text-xl uppercase tracking-widest leading-none">
                        Our Services
                     </Link>
                  </div>

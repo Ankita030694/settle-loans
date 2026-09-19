@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india',
   },
   openGraph: {
-    title: 'Personal Insolvency and Bankruptcy Process in India: IBC Debt Discharge & DRT Guide',
-    description: 'Seeking a statutory debt exit in India? Explore how Part III of the Insolvency and Bankruptcy Code (IBC) 2016, DRT insolvency petitions, Section 96 interim moratoriums, and Section 138 discharge orders provide comprehensive debt relief.',
+    title: 'Personal Insolvency & Bankruptcy in India | SettleLoans',
+    description: 'Exhaustive legal manual on the personal insolvency process in India under Part III of the IBC 2016. Learn how Section 94 debtor petitions.',
     url: 'https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india',
     siteName: 'SettleLoans',
     images: [
@@ -66,8 +66,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Insolvency and Bankruptcy Process in India: IBC & DRT Legal Guide',
-    description: 'Expert advocate analysis of individual debt discharge, Fresh Start rules, Section 94 petitions, DRT insolvency trials, and personal guarantor liability in India.',
+    title: 'Personal Insolvency & Bankruptcy in India | SettleLoans',
+    description: 'Exhaustive legal manual on the personal insolvency process in India under Part III of the IBC 2016. Learn how Section 94 debtor petitions.',
     images: ['https://www.settleloans.in/images/infographics/personal-insolvency-and-bankruptcy-process-india.jpg'],
   },
 };

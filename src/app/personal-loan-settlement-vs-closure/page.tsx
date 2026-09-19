@@ -20,8 +20,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-vs-closure',
   },
   openGraph: {
-    title: 'Loan Settlement vs Loan Closure: CIBIL Impact & Long-Term Financial Differences',
-    description: 'Confused between settling a personal loan and closing it? Discover how each status affects your CIBIL score, future loan eligibility, legal liabilities, and credit score recovery.',
+    title: 'Loan Settlement vs Loan Closure in CIBIL | SettleLoans',
+    description: 'Understand the difference between loan settlement vs loan closure in CIBIL. Compare credit score impact (-150 vs +40 pts), 7-year remarks.',
     url: 'https://www.settleloans.in/personal-loan-settlement-vs-closure',
     siteName: 'SettleLoans',
     images: [
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement vs Loan Closure: CIBIL Impact & Credit Recovery Guide',
+    title: 'Loan Settlement vs Loan Closure in CIBIL | SettleLoans',
     description: 'Learn the exact difference between Settled and Closed in CIBIL, credit score drop, RBI compromise norms, and how to protect your financial future.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-debt-settlement.jpg'],
   },

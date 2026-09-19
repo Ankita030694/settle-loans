@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'PayU LazyPay Credit Line & Personal Loan Settlement Guide',
     description:
-      'Learn how to settle PayU LazyPay credit lines and personal loans up to ₹5 Lakhs under RBI compromise frameworks. Halt collection calls and secure 40%–60% waivers.',
+      'Settle PayU LazyPay credit lines legally. Stop collection calls, waive penalty interest, and resolve personal loans under RBI rules with SettleLoans.',
     url: 'https://www.settleloans.in/payu-lazypay-credit-line-settlement',
     siteName: 'SettleLoans',
     images: [

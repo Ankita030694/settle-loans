@@ -1,8 +1,35 @@
-"use client";
-
 import React from "react";
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: "Top 10 Instant Loan Apps in India: Review | SettleLoans",
+  description: "Comprehensive guide to India's leading instant loan apps. Compare interest rates, loan limits, eligibility criteria, and safety tips before borrowing online.",
+  alternates: {
+    canonical: "https://www.settleloans.in/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india",
+  },
+  openGraph: {
+    title: "Top 10 Instant Loan Apps in India: Review | SettleLoans",
+    description: "Comprehensive guide to India's leading instant loan apps. Compare interest rates, loan limits, eligibility criteria, and safety tips before borrowing online.",
+    url: "https://www.settleloans.in/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india",
+    type: "article",
+    images: [
+      {
+        url: "https://www.settleloans.in/images/top-loan-apps-india.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Top 10 Instant Loan Apps in India",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Top 10 Instant Loan Apps in India: Review | SettleLoans",
+    description: "Comprehensive guide to India's leading instant loan apps. Compare interest rates, loan limits, eligibility criteria, and safety tips before borrowing online.",
+    images: ["https://www.settleloans.in/images/top-loan-apps-india.jpg"],
+  },
+};
 
 export default function TopLoanAppsIndiaPage() {
     const schemaData = {

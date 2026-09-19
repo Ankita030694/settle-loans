@@ -54,8 +54,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/police-complaint-format-recovery-agent-harassment',
   },
   openGraph: {
-    title: 'Police Complaint Against Recovery Agent Format: Legal Draft, IPC Sections & RBI Protections',
-    description: 'Comprehensive legal analysis and statutory complaint framework against debt recovery agent harassment. Understand IPC 506, 509, 383, RBI Fair Practices Code, and local police station submission protocols.',
+    title: 'Police Complaint Against Recovery Agent Format | SettleLoans',
+    description: 'Facing recovery agent harassment? Access the statutory police complaint format against loan recovery agents under IPC Sections 506.',
     url: 'https://www.settleloans.in/police-complaint-format-recovery-agent-harassment',
     siteName: 'SettleLoans',
     images: [
@@ -71,8 +71,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Police Complaint Against Recovery Agent Format: Legal Draft & Police Recourse',
-    description: 'Unlawful threats, home trespassing, or abusive phone calls from collection agents? Learn how to draft and file an actionable police complaint under IPC Sections 506 & 509.',
+    title: 'Police Complaint Against Recovery Agent Format | SettleLoans',
+    description: 'Facing recovery agent harassment? Access the statutory police complaint format against loan recovery agents under IPC Sections 506.',
     images: ['https://www.settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg'],
   },
 };

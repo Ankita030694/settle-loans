@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/sbi-card-credit-card-settlement-process',
   },
   openGraph: {
-    title: 'SBI Card Credit Card Settlement: OTS Rules, Gurugram Legal Defense & Lok Adalat Guide (2026)',
-    description: 'Struggling with SBI credit card dues? Discover how SBI Cards & Payment Services operates separately from SBI Bank, resolve Gurugram legal notices, and negotiate 50% to 70% Lok Adalat debt waivers.',
+    title: 'SBI Credit Card Settlement Guide | SettleLoans',
+    description: 'Learn how to settle SBI Card credit card debt legally. Stop legal notices, attend DLSA Lok Adalat, and negotiate OTS with SettleLoans.',
     url: 'https://www.settleloans.in/sbi-card-credit-card-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'SBI Card Credit Card Settlement: OTS Rules, Legal Defense & Lok Adalat Guide',
+    title: 'SBI Credit Card Settlement Guide | SettleLoans',
     description: 'Technical and legal manual for settling defaulted SBI credit cards under RBI compromise frameworks with maximum debt waivers and complete harassment protection.',
     images: ['https://www.settleloans.in/images/infographics/sbi-card-credit-card-settlement-process.jpg'],
   },
@@ -1138,7 +1138,7 @@ export default function SBICardCreditCardSettlementPage() {
                   No Dues Certificate (NDC) Guide
                 </Link>
                 <Link
-                  href="/recovery-agent-threatening-me"
+                  href="/bank-recovery-agent-threatening-me"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
                   Halting Recovery Harassment &amp; RBI Rules

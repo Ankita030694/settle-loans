@@ -53,7 +53,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Standard Chartered Loan & Credit Card Settlement',
-    description: 'Learn how to settle an overdue Standard Chartered Bank credit card or personal loan. Understand central collections hub negotiation, finance charge waivers, NPA provisioning, recovery agent defense, and RBI compromise settlement frameworks.',
+    description: 'Exhaustive guide to Standard Chartered Bank credit card and personal loan settlement in India. Learn how to negotiate with the Central Collections Hub.',
     url: 'https://www.settleloans.in/standard-chartered-loan-credit-card-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -69,8 +69,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Standard Chartered Loan & Credit Card Settlement: Central Hub Process & 40–65% Haircut',
-    description: 'Technical and legal manual for settling defaulted Standard Chartered Bank credit cards and personal loans under RBI Compromise Settlement frameworks and Central Collections Hub escalations.',
+    title: 'Standard Chartered Loan & Credit Card Settlement',
+    description: 'Exhaustive guide to Standard Chartered Bank credit card and personal loan settlement in India. Learn how to negotiate with the Central Collections Hub.',
     images: ['https://www.settleloans.in/images/infographics/standard-chartered-loan-credit-card-settlement.jpg'],
   },
 };

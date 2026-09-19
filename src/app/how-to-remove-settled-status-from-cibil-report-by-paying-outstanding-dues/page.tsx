@@ -504,19 +504,19 @@ export default function RemoveSettledStatusPage() {
                 </div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/how-to-read-cibil-report-for-loans" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/how-to-improve-cibil-score-after-loan-settlement" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       How to Read Your CIBIL Report
                     </Link>
                   </li>
                   <li>
-                    <Link href="/impact-of-loan-settlement-on-credit-score" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/personal-loan-settlement-cibil-impact" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Impact of Settlement on Credit
                     </Link>
                   </li>
                   <li>
-                    <Link href="/difference-between-settled-and-written-off-cibil" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/remove-post-write-off-settled-remark-cibil" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Settled vs Written-Off
                     </Link>

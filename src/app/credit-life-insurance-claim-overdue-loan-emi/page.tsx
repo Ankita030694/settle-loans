@@ -74,7 +74,7 @@ export default function Page() {
             },
             "mainEntityOfPage": {
               "@type": "WebPage",
-              "@id": "https://www.settleloan.in/credit-life-insurance-claim-overdue-loan-emi"
+              "@id": "https://www.settleloans.in/credit-life-insurance-claim-overdue-loan-emi"
             }
           },
           {
@@ -226,7 +226,7 @@ export default function Page() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/loans" className="hover:text-[#1F5EFF] transition-colors">Loans</Link>
+              <Link href="/loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Loans</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Credit Life Insurance Claim</span>
             </div>
@@ -646,19 +646,19 @@ export default function Page() {
                 <ul className="space-y-4">
                   <li className="group flex items-center">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
-                    <Link href="/npa-account-settlement" className="text-gray-700 group-hover:text-[#1F5EFF] transition-colors text-sm font-medium">NPA Account Rules</Link>
+                    <Link href="/loan-settlement-process-in-india" className="text-gray-700 group-hover:text-[#1F5EFF] transition-colors text-sm font-medium">NPA Account Rules</Link>
                   </li>
                   <li className="group flex items-center">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
-                    <Link href="/dispute-credit-score" className="text-gray-700 group-hover:text-[#1F5EFF] transition-colors text-sm font-medium">CIBIL Dispute Process</Link>
+                    <Link href="/cibil-dispute-wrong-overdue-entry" className="text-gray-700 group-hover:text-[#1F5EFF] transition-colors text-sm font-medium">CIBIL Dispute Process</Link>
                   </li>
                   <li className="group flex items-center">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
-                    <Link href="/personal-loan-settlement" className="text-gray-700 group-hover:text-[#1F5EFF] transition-colors text-sm font-medium">Loan Settlement Guide</Link>
+                    <Link href="/services/personal-loan-settlement" className="text-gray-700 group-hover:text-[#1F5EFF] transition-colors text-sm font-medium">Loan Settlement Guide</Link>
                   </li>
                   <li className="group flex items-center">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
-                    <Link href="/stop-bank-harassment" className="text-gray-700 group-hover:text-[#1F5EFF] transition-colors text-sm font-medium">Stop Recovery Harassment</Link>
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="text-gray-700 group-hover:text-[#1F5EFF] transition-colors text-sm font-medium">Stop Recovery Harassment</Link>
                   </li>
                 </ul>
               </div>

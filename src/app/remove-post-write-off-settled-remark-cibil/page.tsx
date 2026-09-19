@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/remove-post-write-off-settled-remark-cibil',
   },
   openGraph: {
-    title: 'Remove Post-Write-Off Settled Status in CIBIL | Bureau Repair Guide',
+    title: 'Remove Post-Write-Off Settled CIBIL | SettleLoans',
     description: "Learn how to approach your bank's Principal Nodal Officer to clear post-write-off settled flags and upgrade your compromised loan account to closed status.",
     url: 'https://www.settleloans.in/remove-post-write-off-settled-remark-cibil',
     siteName: 'SettleLoans',
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Remove Post-Write-Off Settled Status in CIBIL | Bureau Repair Guide',
+    title: 'Remove Post-Write-Off Settled CIBIL | SettleLoans',
     description: 'Discover how to clear residual bank accounting flags and upgrade post-write-off settled entries in CIBIL to fully closed status.',
     images: ['https://www.settleloans.in/images/infographics/remove-post-write-off-settled-remark-cibil.jpg'],
   },

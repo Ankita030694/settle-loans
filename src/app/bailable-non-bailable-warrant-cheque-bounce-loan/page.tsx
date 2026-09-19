@@ -48,7 +48,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Cheque Bounce Warrant for Loan Default | SettleLoans',
-    description: 'Master the legal procedure to cancel bailable (BW) and non-bailable warrants (NBW) issued by Magistrate courts in Section 138 cheque bounce loan default cases. Protect against arrest and compound the debt through advocate-led One-Time Settlement.',
+    description: 'Received a bailable or non-bailable warrant for cheque bounce loan default? Stop harassment & settle debt legally with SettleLoans.',
     url: 'https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan',
     siteName: 'SettleLoans',
     images: [
@@ -64,8 +64,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bailable & Non-Bailable Warrant for Cheque Bounce Loan Default: Cancel Warrant & Settle',
-    description: 'Has a Magistrate court issued an arrest warrant for a bounced loan EMI cheque? Discover how banking advocates recall warrants under CrPC / BNSS and settle the underlying loan under Section 147 NI Act.',
+    title: 'Cheque Bounce Warrant for Loan Default | SettleLoans',
+    description: 'Received a bailable or non-bailable warrant for cheque bounce loan default? Stop harassment & settle debt legally with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/bailable-non-bailable-warrant-cheque-bounce-loan.jpg'],
   },
 };

@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Can the Bank Deduct Loan EMI from a Minor Child's Bank Account?",
+  title: "Can Bank Deduct Loan EMI from Minor Child Account?",
   description: "Learn if banks can legally deduct a parent's loan EMI from their minor child's savings account. Discover RBI rules on minor accounts and illegal deductions.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default",
@@ -505,25 +505,25 @@ export default function MinorChildAccountDeductionPage() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/rbi-guidelines-on-loan-recovery" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/rbi-rules-for-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                       <span className="text-sm font-medium">RBI Recovery Guidelines</span>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-file-banking-ombudsman-complaint" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/rbi-ombudsman-complaint-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                       <span className="text-sm font-medium">Banking Ombudsman Guide</span>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/what-to-do-if-bank-account-frozen-for-loan-default" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/bank-freeze-salary-account-loan-default" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                       <span className="text-sm font-medium">Frozen Account Solutions</span>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/harassment-by-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                       <span className="text-sm font-medium">Stop Agent Harassment</span>
                     </Link>

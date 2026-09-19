@@ -23,9 +23,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-pune',
   },
   openGraph: {
-    title: 'Debt Settlement Services in Pune: Legal Defense & OTS Advisory (2026)',
+    title: 'Debt Settlement Services in Pune | SettleLoans',
     description:
-      'Expert legal defense and One-Time Settlement (OTS) representation for salaried IT & Auto professionals and business owners facing loan defaults across Pune, Hinjewadi, Magarpatta, and PCMC.',
+      'Struggling with personal loan default, recovery harassment, or court notices in Pune & PCMC? Get expert debt settlement services in Pune.',
     url: 'https://www.settleloans.in/personal-loan-settlement-pune',
     siteName: 'SettleLoans',
     images: [
@@ -41,9 +41,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Debt Settlement Services in Pune: Legal Defense & Lok Adalat Guide',
+    title: 'Debt Settlement Services in Pune | SettleLoans',
     description:
-      'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, PDLSA Lok Adalat compromise decrees, and anti-harassment shielding across Pune & PCMC.',
+      'Struggling with personal loan default, recovery harassment, or court notices in Pune & PCMC? Get expert debt settlement services in Pune.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-pune.jpg'],
   },
 };

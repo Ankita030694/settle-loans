@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/poonawalla-fincorp-loan-settlement',
   },
   openGraph: {
-    title: 'Poonawalla Fincorp Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
-    description: 'Learn how to settle a defaulted Poonawalla Fincorp personal, professional, or used car loan. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
+    title: 'Poonawalla Fincorp Loan Settlement Guide | SettleLoans',
+    description: 'Comprehensive guide to Poonawalla Fincorp personal, professional & pre-owned car loan settlement. Learn how to stop NACH bounce charges.',
     url: 'https://www.settleloans.in/poonawalla-fincorp-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Poonawalla Fincorp Loan Settlement: OTS Rules, Legal Defense & Haircut',
-    description: 'Technical and legal manual for settling defaulted Poonawalla Fincorp personal loans, professional loans, and pre-owned car loans under RBI Compromise Settlement frameworks.',
+    title: 'Poonawalla Fincorp Loan Settlement Guide | SettleLoans',
+    description: 'Comprehensive guide to Poonawalla Fincorp personal, professional & pre-owned car loan settlement. Learn how to stop NACH bounce charges.',
     images: ['https://www.settleloans.in/images/infographics/poonawalla-fincorp-loan-settlement.jpg'],
   },
 };

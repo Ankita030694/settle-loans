@@ -341,7 +341,7 @@ export default function ContactDetailsFAQ() {
                                             <FontAwesomeIcon icon={faEnvelope} className="text-blue-600 mt-1 mr-4" />
                                             <div>
                                                 <p className="font-bold text-[#2E2E2E]">Official Email</p>
-                                                <p className="text-lg italic underline font-bold">info@settleloan.in</p>
+                                                <p className="text-lg italic underline font-bold">info@settleloans.in</p>
                                             </div>
                                         </div>
                                         <div className="flex items-start col-span-full">
@@ -478,7 +478,7 @@ export default function ContactDetailsFAQ() {
                                 If you have been contacted by someone claiming to be from SettleLoans or AMA Legal through an unverified channel (like WhatsApp from a strange number), you must report it immediately. These firms have dedicated compliance and fraud-prevention teams that work with law enforcement to shut down impersonators.
                             </p>
                             <p className="text-lg leading-relaxed mb-6">
-                                To report a violation, send an email to <span className="font-bold underline italic text-[#1F5EFF]">compliance@settleloan.in</span> with screenshots of the conversation and the phone number used. By reporting these attempts, you are protecting not only yourself but also thousands of other vulnerable borrowers across India.
+                                To report a violation, send an email to <span className="font-bold underline italic text-[#1F5EFF]">compliance@settleloans.in</span> with screenshots of the conversation and the phone number used. By reporting these attempts, you are protecting not only yourself but also thousands of other vulnerable borrowers across India.
                             </p>
                             <div className="p-8 bg-red-50 border border-red-100 rounded-3xl mb-8">
                                 <p className="text-red-900 font-bold mb-4 uppercase tracking-tighter">Fraud Alert Checklist</p>

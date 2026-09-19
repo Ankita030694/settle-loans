@@ -60,8 +60,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-guarantee-invocation-loan-settlement',
   },
   openGraph: {
-    title: 'Personal Guarantee Invocation for Business Loan Settlement: Legal Defenses & Promoter OTS Blueprint',
-    description: 'Master the legal defense against bank personal guarantee invocation. Understand Section 128 co-extensive liability, Section 133–141 surety discharge, DRT litigation defense, and advocate-led One-Time Settlements (OTS).',
+    title: 'Personal Guarantee Invocation Rules | SettleLoans',
+    description: 'Personal guarantee invoked for business loan default? Understand Section 128 Indian Contract Act defenses and settle debt with SettleLoans.',
     url: 'https://www.settleloans.in/personal-guarantee-invocation-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -77,8 +77,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Guarantee Invocation for Business Loan Settlement: Legal Defenses & Promoter OTS',
-    description: 'Bank invoked your personal guarantee for a defaulted corporate or MSME loan? Learn how to defend personal assets, challenge illegal notices, and negotiate an advocate-led OTS settlement.',
+    title: 'Personal Guarantee Invocation Rules | SettleLoans',
+    description: 'Personal guarantee invoked for business loan default? Understand Section 128 Indian Contract Act defenses and settle debt with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-guarantee-invocation-loan-settlement.jpg'],
   },
 };

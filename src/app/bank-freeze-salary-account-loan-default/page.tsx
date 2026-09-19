@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bank-freeze-salary-account-loan-default',
   },
   openGraph: {
-    title: 'Can Bank Freeze Salary Account for Loan Default? Legal Remedies & Unfreeze Guide',
-    description: 'Learn your legal protections against arbitrary salary account freezes by banks. Understand Section 60 CPC exemptions, Banker Right of Set-Off restrictions, and statutory unfreezing procedures.',
+    title: 'Can Bank Freeze Salary Account for Loan Default? Guide',
+    description: 'Can a bank freeze your salary account for loan default? Discover your legal rights under Section 60 CPC, Banker Right of Set-Off limits.',
     url: 'https://www.settleloans.in/bank-freeze-salary-account-loan-default',
     siteName: 'SettleLoans',
     images: [
@@ -76,8 +76,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Can Bank Freeze Salary Account for Loan Default? Legal Remedies & Unfreeze Guide',
-    description: 'Facing an emergency salary account freeze or total balance debit by your lender? Discover legal remedies under Section 60 CPC and RBI guidelines to unblock your account.',
+    title: 'Can Bank Freeze Salary Account for Loan Default? Guide',
+    description: 'Can a bank freeze your salary account for loan default? Discover your legal rights under Section 60 CPC, Banker Right of Set-Off limits.',
     images: ['https://www.settleloans.in/images/infographics/bank-freeze-salary-account-loan-default.jpg'],
   },
 };

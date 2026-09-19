@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/krazybee-services-nbfc-loan-settlement',
   },
   openGraph: {
-    title: 'KrazyBee Services NBFC Loan Settlement: Legal Notice Defense & OTS Guide (2026)',
-    description: 'Learn how to settle defaulted KrazyBee / KreditBee personal loans. Discover how to defend Section 25 PSSA and arbitration notices, stop illegal digital collection harassment, and secure an authentic 40%–60% OTS settlement letter under RBI guidelines.',
+    title: 'KrazyBee NBFC Loan Settlement | SettleLoans',
+    description: 'Learn how to settle KrazyBee and KreditBee NBFC loans legally. Stop legal notice harassment and negotiate structured OTS with SettleLoans.',
     url: 'https://www.settleloans.in/krazybee-services-nbfc-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -70,8 +70,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'KrazyBee Services NBFC Loan Settlement: Legal Notice Defense & OTS Guide',
-    description: 'Strategic guide on resolving defaulted KrazyBee Services (KreditBee) personal loans, deconstructing statutory legal notices, eliminating bounce penalties, and negotiating verified One-Time Settlements.',
+    title: 'KrazyBee NBFC Loan Settlement | SettleLoans',
+    description: 'Learn how to settle KrazyBee and KreditBee NBFC loans legally. Stop legal notice harassment and negotiate structured OTS with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/krazybee-services-nbfc-loan-settlement.jpg'],
   },
 };

@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/case-study-cibil-status-settled-to-closed',
   },
   openGraph: {
-    title: 'How to Convert CIBIL Status from Settled to Closed: Home Loan Case Study',
-    description: 'Real case study: How a borrower converted their CIBIL status from Settled to Closed by paying residual waiver dues, boosting score to 785+ and unlocking a ₹75L home loan.',
+    title: 'Convert CIBIL Status from Settled to Closed | SettleLoans',
+    description: 'Real case study: How a borrower converted their CIBIL status from Settled to Closed by paying residual waiver dues, boosting score to 785+ and unlocking.',
     url: 'https://www.settleloans.in/case-study-cibil-status-settled-to-closed',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Convert CIBIL Status from Settled to Closed: Home Loan Case Study',
+    title: 'Convert CIBIL Status from Settled to Closed | SettleLoans',
     description: 'Case study proof: Step-by-step breakdown of converting a Settled loan tag to Closed through residual waiver settlement, unlocking mortgage sanction.',
     images: ['https://www.settleloans.in/images/infographics/case-study-cibil-status-settled-to-closed.jpg'],
   },

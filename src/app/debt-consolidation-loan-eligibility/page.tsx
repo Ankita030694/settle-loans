@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Debt Consolidation Loan Eligibility & Options',
+  description: 'Learn everything about debt consolidation loan eligibility in India. Master the criteria for credit scores, income levels, and employment history to rank #1...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/debt-consolidation-loan-eligibility',
+  },
+  openGraph: {
+    title: 'Debt Consolidation Loan Eligibility & Options',
+    description: 'Learn everything about debt consolidation loan eligibility in India. Master the criteria for credit scores, income levels, and employment history to rank #1...',
+    url: 'https://www.settleloans.in/debt-consolidation-loan-eligibility',
+    type: "article",
+    images: ['https://www.settleloans.in/images/debt-consolidation-eligibility.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Debt Consolidation Loan Eligibility & Options',
+    description: 'Learn everything about debt consolidation loan eligibility in India. Master the criteria for credit scores, income levels, and employment history to rank #1...',
+    images: ['https://www.settleloans.in/images/debt-consolidation-eligibility.jpg'],
+  },
+};
 
 export default function DebtConsolidationEligibilityPage() {
     const schemaData = {
@@ -221,7 +241,7 @@ export default function DebtConsolidationEligibilityPage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
+                                <li><Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">Debt Consolidation Eligibility</li>
                             </ol>

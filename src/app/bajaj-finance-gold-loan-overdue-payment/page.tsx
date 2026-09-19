@@ -263,7 +263,7 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
+              <Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Bajaj Finance Gold Loan Overdue</span>
             </div>
@@ -652,19 +652,19 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/personal-loan-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/services/personal-loan-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Personal Loan Settlement
                     </Link>
                   </li>
                   <li>
-                    <Link href="/credit-card-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/services/credit-card-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Credit Card Settlement
                     </Link>
                   </li>
                   <li>
-                    <Link href="/harassment-by-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Stop Recovery Agent Harassment
                     </Link>

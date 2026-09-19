@@ -57,8 +57,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold',
   },
   openGraph: {
-    title: 'Can Recovery Agents Seize Household Furniture or Gold? Legal Rights & RBI Rules',
-    description: 'Definitive legal analysis on property seizure threats by loan recovery agents in India. Learn why recovery agents have zero legal authority to touch household items or personal jewelry, Section 60 CPC exemptions, and RBI fair practice protections.',
+    title: 'Can Agents Take Furniture or Gold? | SettleLoans',
+    description: 'Can recovery agents seize your household furniture or gold? Learn Section 60 CPC movable property seizure exemptions with SettleLoans.',
     url: 'https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold',
     siteName: 'SettleLoans',
     images: [
@@ -74,8 +74,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Can Recovery Agents Seize Household Items or Gold for Personal Loan Default?',
-    description: 'Agents threatening to bring a truck to seize TV, fridge, furniture, or gold jewelry? Understand your absolute statutory protections under Indian civil law and how advocates stop illegal recovery intimidation.',
+    title: 'Can Agents Take Furniture or Gold? | SettleLoans',
+    description: 'Can recovery agents seize your household furniture or gold? Learn Section 60 CPC movable property seizure exemptions with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/can-recovery-agents-take-household-furniture-or-gold.jpg'],
   },
 };

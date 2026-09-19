@@ -858,7 +858,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                   ₹10 Lakh Loan Settlement
                 </Link>
                 <Link
-                  href="/20-lakh-personal-loan-settlement"
+                  href="/10-lakh-personal-loan-settlement"
                   className="text-xs font-semibold py-1.5 px-3 rounded-xl bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 transition-colors border border-slate-200"
                 >
                   ₹20 Lakh Loan Settlement

@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery',
   },
   openGraph: {
-    title: 'Limitation Act 3 Years for Bank Loan Recovery in India | Time-Barred Debt Defense',
-    description: 'Comprehensive legal analysis of the 3-year statutory limitation period for bank loan recovery in India. Discover why civil courts must dismiss time-barred debt suits under Section 3 and how to handle aggressive collection calls without resetting liability.',
+    title: '3-Year Limitation Act Loan Recovery | SettleLoans',
+    description: 'Understand the 3-year Limitation Act for bank loan recovery in India. Learn legal defenses against time-barred debts with SettleLoans.',
     url: 'https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery',
     siteName: 'SettleLoans',
     images: [
@@ -66,8 +66,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Limitation Act 3 Years for Bank Loan Recovery in India | Time-Barred Debt Defense',
-    description: 'Can a bank sue you after 3 years of loan default? Master the statutory limitation defense under Articles 19 and 55 of the Limitation Act, 1963, and protect against unlawful debt revival traps.',
+    title: '3-Year Limitation Act Loan Recovery | SettleLoans',
+    description: 'Understand the 3-year Limitation Act for bank loan recovery in India. Learn legal defenses against time-barred debts with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/limitation-act-3-years-time-barred-loan-recovery.jpg'],
   },
 };

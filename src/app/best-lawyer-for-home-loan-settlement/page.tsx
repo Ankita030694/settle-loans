@@ -1,7 +1,27 @@
-"use client";
-
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Best Lawyer for Home Loan Settlement in India',
+  description: 'Expert legal defense for home loan defaults. Challenge SARFAESI notices, stop bank auctions, and negotiate one-time settlements with top banking lawyers.',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-home-loan-settlement',
+  },
+  openGraph: {
+    title: 'Best Lawyer for Home Loan Settlement in India',
+    description: 'Expert legal defense for home loan defaults. Challenge SARFAESI notices, stop bank auctions, and negotiate one-time settlements with top banking lawyers.',
+    url: 'https://www.settleloans.in/best-lawyer-for-home-loan-settlement',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Best Lawyer for Home Loan Settlement in India',
+    description: 'Expert legal defense for home loan defaults. Challenge SARFAESI notices, stop bank auctions, and negotiate one-time settlements with top banking lawyers.',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function HomeLoanLawyerPage() {
     const jsonLd = {

@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Bank Loan Settlement Guidelines & RBI Rules',
+  description: 'Understand the latest bank loan settlement rules in India. Learn about RBI guidelines, One-Time Settlement (OTS) processes, and how to settle your debt...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/bank-loan-settlement-guidelines',
+  },
+  openGraph: {
+    title: 'Bank Loan Settlement Guidelines & RBI Rules',
+    description: 'Understand the latest bank loan settlement rules in India. Learn about RBI guidelines, One-Time Settlement (OTS) processes, and how to settle your debt...',
+    url: 'https://www.settleloans.in/bank-loan-settlement-guidelines',
+    type: "article",
+    images: ['https://www.settleloans.in/images/bank-loan-settlement-guidelines.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Bank Loan Settlement Guidelines & RBI Rules',
+    description: 'Understand the latest bank loan settlement rules in India. Learn about RBI guidelines, One-Time Settlement (OTS) processes, and how to settle your debt...',
+    images: ['https://www.settleloans.in/images/bank-loan-settlement-guidelines.jpg'],
+  },
+};
 
 export default function BankLoanSettlementGuidelinesPage() {
     const schemaData = {
@@ -203,7 +223,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                             The ultimate roadmap to navigating the complex world of debt settlement in India. Understand your rights, the RBI framework, and the strategic steps to reclaim your financial freedom.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Consult Settlement Expert
                             </Link>
                         </div>
@@ -217,7 +237,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/guidelines" className="hover:text-[#1F5EFF] transition-colors">Guidelines</Link></li>
+                                <li><Link href="/bank-loan-settlement-guidelines" className="hover:text-[#1F5EFF] transition-colors">Guidelines</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">Bank Loan Settlement</li>
                             </ol>
@@ -724,7 +744,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                     Don't spend another night worrying about debt. Our senior consultants have helped thousands of Indians resolve their loan disputes legally and professionally.
                                 </p>
                                 <div className="flex flex-col sm:flex-row gap-6 justify-center">
-                                    <Link href="/contact-us" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-12 rounded-2xl hover:scale-105 transition-all text-xl shadow-xl">
+                                    <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-5 px-12 rounded-2xl hover:scale-105 transition-all text-xl shadow-xl">
                                         Start Your Free Evaluation
                                     </Link>
                                     <a href="tel:+919821219819" className="inline-block bg-transparent border-2 border-white text-white font-black py-5 px-12 rounded-2xl hover:bg-white hover:text-[#1F5EFF] transition-all text-xl">
@@ -751,7 +771,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                     <p className="mb-8 text-base text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Dealing with aggressive recovery agents or legal notices? We provide immediate legal protection.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-5 px-4 rounded-[15px] hover:scale-110 transition-all shadow-lg group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-5 px-4 rounded-[15px] hover:scale-110 transition-all shadow-lg group-hover:shadow-2xl">
                                         Protect My Rights
                                     </Link>
                                     <p className="mt-8 text-[12px] text-[#DEDEDE]/60 uppercase tracking-[0.4em] font-black">24/7 Expert Assistance</p>

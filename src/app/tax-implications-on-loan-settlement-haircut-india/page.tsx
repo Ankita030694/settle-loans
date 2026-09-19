@@ -62,8 +62,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india',
   },
   openGraph: {
-    title: 'Tax Implications on Loan Settlement Haircut in India: Is Waived Debt Taxable?',
-    description: 'Critical post-settlement financial clarity: Discover whether bank loan waivers trigger tax liabilities under Section 28(iv), 41(1), or 194R under Indian income tax law.',
+    title: 'Tax on Loan Settlement Haircut in India | SettleLoans',
+    description: 'Is loan settlement haircut taxable in India? Understand tax implications of waived debt under Section 28(iv), Section 41(1), Section 194R TDS.',
     url: 'https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india',
     siteName: 'SettleLoans',
     images: [
@@ -79,8 +79,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Tax Implications on Loan Settlement Haircut in India: Is Waived Debt Taxable?',
-    description: 'Worried that your bank loan haircut of ₹5 Lakhs or ₹20 Lakhs will be taxed? Learn the statutory difference between personal capital receipts and business debt remission.',
+    title: 'Tax on Loan Settlement Haircut in India | SettleLoans',
+    description: 'Is loan settlement haircut taxable in India? Understand tax implications of waived debt under Section 28(iv), Section 41(1), Section 194R TDS.',
     images: ['https://www.settleloans.in/images/infographics/tax-implications-on-loan-settlement-haircut-india.jpg'],
   },
 };

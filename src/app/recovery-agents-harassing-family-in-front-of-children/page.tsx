@@ -63,8 +63,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children',
   },
   openGraph: {
-    title: 'Recovery Agent Shouting at Home in Front of Kids? Legal Rights & Police FIR Guide',
-    description: 'Stop traumatic home debt recovery. Understand legal protections under the Juvenile Justice Act, Supreme Court dignity rulings, RBI Fair Practices Code, and emergency police complaint protocols.',
+    title: 'Stop Recovery Agents Harassing Family | SettleLoans',
+    description: 'Recovery agents shouting at home in front of children? Protect your family under child protection laws and file a police FIR with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children',
     siteName: 'SettleLoans',
     images: [
@@ -80,8 +80,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agent Shouting at Home in Front of Kids? Legal Rights & Police FIR Guide',
-    description: 'Facing aggressive collection agents creating scenes in front of your children or elderly family? Discover statutory child protections, criminal law remedies, and debt settlement solutions.',
+    title: 'Stop Recovery Agents Harassing Family | SettleLoans',
+    description: 'Recovery agents shouting at home in front of children? Protect your family under child protection laws and file a police FIR with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agents-harassing-family-in-front-of-children.jpg'],
   },
 };

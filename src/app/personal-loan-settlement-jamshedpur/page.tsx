@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-jamshedpur',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Jamshedpur & Tatanagar | Legal OTS Guide',
+    title: 'Personal Loan Settlement in Jamshedpur | SettleLoans',
     description: 'Specialized advocate representation for personal loan settlement, credit card debt relief, and civil court defense across Jamshedpur, Tatanagar, and Adityapur.',
     url: 'https://www.settleloans.in/personal-loan-settlement-jamshedpur',
     siteName: 'SettleLoans',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement in Jamshedpur: Industrial Debt Relief',
+    title: 'Personal Loan Settlement in Jamshedpur | SettleLoans',
     description: 'Technical and legal manual for settling defaulted personal loans, multi-card debts, and MSME credit lines across Jamshedpur, Tatanagar, and Adityapur.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-jamshedpur.jpg'],
   },
@@ -1041,7 +1041,7 @@ export default function PersonalLoanSettlementJamshedpurPage() {
                 <Link href="/no-dues-certificate-after-loan-settlement" className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm">
                   Zero-Balance No Dues Certificate
                 </Link>
-                <Link href="/credit-card-debt-settlement-process" className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm">
+                <Link href="/services/credit-card-settlement" className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm">
                   Credit Card Debt Settlement
                 </Link>
               </div>

@@ -532,25 +532,25 @@ export default function Page() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/rbi-guidelines-loan-recovery" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group text-sm font-medium transition-colors">
+                    <Link href="/rbi-rules-for-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group text-sm font-medium transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Loan Recovery Guidelines
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-stop-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group text-sm font-medium transition-colors">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group text-sm font-medium transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Stop Recovery Agent Harassment
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-file-rbi-ombudsman-complaint" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group text-sm font-medium transition-colors">
+                    <Link href="/rbi-ombudsman-complaint-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group text-sm font-medium transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Filing an RBI Complaint
                     </Link>
                   </li>
                   <li>
-                    <Link href="/consumer-court-bank-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group text-sm font-medium transition-colors">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group text-sm font-medium transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Consumer Court vs Banks
                     </Link>

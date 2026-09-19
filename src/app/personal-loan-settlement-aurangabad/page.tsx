@@ -55,9 +55,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-aurangabad',
   },
   openGraph: {
-    title: 'Loan Settlement Lawyer in Aurangabad: Bank OTS & Legal Defense',
+    title: 'Loan Settlement Lawyer Aurangabad | SettleLoans',
     description:
-      'Confidential legal defense and One-Time Settlement (OTS) advisory for auto engineers in Waluj, pharma personnel in Chikalthana, and traders across Aurangabad and Jalna.',
+      'Settle personal loans legally in Aurangabad Sambhajinagar. Stop bank harassment, defend court notices, and negotiate OTS waivers with SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-aurangabad',
     siteName: 'SettleLoans',
     images: [
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Lawyer in Aurangabad | SettleLoans',
     description:
-      'Authoritative legal defense against loan default harassment, Section 138/25 notices in Adalat Road courts, salary lien removal, and bank OTS settlements in Aurangabad.',
+      'Settle personal loans legally in Aurangabad Sambhajinagar. Stop bank harassment, defend court notices, and negotiate OTS waivers with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-aurangabad.jpg'],
   },
 };

@@ -8,8 +8,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/cannot-pay-personal-loan-emi',
   },
   openGraph: {
-    title: 'I Cannot Pay My Personal Loan EMI: Immediate Relief & Legal Rights',
-    description: 'Learn what to do when you cannot pay your personal loan EMI in India. Understand RBI guidelines, stop recovery harassment, prevent legal action, and explore loan restructuring vs settlement.',
+    title: 'Cannot Pay Personal Loan EMI? Relief Guide | SettleLoans',
+    description: 'Cannot pay your personal loan EMI? Discover immediate 24-hour crisis steps, RBI borrower protection rules, legal notice defense.',
     url: 'https://www.settleloans.in/cannot-pay-personal-loan-emi',
     siteName: 'SettleLoans',
     images: [

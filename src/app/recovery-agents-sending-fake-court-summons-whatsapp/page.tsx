@@ -57,8 +57,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp',
   },
   openGraph: {
-    title: 'Fake Court Notice by Loan Recovery Agent on WhatsApp: Legal Truth vs Forged Threats',
-    description: 'Comprehensive legal analysis on fabricated court summons, fake Lok Adalat seals, and bogus arrest notices sent by recovery agents on WhatsApp. Discover statutory remedies under BNS, IPC, and RBI directives.',
+    title: 'Fake Court Summons on WhatsApp Rules | SettleLoans',
+    description: 'Received fake court summons or police notice on WhatsApp from recovery agents? Learn Section 336 BNS forgery laws and action with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp',
     siteName: 'SettleLoans',
     images: [
@@ -74,8 +74,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Fake Court Notice on WhatsApp from Recovery Agents: What to Do?',
-    description: 'Received a terrifying PDF claiming to be a court summons or arrest order on WhatsApp? Understand why it is a criminal forgery under Sections 336/338 BNS & 465/471 IPC, and how advocates stop harassment.',
+    title: 'Fake Court Summons on WhatsApp Rules | SettleLoans',
+    description: 'Received fake court summons or police notice on WhatsApp from recovery agents? Learn Section 336 BNS forgery laws and action with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg'],
   },
 };

@@ -488,19 +488,19 @@ export default function Order37SummonsPage() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/sarfaesi-act-notice" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/how-to-reply-sarfaesi-notice" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       SARFAESI Act Notice Guide
                     </Link>
                   </li>
                   <li>
-                    <Link href="/drt-lawyer" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/best-lawyer-for-drt-case-defence-for-bank-loan-recovery" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Hire a DRT Lawyer
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-stop-recovery-agents" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Stop Recovery Agents
                     </Link>

@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/sma-account-classification-loan-settlement-window',
   },
   openGraph: {
-    title: 'SMA Account Classification & Loan Settlement Window: Settle Before 90-Day NPA',
-    description: 'Master the RBI Special Mention Account (SMA) resolution framework. Discover how to utilize the critical 1–90 day overdue window (SMA-0, SMA-1, SMA-2) to secure debt waivers, avoid SARFAESI action, and negotiate favorable settlements before formal NPA declaration.',
+    title: 'SMA Account & Loan Settlement Window | SettleLoans',
+    description: 'Understand SMA-0, SMA-1, and SMA-2 pre-NPA account classification. Settle overdue loans during the 90-day window with SettleLoans.',
     url: 'https://www.settleloans.in/sma-account-classification-loan-settlement-window',
     siteName: 'SettleLoans',
     images: [
@@ -66,8 +66,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'SMA Account Classification & Loan Settlement Window: Settle Before 90-Day NPA',
-    description: 'Is your loan overdue between 1 and 90 days? Learn how RBI SMA-0, SMA-1, and SMA-2 classifications create an urgent settlement window for borrowers to negotiate deep waivers before NPA status.',
+    title: 'SMA Account & Loan Settlement Window | SettleLoans',
+    description: 'Understand SMA-0, SMA-1, and SMA-2 pre-NPA account classification. Settle overdue loans during the 90-day window with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/sma-account-classification-loan-settlement-window.jpg'],
   },
 };

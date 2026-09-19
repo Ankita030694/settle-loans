@@ -1,7 +1,27 @@
-"use client";
-
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Gold Loan Settlement & Resolution Near Me',
+  description: 'Searching for a gold loan near me? Compare local pawnbrokers, nationalized banks, and 24x7 doorstep gold loan services like Muthoot and Manappuram.',
+  alternates: {
+    canonical: 'https://www.settleloans.in/gold-loan-near-me',
+  },
+  openGraph: {
+    title: 'Gold Loan Settlement & Resolution Near Me',
+    description: 'Searching for a gold loan near me? Compare local pawnbrokers, nationalized banks, and 24x7 doorstep gold loan services like Muthoot and Manappuram.',
+    url: 'https://www.settleloans.in/gold-loan-near-me',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Gold Loan Settlement & Resolution Near Me',
+    description: 'Searching for a gold loan near me? Compare local pawnbrokers, nationalized banks, and 24x7 doorstep gold loan services like Muthoot and Manappuram.',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function GoldLoanNearMePage() {
     const jsonLd = {

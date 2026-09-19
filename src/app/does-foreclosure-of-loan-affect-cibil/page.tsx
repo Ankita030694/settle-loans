@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Does Loan Foreclosure Affect CIBIL Score? Guide',
+  description: 'Understand how loan foreclosure impacts your CIBIL score. Learn the difference between prepayment and default, the benefits of foreclosing, and how to...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/does-foreclosure-of-loan-affect-cibil',
+  },
+  openGraph: {
+    title: 'Does Loan Foreclosure Affect CIBIL Score? Guide',
+    description: 'Understand how loan foreclosure impacts your CIBIL score. Learn the difference between prepayment and default, the benefits of foreclosing, and how to...',
+    url: 'https://www.settleloans.in/does-foreclosure-of-loan-affect-cibil',
+    type: "article",
+    images: ['https://www.settleloans.in/images/loan-foreclosure-cibil.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Does Loan Foreclosure Affect CIBIL Score? Guide',
+    description: 'Understand how loan foreclosure impacts your CIBIL score. Learn the difference between prepayment and default, the benefits of foreclosing, and how to...',
+    images: ['https://www.settleloans.in/images/loan-foreclosure-cibil.jpg'],
+  },
+};
 
 export default function LoanForeclosureCibilPage() {
     const schemaData = {
@@ -203,7 +223,7 @@ export default function LoanForeclosureCibilPage() {
                             Uncover the truth about how paying off your loan early impacts your credit health. A complete guide to foreclosure, credit scores, and financial freedom.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Get Expert Credit Advice
                             </Link>
                         </div>
@@ -217,7 +237,7 @@ export default function LoanForeclosureCibilPage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/resources" className="hover:text-[#1F5EFF] transition-colors">Resources</Link></li>
+                                <li><Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Resources</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">Loan Foreclosure Impact</li>
                             </ol>
@@ -540,7 +560,7 @@ export default function LoanForeclosureCibilPage() {
                             <p className="text-xl mb-8 opacity-90">
                                 Whether you're looking to foreclose or struggling with debt, our experts are here to help you navigate the complex world of CIBIL and banking.
                             </p>
-                            <Link href="/contact-us" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
+                            <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
                                 Consult a Credit Expert Now
                             </Link>
                         </div>
@@ -560,7 +580,7 @@ export default function LoanForeclosureCibilPage() {
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Worried about your credit score after closing a loan? Get professional guidance today.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
                                         Talk to an Expert
                                     </Link>
                                     <p className="mt-6 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.3em] font-black">Free Consultation</p>

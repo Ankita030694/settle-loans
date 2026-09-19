@@ -8,8 +8,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agent-visiting-workplace-office',
   },
   openGraph: {
-    title: 'Recovery Agent Visiting My Workplace? Legal Protection & RBI Directives',
-    description: 'Protect your job and professional reputation. Discover RBI guidelines prohibiting workplace recovery harassment, trespass laws, and legal shield solutions by SettleLoans.',
+    title: 'Recovery Agent Visiting Workplace? RBI Rules | SettleLoans',
+    description: 'Are recovery agents threatening to visit your workplace, office, or HR? Stop harassment & settle debt legally with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agent-visiting-workplace-office',
     siteName: 'SettleLoans',
     images: [
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Can Recovery Agents Visit Your Office? RBI Rules & Legal Shield',
+    title: 'Recovery Agent Visiting Workplace? RBI Rules | SettleLoans',
     description: 'Learn how to stop recovery agents from visiting your office or contacting your HR department. Legal templates, RBI rules, and advocate intervention.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agent-visiting-workplace-office.jpg'],
   },

@@ -53,9 +53,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-jaipur',
   },
   openGraph: {
-    title: 'Debt Settlement Services in Jaipur: Legal Defense & OTS Advisory',
+    title: 'Debt Settlement Services in Jaipur | SettleLoans',
     description:
-      'Expert legal defense and One-Time Settlement (OTS) representation for salaried professionals, MSME owners, and traders facing loan defaults across Jaipur, Mansarovar, Vaishali Nagar, and C-Scheme.',
+      'Facing personal loan default, recovery harassment, or court notices in Jaipur, Mansarovar, or Vaishali Nagar? Learn your legal rights and debt relief options.',
     url: 'https://www.settleloans.in/personal-loan-settlement-jaipur',
     siteName: 'SettleLoans',
     images: [
@@ -71,9 +71,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Advocates in Jaipur: Legal Defense & Lok Adalat Guide',
+    title: 'Debt Settlement Services in Jaipur | SettleLoans',
     description:
-      'Authoritative legal representation for bank loan defaults, Section 138/25 notices in Bani Park courts, RSLSA Lok Adalat compromise awards, and anti-harassment shielding in Jaipur.',
+      'Facing personal loan default, recovery harassment, or court notices in Jaipur, Mansarovar, or Vaishali Nagar? Learn your legal rights and debt relief options.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-jaipur.jpg'],
   },
 };
@@ -1021,7 +1021,7 @@ export default function Page() {
                     SBI Personal Loan Settlement
                   </Link>
                   <Link
-                    href="/pnb-personal-loan-settlement"
+                    href="/pnb-personal-loan-settlement-process"
                     className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                   >
                     PNB Loan Settlement

@@ -110,7 +110,7 @@ export default function PersonalLoanDebtSettlementClient() {
         <nav className="text-sm text-slate-500 mb-8 flex items-center gap-2">
           <Link href="/" className="hover:text-[#2D68FF] transition-colors">Home</Link>
           <span>/</span>
-          <Link href="/services" className="hover:text-[#2D68FF] transition-colors">Services</Link>
+          <Link href="/#services" className="hover:text-[#2D68FF] transition-colors">Services</Link>
           <span>/</span>
           <span className="text-slate-900 font-medium">Personal Loan Debt Settlement</span>
         </nav>
@@ -423,7 +423,7 @@ export default function PersonalLoanDebtSettlementClient() {
           
           <h3 className="text-2xl font-bold text-slate-900 mb-8 text-center">More Debt Relief Guides</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16 max-w-5xl mx-auto">
-            <Link href="/credit-card-settlement" className="block bg-white p-6 rounded-2xl border border-slate-200 hover:border-[#2D68FF] hover:shadow-lg transition-all group">
+            <Link href="/services/credit-card-settlement" className="block bg-white p-6 rounded-2xl border border-slate-200 hover:border-[#2D68FF] hover:shadow-lg transition-all group">
               <h4 className="font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors">Credit Card Debt Settlement</h4>
               <p className="text-sm text-slate-600">Learn how to negotiate and close your outstanding credit card bills legally.</p>
             </Link>
@@ -443,7 +443,7 @@ export default function PersonalLoanDebtSettlementClient() {
               SettleLoans is India's premier debt relief and legal advisory platform. We specialize in protecting borrowers from harassment and negotiating fair, legal, and mutually beneficial settlements with financial institutions. Regain your financial freedom today.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <Link href="/services" className="bg-[#2D68FF] hover:bg-blue-600 text-white px-8 py-3 rounded-full font-semibold transition-colors">
+              <Link href="/#services" className="bg-[#2D68FF] hover:bg-blue-600 text-white px-8 py-3 rounded-full font-semibold transition-colors">
                 Our Solutions
               </Link>
               <Link href="/contact" className="bg-white/10 hover:bg-white/20 text-white border border-white/20 px-8 py-3 rounded-full font-semibold transition-colors">

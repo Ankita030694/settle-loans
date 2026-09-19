@@ -21,8 +21,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-legal-notice',
   },
   openGraph: {
-    title: 'Legal Notice for Personal Loan Default: Will You Go to Jail? Legal Rights & Reply Guide',
-    description: 'Received a bank or advocate legal notice for personal loan default? Understand your statutory rights under RBI guidelines, Section 138/25 defense, and step-by-step reply protocol.',
+    title: 'Legal Notice for Personal Loan Default | SettleLoans',
+    description: 'Received a legal notice for personal loan default in India? Discover if you can go to jail, Section 138 vs Section 25 PSS Act, 15-day reply procedure.',
     url: 'https://www.settleloans.in/personal-loan-legal-notice',
     siteName: 'SettleLoans',
     images: [
@@ -38,8 +38,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Legal Notice for Personal Loan Default: Real Consequences & Reply Guide',
-    description: 'Complete legal guide for Indian borrowers on handling bank notices, Section 138/25 proceedings, avoiding arrest, and negotiating an authentic One-Time Settlement (OTS).',
+    title: 'Legal Notice for Personal Loan Default | SettleLoans',
+    description: 'Received a legal notice for personal loan default in India? Discover if you can go to jail, Section 138 vs Section 25 PSS Act, 15-day reply procedure.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg'],
   },
 };

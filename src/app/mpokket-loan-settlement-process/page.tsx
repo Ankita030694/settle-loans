@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/mpokket-loan-settlement-process',
   },
   openGraph: {
-    title: 'mPokket Loan Settlement Process: OTS Rules, Harassment Defense & Haircut (2026)',
-    description: 'Struggling with defaulted mPokket pocket loans? Learn how to halt recovery calls to friends and family, revoke app permissions, defend against WhatsApp legal notices, and negotiate a 40%–60% OTS discount with Maybright Ventures NBFC.',
+    title: 'mPokket Loan Settlement Process Guide | SettleLoans',
+    description: 'Step-by-step legal guide to mPokket and Maybright Ventures loan settlement for college students and young professionals.',
     url: 'https://www.settleloans.in/mpokket-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -66,8 +66,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'mPokket Loan Settlement Process: OTS Rules, Legal Defense & Haircut',
-    description: 'Technical and legal manual for settling defaulted mPokket personal loans, stopping contact-list harassment, and securing a zero-balance closure certificate under RBI directives.',
+    title: 'mPokket Loan Settlement Process Guide | SettleLoans',
+    description: 'Step-by-step legal guide to mPokket and Maybright Ventures loan settlement for college students and young professionals.',
     images: ['https://www.settleloans.in/images/infographics/mpokket-loan-settlement-process.jpg'],
   },
 };

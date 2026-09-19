@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/stay-order-against-bank-loan-recovery',
   },
   openGraph: {
-    title: 'How to Get Stay Order Against Loan Recovery: Civil Injunctions & Legal Guide',
+    title: 'Stay Order Against Loan Recovery: Guide | SettleLoans',
     description: 'Learn how borrowers facing coercive recovery agent harassment can secure an urgent civil court stay order under Order 39 CPC and constitutional protection.',
     url: 'https://www.settleloans.in/stay-order-against-bank-loan-recovery',
     siteName: 'SettleLoans',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Get Stay Order Against Loan Recovery: Civil Injunctions & Legal Guide',
+    title: 'Stay Order Against Loan Recovery: Guide | SettleLoans',
     description: 'Stop recovery agent intimidation. Understand how to obtain an emergency civil injunction and restraining order under Order 39 CPC.',
     images: ['https://www.settleloans.in/images/infographics/stay-order-against-bank-loan-recovery.jpg'],
   },

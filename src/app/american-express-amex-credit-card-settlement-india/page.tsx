@@ -54,8 +54,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/american-express-amex-credit-card-settlement-india',
   },
   openGraph: {
-    title: 'American Express Credit Card Settlement: Amex OTS Rules & Legal Defense (2026)',
-    description: 'Struggling with Amex Platinum or Gold card debt in India? Discover the official American Express Banking Corp. OTS compromise process, halt Gurugram pre-litigation harassment, and negotiate an authorized 45% to 60% debt waiver.',
+    title: 'Amex Credit Card Settlement in India | SettleLoans',
+    description: 'Learn how to settle American Express credit card debt in India legally. Handle legal notices and negotiate structured Amex OTS with SettleLoans.',
     url: 'https://www.settleloans.in/american-express-amex-credit-card-settlement-india',
     siteName: 'SettleLoans',
     images: [
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'American Express Credit Card Settlement: Amex OTS Rules & Legal Defense',
+    title: 'Amex Credit Card Settlement in India | SettleLoans',
     description: 'Technical and legal manual for settling defaulted American Express credit and charge cards in India under RBI Master Directions with maximum debt haircuts.',
     images: ['https://www.settleloans.in/images/infographics/american-express-amex-credit-card-settlement-india.jpg'],
   },
@@ -1141,7 +1141,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                   No Dues Certificate (NDC) Guide
                 </Link>
                 <Link
-                  href="/recovery-agent-threatening-me"
+                  href="/bank-recovery-agent-threatening-me"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
                   Halting Recovery Harassment &amp; RBI Rules

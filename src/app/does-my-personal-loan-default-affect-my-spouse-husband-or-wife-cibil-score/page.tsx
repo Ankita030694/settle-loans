@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Does My Personal Loan Default Affect My Spouse's CIBIL Score in India?",
+  title: "Does Personal Loan Default Affect Spouse CIBIL Score?",
   description: "Learn whether an individual loan liability in marriage affects your spouse's credit score in India. Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score",

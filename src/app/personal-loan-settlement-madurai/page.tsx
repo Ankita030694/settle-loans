@@ -52,8 +52,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-madurai',
   },
   openGraph: {
-    title: 'Debt Settlement Advocates in Madurai: Personal Loan & SARB OTS Legal Guide (2026)',
-    description: 'Specialized legal defense and loan settlement advisory for traders, entrepreneurs, and professionals in Madurai, Dindigul, and Virudhunagar facing private bank SARB notices and microfinance disputes.',
+    title: 'Personal Loan Settlement in Madurai | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Madurai. Stop recovery harassment and resolve unsecured debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-madurai',
     siteName: 'SettleLoans',
     images: [
@@ -69,8 +69,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Debt Settlement Advocates in Madurai: Personal Loan & SARB OTS Guide',
-    description: 'Facing loan default notices, Section 138 summons, or recovery agent harassment in Madurai or Southern Tamil Nadu? Learn how advocate-led OTS achieves 40%–60% debt reduction under RBI directives.',
+    title: 'Personal Loan Settlement in Madurai | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Madurai. Stop recovery harassment and resolve unsecured debt with expert OTS via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-madurai.jpg'],
   },
 };

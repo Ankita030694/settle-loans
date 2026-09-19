@@ -47,8 +47,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-trichy',
   },
   openGraph: {
-    title: 'Debt Settlement Services in Trichy Tiruchirappalli | SettleLoans',
-    description: 'Advocate-led debt settlement for BHEL ancillary fabricators, engineering contractors, and salaried employees in Trichy and Thanjavur managing delinquent bank loans.',
+    title: 'Personal Loan Settlement in Trichy | SettleLoans',
+    description: 'Learn how to settle personal loans in Trichy legally. Halt recovery agent harassment and resolve bank debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-trichy',
     siteName: 'SettleLoans',
     images: [
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Debt Settlement Services in Trichy Tiruchirappalli | SettleLoans',
+    title: 'Personal Loan Settlement in Trichy | SettleLoans',
     description: 'Comprehensive debt relief and OTS negotiations for engineering fabricators and salaried professionals across Tiruchirappalli under RBI guidelines.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-trichy.jpg'],
   },

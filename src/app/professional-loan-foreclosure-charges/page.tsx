@@ -143,7 +143,7 @@ export default function ProfessionalLoanForeclosurePage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF]">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/loans" className="hover:text-[#1F5EFF]">Loans</Link>
+              <Link href="/loan-settlement" className="hover:text-[#1F5EFF]">Loans</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Professional Loan Foreclosure Charges</span>
             </div>
@@ -421,7 +421,7 @@ export default function ProfessionalLoanForeclosurePage() {
               <div className="relative z-10">
                 <div className="text-2xl font-black mb-4">Facing High Penalties?</div>
                 <p className="text-gray-300 mb-6 text-sm">Talk to our experts before paying the foreclosure amount.</p>
-                <Link href="/consultation" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-colors">
+                <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-colors">
                   Speak to an Expert
                 </Link>
               </div>
@@ -432,19 +432,19 @@ export default function ProfessionalLoanForeclosurePage() {
               <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</div>
               <ul className="space-y-4 text-sm font-bold">
                 <li>
-                  <Link href="/guides/personal-loan-closure" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                  <Link href="/personal-loan-settlement-vs-closure" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     Personal Loan Closure
                   </Link>
                 </li>
                 <li>
-                  <Link href="/guides/business-loan-foreclosure" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                  <Link href="/business-loan-foreclosure-letter" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     Business Loan Penalties
                   </Link>
                 </li>
                 <li>
-                  <Link href="/guides/how-to-get-noc" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                  <Link href="/download-noc-for-secured-loan" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     Getting Your NOC
                   </Link>

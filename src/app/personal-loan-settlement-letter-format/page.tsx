@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-letter-format',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Letter Format: Ready-to-Use Templates & Legal Guide',
-    description: 'Looking for a formal loan settlement letter format? Access proven OTS draft templates for SBI, HDFC, ICICI, Axis, Kotak & NBFCs with complete RBI compliance guidelines.',
+    title: 'Personal Loan Settlement Letter Format | SettleLoans',
+    description: 'Download ready-to-use personal loan settlement letter formats for Indian banks. Get formal OTS request templates for job loss, medical crisis.',
     url: 'https://www.settleloans.in/personal-loan-settlement-letter-format',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Letter Format & Bank Request Samples (2026)',
+    title: 'Personal Loan Settlement Letter Format | SettleLoans',
     description: 'Learn how to write a formal OTS request letter to your bank manager. Free customizable templates for medical hardship, job loss, and business distress.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg'],
   },

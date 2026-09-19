@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/case-study-sbi-lok-adalat-settlement',
   },
   openGraph: {
-    title: 'SBI Lok Adalat Settlement Case Study: ₹12 Lakh Settled for ₹5.4L',
-    description: 'In-depth legal case study: How an MSME owner resolved a ₹12 Lakh SBI loan default for ₹5.4 Lakhs (55% haircut) through National Lok Adalat conciliation and advocate defense.',
+    title: 'SBI Lok Adalat Settlement Case Study | SettleLoans',
+    description: 'Real case study: How a ₹12 Lakh SBI personal loan default was resolved for ₹5. Stop harassment & settle debt legally with SettleLoans.',
     url: 'https://www.settleloans.in/case-study-sbi-lok-adalat-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'SBI Lok Adalat Settlement Case Study: ₹12 Lakh Settled for ₹5.4L',
+    title: 'SBI Lok Adalat Settlement Case Study | SettleLoans',
     description: 'Real proof: How SettleLoans advocates represented a borrower with a ₹12 Lakh SBI default at Lok Adalat and secured a formal 55% haircut consent award.',
     images: ['https://www.settleloans.in/images/infographics/case-study-sbi-lok-adalat-settlement.jpg'],
   },

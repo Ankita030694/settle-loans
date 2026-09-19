@@ -52,7 +52,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Microfinance Loan Settlement Process & RBI Rules',
-    description: 'Strategic and legal manual for resolving defaulted Joint Liability Group (JLG) and NBFC-MFI microfinance loans under Reserve Bank of India regulatory frameworks with maximum debt waivers and anti-harassment protections.',
+    description: 'Comprehensive guide to microfinance loan settlement rules under RBI Master Directions (2022). Learn how to halt Joint Liability Group (JLG) coercion.',
     url: 'https://www.settleloans.in/microfinance-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Microfinance Loan Settlement Process: RBI Master Directions, JLG Relief & Debt Haircut',
-    description: 'Technical and statutory handbook for settling defaulted microfinance and JLG loans across Bandhan, Fusion, Spandana, and CreditAccess Grameen under RBI compromise frameworks.',
+    title: 'Microfinance Loan Settlement Process & RBI Rules',
+    description: 'Comprehensive guide to microfinance loan settlement rules under RBI Master Directions (2022). Learn how to halt Joint Liability Group (JLG) coercion.',
     images: ['https://www.settleloans.in/images/infographics/microfinance-loan-settlement-process.jpg'],
   },
 };

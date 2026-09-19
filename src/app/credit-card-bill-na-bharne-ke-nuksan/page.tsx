@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Credit Card Bill Na Bharne Ke Nuksan: Legal Guide',
-    description: 'Understand the hidden dangers of credit card default in India: 42% APR compounding, collection agency escalation, civil legal notices, and how to negotiate a structured 60%–70% One-Time Settlement under RBI frameworks.',
+    description: 'Complete legal & financial guide on credit card bill na bharne par kya hota hai. Learn about 42% compounding finance charges, recovery harassment defense.',
     url: 'https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan',
     siteName: 'SettleLoans',
     images: [

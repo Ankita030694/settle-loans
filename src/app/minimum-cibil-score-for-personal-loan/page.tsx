@@ -8,8 +8,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/minimum-cibil-score-for-personal-loan',
   },
   openGraph: {
-    title: 'Minimum CIBIL Score for Personal Loan: Cutoffs & Credit Repair Guide',
-    description: 'Understand the minimum CIBIL score for personal loans across Indian banks and NBFCs, rejection root causes, FOIR formulas, and practical legal debt relief solutions.',
+    title: 'Minimum CIBIL Score for Personal Loan | SettleLoans',
+    description: 'Discover the minimum CIBIL score for personal loan approval in India. Find out why loans get rejected below 750, bank-wise cutoffs.',
     url: 'https://www.settleloans.in/minimum-cibil-score-for-personal-loan',
     siteName: 'SettleLoans',
     images: [
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Minimum CIBIL Score for Personal Loan: Eligibility, Cutoffs & Score Recovery',
+    title: 'Minimum CIBIL Score for Personal Loan | SettleLoans',
     description: 'Learn why personal loans get rejected below 750 CIBIL score, bank vs NBFC approval cutoffs, and how to rebuild creditworthiness via legal debt settlement.',
     images: ['https://www.settleloans.in/images/infographics/minimum-cibil-score-for-personal-loan.jpg'],
   },

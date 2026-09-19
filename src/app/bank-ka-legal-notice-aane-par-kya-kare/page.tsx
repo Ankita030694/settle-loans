@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare',
   },
   openGraph: {
-    title: 'Bank Ka Legal Notice Aane Par Kya Kare: 15-Day Legal Action Protocol',
-    description: 'Received a bank demand notice or advocate notice by post? Discover why ignoring it leads to ex-parte court decrees and how a formal advocate reply initiates compromise settlement talks.',
+    title: 'Bank Ka Legal Notice Aane Par Kya Kare: 15-Day Action Plan',
+    description: 'Bank ka legal notice aane par kya kare? Learn why ignoring notice is dangerous, the 15-day reply window, advocate reply drafting.',
     url: 'https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare',
     siteName: 'SettleLoans',
     images: [
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bank Ka Legal Notice Aane Par Kya Kare: Defensive Action Guide',
+    title: 'Bank Ka Legal Notice Aane Par Kya Kare: 15-Day Action Plan',
     description: 'Step-by-step borrower roadmap: audit the 15-day window, draft an advocate reply under RBI rules, halt civil suits, and negotiate One-Time Settlement (OTS).',
     images: ['https://www.settleloans.in/images/infographics/bank-ka-legal-notice-aane-par-kya-kare.jpg'],
   },

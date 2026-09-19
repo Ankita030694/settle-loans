@@ -63,8 +63,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord',
   },
   openGraph: {
-    title: 'Recovery Agents Harassing Neighbours & Landlord? Legal Rights, Privacy Laws & Defamation Remedies',
-    description: 'Stop illegal residential collection harassment. Understand your rights under Supreme Court privacy rulings, RBI Fair Practices Code, and how advocates file criminal defamation notices against banks.',
+    title: 'Stop Recovery Calls to Neighbours | SettleLoans',
+    description: 'Recovery agents defaming you to neighbours and landlords? Stop third-party shaming with Supreme Court privacy rulings and SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord',
     siteName: 'SettleLoans',
     images: [
@@ -80,8 +80,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agents Harassing Neighbours & Landlord? Legal Rights, Privacy Laws & Defamation Remedies',
-    description: 'Facing social humiliation and eviction panic from collection agents contacting your landlord or neighbours? Discover statutory legal protections and defamation remedies.',
+    title: 'Stop Recovery Calls to Neighbours | SettleLoans',
+    description: 'Recovery agents defaming you to neighbours and landlords? Stop third-party shaming with Supreme Court privacy rulings and SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agents-talking-to-neighbours-landlord.jpg'],
   },
 };

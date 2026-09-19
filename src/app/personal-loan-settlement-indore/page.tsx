@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-indore',
   },
   openGraph: {
-    title: 'Loan Settlement Lawyer in Indore: Settle Personal & Business Debt (2026)',
-    description: 'Comprehensive legal and financial guide for resolving delinquent personal loans, credit card balances, and business credit lines in Indore and MP under RBI compromise settlement frameworks.',
+    title: 'Loan Settlement Lawyer in Indore | SettleLoans',
+    description: 'Facing loan default in Indore or MP? Consult experienced loan settlement lawyers in Indore to halt recovery harassment, defend Section 138/25 PSSA notices.',
     url: 'https://www.settleloans.in/personal-loan-settlement-indore',
     siteName: 'SettleLoans',
     images: [
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Lawyer in Indore: Settle Personal & Business Debt',
+    title: 'Loan Settlement Lawyer in Indore | SettleLoans',
     description: 'Strategic legal defense against aggressive recovery agents, Section 138 NI Act notices, and Lok Adalat compromise settlements for Indore and MP borrowers.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-indore.jpg'],
   },

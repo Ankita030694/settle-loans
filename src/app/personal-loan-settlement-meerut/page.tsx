@@ -54,9 +54,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-meerut',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Advocates in Meerut: Legal Defense & OTS Advisory',
+    title: 'Personal Loan Settlement in Meerut | SettleLoans',
     description:
-      'Expert legal defense and One-Time Settlement (OTS) representation for sports goods manufacturers, real estate traders, and salaried commuters facing bank default across Meerut and Ghaziabad.',
+      'Learn how to settle personal loans legally in Meerut. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-meerut',
     siteName: 'SettleLoans',
     images: [
@@ -72,9 +72,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Advocates in Meerut: Legal Defense & Lok Adalat Guide',
+    title: 'Personal Loan Settlement in Meerut | SettleLoans',
     description:
-      'Authoritative legal representation for bank loan defaults, Section 138/25 notices in Meerut District Court, DLSA Lok Adalat compromise decrees, and anti-harassment shielding in Meerut.',
+      'Learn how to settle personal loans legally in Meerut. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-meerut.jpg'],
   },
 };
@@ -970,7 +970,7 @@ export default function Page() {
                     SBI Personal Loan Settlement
                   </Link>
                   <Link
-                    href="/pnb-personal-loan-settlement"
+                    href="/pnb-personal-loan-settlement-process"
                     className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                   >
                     PNB Loan Settlement

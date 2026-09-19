@@ -364,7 +364,7 @@ export default function RbiIracpNormsPage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-deal-with-recovery-agents" className="group flex items-center text-sm font-medium text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center text-sm font-medium text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Handling Recovery Agents
                     </Link>

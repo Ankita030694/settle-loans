@@ -57,7 +57,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'How to Reply to Bank Arbitration Notice | SettleLoans',
-    description: 'Master the legal defense against bank arbitration notices. Understand Section 12(5) invalidation, Perkins Eastman precedent, and how advocate representation converts aggressive arbitration claims into a compromised One-Time Settlement.',
+    description: 'Learn how to reply to a bank arbitration notice for personal loans and credit cards. Discover why unilateral arbitrator appointments by ICICI, Axis, HDFC.',
     url: 'https://www.settleloans.in/bank-arbitration-notice-reply',
     siteName: 'SettleLoans',
     images: [
@@ -73,8 +73,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Reply to Bank Arbitration Notice: Legal Protections & OTS Blueprint',
-    description: 'Received an arbitration notice from ICICI, Axis, HDFC, or Kotak? Learn how to file a formal legal reply, challenge unilateral appointments, and secure an official debt settlement.',
+    title: 'How to Reply to Bank Arbitration Notice | SettleLoans',
+    description: 'Learn how to reply to a bank arbitration notice for personal loans and credit cards. Discover why unilateral arbitrator appointments by ICICI, Axis, HDFC.',
     images: ['https://www.settleloans.in/images/infographics/bank-arbitration-notice-reply.jpg'],
   },
 };

@@ -65,7 +65,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Personal Loan Settle Kaise Kare: Full Guide | SettleLoans',
-    description: 'Complete legal and financial guide on personal loan settlement in India. Understand RBI compromise settlement policies, NPA provisioning timelines, harassment defense, and step-by-step negotiation protocols.',
+    description: 'Jane personal loan settle kaise kare step-by-step. Bank negotiation strategies, 40%-60% OTS haircut calculation, legal notice reply.',
     url: 'https://www.settleloans.in/personal-loan-settle-kaise-kare',
     siteName: 'SettleLoans',
     images: [
@@ -81,7 +81,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settle Kaise Kare: Bank Se Baat Karne Ka Tarika & Legal Rules',
+    title: 'Personal Loan Settle Kaise Kare: Full Guide | SettleLoans',
     description: 'Technical and legal manual for settling defaulted unsecured personal loans across Indian commercial banks and NBFCs under RBI compromise settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settle-kaise-kare.jpg'],
   },

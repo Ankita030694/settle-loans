@@ -547,7 +547,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                                     <Link href="/loan-agreement-drafting-review" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Agreement Mastery</Link>
                                     <Link href="/legal-notice-for-loan-recovery" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Notice Defense</Link>
                                     <Link href="/best-lawyer-for-loan-settlement-by-drt" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">DRT Case Help</Link>
-                                    <Link href="/is-loan-settlement-a-good-option" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Settlement Pros/Cons</Link>
+                                    <Link href="/is-loan-settlement-a-good-option-for-borrowers" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Settlement Pros/Cons</Link>
                                 </nav>
                             </div>
                         </div>

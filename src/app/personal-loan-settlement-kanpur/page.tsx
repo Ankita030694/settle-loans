@@ -55,9 +55,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-kanpur',
   },
   openGraph: {
-    title: 'Debt Settlement Advocates in Kanpur: Legal Defense & Bank OTS Advisory',
+    title: 'Personal Loan Settlement in Kanpur | SettleLoans',
     description:
-      'Expert legal defense and One-Time Settlement (OTS) representation for leather exporters, factory workers, traders, and salaried executives facing loan default across Kanpur, Civil Lines, and Panki.',
+      'Learn how to settle personal loans legally in Kanpur. Stop recovery harassment and negotiate up to 60% bank OTS waiver via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-kanpur',
     siteName: 'SettleLoans',
     images: [
@@ -73,9 +73,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Debt Settlement Advocates in Kanpur: Legal Defense & Lok Adalat Guide',
+    title: 'Personal Loan Settlement in Kanpur | SettleLoans',
     description:
-      'Authoritative legal representation for bank loan defaults, Section 138/25 notices in Kanpur Nagar courts, DLSA Lok Adalat compromise decrees, and anti-harassment shielding in Kanpur.',
+      'Learn how to settle personal loans legally in Kanpur. Stop recovery harassment and negotiate up to 60% bank OTS waiver via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-kanpur.jpg'],
   },
 };
@@ -975,7 +975,7 @@ export default function Page() {
                     SBI Personal Loan Settlement
                   </Link>
                   <Link
-                    href="/pnb-personal-loan-settlement"
+                    href="/pnb-personal-loan-settlement-process"
                     className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                   >
                     PNB Loan Settlement

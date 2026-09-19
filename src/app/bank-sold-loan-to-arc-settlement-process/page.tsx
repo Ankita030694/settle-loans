@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process',
   },
   openGraph: {
-    title: 'Bank Sold Loan to ARC Settlement Process: Settle Debt Assigned to ARCs',
-    description: 'Master the legal and strategic roadmap to settle distressed debt sold by commercial banks to Asset Reconstruction Companies (ARCs). Learn how to leverage ARC low acquisition cost for 70%–80% principal haircut settlements.',
+    title: 'Bank Sold Loan to ARC Settlement Process | SettleLoans',
+    description: 'Has your bank sold your defaulted loan to an Asset Reconstruction Company (ARC)? Learn the debt assignment framework under Section 5 of SARFAESI.',
     url: 'https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -66,8 +66,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bank Sold Loan to ARC Settlement Process: Settle Debt Assigned to ARCs',
-    description: 'Did your bank assign your bad loan to an ARC? Discover how Section 5 of the SARFAESI Act works and how advocate representation secures massive 70%–80% debt compromise settlements.',
+    title: 'Bank Sold Loan to ARC Settlement Process | SettleLoans',
+    description: 'Has your bank sold your defaulted loan to an Asset Reconstruction Company (ARC)? Learn the debt assignment framework under Section 5 of SARFAESI.',
     images: ['https://www.settleloans.in/images/infographics/bank-sold-loan-to-arc-settlement-process.jpg'],
   },
 };

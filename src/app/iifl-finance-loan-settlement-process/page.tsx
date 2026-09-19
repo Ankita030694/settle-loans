@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/iifl-finance-loan-settlement-process',
   },
   openGraph: {
-    title: 'IIFL Finance Loan Settlement: OTS Process, Gold Auction Shortfall & Haircut (2026)',
-    description: 'Learn how to settle an IIFL Finance personal or business loan, handle post-gold-auction residual shortfall demands, defend legal notices, and negotiate 40% to 60% OTS waivers under RBI compromise frameworks.',
+    title: 'IIFL Finance Loan Settlement Guide | SettleLoans',
+    description: 'Learn how to settle IIFL Finance personal loans and gold loan shortfalls legally. Stop legal notices and resolve debt with SettleLoans.',
     url: 'https://www.settleloans.in/iifl-finance-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'IIFL Finance Loan Settlement: OTS Rules, Gold Auction Shortfall & Legal Defense',
+    title: 'IIFL Finance Loan Settlement Guide | SettleLoans',
     description: 'Strategic and legal manual for resolving defaulted IIFL personal loans, MSME credit lines, and gold auction deficit notices under RBI compromise frameworks.',
     images: ['https://www.settleloans.in/images/infographics/iifl-finance-loan-settlement-process.jpg'],
   },

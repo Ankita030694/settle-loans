@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-ludhiana',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Ludhiana | Debt Settlement Advocates Punjab',
-    description: 'Strategic legal defense and bank loan settlement for factory owners, textile manufacturers, and salaried borrowers across Ludhiana and Punjab. Stop harassment, challenge illegal notices, and negotiate institutional OTS compromises.',
+    title: 'Personal Loan Settlement in Ludhiana | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Ludhiana. Stop bank recovery harassment and resolve debt with up to 60% OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-ludhiana',
     siteName: 'SettleLoans',
     images: [
@@ -76,8 +76,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement in Ludhiana | Debt Settlement Advocates Punjab',
-    description: 'Expert debt settlement advocates in Ludhiana Punjab for industrial manufacturers, MSMEs, and salaried workers. Secure 40%–65% bank OTS waivers and complete legal immunity.',
+    title: 'Personal Loan Settlement in Ludhiana | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Ludhiana. Stop bank recovery harassment and resolve debt with up to 60% OTS via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-ludhiana.jpg'],
   },
 };

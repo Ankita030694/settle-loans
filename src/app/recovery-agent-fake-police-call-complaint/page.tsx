@@ -64,8 +64,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agent-fake-police-call-complaint',
   },
   openGraph: {
-    title: 'Recovery Agent Pretending to Be Police Officer? Legal Rights, Criminal Offenses & FIR Guide',
-    description: 'Stop fake police intimidation by loan collection agencies. Learn your statutory rights under Section 204 BNS / 170 IPC, RBI Master Directions, and how advocates file criminal FIRs.',
+    title: 'Report Fake Police Recovery Calls | SettleLoans',
+    description: 'Recovery agent pretending to be a police officer or court bailiff? File an immediate police impersonation FIR under Section 204 BNS with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agent-fake-police-call-complaint',
     siteName: 'SettleLoans',
     images: [
@@ -81,8 +81,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agent Pretending to Be Police Officer? FIR, BNS/IPC Sections & RBI Rules',
-    description: 'Facing fraudulent police threats from collection agents? Learn criminal impersonation laws, RBI Ombudsman protocols, and how to negotiate a legal One-Time Settlement.',
+    title: 'Report Fake Police Recovery Calls | SettleLoans',
+    description: 'Recovery agent pretending to be a police officer or court bailiff? File an immediate police impersonation FIR under Section 204 BNS with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agent-fake-police-call-complaint.jpg'],
   },
 };

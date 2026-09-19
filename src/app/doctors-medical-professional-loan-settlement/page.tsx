@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/doctors-medical-professional-loan-settlement',
   },
   openGraph: {
-    title: 'Loan Settlement for Doctors in India: Clinic Debt, Equipment & OTS Guide',
+    title: 'Loan Settlement for Doctors in India | SettleLoans',
     description: 'Strategic debt resolution manual for medical practitioners facing clinic expansion debt, professional overdrafts, and equipment finance defaults in India.',
     url: 'https://www.settleloans.in/doctors-medical-professional-loan-settlement',
     siteName: 'SettleLoans',
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement for Doctors in India: Clinic Debt & OTS Resolution Guide',
+    title: 'Loan Settlement for Doctors in India | SettleLoans',
     description: 'Expert legal and financial advisory for doctors navigating professional loan defaults, clinic cash-flow crunches, and RBI compromise settlements.',
     images: ['https://www.settleloans.in/images/infographics/doctors-medical-professional-loan-settlement.jpg'],
   },

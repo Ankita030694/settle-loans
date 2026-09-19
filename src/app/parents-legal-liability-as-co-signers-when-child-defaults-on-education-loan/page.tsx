@@ -258,7 +258,7 @@ export default function ParentsLegalLiabilityPage() {
             <div className="max-w-7xl mx-auto px-4 md:px-8 lg:px-16 py-3 flex items-center gap-2 text-xs md:text-sm text-[#747474]">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/resources" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
+              <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Parents Legal Liability in Education Loan Defaults</span>
             </div>
@@ -566,19 +566,19 @@ export default function ParentsLegalLiabilityPage() {
                   </div>
                   <ul className="space-y-4">
                     <li>
-                      <Link href="/harassment-by-recovery-agents-rights" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
+                      <Link href="/can-recovery-agents-come-home" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
                         <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                         Stop Recovery Agent Harassment
                       </Link>
                     </li>
                     <li>
-                      <Link href="/settlement-impact-on-cibil-score" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
+                      <Link href="/does-settlement-impact-a-co-borrower" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
                         <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                         Impact of OTS on CIBIL
                       </Link>
                     </li>
                     <li>
-                      <Link href="/sarfaesi-act-property-auction" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
+                      <Link href="/sarfaesi-act-bajaj-finance-property-action-notice" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
                         <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                         SARFAESI Act Explained
                       </Link>

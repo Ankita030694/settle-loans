@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-vadodara',
   },
   openGraph: {
-    title: 'Debt Settlement Services in Vadodara: Legal OTS, Bank NPA Rules & Haircut Guide (2026)',
-    description: 'Master the loan settlement process in Vadodara and the Gujarat Industrial Corridor. Understand Stressed Assets Recovery Branch (SARB) escalation, Zonal Office OTS negotiation, Vadodara Lok Adalat conciliation, and RBI compromise frameworks.',
+    title: 'Personal Loan Settlement in Vadodara | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Vadodara. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-vadodara',
     siteName: 'SettleLoans',
     images: [
@@ -76,8 +76,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Debt Settlement Services in Vadodara: Legal OTS, Bank NPA Rules & Haircut Guide',
-    description: 'Technical and legal manual for resolving personal and business debt overdues across Vadodara, Anand, and Bharuch under RBI compromise settlement frameworks and Lok Adalat decrees.',
+    title: 'Personal Loan Settlement in Vadodara | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Vadodara. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-vadodara.jpg'],
   },
 };

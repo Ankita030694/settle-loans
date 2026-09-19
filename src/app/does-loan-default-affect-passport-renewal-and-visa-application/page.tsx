@@ -254,7 +254,7 @@ export default function LoanDefaultPassportVisaPage() {
                   <span className="text-gray-300">/</span>
                 </li>
                 <li>
-                  <Link href="/resources" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
+                  <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
                 </li>
                 <li>
                   <span className="text-gray-300">/</span>

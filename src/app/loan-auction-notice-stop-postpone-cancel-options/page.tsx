@@ -254,7 +254,7 @@ export default function Page() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/loan-relief" className="hover:text-[#1F5EFF] transition-colors">Loan Relief</Link>
+              <Link href="/services/personal-loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Loan Relief</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Auction Notice Options</span>
             </div>
@@ -664,25 +664,25 @@ export default function Page() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/sarfaesi-act-rules" className="text-gray-700 hover:text-[#1F5EFF] font-medium flex items-center group transition-colors">
+                    <Link href="/auction-notice-challenge" className="text-gray-700 hover:text-[#1F5EFF] font-medium flex items-center group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       SARFAESI Act Rule 8 & 9
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-file-sa-in-drt" className="text-gray-700 hover:text-[#1F5EFF] font-medium flex items-center group transition-colors">
+                    <Link href="/auction-notice-challenge" className="text-gray-700 hover:text-[#1F5EFF] font-medium flex items-center group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       How to File SA in DRT
                     </Link>
                   </li>
                   <li>
-                    <Link href="/bank-ots-settlement-process" className="text-gray-700 hover:text-[#1F5EFF] font-medium flex items-center group transition-colors">
+                    <Link href="/one-time-settlement-ots-kaise-kare" className="text-gray-700 hover:text-[#1F5EFF] font-medium flex items-center group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Bank OTS Settlement Process
                     </Link>
                   </li>
                   <li>
-                    <Link href="/illegal-possession-by-bank" className="text-gray-700 hover:text-[#1F5EFF] font-medium flex items-center group transition-colors">
+                    <Link href="/auction-notice-challenge" className="text-gray-700 hover:text-[#1F5EFF] font-medium flex items-center group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Illegal Possession by Banks
                     </Link>

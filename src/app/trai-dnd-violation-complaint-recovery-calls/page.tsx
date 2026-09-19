@@ -58,7 +58,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'TRAI DND Complaint: Stop Recovery Calls from Virtual Numbers',
-    description: 'Statutory guide on reporting auto-dialer spam, virtual VoIP recovery calls, and TRAI DND violations via DoT Chakshu portal and TRAI DND 3.0 app under Indian telecom and banking laws.',
+    description: 'Stop recovery agents calling from multiple virtual numbers. File TRAI DND 3.0 and DoT Chakshu portal complaints to disconnect numbers legally.',
     url: 'https://www.settleloans.in/trai-dnd-violation-complaint-recovery-calls',
     siteName: 'SettleLoans',
     images: [
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Stop Recovery Calls from Multiple Virtual Numbers | SettleLoans',
+    title: 'TRAI DND Recovery Call Complaint Guide | SettleLoans',
     description: 'Learn how to disconnect virtual VoIP recovery numbers using DoT Chakshu and TRAI DND 3.0, backed by RBI Fair Practices protections and advocate defense.',
     images: ['https://www.settleloans.in/images/infographics/trai-dnd-violation-complaint-recovery-calls.jpg'],
   },

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Don't Have Job & Can't Pay EMI? Loan Settlement Options & Rights",
+  title: "Lost Job & Can't Pay EMI? Relief Options | SettleLoans",
   description: "Struggling with EMI payments after losing your job? Learn about loan settlement, RBI guidelines for jobless borrowers, and your rights against harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/dont-have-job-cant-pay-emi",
@@ -700,7 +700,7 @@ export default function JobLossLoanPage() {
                     { title: "Loan Settlement Guide", href: "/loan-settlement" },
                     { title: "Personal Loan Relief", href: "/services/personal-loan-settlement" },
                     { title: "Credit Card Solutions", href: "/services/credit-card-settlement" },
-                    { title: "Stop Bank Harassment", href: "/services/anti-harassment" },
+                    { title: "Stop Bank Harassment", href: "/ignoring-calls-of-recovery-agent" },
                     { title: "Cheque Bounce Help", href: "/cheque-bounce" },
                     { title: "Fix CIBIL Score", href: "/credit-score-improvement" }
                   ].map((item, idx) => (

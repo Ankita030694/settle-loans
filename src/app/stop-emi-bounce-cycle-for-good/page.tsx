@@ -234,7 +234,7 @@ export default function StopEmiBounceCyclePage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/resources" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
+              <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Stop EMI Bounce Cycle</span>
             </div>
@@ -638,25 +638,25 @@ export default function StopEmiBounceCyclePage() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/personal-loan-settlement" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/services/personal-loan-settlement" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Personal Loan Settlement
                     </Link>
                   </li>
                   <li>
-                    <Link href="/stop-recovery-harassment" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Stop Recovery Harassment
                     </Link>
                   </li>
                   <li>
-                    <Link href="/credit-card-debt-relief" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/services/credit-card-settlement" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Credit Card Debt Relief
                     </Link>
                   </li>
                   <li>
-                    <Link href="/npa-account-rules" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/loan-npa-status" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       NPA Account Rules
                     </Link>

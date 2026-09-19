@@ -52,9 +52,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/flexiloans-business-loan-settlement-process',
   },
   openGraph: {
-    title: 'FlexiLoans Business Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
+    title: 'FlexiLoans Business Loan Settlement | SettleLoans',
     description:
-      'Comprehensive guide to FlexiLoans merchant and business loan settlement. Learn how to stop automated collection calls, defend Section 25 PSSA notices, and negotiate up to 60% OTS debt haircut under RBI rules.',
+      'Settle your FlexiLoans business loan default legally. Stop automated collection calls, defend NACH notices, and negotiate up to 60% OTS debt waiver.',
     url: 'https://www.settleloans.in/flexiloans-business-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'FlexiLoans Business Loan Settlement: OTS Rules, Legal Defense & Haircut',
+    title: 'FlexiLoans Business Loan Settlement | SettleLoans',
     description:
       'Technical and legal manual for settling defaulted FlexiLoans unsecured merchant credit facilities under RBI Compromise Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/flexiloans-business-loan-settlement-process.jpg'],
@@ -1216,7 +1216,7 @@ export default function FlexiLoansBusinessLoanSettlementPage() {
                   Unsecured Business Loan Settlement
                 </Link>
                 <Link
-                  href="/business-loan-recovery-process"
+                  href="/flexiloans-business-loan-settlement-process"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
                   Business Loan Recovery Process

@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/can-recovery-agents-visit-home-on-sunday-or-holidays',
   },
   openGraph: {
-    title: 'Can Recovery Agents Visit on Sunday or Holidays? RBI Rules & Legal Rights',
-    description: 'Comprehensive legal analysis on borrower protections against unannounced recovery agent visits on Sundays, national holidays, and festivals in India. Learn your statutory rights under RBI Master Directions and civil trespass laws.',
+    title: 'Can Recovery Agents Visit on Holidays? | SettleLoans',
+    description: 'Can bank recovery agents visit on Sundays or public holidays? Learn your legal rights and RBI recovery timing rules with SettleLoans.',
     url: 'https://www.settleloans.in/can-recovery-agents-visit-home-on-sunday-or-holidays',
     siteName: 'SettleLoans',
     images: [
@@ -76,8 +76,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Can Recovery Agents Visit Home on Sunday or Public Holidays? RBI Guidelines',
-    description: 'Facing collection agents on weekends or festivals? Discover why unannounced holiday doorstep visits violate RBI Fair Practice codes and how to lawfully turn away visitors.',
+    title: 'Can Recovery Agents Visit on Holidays? | SettleLoans',
+    description: 'Can bank recovery agents visit on Sundays or public holidays? Learn your legal rights and RBI recovery timing rules with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/can-recovery-agents-visit-home-on-sunday-or-holidays.jpg'],
   },
 };

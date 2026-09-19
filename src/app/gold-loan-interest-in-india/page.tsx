@@ -1,7 +1,27 @@
-"use client";
-
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Gold Loan Interest Rates & Settlement | Guide',
+  description: 'Comprehensive guide to gold loan interest rates in India. Compare SBI, HDFC, ICICI, Muthoot, and Manappuram. Learn about per gram rates, LTV impacts, and...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/gold-loan-interest-in-india',
+  },
+  openGraph: {
+    title: 'Gold Loan Interest Rates & Settlement | Guide',
+    description: 'Comprehensive guide to gold loan interest rates in India. Compare SBI, HDFC, ICICI, Muthoot, and Manappuram. Learn about per gram rates, LTV impacts, and...',
+    url: 'https://www.settleloans.in/gold-loan-interest-in-india',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Gold Loan Interest Rates & Settlement | Guide',
+    description: 'Comprehensive guide to gold loan interest rates in India. Compare SBI, HDFC, ICICI, Muthoot, and Manappuram. Learn about per gram rates, LTV impacts, and...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function GoldLoanInterestPage() {
     const jsonLd = {

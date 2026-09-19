@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment',
   },
   openGraph: {
-    title: 'High Court Writ Petition Against Bank Recovery Harassment | Article 226 Constitutional Shield',
-    description: 'Learn how to invoke Article 226 of the Constitution before the State High Court to halt unlawful bank recovery harassment, obtain urgent police protection, and secure a structured debt settlement.',
+    title: 'Writ Petition for Recovery Harassment | SettleLoans',
+    description: 'File an Article 226 High Court writ petition to stop illegal bank recovery harassment and secure police protection orders with SettleLoans.',
     url: 'https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment',
     siteName: 'SettleLoans',
     images: [
@@ -67,8 +67,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Writ Petition Against Bank Recovery Harassment in High Court: Article 226 Legal Protection',
-    description: 'Facing severe physical intimidation or extortion by bank collection agencies? Discover how High Court writ petitions enforce fundamental rights and provide judicial restraining orders.',
+    title: 'Writ Petition for Recovery Harassment | SettleLoans',
+    description: 'File an Article 226 High Court writ petition to stop illegal bank recovery harassment and secure police protection orders with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/high-court-writ-petition-against-bank-recovery-harassment.jpg'],
   },
 };
@@ -970,7 +970,7 @@ export default function HighCourtWritBankHarassmentPage() {
                   Stop Bank Recovery Harassment
                 </Link>
                 <Link
-                  href="/bank-filed-fir-for-loan-default-reality-check"
+                  href="/bank-fir-for-loan-default-reality-check"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
                   Bank FIR for Loan Default Reality

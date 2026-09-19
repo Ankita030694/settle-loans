@@ -607,19 +607,19 @@ export default function LoanPartialPaymentPage() {
                 </div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/personal-loan-prepayment-calculator" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/loan-settlement-amount-calculator" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Prepayment Calculator
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-negotiate-loan-settlement" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/faqs/how-to-negotiate-personal-loan-settlement" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Loan Settlement Guide
                     </Link>
                   </li>
                   <li>
-                    <Link href="/understanding-emi-calculations" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/arrear-emi-meaning-vs-overdue" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Understanding EMIs
                     </Link>

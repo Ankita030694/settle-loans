@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Can a Bank Freeze a Company Current Account for a Director's Personal Loan Default?",
+  title: "Can Bank Freeze Company Account for Director Loan?",
   description: "Learn why a bank cannot legally freeze a Private Limited Company or MSME current account to recover a director's personal loan default.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default",
@@ -510,19 +510,19 @@ export default function FreezeCompanyAccountDefensePage() {
                 </div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/corporate-veil-in-banking-law" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/can-bank-freeze-company-current-account-for-directors-personal-loan-default" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Corporate Veil in Banking Law
                     </Link>
                   </li>
                   <li>
-                    <Link href="/bankers-right-of-set-off-explained" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery#right-of-set-off" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Right of Set-Off Explained
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-file-writ-petition-against-bank" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/high-court-writ-petition-against-bank-recovery-harassment" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       How to File Writ against Bank
                     </Link>

@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faIndustry, faChartLine, faCheckCircle, faShieldAlt, faFileAlt, faHandshake, faUserTie } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Lawyer for MSME Loan Recovery Defense | Relief',
+  description: 'Expert MSME legal defence for bank recovery actions. Challenge SARFAESI notices, file SAs in DRT, and leverage MSMED Act for business survival. 4500+ word...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence',
+  },
+  openGraph: {
+    title: 'Lawyer for MSME Loan Recovery Defense | Relief',
+    description: 'Expert MSME legal defence for bank recovery actions. Challenge SARFAESI notices, file SAs in DRT, and leverage MSMED Act for business survival. 4500+ word...',
+    url: 'https://www.settleloans.in/best-lawyer-for-MSME-loan-recovery-defence',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Lawyer for MSME Loan Recovery Defense | Relief',
+    description: 'Expert MSME legal defence for bank recovery actions. Challenge SARFAESI notices, file SAs in DRT, and leverage MSMED Act for business survival. 4500+ word...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function MSMELoanRecoveryDefencePage() {
     const jsonLd = {

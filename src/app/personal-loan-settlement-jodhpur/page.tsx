@@ -52,9 +52,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-jodhpur',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Lawyer in Jodhpur: Legal Defense & OTS Advisory',
+    title: 'Personal Loan Settlement in Jodhpur | SettleLoans',
     description:
-      'Authoritative legal defense and One-Time Settlement (OTS) representation for handicraft exporters, solar contractors, MSMEs, and salaried professionals in Jodhpur, Pali, and Bikaner.',
+      'Learn how to settle personal loans legally in Jodhpur. Stop recovery agent calls and resolve bank debt with up to 60% OTS waiver via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-jodhpur',
     siteName: 'SettleLoans',
     images: [
@@ -70,9 +70,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Lawyer in Jodhpur: High Court Seat & Lok Adalat Defense',
+    title: 'Personal Loan Settlement in Jodhpur | SettleLoans',
     description:
-      'Strategic debt defense against bank recovery harassment, Section 138/25 notices in Paota courts, and 40%–70% OTS waivers for borrowers across Jodhpur and Western Rajasthan.',
+      'Learn how to settle personal loans legally in Jodhpur. Stop recovery agent calls and resolve bank debt with up to 60% OTS waiver via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-jodhpur.jpg'],
   },
 };
@@ -958,7 +958,7 @@ export default function Page() {
                     SBI Personal Loan Settlement
                   </Link>
                   <Link
-                    href="/pnb-personal-loan-settlement"
+                    href="/pnb-personal-loan-settlement-process"
                     className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                   >
                     PNB Loan Settlement

@@ -57,8 +57,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/consumer-court-complaint-against-bank-harassment',
   },
   openGraph: {
-    title: 'Consumer Court Case Against Bank for Harassment | DCDRC Filing & Compensation Guide',
-    description: 'Learn how to counter rogue recovery agents by filing a consumer court case in DCDRC for deficiency of service, claiming monetary damages for mental agony, and securing a debt settlement.',
+    title: 'Consumer Court Case Against Bank Harassment | SettleLoans',
+    description: 'Suffering bank recovery agent harassment? Learn how to file a consumer court complaint in DCDRC for deficiency of service.',
     url: 'https://www.settleloans.in/consumer-court-complaint-against-bank-harassment',
     siteName: 'SettleLoans',
     images: [
@@ -74,8 +74,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Consumer Court Complaint Against Bank Harassment: Legal Defense & Damages Guide',
-    description: 'Facing abusive loan collection calls or workplace visits? Discover how to file a DCDRC consumer court complaint for deficiency of service and claim monetary compensation.',
+    title: 'Consumer Court Case Against Bank Harassment | SettleLoans',
+    description: 'Suffering bank recovery agent harassment? Learn how to file a consumer court complaint in DCDRC for deficiency of service.',
     images: ['https://www.settleloans.in/images/infographics/consumer-court-complaint-against-bank-harassment.jpg'],
   },
 };

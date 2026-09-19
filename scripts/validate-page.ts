@@ -1,9 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 
-const PAGE_PATH = '/Users/apple/Desktop/ama/sl-new/settle-loans/src/app/bank-loan-settlement-guidelines/page.tsx';
-const FOOTER_PATH = '/Users/apple/Desktop/ama/sl-new/settle-loans/src/components/Footer.tsx';
-const SITEMAP_PATH = '/Users/apple/Desktop/ama/sl-new/settle-loans/src/app/sitemap.ts';
+const PAGE_PATH = path.join(process.cwd(), 'src/app/bank-loan-settlement-guidelines/page.tsx');
+const FOOTER_PATH = path.join(process.cwd(), 'src/components/Footer.tsx');
+const SITEMAP_PATH = path.join(process.cwd(), 'src/app/sitemap.ts');
 
 function validate() {
     console.log('--- Starting Validation ---');

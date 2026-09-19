@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/case-study-hdfc-personal-loan-settlement',
   },
   openGraph: {
-    title: 'HDFC Personal Loan Settlement Success Story: ₹8 Lakh Settled for ₹3.2L',
-    description: 'In-depth proof of concept: How an ₹8 Lakh unsecured HDFC personal loan was settled for ₹3.2 Lakhs (60% haircut) under RBI compromise guidelines after sudden job loss.',
+    title: 'HDFC Personal Loan Settlement Case Study | SettleLoans',
+    description: 'Real case study: How an ₹8 Lakh HDFC Bank personal loan was settled for ₹3. Stop harassment & settle debt legally with SettleLoans.',
     url: 'https://www.settleloans.in/case-study-hdfc-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'HDFC Personal Loan Settlement Success Story: ₹8 Lakh Settled for ₹3.2L',
-    description: 'Case study proof: Step-by-step breakdown of how an ₹8 Lakh HDFC personal loan default was resolved for ₹3.2 Lakhs with official bank sanction letter and zero dues NDC.',
+    title: 'HDFC Personal Loan Settlement Case Study | SettleLoans',
+    description: 'Real case study: How an ₹8 Lakh HDFC Bank personal loan was settled for ₹3. Stop harassment & settle debt legally with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/case-study-hdfc-personal-loan-settlement.jpg'],
   },
 };

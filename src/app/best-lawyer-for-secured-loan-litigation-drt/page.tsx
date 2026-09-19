@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faBuilding, faHome, faLock, faUnlock } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Best Lawyer for Secured Loan DRT Litigation',
+  description: 'Expert legal representation for secured loan defaults. Challenge SARFAESI 13(2) & 13(4) notices, stop auctions, and defend your property in DRT. 4500+ word...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt',
+  },
+  openGraph: {
+    title: 'Best Lawyer for Secured Loan DRT Litigation',
+    description: 'Expert legal representation for secured loan defaults. Challenge SARFAESI 13(2) & 13(4) notices, stop auctions, and defend your property in DRT. 4500+ word...',
+    url: 'https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Best Lawyer for Secured Loan DRT Litigation',
+    description: 'Expert legal representation for secured loan defaults. Challenge SARFAESI 13(2) & 13(4) notices, stop auctions, and defend your property in DRT. 4500+ word...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function SecuredLoanLitigationPage() {
     const jsonLd = {

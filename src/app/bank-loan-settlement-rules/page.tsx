@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Bank Loan Settlement Rules in India | Guide',
+  description: 'Comprehensive guide to bank loan settlement rules in India. Learn about RBI guidelines, one-time settlement (OTS) procedures, and how to settle your debt...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/bank-loan-settlement-rules',
+  },
+  openGraph: {
+    title: 'Bank Loan Settlement Rules in India | Guide',
+    description: 'Comprehensive guide to bank loan settlement rules in India. Learn about RBI guidelines, one-time settlement (OTS) procedures, and how to settle your debt...',
+    url: 'https://www.settleloans.in/bank-loan-settlement-rules',
+    type: "article",
+    images: ['https://www.settleloans.in/images/loan-settlement-rules.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Bank Loan Settlement Rules in India | Guide',
+    description: 'Comprehensive guide to bank loan settlement rules in India. Learn about RBI guidelines, one-time settlement (OTS) procedures, and how to settle your debt...',
+    images: ['https://www.settleloans.in/images/loan-settlement-rules.jpg'],
+  },
+};
 
 export default function BankLoanSettlementRulesPage() {
     const schemaData = {
@@ -203,7 +223,7 @@ export default function BankLoanSettlementRulesPage() {
                             Master the legalities of one-time settlements in India. Understand RBI guidelines, protect your legal rights, and navigate the path to financial freedom with expert insights.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Consult Settlement Expert
                             </Link>
                         </div>
@@ -217,7 +237,7 @@ export default function BankLoanSettlementRulesPage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/resources" className="hover:text-[#1F5EFF] transition-colors">Resources</Link></li>
+                                <li><Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Resources</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">Loan Settlement Rules</li>
                             </ol>
@@ -667,7 +687,7 @@ export default function BankLoanSettlementRulesPage() {
                             <p className="text-xl mb-8 opacity-90">
                                 Stop the stress of unpaid loans. Our experts will handle the bank negotiations and protect your legal rights.
                             </p>
-                            <Link href="/contact-us" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
+                            <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
                                 Request Free Debt Consultation
                             </Link>
                         </div>
@@ -687,7 +707,7 @@ export default function BankLoanSettlementRulesPage() {
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Facing legal notices or recovery harassment? Get professional help to settle your bank loans legally.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
                                         Start My Settlement
                                     </Link>
                                     <p className="mt-6 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.3em] font-black">RBI Compliant Process</p>

@@ -174,7 +174,7 @@ export default function LoanSettlementFeesPage() {
                   <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7"></path></svg>
                 </li>
                 <li>
-                  <Link href="/services" className="hover:text-[var(--color-primary)] transition-colors">Services</Link>
+                  <Link href="/#services" className="hover:text-[var(--color-primary)] transition-colors">Services</Link>
                 </li>
                 <li>
                   <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7"></path></svg>
@@ -642,7 +642,7 @@ export default function LoanSettlementFeesPage() {
                 <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Info</div>
                 <ul className="space-y-4 text-sm font-medium">
                   <li>
-                    <Link href="/eligibility-checker-for-loan-settlement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">
+                    <Link href="/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">
                       <span className="w-1.5 h-1.5 bg-gray-300 rounded-full mr-3 group-hover:bg-[var(--color-primary)] transition-colors"></span>
                       Check Eligibility
                     </Link>

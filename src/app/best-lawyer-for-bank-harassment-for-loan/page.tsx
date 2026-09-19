@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faUserShield, faPhoneSlash } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Lawyer for Bank Harassment for Loan Recovery',
+  description: 'Expert legal help to stop bank recovery agent harassment. Leverge RBI guidelines, IPC sections, and Supreme Court judgments to protect your rights. 4500+...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan',
+  },
+  openGraph: {
+    title: 'Lawyer for Bank Harassment for Loan Recovery',
+    description: 'Expert legal help to stop bank recovery agent harassment. Leverge RBI guidelines, IPC sections, and Supreme Court judgments to protect your rights. 4500+...',
+    url: 'https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Lawyer for Bank Harassment for Loan Recovery',
+    description: 'Expert legal help to stop bank recovery agent harassment. Leverge RBI guidelines, IPC sections, and Supreme Court judgments to protect your rights. 4500+...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function BankHarassmentLawyerPage() {
     const jsonLd = {
@@ -567,7 +587,7 @@ export default function BankHarassmentLawyerPage() {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/harassment-by-recovery-agents" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">
+                                        <Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">
                                             <div className="w-1.5 h-1.5 rounded-full bg-[#DEDEDE] group-hover:bg-[#1F5EFF] transition-colors"></div>
                                             Recovery Harassment
                                         </Link>
@@ -579,7 +599,7 @@ export default function BankHarassmentLawyerPage() {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/is-loan-settlement-a-good-option" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">
+                                        <Link href="/is-loan-settlement-a-good-option-for-borrowers" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">
                                             <div className="w-1.5 h-1.5 rounded-full bg-[#DEDEDE] group-hover:bg-[#1F5EFF] transition-colors"></div>
                                             Settlement Guide
                                         </Link>

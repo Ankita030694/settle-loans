@@ -53,7 +53,7 @@ export default function BusinessLoanForeclosurePage() {
             "@type": "ListItem",
             "position": 2,
             "name": "Business Loan Foreclosure Letter",
-            "item": "https://settleloan.in/business-loan-foreclosure-letter"
+            "item": "https://www.settleloans.in/business-loan-foreclosure-letter"
           }
         ]
       },
@@ -63,15 +63,15 @@ export default function BusinessLoanForeclosurePage() {
         "description": "Use our legally vetted Foreclosure Letter Format to ensure the bank doesn't stall the closure of your business loan.",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoan"
+          "name": "SettleLoans"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "SettleLoan"
+          "name": "SettleLoans"
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://settleloan.in/business-loan-foreclosure-letter"
+          "@id": "https://www.settleloans.in/business-loan-foreclosure-letter"
         }
       },
       {
@@ -227,7 +227,7 @@ export default function BusinessLoanForeclosurePage() {
           <div className="max-w-7xl mx-auto px-4 md:px-8 lg:px-12 py-4 text-xs md:text-sm text-[#747474] flex items-center gap-2">
             <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
             <span className="text-gray-300">/</span>
-            <Link href="/business-loan" className="hover:text-[#1F5EFF] transition-colors">Business Loan</Link>
+            <Link href="/business-loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Business Loan</Link>
             <span className="text-gray-300">/</span>
             <span className="font-bold text-[#2E2E2E]">Foreclosure Letter Format</span>
           </div>
@@ -645,7 +645,7 @@ export default function BusinessLoanForeclosurePage() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/npa-account-settlement" className="flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/loan-settlement-process-in-india" className="flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       NPA Loan Settlement
                     </Link>
@@ -657,7 +657,7 @@ export default function BusinessLoanForeclosurePage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/stop-bank-harassment" className="flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Stop Recovery Agents
                     </Link>

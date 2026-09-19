@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Lawyer for Home Loan Cheque Bounce Case (138)',
+  description: 'Expert legal defense for home loan cheque bounce cases under Section 138 NI Act. We represent borrowers facing EMI defaults, security cheque misuse, and...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-home-loan-check-bounce-case',
+  },
+  openGraph: {
+    title: 'Lawyer for Home Loan Cheque Bounce Case (138)',
+    description: 'Expert legal defense for home loan cheque bounce cases under Section 138 NI Act. We represent borrowers facing EMI defaults, security cheque misuse, and...',
+    url: 'https://www.settleloans.in/best-lawyer-for-home-loan-check-bounce-case',
+    type: "article",
+    images: ['https://www.settleloans.in/images/home-loan-check-bounce.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Lawyer for Home Loan Cheque Bounce Case (138)',
+    description: 'Expert legal defense for home loan cheque bounce cases under Section 138 NI Act. We represent borrowers facing EMI defaults, security cheque misuse, and...',
+    images: ['https://www.settleloans.in/images/home-loan-check-bounce.jpg'],
+  },
+};
 
 export default function HomeLoanCheckBouncePage() {
     const schemaData = {
@@ -102,7 +122,7 @@ export default function HomeLoanCheckBouncePage() {
                             Aggressive legal defense for Section 138 NI Act cases. We protect borrowers from bank harassment, security cheque misuse, and criminal prosecution.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Get Check Bounce Defense Now
                             </Link>
                         </div>
@@ -116,7 +136,7 @@ export default function HomeLoanCheckBouncePage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
+                                <li><Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">Home Loan Check Bounce</li>
                             </ol>
@@ -396,7 +416,7 @@ export default function HomeLoanCheckBouncePage() {
                             <p className="text-xl mb-8 opacity-90">
                                 Don't let a cheque bounce case derail your life. Our expert criminal defense lawyers are ready to fight your 138 NI Act case.
                             </p>
-                            <Link href="/contact-us" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
+                            <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
                                 Consult Section 138 Specialist
                             </Link>
                         </div>
@@ -416,7 +436,7 @@ export default function HomeLoanCheckBouncePage() {
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Facing a criminal notice? Don't ignore it. Let our experts draft a technical reply today.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
                                         Consult Advocate
                                     </Link>
                                     <p className="mt-6 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.3em] font-black">NI Act Specialists</p>

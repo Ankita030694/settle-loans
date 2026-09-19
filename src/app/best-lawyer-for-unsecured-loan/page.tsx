@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faMicrophoneAlt } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Best Lawyer for Unsecured Loan Settlement India',
+  description: 'Expert legal help for unsecured loan defaults. Stop recovery agent harassment, negotiate personal loan settlements, and navigate DRT cases. 4500+ word...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-unsecured-loan',
+  },
+  openGraph: {
+    title: 'Best Lawyer for Unsecured Loan Settlement India',
+    description: 'Expert legal help for unsecured loan defaults. Stop recovery agent harassment, negotiate personal loan settlements, and navigate DRT cases. 4500+ word...',
+    url: 'https://www.settleloans.in/best-lawyer-for-unsecured-loan',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Best Lawyer for Unsecured Loan Settlement India',
+    description: 'Expert legal help for unsecured loan defaults. Stop recovery agent harassment, negotiate personal loan settlements, and navigate DRT cases. 4500+ word...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function UnsecuredLoanLawyerPage() {
     const jsonLd = {
@@ -578,13 +598,13 @@ export default function UnsecuredLoanLawyerPage() {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/harassment-by-recovery-agents" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">
+                                        <Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">
                                             <div className="w-1.5 h-1.5 rounded-full bg-[#DEDEDE] group-hover:bg-[#1F5EFF] transition-colors"></div>
                                             Stopping Harassment
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/is-loan-settlement-a-good-option" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">
+                                        <Link href="/is-loan-settlement-a-good-option-for-borrowers" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">
                                             <div className="w-1.5 h-1.5 rounded-full bg-[#DEDEDE] group-hover:bg-[#1F5EFF] transition-colors"></div>
                                             Settlement Guide
                                         </Link>

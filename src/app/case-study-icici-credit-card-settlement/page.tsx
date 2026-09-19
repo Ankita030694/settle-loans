@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/case-study-icici-credit-card-settlement',
   },
   openGraph: {
-    title: 'ICICI Credit Card Settlement Case Study: ₹5 Lakh Debt Settled for ₹1.5L',
-    description: 'In-depth case study: How a ₹5 Lakh ICICI Bank credit card debt was settled for ₹1.5 Lakhs (70% overall haircut) under RBI compromise settlement guidelines, breaking a vicious compound interest cycle.',
+    title: 'ICICI Credit Card Settlement Case Study | SettleLoans',
+    description: 'Real case study: How a ₹5 Lakh ICICI Bank credit card debt (₹1.8L principal + ₹3.2L interest/penalties) was settled for ₹1.5 Lakhs (70% total waiver).',
     url: 'https://www.settleloans.in/case-study-icici-credit-card-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ICICI Credit Card Settlement Case Study: ₹5 Lakh Debt Settled for ₹1.5L',
-    description: 'Case study proof: Step-by-step breakdown of how a ₹5 Lakh ICICI credit card default was resolved for ₹1.5 Lakhs with official bank sanction letter and zero dues NDC.',
+    title: 'ICICI Credit Card Settlement Case Study | SettleLoans',
+    description: 'Real case study: How a ₹5 Lakh ICICI Bank credit card debt (₹1.8L principal + ₹3.2L interest/penalties) was settled for ₹1.5 Lakhs (70% total waiver).',
     images: ['https://www.settleloans.in/images/infographics/case-study-icici-credit-card-settlement.jpg'],
   },
 };

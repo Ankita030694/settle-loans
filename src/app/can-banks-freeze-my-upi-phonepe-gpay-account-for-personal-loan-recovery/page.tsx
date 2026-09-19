@@ -80,7 +80,7 @@ export default function CanBanksFreezeUPIAccountPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://www.settleloan.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#faq",
+        "@id": "https://www.settleloans.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -166,12 +166,12 @@ export default function CanBanksFreezeUPIAccountPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://www.settleloan.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#product",
+        "@id": "https://www.settleloans.in/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery/#product",
         "name": "Legal Account Unfreezing and Loan Settlement Advisory",
         "description": "Professional legal services to challenge illegal bank account freezes, unblock UPI access, and negotiate personal loan settlements.",
         "brand": {
           "@type": "Brand",
-          "name": "SettleLoan"
+          "name": "SettleLoans"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -270,7 +270,7 @@ export default function CanBanksFreezeUPIAccountPage() {
             <div className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/resources" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
+              <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Can Banks Freeze UPI Accounts</span>
             </div>

@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules',
   },
   openGraph: {
-    title: 'How to Stop ECS Mandate for Loan: Salary Account Auto-Debit Cancellation Rules & Legal Defense',
-    description: 'Facing continuous salary draining from loan auto-debits? Discover your statutory right to stop ECS and NACH e-mandates under RBI directives and Section 7 of the Payment of Wages Act.',
+    title: 'Salary Account ECS Mandate Cancellation | SettleLoans',
+    description: 'Learn how to stop ECS and NACH auto-debit mandates on your salary account legally without falling into default traps with SettleLoans.',
     url: 'https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules',
     siteName: 'SettleLoans',
     images: [
@@ -76,8 +76,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-      title: 'How to Stop ECS Mandate for Loan: Salary Account Auto-Debit Cancellation Rules',
-    description: 'Learn how to revoke ECS and NACH mandates legally on your salary account. Understand RBI cancellation circulars, wage protections, and debt settlement strategies.',
+      title: 'Salary Account ECS Mandate Cancellation | SettleLoans',
+    description: 'Learn how to stop ECS and NACH auto-debit mandates on your salary account legally without falling into default traps with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/salary-account-ecs-mandate-cancellation-rules.jpg'],
   },
 };

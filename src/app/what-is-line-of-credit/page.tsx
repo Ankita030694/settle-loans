@@ -222,7 +222,7 @@ export default function WhatIsLineOfCredit() {
           <div className="text-xs md:text-sm text-[#747474] flex gap-2 items-center">
             <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
             <span className="text-gray-300">/</span>
-            <Link href="/blog" className="hover:text-[#1F5EFF] transition-colors">Blog</Link>
+            <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Blog</Link>
             <span className="text-gray-300">/</span>
             <span className="font-bold text-[#2E2E2E]">What is Line of Credit</span>
           </div>
@@ -472,7 +472,7 @@ export default function WhatIsLineOfCredit() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Topics</div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/personal-loan-vs-line-of-credit" className="group flex items-center text-sm font-semibold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/services/personal-loan-settlement" className="group flex items-center text-sm font-semibold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       LOC vs Personal Loan
                     </Link>

@@ -42,7 +42,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Services in Chennai | SettleLoans',
+  title: 'Personal Loan Settlement in Chennai | SettleLoans',
   description: 'Expert loan settlement services in Chennai and Tamil Nadu. Stop recovery harassment under RBI rules, defend against Egmore & George Town Section 138/25.',
   keywords: [
     'loan settlement services in chennai',
@@ -62,8 +62,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-chennai',
   },
   openGraph: {
-    title: 'Loan Settlement Services in Chennai: Legal Notice Defense & OTS Haircut (2026)',
-    description: 'Specialized legal defense and loan settlement services in Chennai. Learn how borrowers in Tamil Nadu negotiate 40%–65% One-Time Settlement (OTS) haircuts, counter local recovery agency intimidation, and secure RBI-compliant No Dues Certificates.',
+    title: 'Personal Loan Settlement in Chennai | SettleLoans',
+    description: 'Expert loan settlement services in Chennai and Tamil Nadu. Stop recovery harassment under RBI rules, defend against Egmore & George Town Section 138/25.',
     url: 'https://www.settleloans.in/personal-loan-settlement-chennai',
     siteName: 'SettleLoans',
     images: [
@@ -79,8 +79,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Services in Chennai: Legal Notice Defense & OTS Haircut',
-    description: 'Technical and legal manual for personal loan settlement in Chennai and Tamil Nadu. Advocate-led defense against Section 25 PSSA and Section 138 notices across George Town, Egmore, and Saidapet courts.',
+    title: 'Personal Loan Settlement in Chennai | SettleLoans',
+    description: 'Expert loan settlement services in Chennai and Tamil Nadu. Stop recovery harassment under RBI rules, defend against Egmore & George Town Section 138/25.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-chennai.jpg'],
   },
 };

@@ -580,7 +580,7 @@ export default function WhenToChooseSettlementPage() {
                                 <ul className="space-y-4">
                                     <li><Link href="/can-you-get-a-loan-again-after-settling-a-previous-loan" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Can You Loan Again?</Link></li>
                                     <li><Link href="/will-banks-blacklist-you-after-loan-settlement" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Will I be Blacklisted?</Link></li>
-                                    <li><Link href="/debt-restructuring-vs-settlement" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Restructuring Guide</Link></li>
+                                    <li><Link href="/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Restructuring Guide</Link></li>
                                 </ul>
                             </div>
                         </div>

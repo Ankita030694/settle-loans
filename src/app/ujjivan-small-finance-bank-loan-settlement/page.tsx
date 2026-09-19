@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/ujjivan-small-finance-bank-loan-settlement',
   },
   openGraph: {
-    title: 'Ujjivan Small Finance Bank Loan Settlement: Process, OTS Rules & Haircut (2026)',
-    description: 'Learn how to settle an Ujjivan Small Finance Bank personal loan, micro-loan, or MSE line. Master NPA provisioning mechanics, RBI anti-harassment safeguards for SFB borrowers, Credit Committee approval matrices, and step-by-step compromise settlement negotiation.',
+    title: 'Ujjivan Bank Loan Settlement Guide | SettleLoans',
+    description: 'Learn how to settle Ujjivan Small Finance Bank loans legally. Stop daily recovery calls and negotiate structured OTS via SettleLoans.',
     url: 'https://www.settleloans.in/ujjivan-small-finance-bank-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Ujjivan Small Finance Bank Loan Settlement: Process & Legal OTS Haircut',
-    description: 'Technical and legal manual for settling defaulted Ujjivan Small Finance Bank personal loans, group micro-finance credit, and retail MSE facilities under RBI compromise settlement frameworks.',
+    title: 'Ujjivan Bank Loan Settlement Guide | SettleLoans',
+    description: 'Learn how to settle Ujjivan Small Finance Bank loans legally. Stop daily recovery calls and negotiate structured OTS via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/ujjivan-small-finance-bank-loan-settlement.jpg'],
   },
 };

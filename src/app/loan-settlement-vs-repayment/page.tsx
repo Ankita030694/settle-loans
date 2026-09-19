@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Loan Settlement vs Repayment: Which is Better?',
+  description: 'Understand the critical differences between loan settlement and full repayment. Learn about the impact on CIBIL scores, future loan eligibility, and how to...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/loan-settlement-vs-repayment',
+  },
+  openGraph: {
+    title: 'Loan Settlement vs Repayment: Which is Better?',
+    description: 'Understand the critical differences between loan settlement and full repayment. Learn about the impact on CIBIL scores, future loan eligibility, and how to...',
+    url: 'https://www.settleloans.in/loan-settlement-vs-repayment',
+    type: "article",
+    images: ['https://www.settleloans.in/images/loan-settlement-vs-repayment.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Loan Settlement vs Repayment: Which is Better?',
+    description: 'Understand the critical differences between loan settlement and full repayment. Learn about the impact on CIBIL scores, future loan eligibility, and how to...',
+    images: ['https://www.settleloans.in/images/loan-settlement-vs-repayment.jpg'],
+  },
+};
 
 export default function LoanSettlementVsRepaymentPage() {
     const schemaData = {
@@ -226,7 +246,7 @@ export default function LoanSettlementVsRepaymentPage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/resources" className="hover:text-[#1F5EFF] transition-colors">Resources</Link></li>
+                                <li><Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Resources</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">Loan Settlement vs Repayment</li>
                             </ol>

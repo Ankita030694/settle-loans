@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process',
   },
   openGraph: {
-    title: 'MobiKwik ZIP Pay Later Default Settlement: Late Fee Waiver & CIBIL Resolution Guide',
-    description: 'Comprehensive legal and financial manual on settling defaulted MobiKwik ZIP Pay Later credit lines. Understand partner NBFC provisioning, late fee waivers, anti-harassment laws, and CIBIL rehabilitation.',
+    title: 'MobiKwik Zip Pay Later Settlement | SettleLoans',
+    description: 'Learn how to settle MobiKwik ZIP Pay Later debt legally. Stop penalty interest compounding and negotiate formal closure via SettleLoans.',
     url: 'https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'MobiKwik ZIP Settlement: Settle Default, Waive Late Fees & CIBIL Fix (2026)',
-    description: 'Strategic guide to settling defaulted MobiKwik ZIP Pay Later credit lines, waiving compounding penalty charges, and restoring credit scores under RBI compromise frameworks.',
+    title: 'MobiKwik Zip Pay Later Settlement | SettleLoans',
+    description: 'Learn how to settle MobiKwik ZIP Pay Later debt legally. Stop penalty interest compounding and negotiate formal closure via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/mobikwik-zip-pay-later-settlement-process.jpg'],
   },
 };

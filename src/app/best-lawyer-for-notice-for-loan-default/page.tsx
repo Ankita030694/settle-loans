@@ -705,8 +705,8 @@ export default function LoanDefaultNoticePage() {
                                 <div className="flex flex-col gap-4">
                                     {[
                                         { title: "DRT Case Defense", href: "/best-lawyer-for-drt-case-defence-for-bank-loan-recovery" },
-                                        { title: "Challenge Auction", href: "/how-to-stop-e-auction-by-bank" },
-                                        { title: "NPA Settlement", href: "/npa-loan-settlement-process" },
+                                        { title: "Challenge Auction", href: "/auction-notice-challenge" },
+                                        { title: "NPA Settlement", href: "/loan-settlement-process-in-india" },
                                         { title: "SARFAESI Act Guide", href: "/bad-loan-recovery-strategy" },
                                         { title: "Consortium Loans", href: "/best-lawyer-for-consortium-loan-recovery-defence" }
                                     ].map((page, i) => (

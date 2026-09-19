@@ -1,8 +1,28 @@
-"use client";
-
 import React from 'react';
+import type { Metadata } from "next";
 import Link from 'next/link';
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Unsecured Loan Settlement for NRIs in India',
+  description: 'A targeted resource for NRIs who took unsecured loans in India but are now facing job loss or financial hardship abroad. Understand the NRI loan default in...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/unsecured-loan-settlement-process-for-nris-in-india',
+  },
+  openGraph: {
+    title: 'Unsecured Loan Settlement for NRIs in India',
+    description: 'A targeted resource for NRIs who took unsecured loans in India but are now facing job loss or financial hardship abroad. Understand the NRI loan default in...',
+    url: 'https://www.settleloans.in/unsecured-loan-settlement-process-for-nris-in-india',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Unsecured Loan Settlement for NRIs in India',
+    description: 'A targeted resource for NRIs who took unsecured loans in India but are now facing job loss or financial hardship abroad. Understand the NRI loan default in...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function NRILoanSettlementPage() {
   const schema = {
@@ -72,7 +92,7 @@ export default function NRILoanSettlementPage() {
               Stuck abroad and unable to pay your Indian bank loan? Understand the legalities, logistics, and how to settle your unsecured debt without flying back to India.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-              <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+              <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                 Get Expert NRI Assistance Today
               </Link>
             </div>
@@ -86,7 +106,7 @@ export default function NRILoanSettlementPage() {
               <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                 <li><span className="text-gray-300">/</span></li>
-                <li><Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
+                <li><Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
                 <li><span className="text-gray-300">/</span></li>
                 <li className="font-bold text-[#2E2E2E]" aria-current="page">NRI Loan Settlement Process</li>
               </ol>
@@ -382,7 +402,7 @@ export default function NRILoanSettlementPage() {
                <p className="text-xl opacity-80 mb-10 max-w-2xl mx-auto">
                  Our expert negotiators can legally represent you and settle your debt without you flying back.
                </p>
-               <Link href="/contact-us" className="inline-block bg-[#1F5EFF] text-white font-black py-5 px-12 rounded-2xl hover:scale-105 transition-all text-xl shadow-2xl">
+               <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-black py-5 px-12 rounded-2xl hover:scale-105 transition-all text-xl shadow-2xl">
                  Get Your Free NRI Consultation
                </Link>
             </div>
@@ -400,7 +420,7 @@ export default function NRILoanSettlementPage() {
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                   <div className="text-2xl font-black mb-4 relative z-10">NRI Settlement Support</div>
                   <p className="text-white/70 text-sm mb-6 relative z-10">Don't let distance stop you from finding financial peace. Let our experts handle the banks in India.</p>
-                  <Link href="/contact-us" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:bg-[#1F5EFF]/90 transition-colors shadow-lg">Consult Now</Link>
+                  <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:bg-[#1F5EFF]/90 transition-colors shadow-lg">Consult Now</Link>
                </div>
 
                <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
@@ -413,19 +433,19 @@ export default function NRILoanSettlementPage() {
                         </Link>
                      </li>
                       <li>
-                        <Link href="/services/cibil-repair" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">
+                        <Link href="/credit-score-improvement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">
                           <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                           CIBIL Repair Services
                         </Link>
                      </li>
                       <li>
-                        <Link href="/blog/credit-card-default" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">
+                        <Link href="/legal-action-for-credit-card-default" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">
                           <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                           Credit Card Default Guide
                         </Link>
                      </li>
                      <li>
-                        <Link href="/faq" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">
+                        <Link href="/all-queries" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">
                           <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                           General FAQs
                         </Link>

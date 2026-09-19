@@ -182,7 +182,7 @@ export default function CheckFreeCibilScorePage() {
             <p className="text-xs md:text-sm text-[#747474]">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300 mx-2">/</span>
-              <Link href="/credit-education" className="hover:text-[#1F5EFF] transition-colors">Credit Education</Link>
+              <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Credit Education</Link>
               <span className="text-gray-300 mx-2">/</span>
               <span className="font-bold text-[#2E2E2E]">Check Free CIBIL Score</span>
             </p>
@@ -431,7 +431,7 @@ export default function CheckFreeCibilScorePage() {
                 <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
                   Have defaults, late payments, or settlement remarks ruining your CIBIL score? Let our legal experts help you remove negative marks legally.
                 </p>
-                <Link href="/contact-us" className="inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-full hover:scale-105 transition-transform text-lg shadow-[0_0_20px_rgba(31,94,255,0.4)]">
+                <Link href="/contact" className="inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-full hover:scale-105 transition-transform text-lg shadow-[0_0_20px_rgba(31,94,255,0.4)]">
                   Consult a Credit Expert
                 </Link>
               </div>
@@ -456,7 +456,7 @@ export default function CheckFreeCibilScorePage() {
                 <div className="relative z-10">
                   <div className="text-xl font-black mb-3">Credit Score Below 700?</div>
                   <p className="text-sm text-gray-300 mb-6">Learn how to remove negative remarks and settlements.</p>
-                  <Link href="/credit-repair" className="inline-block w-full bg-[#1F5EFF] text-white text-sm font-bold py-3 px-4 rounded-xl hover:bg-blue-600 transition-colors">
+                  <Link href="/credit-score-improvement" className="inline-block w-full bg-[#1F5EFF] text-white text-sm font-bold py-3 px-4 rounded-xl hover:bg-blue-600 transition-colors">
                     Repair My Credit
                   </Link>
                 </div>

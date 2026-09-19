@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementMumbaiClient from './PersonalLoanSettlementMumbaiClient';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Services in Mumbai | SettleLoans',
+  title: 'Personal Loan Settlement in Mumbai | SettleLoans',
   description: 'Struggling with personal loan default, recovery agent harassment, or court summons in Mumbai, Thane, or Navi Mumbai? Get premier loan settlement services.',
   keywords: [
     'loan settlement services in mumbai',
@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-mumbai',
   },
   openGraph: {
-    title: 'Loan Settlement Services in Mumbai: Court Defense & Debt Relief',
-    description: 'Expert legal defense and One-Time Settlement (OTS) representation for salaried professionals and business owners facing loan defaults across Mumbai, Thane, and Navi Mumbai.',
+    title: 'Personal Loan Settlement in Mumbai | SettleLoans',
+    description: 'Struggling with personal loan default, recovery agent harassment, or court summons in Mumbai, Thane, or Navi Mumbai? Get premier loan settlement services.',
     url: 'https://www.settleloans.in/personal-loan-settlement-mumbai',
     siteName: 'SettleLoans',
     images: [
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Services in Mumbai: Legal Defense & Lok Adalat Guide',
-    description: 'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, Lok Adalat compromise decrees, and anti-harassment injunctions across Mumbai MMR.',
+    title: 'Personal Loan Settlement in Mumbai | SettleLoans',
+    description: 'Struggling with personal loan default, recovery agent harassment, or court summons in Mumbai, Thane, or Navi Mumbai? Get premier loan settlement services.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-mumbai.jpg'],
   },
 };

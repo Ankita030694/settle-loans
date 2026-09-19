@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/section-25-pssa-notice-loan-default',
   },
   openGraph: {
-    title: 'Section 25 PSSA Notice for Loan Default: Legal Rights & Settlement Guide',
-    description: 'Comprehensive legal breakdown for borrowers facing a Section 25 PSSA notice following an electronic NACH or auto-debit EMI bounce. Learn how to respond within 15 days, prevent magistrate warrants, and settle the debt.',
+    title: 'Section 25 PSSA Notice for Loan Default | SettleLoans',
+    description: 'Received a Section 25 Payment and Settlement Systems Act notice for NACH auto-debit bounce? Learn borrower legal rights, 15-day reply protocol.',
     url: 'https://www.settleloans.in/section-25-pssa-notice-loan-default',
     siteName: 'SettleLoans',
     images: [
@@ -67,8 +67,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Section 25 PSSA Notice for Loan Default: Borrower Rights & Legal Defense',
-    description: 'Received a criminal notice under Section 25 of the Payment and Settlement Systems Act? Discover why NACH bounce is not intentional fraud and how an advocate-drafted reply stops prosecution.',
+    title: 'Section 25 PSSA Notice for Loan Default | SettleLoans',
+    description: 'Received a Section 25 Payment and Settlement Systems Act notice for NACH auto-debit bounce? Learn borrower legal rights, 15-day reply protocol.',
     images: ['https://www.settleloans.in/images/infographics/section-25-pssa-notice-loan-default.jpg'],
   },
 };
@@ -1031,7 +1031,7 @@ export default function Page() {
                     Lok Adalat Loan Notice
                   </Link>
                   <Link
-                    href="/how-to-stop-recovery-agents"
+                    href="/how-to-stop-loan-recovery-harassment"
                     className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                   >
                     Stop Recovery Agents

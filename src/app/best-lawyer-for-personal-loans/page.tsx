@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faCheckCircle, faShieldAlt, faBalanceScale, faGavel, faHandHoldingUsd } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Best Lawyer for Personal Loan Settlement India',
+  description: 'Expert legal representation for personal loan disputes, RBI harassment defense, and a debt settlement strategies. Rank #1 legal counsel for borrowers in India.',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-personal-loans',
+  },
+  openGraph: {
+    title: 'Best Lawyer for Personal Loan Settlement India',
+    description: 'Expert legal representation for personal loan disputes, RBI harassment defense, and a debt settlement strategies. Rank #1 legal counsel for borrowers in India.',
+    url: 'https://www.settleloans.in/best-lawyer-for-personal-loans',
+    type: "article",
+    images: ['https://www.settleloans.in/images/personal-loan-dispute.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Best Lawyer for Personal Loan Settlement India',
+    description: 'Expert legal representation for personal loan disputes, RBI harassment defense, and a debt settlement strategies. Rank #1 legal counsel for borrowers in India.',
+    images: ['https://www.settleloans.in/images/personal-loan-dispute.jpg'],
+  },
+};
 
 export default function PersonalLoanLawyerPage() {
     const jsonLd = {
@@ -120,7 +140,7 @@ export default function PersonalLoanLawyerPage() {
                             Are you overwhelmed by personal loan debt or facing aggressive recovery agents? We provide specialized legal defense to protect your dignity and financial future.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-[12px] hover:scale-110 transition-all duration-300 text-lg shadow-xl hover:shadow-[#1F5EFF]/20">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-[12px] hover:scale-110 transition-all duration-300 text-lg shadow-xl hover:shadow-[#1F5EFF]/20">
                                 Get Legal Help Now
                             </Link>
                         </div>
@@ -446,7 +466,7 @@ export default function PersonalLoanLawyerPage() {
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-6 rounded-xl hover:scale-105 transition-all shadow-lg text-lg">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-6 rounded-xl hover:scale-105 transition-all shadow-lg text-lg">
                                         Get Your Free Consultation
                                     </Link>
                                 </div>
@@ -467,7 +487,7 @@ export default function PersonalLoanLawyerPage() {
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
                                         Do not carry the burden alone. Let our experts find the best path for your debt-free life.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-3 px-4 rounded-[10px] hover:scale-105 transition-all shadow-md group-hover:shadow-lg">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-3 px-4 rounded-[10px] hover:scale-105 transition-all shadow-md group-hover:shadow-lg">
                                         Talk to an Expert
                                     </Link>
                                     <p className="mt-4 text-xs text-[#DEDEDE]/60 uppercase tracking-widest font-black">100% Confidential</p>
@@ -479,7 +499,7 @@ export default function PersonalLoanLawyerPage() {
                                 <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
-                                        <Link href="/harassment-by-recovery-agents" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                                        <Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                                             <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
                                             Stopping Agents
                                         </Link>

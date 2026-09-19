@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Improve CIBIL Score After Loan Settlement Guide',
+  description: "Learn the exact steps to rebuild your credit score after a loan settlement. Discover how to convert 'Settled' to 'Closed' and boost your CIBIL rating...",
+  alternates: {
+    canonical: 'https://www.settleloans.in/how-to-improve-cibil-score-after-loan-settlement',
+  },
+  openGraph: {
+    title: 'Improve CIBIL Score After Loan Settlement Guide',
+    description: "Learn the exact steps to rebuild your credit score after a loan settlement. Discover how to convert 'Settled' to 'Closed' and boost your CIBIL rating...",
+    url: 'https://www.settleloans.in/how-to-improve-cibil-score-after-loan-settlement',
+    type: "article",
+    images: ['https://www.settleloans.in/images/improve-cibil-after-settlement.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Improve CIBIL Score After Loan Settlement Guide',
+    description: "Learn the exact steps to rebuild your credit score after a loan settlement. Discover how to convert 'Settled' to 'Closed' and boost your CIBIL rating...",
+    images: ['https://www.settleloans.in/images/improve-cibil-after-settlement.jpg'],
+  },
+};
 
 export default function ImproveCibilAfterSettlementPage() {
     const schemaData = {

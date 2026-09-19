@@ -519,7 +519,7 @@ export default function RetailLoanPage() {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/personal-loan-settlement" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                                        <Link href="/services/personal-loan-settlement" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                                             <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                                             Personal Loan Settlement
                                         </Link>

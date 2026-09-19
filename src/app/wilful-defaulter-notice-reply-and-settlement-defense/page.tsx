@@ -54,8 +54,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense',
   },
   openGraph: {
-    title: 'Wilful Defaulter Notice Reply & Settlement Defense: RBI Rules & Legal Guide',
-    description: 'Received a bank Wilful Defaulter show-cause notice? Learn how advocates challenge Identification Committees, invoke the 21-day representation window, contest forensic audits, and secure a binding compromise OTS.',
+    title: 'Wilful Defaulter Notice Reply Defense | SettleLoans',
+    description: 'Received a wilful defaulter identification notice? Learn how to submit a 21-day legal representation and settle debt with SettleLoans.',
     url: 'https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense',
     siteName: 'SettleLoans',
     images: [
@@ -71,8 +71,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Wilful Defaulter Notice Reply & Settlement Defense: RBI Legal Guide',
-    description: 'Expert advocate guide on responding to Wilful Defaulter notices, GRC personal hearings, 21-day statutory representations, and structuring bank compromise settlements.',
+    title: 'Wilful Defaulter Notice Reply Defense | SettleLoans',
+    description: 'Received a wilful defaulter identification notice? Learn how to submit a 21-day legal representation and settle debt with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/wilful-defaulter-notice-reply-and-settlement-defense.jpg'],
   },
 };

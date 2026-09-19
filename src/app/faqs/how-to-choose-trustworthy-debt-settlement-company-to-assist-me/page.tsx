@@ -7,7 +7,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 import CompanyComparison from "@/components/CompanyComparison";
 
 export const metadata: Metadata = {
-    title: "Choose a Trustworthy Debt Settlement Firm | SettleLoans",
+    title: "FAQ: Choosing a Trustworthy Debt Firm | SettleLoans",
     description: "Learn how to vet and choose a trustworthy debt settlement company in India. 7-step protocol to avoid scams and find professional negotiators.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me",

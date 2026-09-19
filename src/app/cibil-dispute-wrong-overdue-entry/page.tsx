@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/cibil-dispute-wrong-overdue-entry',
   },
   openGraph: {
-    title: 'How to Raise CIBIL Dispute for Wrong Overdue Entry? Step-by-Step Legal Guide',
+    title: 'How to Raise CIBIL Dispute for Wrong Entry | SettleLoans',
     description: 'Master the official CIBIL dispute resolution framework for paid loans showing overdue, wrong DPD strings, and fraudulent PAN loans under RBI guidelines.',
     url: 'https://www.settleloans.in/cibil-dispute-wrong-overdue-entry',
     siteName: 'SettleLoans',
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Raise CIBIL Dispute for Wrong Entry? RBI & CICRA Resolution Guide',
+    title: 'How to Raise CIBIL Dispute for Wrong Entry | SettleLoans',
     description: 'Step-by-step guide to removing erroneous overdue records, correcting paid loan statuses, and clearing fraudulent PAN loans from TransUnion CIBIL.',
     images: ['https://www.settleloans.in/images/infographics/cibil-dispute-wrong-overdue-entry.jpg'],
   },

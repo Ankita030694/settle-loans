@@ -171,7 +171,7 @@ export default function AssetAttachmentPage() {
           <div className="max-w-7xl mx-auto py-3 px-4 md:px-8 lg:px-16 text-xs md:text-sm text-[#747474] flex items-center space-x-2">
             <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
             <span className="text-gray-300">/</span>
-            <Link href="/legal-guides" className="hover:text-[#1F5EFF] transition-colors">Legal Guides</Link>
+            <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Legal Guides</Link>
             <span className="text-gray-300">/</span>
             <span className="font-bold text-[#2E2E2E]">Asset Attachment: Mutual Funds & Demat</span>
           </div>
@@ -449,25 +449,25 @@ export default function AssetAttachmentPage() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/sarfaesi-act-guidelines" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
+                    <Link href="/auction-notice-challenge" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       SARFAESI Act Guidelines
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-settle-personal-loan" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
+                    <Link href="/faqs/how-to-settle-loan" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       How to Settle a Personal Loan
                     </Link>
                   </li>
                   <li>
-                    <Link href="/dealing-with-recovery-agents" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
+                    <Link href="/ignoring-calls-of-recovery-agent" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Dealing with Recovery Agents
                     </Link>
                   </li>
                   <li>
-                    <Link href="/credit-card-default-legal-action" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
+                    <Link href="/credit-card-partial-payment" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Credit Card Default Legal Action
                     </Link>

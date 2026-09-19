@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'No Dues Certificate After Loan Settlement | SettleLoans',
-    description: 'A complete step-by-step procedural manual on obtaining, verifying, and legally enforcing a No Dues Certificate (NDC) post loan settlement. Avoid fraud, claim delayed compensation, and update CIBIL.',
+    description: 'Paid your loan settlement? Learn how to get and verify an authentic No Dues Certificate (NDC/NOC), RBI 30-day rules, ₹5, 000/day compensation penalty.',
     url: 'https://www.settleloans.in/no-dues-certificate-after-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'No Dues Certificate After Loan Settlement | SettleLoans',
-    description: 'Essential post-settlement legal guide: How to verify your bank NDC, hold lenders accountable under RBI Circular RBI/2023-24/60, and ensure complete debt extinguishment.',
+    description: 'Paid your loan settlement? Learn how to get and verify an authentic No Dues Certificate (NDC/NOC), RBI 30-day rules, ₹5, 000/day compensation penalty.',
     images: ['https://www.settleloans.in/images/infographics/no-dues-certificate-after-loan-settlement.jpg'],
   },
 };

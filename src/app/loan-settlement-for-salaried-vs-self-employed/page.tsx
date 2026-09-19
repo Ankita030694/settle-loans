@@ -62,8 +62,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed',
   },
   openGraph: {
-    title: 'Loan Settlement for Salaried vs Self-Employed: Rules, Strategy & Proof',
-    description: 'How bank credit committees evaluate salaried professionals vs business owners during One-Time Settlement (OTS). Discover key documentation, legal shields, and haircut strategies.',
+    title: 'Loan Settlement: Salaried vs Self-Employed | SettleLoans',
+    description: 'Understand loan settlement rules for salaried individuals vs self-employed business owners. Compare documentation, Section 60 CPC protections.',
     url: 'https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed',
     siteName: 'SettleLoans',
     images: [
@@ -79,7 +79,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement for Salaried vs Self-Employed: Rules & Strategies',
+    title: 'Loan Settlement: Salaried vs Self-Employed | SettleLoans',
     description: 'Learn how salaried employees and self-employed proprietors navigate bank OTS negotiations differently to secure 45% to 70% principal waivers.',
     images: ['https://www.settleloans.in/images/infographics/loan-settlement-for-salaried-vs-self-employed.jpg'],
   },

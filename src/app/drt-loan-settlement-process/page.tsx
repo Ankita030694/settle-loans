@@ -57,7 +57,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'DRT Loan Settlement Process in India | SettleLoans',
-    description: 'Received a DRT summons or OA notice for debt over ₹20 Lakhs? Discover how advocates challenge bank claims, file interim stays, and negotiate a binding DRT-supervised One Time Settlement.',
+    description: 'Master the DRT loan settlement process in India for debts exceeding ₹20 Lakhs. Learn how to contest bank Original Applications (OA).',
     url: 'https://www.settleloans.in/drt-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'DRT Loan Settlement Process: OA Defense & DRT-Supervised OTS Guide',
+    title: 'DRT Loan Settlement Process in India | SettleLoans',
     description: 'Expert advocate guide on contesting DRT Original Applications, filing stay petitions, and securing a compromised One Time Settlement for loans over ₹20 Lakhs.',
     images: ['https://www.settleloans.in/images/infographics/drt-loan-settlement-process.jpg'],
   },

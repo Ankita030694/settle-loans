@@ -21,9 +21,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/how-to-avoid-loan-settlement-scams',
   },
   openGraph: {
-    title: 'How to Identify Fake Loan Settlement Companies & Avoid OTS Scams (2026)',
+    title: 'Identify Fake Loan Settlement Companies | SettleLoans',
     description:
-      'Exhaustive investigative guide on identifying fake loan settlement companies in India. Learn the 7 fraud red flags, forensic OTS letter verification checklist, and safe debt resolution protocols.',
+      'Worried about loan settlement fraud? Learn how to identify fake loan settlement companies, spot upfront fee scams, verify authentic bank OTS letters.',
     url: 'https://www.settleloans.in/how-to-avoid-loan-settlement-scams',
     siteName: 'SettleLoans',
     images: [
@@ -39,9 +39,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Avoid Loan Settlement Scams & Identify Fake Agencies in India',
+    title: 'Identify Fake Loan Settlement Companies | SettleLoans',
     description:
-      'Terrified of paying upfront fees and getting scammed? Discover how to spot fake debt settlement companies, verify bank sanction letters, and choose ethical legal representation.',
+      'Worried about loan settlement fraud? Learn how to identify fake loan settlement companies, spot upfront fee scams, verify authentic bank OTS letters.',
     images: ['https://www.settleloans.in/images/infographics/how-to-avoid-loan-settlement-scams.jpg'],
   },
 };

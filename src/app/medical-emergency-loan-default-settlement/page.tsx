@@ -57,7 +57,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Medical Emergency Loan Default Settlement Guide",
-    description: "Comprehensive legal and financial manual on settling defaulted personal loans following critical illnesses, surgeries, or prolonged hospitalization in India. Discover how hospital discharge summaries and medical bills serve as irrefutable legal evidence for bank OTS committees.",
+    description: "Learn how to settle personal loans and credit cards after critical illness or hospitalization in India. Get expert legal help to settle your debt for less.",
     url: "https://www.settleloans.in/medical-emergency-loan-default-settlement",
     siteName: "SettleLoans",
     images: [
@@ -73,8 +73,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Medical Emergency Loan Default Settlement Guide: Settle Debt on Compassionate Grounds",
-    description: "Strategic legal guide for borrowers facing loan defaults after catastrophic medical emergencies. Learn how to present medical hardship dossiers, invoke RBI compromise settlement norms, and negotiate 50%–75% debt haircuts.",
+    title: "Medical Emergency Loan Default Settlement Guide",
+    description: "Learn how to settle personal loans and credit cards after critical illness or hospitalization in India. Get expert legal help to settle your debt for less.",
     images: ["https://www.settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg"],
   },
 };

@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-raipur',
   },
   openGraph: {
-    title: 'Debt Settlement Services in Raipur Chhattisgarh: Settle Personal & Business Loans (2026)',
-    description: 'Comprehensive legal and financial guide for resolving delinquent personal loans, credit card balances, and business credit lines in Raipur, Bhilai, and Bilaspur under RBI compromise settlement frameworks.',
+    title: 'Personal Loan Settlement in Raipur | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Raipur. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-raipur',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Debt Settlement Services in Raipur Chhattisgarh: Legal Loan Settlement Guide',
-    description: 'Strategic legal defense against aggressive recovery agents, Section 138 NI Act notices, and Lok Adalat compromise settlements for Raipur, Bhilai, and Bilaspur borrowers.',
+    title: 'Personal Loan Settlement in Raipur | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Raipur. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-raipur.jpg'],
   },
 };

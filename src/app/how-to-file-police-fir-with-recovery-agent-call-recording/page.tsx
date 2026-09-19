@@ -63,8 +63,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording',
   },
   openGraph: {
-    title: 'How to File Police FIR with Recovery Agent Call Recording: Section 63 BSA / 65B Guide',
-    description: 'Convert recorded audio evidence into decisive legal action. Learn how to draft a Section 63 BSA certificate, register a police FIR against abusive recovery agents, and enforce RBI compliance.',
+    title: 'File Police FIR for Recovery Harassment | SettleLoans',
+    description: 'How to file a police FIR using recovery agent call recordings. Ensure electronic evidence compliance under Section 63 BSA with SettleLoans.',
     url: 'https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording',
     siteName: 'SettleLoans',
     images: [
@@ -80,7 +80,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to File Police FIR with Recovery Agent Call Recording: Section 63 BSA / 65B Guide',
+    title: 'File Police FIR for Recovery Harassment | SettleLoans',
     description: 'Turn abusive debt recovery audio recordings into actionable criminal FIRs. Master electronic certification under Section 63 BSA and Section 65B Evidence Act.',
     images: ['https://www.settleloans.in/images/infographics/how-to-file-police-fir-with-recovery-agent-call-recording.jpg'],
   },

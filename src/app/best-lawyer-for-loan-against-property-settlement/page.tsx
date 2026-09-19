@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faHome, faBuilding, faCalendarAlt, faScaleBalanced, faInfoCircle, faCertificate, faUserShield, faHandHoldingUsd } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Lawyer for Loan Against Property Settlement',
+  description: 'Expert legal representation for Loan Against Property (LAP) settlements. Defend against SARFAESI Act, stop property auctions, and negotiate OTS with banks....',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement',
+  },
+  openGraph: {
+    title: 'Lawyer for Loan Against Property Settlement',
+    description: 'Expert legal representation for Loan Against Property (LAP) settlements. Defend against SARFAESI Act, stop property auctions, and negotiate OTS with banks....',
+    url: 'https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Lawyer for Loan Against Property Settlement',
+    description: 'Expert legal representation for Loan Against Property (LAP) settlements. Defend against SARFAESI Act, stop property auctions, and negotiate OTS with banks....',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function LAPSettlementPage() {
     const jsonLd = {

@@ -151,7 +151,7 @@ export default function WorkplaceHarassmentPage() {
           <div className="max-w-7xl mx-auto px-4 md:px-8 py-4 flex items-center gap-2 text-xs md:text-sm text-[#747474]">
             <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
             <span className="text-gray-300">/</span>
-            <Link href="/legal-rights" className="hover:text-[#1F5EFF] transition-colors">Legal Rights</Link>
+            <Link href="/how-to-stop-loan-recovery-harassment" className="hover:text-[#1F5EFF] transition-colors">Legal Rights</Link>
             <span className="text-gray-300">/</span>
             <span className="font-bold text-[#2E2E2E]">Recovery Agents Contacting Employer</span>
           </div>
@@ -429,25 +429,25 @@ export default function WorkplaceHarassmentPage() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/rbi-guidelines-for-loan-recovery-agents" className="flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] group">
+                    <Link href="/rbi-rules-for-recovery-agents" className="flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Guidelines Explained
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-deal-with-loan-recovery-agents" className="flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] group">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Dealing with Harassment
                     </Link>
                   </li>
                   <li>
-                    <Link href="/personal-loan-settlement-process" className="flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] group">
+                    <Link href="/services/personal-loan-settlement" className="flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Settle Your Loan Legally
                     </Link>
                   </li>
                   <li>
-                    <Link href="/defamation-by-recovery-agents" className="flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] group">
+                    <Link href="/how-to-identify-fake-recovery-agents" className="flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Filing Defamation Cases
                     </Link>

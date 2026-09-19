@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad',
   },
   openGraph: {
-    title: 'CIBIL Score Kaise Sudhare Settlement Ke Baad: 550 to 750+ Blueprint (2026)',
-    description: 'Master the exact roadmap to repair your credit score after loan settlement. Learn how to convert Settled to Closed status, leverage FD-backed secured cards, and eliminate negative flags under CICRA 2005 rules.',
+    title: 'CIBIL Score Kaise Sudhare Settlement Ke Baad | SettleLoans',
+    description: 'Loan settlement ke baad CIBIL score kaise sudhare? Complete legal and financial guide on converting Settled status to Closed, secured credit cards.',
     url: 'https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'CIBIL Score Kaise Sudhare Settlement Ke Baad (550 to 750+ Guide)',
+    title: 'CIBIL Score Kaise Sudhare Settlement Ke Baad | SettleLoans',
     description: 'Step-by-step credit rebuilding protocol: audit No Dues Certificates, rectify bureau errors, and transition Settled remarks to Closed status.',
     images: ['https://www.settleloans.in/images/infographics/cibil-score-kaise-sudhare-settlement-ke-baad.jpg'],
   },
@@ -1128,7 +1128,7 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                   Settlement vs Loan Closure
                 </Link>
                 <Link
-                  href="/credit-card-settlement-process-india"
+                  href="/services/credit-card-settlement"
                   className="text-xs font-semibold py-1.5 px-3 rounded-xl bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 transition-colors border border-slate-200"
                 >
                   Credit Card Settlement Guide

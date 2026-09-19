@@ -53,9 +53,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-nashik',
   },
   openGraph: {
-    title: 'Loan Settlement Services in Nashik: Legal Defense & 40%–70% OTS',
+    title: 'Personal Loan Settlement in Nashik | SettleLoans',
     description:
-      'Advocate-led personal loan and business debt settlement in Nashik for auto-ancillary engineers, wine/agro-business owners, and salaried professionals across North Maharashtra.',
+      'Learn how to settle personal loans legally in Nashik. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-nashik',
     siteName: 'SettleLoans',
     images: [
@@ -71,9 +71,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Services in Nashik: Legal Defense & Lok Adalat Guide',
+    title: 'Personal Loan Settlement in Nashik | SettleLoans',
     description:
-      'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, DLSA Nashik Lok Adalat compromise decrees, and anti-harassment shielding in Nashik.',
+      'Learn how to settle personal loans legally in Nashik. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-nashik.jpg'],
   },
 };

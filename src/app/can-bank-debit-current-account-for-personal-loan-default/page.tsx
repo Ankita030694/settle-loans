@@ -61,8 +61,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default',
   },
   openGraph: {
-    title: 'Can Bank Freeze Current Account for Personal Loan Default? Legal Entity Protection & Unfreeze Guide',
-    description: 'Learn how Indian corporate jurisprudence and the Doctrine of Mutuality protect business current accounts from unauthorized bank debits and freezes stemming from individual personal loan defaults.',
+    title: 'Can Bank Debit Current Account for Loan? | SettleLoans',
+    description: 'Can banks debit your current account for personal loan default? Understand banker lien rights and legal protections with SettleLoans.',
     url: 'https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default',
     siteName: 'SettleLoans',
     images: [
@@ -78,8 +78,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Can Bank Freeze Current Account for Personal Loan Default? Legal Entity Protection & Unfreeze Guide',
-    description: 'Facing a sudden freeze on your business current account due to an individual personal loan default? Discover your legal rights under Indian banking law, High Court precedents, and RBI guidelines.',
+    title: 'Can Bank Debit Current Account for Loan? | SettleLoans',
+    description: 'Can banks debit your current account for personal loan default? Understand banker lien rights and legal protections with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/can-bank-debit-current-account-for-personal-loan-default.jpg'],
   },
 };

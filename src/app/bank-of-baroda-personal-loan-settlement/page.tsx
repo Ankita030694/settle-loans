@@ -61,8 +61,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bank-of-baroda-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Bank of Baroda Personal Loan Settlement: SARB Process, OTS Rules & Haircut Matrix (2026)',
-    description: 'Learn how to settle an unsecured personal loan with Bank of Baroda. Understand SARB branch escalation, Zonal Committee delegation of financial powers, NPA provisioning write-offs, Lok Adalat conciliation, and RBI compromise settlement frameworks.',
+    title: 'Bank of Baroda Personal Loan Settlement | SettleLoans',
+    description: 'Exhaustive legal guide to Bank of Baroda personal loan settlement. Master BOB Stressed Assets Recovery Branch (SARB) procedures.',
     url: 'https://www.settleloans.in/bank-of-baroda-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -78,8 +78,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bank of Baroda Personal Loan Settlement: SARB Process, OTS Rules & Haircut Matrix',
-    description: 'Technical and legal manual for settling defaulted Bank of Baroda personal loans under RBI Compromise Settlement frameworks, SARB desks, and Lok Adalat conciliation.',
+    title: 'Bank of Baroda Personal Loan Settlement | SettleLoans',
+    description: 'Exhaustive legal guide to Bank of Baroda personal loan settlement. Master BOB Stressed Assets Recovery Branch (SARB) procedures.',
     images: ['https://www.settleloans.in/images/infographics/bank-of-baroda-personal-loan-settlement.jpg'],
   },
 };

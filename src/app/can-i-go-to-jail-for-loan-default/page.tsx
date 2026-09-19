@@ -2,14 +2,14 @@ import { Metadata } from 'next';
 import CanIGoToJailForLoanDefaultClient from './CanIGoToJailForLoanDefaultClient';
 
 export const metadata: Metadata = {
-  title: 'Can I Go to Jail for Loan Default in India? | SettleLoans',
+  title: 'Can You Go to Jail for Loan Default? | SettleLoans',
   description: 'Terrified of going to jail for personal loan default in India? Discover the legal reality: Civil debt vs criminal fraud, Supreme Court protections.',
   alternates: {
     canonical: 'https://www.settleloans.in/can-i-go-to-jail-for-loan-default',
   },
   openGraph: {
-    title: 'Can I Go to Jail for Loan Default in India? Legal Reality & Borrower Protection Guide',
-    description: 'Stop living in fear of arrest. Learn why personal loan default is a civil breach of contract in India, how Supreme Court rulings protect honest borrowers, and how to settle debts safely.',
+    title: 'Can You Go to Jail for Loan Default? | SettleLoans',
+    description: 'Terrified of going to jail for personal loan default in India? Discover the legal reality: Civil debt vs criminal fraud, Supreme Court protections.',
     url: 'https://www.settleloans.in/can-i-go-to-jail-for-loan-default',
     siteName: 'SettleLoans',
     images: [
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Can I Go to Jail for Personal Loan Default in India? (2026 Legal Reality)',
-    description: 'Definitive legal guide for distressed loan borrowers: Civil liability vs criminal fraud, RBI fair practice codes, Section 138 defense, and One-Time Settlement (OTS) options.',
+    title: 'Can You Go to Jail for Loan Default? | SettleLoans',
+    description: 'Terrified of going to jail for personal loan default in India? Discover the legal reality: Civil debt vs criminal fraud, Supreme Court protections.',
     images: ['https://www.settleloans.in/images/infographics/can-i-go-to-jail-for-loan-default.jpg'],
   },
 };

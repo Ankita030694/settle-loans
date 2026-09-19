@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Lawyer for DRT Account Documents & Defense',
+  description: "Expert legal defense in DRT cases through specialized bank statement audits. Challenge interest calculations, Bankers' Books Evidence Act certification, and...",
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-account-documents-drt',
+  },
+  openGraph: {
+    title: 'Lawyer for DRT Account Documents & Defense',
+    description: "Expert legal defense in DRT cases through specialized bank statement audits. Challenge interest calculations, Bankers' Books Evidence Act certification, and...",
+    url: 'https://www.settleloans.in/best-lawyer-for-account-documents-drt',
+    type: "article",
+    images: ['https://www.settleloans.in/images/drt-account-docs.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Lawyer for DRT Account Documents & Defense',
+    description: "Expert legal defense in DRT cases through specialized bank statement audits. Challenge interest calculations, Bankers' Books Evidence Act certification, and...",
+    images: ['https://www.settleloans.in/images/drt-account-docs.jpg'],
+  },
+};
 
 export default function DrtAccountDocumentsPage() {
     const schemaData = {
@@ -121,7 +141,7 @@ export default function DrtAccountDocumentsPage() {
                             Specialized forensic legal defense through rigorous audit of bank statements, Bankers' Books Evidence Act compliance, and hidden charge detection.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Audit My Statements
                             </Link>
                         </div>
@@ -135,7 +155,7 @@ export default function DrtAccountDocumentsPage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
+                                <li><Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">DRT Account Documents</li>
                             </ol>
@@ -443,7 +463,7 @@ export default function DrtAccountDocumentsPage() {
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Don't settle for the bank's numbers. Our forensic audit can save you lakhs in wrongful interest charges.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
                                         Start Forensic Audit
                                     </Link>
                                     <p className="mt-6 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.3em] font-black">Forensic Specialists</p>

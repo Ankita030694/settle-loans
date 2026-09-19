@@ -194,7 +194,7 @@ export default function Page() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Legal Services</Link>
+              <Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Legal Services</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">SARFAESI Act NBFC Notice</span>
             </div>
@@ -463,25 +463,25 @@ export default function Page() {
               </div>
               <ul className="space-y-4">
                 <li>
-                  <Link href="/npa-account-regularisation" className="flex items-center text-gray-700 hover:text-[#1F5EFF] text-sm font-medium group transition-colors">
+                  <Link href="/loan-npa-status" className="flex items-center text-gray-700 hover:text-[#1F5EFF] text-sm font-medium group transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     NPA Account Regularisation
                   </Link>
                 </li>
                 <li>
-                  <Link href="/drt-stay-order-process" className="flex items-center text-gray-700 hover:text-[#1F5EFF] text-sm font-medium group transition-colors">
+                  <Link href="/auction-notice-challenge" className="flex items-center text-gray-700 hover:text-[#1F5EFF] text-sm font-medium group transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     DRT Stay Order Process
                   </Link>
                 </li>
                 <li>
-                  <Link href="/home-loan-one-time-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] text-sm font-medium group transition-colors">
+                  <Link href="/loan-settlement-process-in-india" className="flex items-center text-gray-700 hover:text-[#1F5EFF] text-sm font-medium group transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     Home Loan OTS Guide
                   </Link>
                 </li>
                 <li>
-                  <Link href="/symbolic-vs-physical-possession" className="flex items-center text-gray-700 hover:text-[#1F5EFF] text-sm font-medium group transition-colors">
+                  <Link href="#symbolic-possession" className="flex items-center text-gray-700 hover:text-[#1F5EFF] text-sm font-medium group transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     Symbolic vs Physical Possession
                   </Link>

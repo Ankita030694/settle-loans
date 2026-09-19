@@ -23,9 +23,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-write-off-vs-loan-waive-off',
   },
   openGraph: {
-    title: 'Loan Write-Off vs Loan Waive-Off: Crucial Difference & CIBIL Reality (2026)',
+    title: 'Loan Write-Off vs Loan Waive-Off Truth | SettleLoans',
     description:
-      'A technical write-off is an internal bank accounting maneuver, not debt forgiveness. Learn your legal rights, recovery exposure, and how to settle written-off debts.',
+      'Saw',
     url: 'https://www.settleloans.in/loan-write-off-vs-loan-waive-off',
     siteName: 'SettleLoans',
     images: [
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Write-Off vs Loan Waive-Off: Is Your Debt Actually Forgiven?',
+    title: 'Loan Write-Off vs Loan Waive-Off Truth | SettleLoans',
     description:
       'Understand the critical legal difference between bank write-offs and genuine waivers. Discover how to stop recovery harassment and settle your written-off loan.',
     images: ['https://www.settleloans.in/images/infographics/loan-write-off-vs-loan-waive-off.jpg'],

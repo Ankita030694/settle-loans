@@ -59,7 +59,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Senior Citizen & Pensioner Loan Settlement | SettleLoans',
-    description: 'Comprehensive legal guide for senior citizens and retired pensioners facing unmanageable debt, unlawful pension account debits, and recovery agent coercion in India.',
+    description: 'Can banks deduct EMI from a pensioner account or seize retirement funds? Learn Section 60 CPC pension attachment protections, compassionate OTS relief.',
     url: 'https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief',
     siteName: 'SettleLoans',
     images: [
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Rules for Senior Citizens & Pensioners: Pension Attachment Protection & OTS Guide',
+    title: 'Senior Citizen & Pensioner Loan Settlement | SettleLoans',
     description: 'Protect your pension from illegal bank attachments. Understand Section 60 CPC statutory exemptions, senior citizen debt relief rights, and compassionate OTS.',
     images: ['https://www.settleloans.in/images/infographics/senior-citizen-pensioner-loan-settlement-relief.jpg'],
   },

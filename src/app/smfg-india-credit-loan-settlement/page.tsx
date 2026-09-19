@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/smfg-india-credit-loan-settlement',
   },
   openGraph: {
-    title: 'SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
-    description: 'Master guide to settling defaulted SMFG India Credit (formerly Fullerton India) personal and business loans. Understand SARB debt resolution, recovery agent compliance, Credit Committee approval matrices, and step-by-step OTS negotiation.',
+    title: 'SMFG India Credit Loan Settlement Guide | SettleLoans',
+    description: 'Comprehensive guide to SMFG India Credit (formerly Fullerton India) loan settlement. Learn how to settle high-ticket personal and business loans.',
     url: 'https://www.settleloans.in/smfg-india-credit-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut',
+    title: 'SMFG India Credit Loan Settlement Guide | SettleLoans',
     description: 'Technical and legal manual for settling defaulted SMFG India Credit personal loans and business credit facilities under RBI Compromise Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg'],
   },

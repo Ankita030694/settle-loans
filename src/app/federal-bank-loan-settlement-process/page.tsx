@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/federal-bank-loan-settlement-process',
   },
   openGraph: {
-    title: 'Federal Bank Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
-    description: 'Learn how to settle a Federal Bank personal loan, business facility, or gold loan shortfall. Understand SAMD recovery desks, NPA provisioning haircuts, legal notice defense, and step-by-step compromise procedures.',
+    title: 'Federal Bank Personal Loan Settlement | SettleLoans',
+    description: 'Learn how to settle Federal Bank personal loans and cards legally. Stop legal notices and negotiate structured OTS waivers with SettleLoans.',
     url: 'https://www.settleloans.in/federal-bank-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Federal Bank Loan Settlement: OTS Rules, Legal Defense & Haircut',
+    title: 'Federal Bank Personal Loan Settlement | SettleLoans',
     description: 'Technical and legal framework for negotiating One-Time Settlements (OTS) with The Federal Bank Limited under RBI Compromise Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/federal-bank-loan-settlement-process.jpg'],
   },

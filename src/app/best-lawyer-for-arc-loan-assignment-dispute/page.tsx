@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Lawyer for ARC Loan Assignment Dispute Defense',
+  description: 'Expert legal defense against Asset Reconstruction Companies (ARCs). Challenge loan assignments, defective deeds, and SARFAESI actions in DRT with senior...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-arc-loan-assignment-dispute',
+  },
+  openGraph: {
+    title: 'Lawyer for ARC Loan Assignment Dispute Defense',
+    description: 'Expert legal defense against Asset Reconstruction Companies (ARCs). Challenge loan assignments, defective deeds, and SARFAESI actions in DRT with senior...',
+    url: 'https://www.settleloans.in/best-lawyer-for-arc-loan-assignment-dispute',
+    type: "article",
+    images: ['https://www.settleloans.in/images/arc-loan-dispute.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Lawyer for ARC Loan Assignment Dispute Defense',
+    description: 'Expert legal defense against Asset Reconstruction Companies (ARCs). Challenge loan assignments, defective deeds, and SARFAESI actions in DRT with senior...',
+    images: ['https://www.settleloans.in/images/arc-loan-dispute.jpg'],
+  },
+};
 
 export default function ArcLoanAssignmentPage() {
     const schemaData = {
@@ -122,7 +142,7 @@ export default function ArcLoanAssignmentPage() {
                             Expert legal strategies to challenge Asset Reconstruction Company (ARC) actions, defective assignments, and predatory recovery tactics in the DRT.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Consult an Expert
                             </Link>
                         </div>
@@ -136,7 +156,7 @@ export default function ArcLoanAssignmentPage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
+                                <li><Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">ARC Loan Dispute</li>
                             </ol>
@@ -491,7 +511,7 @@ export default function ArcLoanAssignmentPage() {
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Don't let an ARC take your assets without a legal fight. Let our senior advocates audit the assignment.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
                                         Consult Senior Advocate
                                     </Link>
                                     <p className="mt-6 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.3em] font-black">DRT Specialists</p>

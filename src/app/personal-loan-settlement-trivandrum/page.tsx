@@ -55,9 +55,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-trivandrum',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Advocates in Trivandrum: Legal Defense & Bank OTS',
+    title: 'Personal Loan Settlement in Trivandrum | SettleLoans',
     description:
-      'Confidential legal defense and One-Time Settlement (OTS) representation for Technopark IT professionals, government employees, and merchants across Trivandrum and Kollam.',
+      'Settle personal loans legally in Trivandrum Kerala. Stop bank recovery harassment and resolve debt with structured OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-trivandrum',
     siteName: 'SettleLoans',
     images: [
@@ -73,9 +73,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Advocates in Trivandrum | Technopark Legal Shield',
+    title: 'Personal Loan Settlement in Trivandrum | SettleLoans',
     description:
-      'Authoritative legal defense against loan default harassment, Section 138/25 notices in Vanchiyoor courts, salary lien removal, and bank OTS settlements in Trivandrum.',
+      'Settle personal loans legally in Trivandrum Kerala. Stop bank recovery harassment and resolve debt with structured OTS via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-trivandrum.jpg'],
   },
 };
@@ -986,7 +986,7 @@ export default function Page() {
                     Canara Bank Loan Settlement
                   </Link>
                   <Link
-                    href="/federal-bank-loan-settlement"
+                    href="/federal-bank-loan-settlement-process"
                     className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                   >
                     Federal Bank Loan Settlement

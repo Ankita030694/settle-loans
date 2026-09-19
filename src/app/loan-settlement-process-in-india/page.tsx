@@ -1,7 +1,27 @@
-"use client";
-
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Loan Settlement Process in India: Complete Guide',
+  description: 'The definitive guide to the loan settlement process in India. Learn about OTS negotiation stages, RBI rules 2024, and how to get a 100% waiver on interest.',
+  alternates: {
+    canonical: 'https://www.settleloans.in/loan-settlement-process-in-india',
+  },
+  openGraph: {
+    title: 'Loan Settlement Process in India: Complete Guide',
+    description: 'The definitive guide to the loan settlement process in India. Learn about OTS negotiation stages, RBI rules 2024, and how to get a 100% waiver on interest.',
+    url: 'https://www.settleloans.in/loan-settlement-process-in-india',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Loan Settlement Process in India: Complete Guide',
+    description: 'The definitive guide to the loan settlement process in India. Learn about OTS negotiation stages, RBI rules 2024, and how to get a 100% waiver on interest.',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function LoanSettlementProcessPage() {
     const jsonLd = {

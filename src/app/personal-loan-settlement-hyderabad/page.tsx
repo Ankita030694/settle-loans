@@ -23,8 +23,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-hyderabad',
   },
   openGraph: {
-    title: 'Loan Settlement Advocates in Hyderabad: Court Defense & Debt Relief',
-    description: 'Expert legal defense and One-Time Settlement (OTS) representation for IT professionals, salaried executives, and entrepreneurs facing loan defaults across Hyderabad, Secunderabad, and Cyberabad.',
+    title: 'Loan Settlement Advocates in Hyderabad | SettleLoans',
+    description: 'Facing loan default, recovery harassment, or court summons in Hyderabad, Secunderabad, or Cyberabad? Get premier loan settlement advocates, legal defense.',
     url: 'https://www.settleloans.in/personal-loan-settlement-hyderabad',
     siteName: 'SettleLoans',
     images: [
@@ -40,8 +40,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Advocates in Hyderabad: Legal Defense & Lok Adalat Guide',
-    description: 'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, Lok Adalat compromise decrees, and anti-harassment injunctions across Hyderabad and Cyberabad.',
+    title: 'Loan Settlement Advocates in Hyderabad | SettleLoans',
+    description: 'Facing loan default, recovery harassment, or court summons in Hyderabad, Secunderabad, or Cyberabad? Get premier loan settlement advocates, legal defense.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-hyderabad.jpg'],
   },
 };

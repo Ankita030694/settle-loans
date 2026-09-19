@@ -1,7 +1,27 @@
-"use client";
-
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Legal Help for Loan Settlement in India | Guide',
+  description: 'Struggling with debt? Get legal help for loan settlement in India. Learn about borrower rights, RBI rules, and how specialized lawyers negotiate One-Time...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/legal-help-for-loan-settlement',
+  },
+  openGraph: {
+    title: 'Legal Help for Loan Settlement in India | Guide',
+    description: 'Struggling with debt? Get legal help for loan settlement in India. Learn about borrower rights, RBI rules, and how specialized lawyers negotiate One-Time...',
+    url: 'https://www.settleloans.in/legal-help-for-loan-settlement',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Legal Help for Loan Settlement in India | Guide',
+    description: 'Struggling with debt? Get legal help for loan settlement in India. Learn about borrower rights, RBI rules, and how specialized lawyers negotiate One-Time...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function LegalHelpForLoanSettlementPage() {
     const jsonLd = {

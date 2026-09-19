@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense',
   },
   openGraph: {
-    title: 'Order 37 CPC Summary Suit for Loan Recovery: 10-Day Court Defense & OTS Guide',
-    description: 'Received a Summary Suit summons under Order XXXVII CPC? Discover how to enter an appearance within 10 days, secure unconditional Leave to Defend, and negotiate a 45%–65% One-Time Settlement.',
+    title: 'Order 37 CPC Summary Suit for Loan Recovery | SettleLoans',
+    description: 'Bank filed a Summary Suit under Order 37 CPC for loan recovery? Learn how to enter appearance in 10 days, file Leave to Defend, raise triable issues.',
     url: 'https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Order 37 CPC Summary Suit for Loan Recovery: 10-Day Defense & OTS Guide',
-    description: 'Urgent Civil Court Emergency: Master the 10-day timeline for entering appearance and filing Leave to Defend in an Order 37 CPC summary suit for bank loan recovery.',
+    title: 'Order 37 CPC Summary Suit for Loan Recovery | SettleLoans',
+    description: 'Bank filed a Summary Suit under Order 37 CPC for loan recovery? Learn how to enter appearance in 10 days, file Leave to Defend, raise triable issues.',
     images: ['https://www.settleloans.in/images/infographics/summary-suit-order-37-cpc-loan-recovery-defense.jpg'],
   },
 };

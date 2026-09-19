@@ -56,9 +56,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-agra',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Lawyer in Agra: Legal Defense & OTS Advisory',
+    title: 'Personal Loan Settlement in Agra | SettleLoans',
     description:
-      'Expert legal defense and One-Time Settlement (OTS) representation for footwear manufacturers, handicraft exporters, tourism professionals, and salaried executives facing loan default across Agra, Mathura, and Firozabad.',
+      'Learn how to settle personal loans legally in Agra. Stop aggressive recovery harassment and negotiate structured bank OTS with SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-agra',
     siteName: 'SettleLoans',
     images: [
@@ -74,9 +74,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Lawyer in Agra: Legal Defense & Lok Adalat Guide',
+    title: 'Personal Loan Settlement in Agra | SettleLoans',
     description:
-      'Authoritative legal representation for bank loan defaults, Section 138/25 notices in Agra District Court, DLSA Lok Adalat compromise decrees, and anti-harassment shielding in Agra.',
+      'Learn how to settle personal loans legally in Agra. Stop aggressive recovery harassment and negotiate structured bank OTS with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-agra.jpg'],
   },
 };
@@ -966,7 +966,7 @@ export default function Page() {
                     SBI Personal Loan Settlement
                   </Link>
                   <Link
-                    href="/pnb-personal-loan-settlement"
+                    href="/pnb-personal-loan-settlement-process"
                     className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                   >
                     PNB Loan Settlement

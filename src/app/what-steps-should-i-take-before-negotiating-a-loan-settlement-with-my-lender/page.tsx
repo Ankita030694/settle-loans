@@ -1,7 +1,27 @@
-"use client";
-
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Steps Before Negotiating Loan Settlement Guide',
+  description: 'Critical steps to take before starting loan settlement negotiations. Learn about financial audits, hardship documentation, and 2024-25 RBI protocols.',
+  alternates: {
+    canonical: 'https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender',
+  },
+  openGraph: {
+    title: 'Steps Before Negotiating Loan Settlement Guide',
+    description: 'Critical steps to take before starting loan settlement negotiations. Learn about financial audits, hardship documentation, and 2024-25 RBI protocols.',
+    url: 'https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Steps Before Negotiating Loan Settlement Guide',
+    description: 'Critical steps to take before starting loan settlement negotiations. Learn about financial audits, hardship documentation, and 2024-25 RBI protocols.',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function NegotiationStepsPage() {
     const jsonLd = {

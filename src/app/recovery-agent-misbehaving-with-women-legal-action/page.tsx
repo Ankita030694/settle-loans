@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action',
   },
   openGraph: {
-    title: 'Recovery Agent Misbehaving with Female Borrower? Legal Action & RBI Rules',
-    description: 'Protect female borrowers and housewives from illegal recovery harassment. Understand mandatory RBI female staff rules, criminal action under BNS/IPC, NCW escalation, and OTS debt resolution.',
+    title: 'Action on Recovery Agents Misbehaviour | SettleLoans',
+    description: 'Recovery agent misbehaving with female borrowers? Learn strict RBI rules, Section 74 BNS criminal actions, and NCW remedies with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action',
     siteName: 'SettleLoans',
     images: [
@@ -76,8 +76,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agent Misbehaving with Female Borrower? Legal Action & RBI Rules',
-    description: 'Male recovery agents intimidating or shouting at women at home? Learn strict RBI protections, Section 74/75 BNS outraging modesty laws, NCW complaints, and debt settlement rights.',
+    title: 'Action on Recovery Agents Misbehaviour | SettleLoans',
+    description: 'Recovery agent misbehaving with female borrowers? Learn strict RBI rules, Section 74 BNS criminal actions, and NCW remedies with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agent-misbehaving-with-women-legal-action.jpg'],
   },
 };

@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Bank One-Time Settlement (OTS) Policy & Haircut Guide',
-    description: 'Learn internal bank NPA settlement mechanics, RBI haircut limits, NPV recovery formulas, and proven negotiation strategies to settle personal, business, and credit card debts.',
+    description: 'Understand internal bank One-Time Settlement (OTS) policies, RBI haircut guidelines, and NPA settlement formulas. Learn step-by-step how to negotiate.',
     url: 'https://www.settleloans.in/bank-one-time-settlement-ots-policy',
     siteName: 'SettleLoans',
     images: [
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Bank One-Time Settlement (OTS) Policy & Haircut Guide',
-    description: 'A comprehensive technical breakdown of how Indian banks calculate OTS amounts for NPAs, RBI compromise settlement rules, and how to negotiate maximum debt haircuts.',
+    description: 'Understand internal bank One-Time Settlement (OTS) policies, RBI haircut guidelines, and NPA settlement formulas. Learn step-by-step how to negotiate.',
     images: ['https://www.settleloans.in/images/infographics/bank-one-time-settlement-ots-policy.jpg'],
   },
 };

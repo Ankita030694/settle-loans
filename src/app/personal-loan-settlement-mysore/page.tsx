@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-mysore',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Company in Mysore Karnataka: Legal Debt Relief (2026)',
-    description: 'Expert banking advocate representation for personal loan settlement, credit card debt compromise, and commercial loan resolution across Mysore, Mandya, and Nanjangud under RBI OTS guidelines.',
+    title: 'Loan Settlement Company in Mysore | SettleLoans',
+    description: 'Top personal loan settlement company in Mysore & Mandya. Senior advocate representation for IT professionals, silk & sandalwood merchants, and MSMEs.',
     url: 'https://www.settleloans.in/personal-loan-settlement-mysore',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Company in Mysore Karnataka: Legal Debt Relief',
+    title: 'Loan Settlement Company in Mysore | SettleLoans',
     description: 'Authoritative legal manual for settling defaulted personal loans, multi-card debts, and MSME credit lines across Mysore and Mandya with advocate representation.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-mysore.jpg'],
   },
@@ -1040,7 +1040,7 @@ export default function PersonalLoanSettlementMysorePage() {
                   Bank One-Time Settlement (OTS) Policy
                 </Link>
                 <Link
-                  href="/it-professional-debt-settlement-guide"
+                  href="/it-professionals-personal-loan-debt-settlement"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
                   IT Professional Debt Settlement Guide

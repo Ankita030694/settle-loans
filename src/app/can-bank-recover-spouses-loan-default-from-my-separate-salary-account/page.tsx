@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Can Bank Recover Spouse's Loan Default from Separate Account?",
+  title: "Can Bank Recover Spouse Loan Default from My Account?",
   description: "Is your bank threatening to freeze or auto-debit your separate salary account for your husband's or wife's loan default?",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account",
@@ -605,19 +605,19 @@ export default function SpouseSeparateAccountRecoveryPage() {
                 </div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/how-to-file-a-complaint-with-banking-ombudsman" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/rbi-ombudsman-complaint-loan-recovery-harassment" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Banking Ombudsman Guide
                     </Link>
                   </li>
                   <li>
-                    <Link href="/understanding-co-borrower-vs-guarantor" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/can-banks-contact-guarantor-for-recovery" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Co-borrower vs Guarantor
                     </Link>
                   </li>
                   <li>
-                    <Link href="/rbi-guidelines-on-fair-recovery-practices" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/rbi-rules-for-recovery-agents" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Fair Recovery Practices
                     </Link>

@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/equitas-small-finance-bank-loan-settlement',
   },
   openGraph: {
-    title: 'Equitas Small Finance Bank Loan Settlement: Process, OTS Rules & Haircut (2026)',
-    description: 'Learn how to settle an Equitas Small Finance Bank personal or micro-business loan. Master NPA provisioning mechanics, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies under RBI compromise rules.',
+    title: 'Equitas Bank Loan Settlement Guide | SettleLoans',
+    description: 'Learn how to settle Equitas Small Finance Bank loans legally. Handle NACH bounce notices and negotiate single-shot OTS with SettleLoans.',
     url: 'https://www.settleloans.in/equitas-small-finance-bank-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Equitas Small Finance Bank Loan Settlement: Process & Legal OTS Haircut',
-    description: 'Technical and legal manual for settling defaulted Equitas Small Finance Bank personal loans and micro-business credit under RBI Compromise Settlement frameworks.',
+    title: 'Equitas Bank Loan Settlement Guide | SettleLoans',
+    description: 'Learn how to settle Equitas Small Finance Bank loans legally. Handle NACH bounce notices and negotiate single-shot OTS with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/equitas-small-finance-bank-loan-settlement.jpg'],
   },
 };

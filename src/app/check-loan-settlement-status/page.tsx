@@ -507,7 +507,7 @@ export default function CheckLoanSettlementStatusPage() {
                 </div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/rbi-guidelines-on-loan-recovery-agents" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/rbi-rules-for-recovery-agents" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Recovery Guidelines
                     </Link>

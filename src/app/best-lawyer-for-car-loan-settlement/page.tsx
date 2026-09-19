@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faCar, faCalendarAlt, faScaleBalanced, faInfoCircle, faCertificate } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Best Lawyer for Car Loan Settlement in India',
+  description: 'Expert legal help for car loan settlements. Stop vehicle repossession, handle recovery agent harassment, and negotiate OTS with banks/NBFCs. 4500+ word...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-car-loan-settlement',
+  },
+  openGraph: {
+    title: 'Best Lawyer for Car Loan Settlement in India',
+    description: 'Expert legal help for car loan settlements. Stop vehicle repossession, handle recovery agent harassment, and negotiate OTS with banks/NBFCs. 4500+ word...',
+    url: 'https://www.settleloans.in/best-lawyer-for-car-loan-settlement',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Best Lawyer for Car Loan Settlement in India',
+    description: 'Expert legal help for car loan settlements. Stop vehicle repossession, handle recovery agent harassment, and negotiate OTS with banks/NBFCs. 4500+ word...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function CarLoanSettlementPage() {
     const jsonLd = {

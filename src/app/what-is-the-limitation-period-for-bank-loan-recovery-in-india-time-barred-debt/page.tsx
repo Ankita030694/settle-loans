@@ -253,7 +253,7 @@ export default function TimeBarredDebtPage() {
           <div className="max-w-7xl mx-auto text-xs md:text-sm text-[#747474] flex items-center gap-2">
             <Link href="/" className="hover:text-[#1F5EFF]">Home</Link>
             <span className="text-gray-300">/</span>
-            <Link href="/blog" className="hover:text-[#1F5EFF]">Legal Guides</Link>
+            <Link href="/" className="hover:text-[#1F5EFF]">Legal Guides</Link>
             <span className="text-gray-300">/</span>
             <span className="font-bold text-[#2E2E2E]">Limitation Period for Loan Recovery</span>
           </div>
@@ -523,25 +523,25 @@ export default function TimeBarredDebtPage() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/blog/rbi-guidelines-for-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group">
+                    <Link href="/rbi-rules-for-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Guidelines for Agents
                     </Link>
                   </li>
                   <li>
-                    <Link href="/blog/what-is-loan-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group">
+                    <Link href="/what-is-personal-loan-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       How Loan Settlement Works
                     </Link>
                   </li>
                   <li>
-                    <Link href="/blog/fake-legal-notice-format" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group">
+                    <Link href="/bank-sent-legal-notice-for-loan-what-to-do" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Spotting Fake Legal Notices
                     </Link>
                   </li>
                   <li>
-                    <Link href="/blog/138-ni-act-cheque-bounce" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group">
+                    <Link href="/cheque-bounce" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Section 138 NI Act
                     </Link>

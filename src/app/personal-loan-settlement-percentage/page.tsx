@@ -21,9 +21,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-percentage',
   },
   openGraph: {
-    title: 'What Percentage is Personal Loan Settlement in India? (2026 OTS Guide & Formula)',
+    title: 'Personal Loan Settlement Percentage Guide | SettleLoans',
     description:
-      'Learn the exact percentage banks and NBFCs accept for personal loan settlement in India. Understand 30%–50% settlement benchmarks, waiver formulas, NPA provisioning, and fund planning strategies.',
+      'Wondering what percentage is personal loan settlement in India? Discover average settlement percentages (30%–50%), bank discount formulas.',
     url: 'https://www.settleloans.in/personal-loan-settlement-percentage',
     siteName: 'SettleLoans',
     images: [
@@ -39,9 +39,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'What Percentage is Personal Loan Settlement? (2026 Average Discounts & Rules)',
+    title: 'Personal Loan Settlement Percentage Guide | SettleLoans',
     description:
-      'Discover average personal loan settlement percentages in India: 30%–50% compromise formulas, principal vs interest waivers, bank comparison matrix, and fund arrangement guidelines.',
+      'Wondering what percentage is personal loan settlement in India? Discover average settlement percentages (30%–50%), bank discount formulas.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg'],
   },
 };

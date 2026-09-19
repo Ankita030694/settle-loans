@@ -55,8 +55,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/indusind-bank-personal-loan-settlement',
   },
   openGraph: {
-    title: 'IndusInd Bank Personal Loan Settlement: OTS Process, Haircut & Legal Guide (2026)',
-    description: 'Learn how to settle an IndusInd Bank personal loan or credit card. Understand NPA provisioning rules, Section 25 PSSA defense, recovery agent conduct rules, and RBI compromise settlement frameworks.',
+    title: 'IndusInd Bank Personal Loan Settlement | SettleLoans',
+    description: 'Comprehensive legal guide to IndusInd Bank personal loan and credit card settlement. Understand recovery calls, Section 25 PSSA notices, NPA provisioning.',
     url: 'https://www.settleloans.in/indusind-bank-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'IndusInd Bank Personal Loan Settlement Guide: Legal OTS & Haircut Rules',
+    title: 'IndusInd Bank Personal Loan Settlement | SettleLoans',
     description: 'Technical and legal playbook for settling defaulted IndusInd Bank personal loans, credit cards, and digital credit lines under RBI compromise frameworks.',
     images: ['https://www.settleloans.in/images/infographics/indusind-bank-personal-loan-settlement.jpg'],
   },

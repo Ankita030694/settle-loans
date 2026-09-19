@@ -717,9 +717,9 @@ export default function LoanSettlementDocumentsPage() {
                 <div className="font-black text-[#2E2E2E] mb-4 text-center uppercase tracking-wider text-xs">Helpful Resources</div>
                 <div className="space-y-4">
                   <Link href="/charities-that-pay-off-debt-in-india" className="block text-sm font-medium hover:text-[#1F5EFF] transition-colors pb-3 border-b border-gray-50">NGO Debt Relief Support</Link>
-                  <Link href="/is-loan-settlement-a-good-option" className="block text-sm font-medium hover:text-[#1F5EFF] transition-colors pb-3 border-b border-gray-50">Is Settlement Right for You?</Link>
+                  <Link href="/is-loan-settlement-a-good-option-for-borrowers" className="block text-sm font-medium hover:text-[#1F5EFF] transition-colors pb-3 border-b border-gray-50">Is Settlement Right for You?</Link>
                   <Link href="/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms" className="block text-sm font-medium hover:text-[#1F5EFF] transition-colors pb-3 border-b border-gray-50">Spotting Genuine Offers</Link>
-                  <Link href="/top-rated-loan-settlement-consultants-for-small-business-loans-page" className="block text-sm font-medium hover:text-[#1F5EFF] transition-colors">Business Loan Experts</Link>
+                  <Link href="/top-rated-loan-settlement-consultants-for-small-business-loans" className="block text-sm font-medium hover:text-[#1F5EFF] transition-colors">Business Loan Experts</Link>
                 </div>
               </div>
             </div>

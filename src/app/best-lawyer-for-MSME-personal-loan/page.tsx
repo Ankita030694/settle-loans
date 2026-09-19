@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faIndustry, faChartLine, faCheckCircle } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Lawyer for MSME Personal Loan Disputes & Relief',
+  description: 'Expert MSME legal counsel for business loan disputes, payment recovery under MSMED Act 2006, and SARFAESI defense for small business owners in India.',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-MSME-personal-loan',
+  },
+  openGraph: {
+    title: 'Lawyer for MSME Personal Loan Disputes & Relief',
+    description: 'Expert MSME legal counsel for business loan disputes, payment recovery under MSMED Act 2006, and SARFAESI defense for small business owners in India.',
+    url: 'https://www.settleloans.in/best-lawyer-for-MSME-personal-loan',
+    type: "article",
+    images: ['https://www.settleloans.in/images/msme-loan-defense.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Lawyer for MSME Personal Loan Disputes & Relief',
+    description: 'Expert MSME legal counsel for business loan disputes, payment recovery under MSMED Act 2006, and SARFAESI defense for small business owners in India.',
+    images: ['https://www.settleloans.in/images/msme-loan-defense.jpg'],
+  },
+};
 
 export default function MSMELoanLawyerPage() {
     const jsonLd = {
@@ -119,7 +139,7 @@ export default function MSMELoanLawyerPage() {
                             protecting the backbone of the Indian economy. We provide specialized legal expertise for MSME debt recovery, settlement, and bank disputes.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-[12px] hover:scale-110 transition-all duration-300 text-lg shadow-xl hover:shadow-[#1F5EFF]/20">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-12 rounded-[12px] hover:scale-110 transition-all duration-300 text-lg shadow-xl hover:shadow-[#1F5EFF]/20">
                                 Protect My Business
                             </Link>
                         </div>
@@ -421,7 +441,7 @@ export default function MSMELoanLawyerPage() {
                                     <p className="opacity-90 text-sm">Join the 10,000+ Indians we've helped find their way to financial freedom.</p>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-6 rounded-xl hover:scale-105 transition-all shadow-lg text-lg">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-6 rounded-xl hover:scale-105 transition-all shadow-lg text-lg">
                                         Get Your Free Consultation
                                     </Link>
                                 </div>
@@ -442,7 +462,7 @@ export default function MSMELoanLawyerPage() {
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
                                         Do not carry the burden alone. Let our experts find the best path for your debt-free life.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-3 px-4 rounded-[10px] hover:scale-105 transition-all shadow-md group-hover:shadow-lg">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-3 px-4 rounded-[10px] hover:scale-105 transition-all shadow-md group-hover:shadow-lg">
                                         Talk to an Expert
                                     </Link>
                                     <p className="mt-4 text-xs text-[#DEDEDE]/60 uppercase tracking-widest font-black">100% Confidential</p>

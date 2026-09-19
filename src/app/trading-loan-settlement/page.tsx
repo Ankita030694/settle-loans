@@ -1,8 +1,28 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Trading Loan Settlement: Legal Help & Options',
+  description: 'Learn about trading loan settlement in India. Expert advice on settling Margin Trading Facility (MTF), Loan Against Securities (LAS), and trading business...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/trading-loan-settlement',
+  },
+  openGraph: {
+    title: 'Trading Loan Settlement: Legal Help & Options',
+    description: 'Learn about trading loan settlement in India. Expert advice on settling Margin Trading Facility (MTF), Loan Against Securities (LAS), and trading business...',
+    url: 'https://www.settleloans.in/trading-loan-settlement',
+    type: "article",
+    images: ['https://www.settleloans.in/images/trading-loan-settlement.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Trading Loan Settlement: Legal Help & Options',
+    description: 'Learn about trading loan settlement in India. Expert advice on settling Margin Trading Facility (MTF), Loan Against Securities (LAS), and trading business...',
+    images: ['https://www.settleloans.in/images/trading-loan-settlement.jpg'],
+  },
+};
 
 export default function TradingLoanSettlementPage() {
     const schemaData = {
@@ -139,7 +159,7 @@ export default function TradingLoanSettlementPage() {
                             Expert legal resolution for MTF debts, margin calls, and stock market leverage losses. We help traders settle debts and reclaim financial freedom.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Consult a Settlement Expert
                             </Link>
                         </div>
@@ -153,7 +173,7 @@ export default function TradingLoanSettlementPage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
+                                <li><Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">Trading Loan Settlement</li>
                             </ol>
@@ -584,7 +604,7 @@ export default function TradingLoanSettlementPage() {
                             <p className="text-xl mb-8 opacity-90">
                                 Trading losses shouldn't define your life. Our expert advocates are ready to help you settle your debts and start fresh.
                             </p>
-                            <Link href="/contact-us" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
+                            <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
                                 Get a Free Consultation
                             </Link>
                         </div>
@@ -604,7 +624,7 @@ export default function TradingLoanSettlementPage() {
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Struggling with MTF or LAS debt? Get specialized legal help to settle your liabilities today.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
                                         Start My Settlement
                                     </Link>
                                     <p className="mt-6 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.3em] font-black">Expert Settlement Lawyers</p>

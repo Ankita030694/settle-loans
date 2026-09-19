@@ -52,8 +52,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/freo-moneytap-credit-line-settlement',
   },
   openGraph: {
-    title: 'MoneyTap (Freo) Credit Line Settlement: OTS Process, RBL & DMI Legal Defense (2026)',
-    description: 'Strategic roadmap to settle defaulted MoneyTap (Freo) revolving credit lines with RBL Bank and DMI Finance. Halt e-NACH bounce cycles, defend legal notices, and negotiate an authorized 40% to 60% OTS.',
+    title: 'Freo MoneyTap Credit Line Settlement | SettleLoans',
+    description: 'Learn how to settle Freo MoneyTap credit line debt legally. Stop mounting late charges and negotiate a structured OTS with SettleLoans.',
     url: 'https://www.settleloans.in/freo-moneytap-credit-line-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'MoneyTap (Freo) Credit Line Settlement: OTS Process, RBL & DMI Legal Defense',
+    title: 'Freo MoneyTap Credit Line Settlement | SettleLoans',
     description: 'Technical manual for settling defaulted MoneyTap (Freo) revolving credit lines under RBI Compromise Settlement and Digital Lending frameworks.',
     images: ['https://www.settleloans.in/images/infographics/freo-moneytap-credit-line-settlement.jpg'],
   },

@@ -350,7 +350,7 @@ export default function ContactDetailsPage() {
             </section>
 
             <section id="settle-loans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">3. <Link href="https://www.settleloans.in" target="_blank" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> (settleloans.in / settleloan.in)</h2>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">3. <Link href="https://www.settleloans.in" target="_blank" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> (settleloans.in)</h2>
               <p className="text-lg leading-relaxed mb-6">
                 <strong>SettleLoans</strong> is one of India's most accessible debt resolution platforms, focusing on high-speed settlement for personal loans and credit cards. They provide a dedicated relationship manager for every case, ensuring that you are never left in the dark.
               </p>
@@ -370,7 +370,7 @@ export default function ContactDetailsPage() {
                   </div>
                   <div>
                     <h4 className="font-bold text-white uppercase tracking-tighter">Email Support</h4>
-                    <p className="opacity-80">info@settleloan.in / help@settleloans.in</p>
+                    <p className="opacity-80">info@settleloans.in / help@settleloans.in</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">

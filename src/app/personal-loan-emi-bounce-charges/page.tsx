@@ -224,7 +224,7 @@ export default function PersonalLoanEmiBounceChargesPage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/personal-loans" className="hover:text-[#1F5EFF] transition-colors">Personal Loans</Link>
+              <Link href="/services/personal-loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Personal Loans</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">EMI Bounce Charges</span>
             </div>
@@ -656,25 +656,25 @@ export default function PersonalLoanEmiBounceChargesPage() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/npa-account-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/loan-settlement-process-in-india" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       NPA Account Settlement
                     </Link>
                   </li>
                   <li>
-                    <Link href="/harassment-by-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Stop Recovery Harassment
                     </Link>
                   </li>
                   <li>
-                    <Link href="/cibil-score-after-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/credit-score-improvement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       CIBIL Score Impact
                     </Link>
                   </li>
                   <li>
-                    <Link href="/credit-card-debt-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/services/credit-card-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Credit Card Debt Relief
                     </Link>

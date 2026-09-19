@@ -979,7 +979,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                   Personal Loan Settlement Process
                 </Link>
                 <Link
-                  href="/lok-adalat-loan-settlement"
+                  href="/lok-adalat-me-loan-settlement-kaise-kare"
                   className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
                 >
                   Lok Adalat Loan Settlement
@@ -997,7 +997,7 @@ export default function NriPersonalLoanSettlementIndiaClient() {
                   Bank Loan Settlement Rules
                 </Link>
                 <Link
-                  href="/unsecured-loan-settlement"
+                  href="/unsecured-business-loan-settlement"
                   className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
                 >
                   Unsecured Loan Settlement

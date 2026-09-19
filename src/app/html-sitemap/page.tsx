@@ -5,6 +5,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Complete HTML Sitemap | SettleLoans',
   description: 'Browse the complete HTML sitemap of SettleLoans to access all loan settlement guides, bank settlement procedures, legal protections, and resources.',
+  alternates: {
+    canonical: 'https://www.settleloans.in/html-sitemap',
+  },
 };
 
 export default function SitemapPage() {

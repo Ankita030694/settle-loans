@@ -78,7 +78,7 @@ export default function LegalConsequencesChangingNumberPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://www.settleloan.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#faq",
+        "@id": "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -164,12 +164,12 @@ export default function LegalConsequencesChangingNumberPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://www.settleloan.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#product",
+        "@id": "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents/#product",
         "name": "Loan Settlement & Legal Protection Service",
         "description": "Expert legal assistance to stop recovery agent harassment, negotiate settlements, and prevent civil cases from turning into criminal charges.",
         "brand": {
           "@type": "Brand",
-          "name": "SettleLoan"
+          "name": "SettleLoans"
         },
         "aggregateRating": {
           "@type": "AggregateRating",

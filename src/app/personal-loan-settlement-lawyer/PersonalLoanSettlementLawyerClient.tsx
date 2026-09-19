@@ -112,7 +112,7 @@ export default function PersonalLoanSettlementLawyerClient() {
         <nav className="text-sm font-medium text-slate-500 mb-8 flex items-center space-x-2">
           <Link href="/" className="hover:text-[#2D68FF] transition-colors">Home</Link>
           <span>/</span>
-          <Link href="/services" className="hover:text-[#2D68FF] transition-colors">Services</Link>
+          <Link href="/#services" className="hover:text-[#2D68FF] transition-colors">Services</Link>
           <span>/</span>
           <span className="text-slate-900 font-semibold">Personal Loan Settlement Lawyer</span>
         </nav>

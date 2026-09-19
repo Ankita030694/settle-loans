@@ -58,8 +58,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/government-employee-loan-default-salary-attachment',
   },
   openGraph: {
-    title: 'Loan Default Rules for Government Employees: Salary Attachment, CCS Rules & Legal Defense',
-    description: 'Comprehensive legal analysis for Central, State, Railway, Defense, and PSU personnel facing loan default notices, salary attachment threats, and departmental inquiry fears.',
+    title: 'Govt Employee Loan Default & Salary Attachment Rules',
+    description: 'Can banks attach a government employee salary or report loan default to your department? Understand Section 60 CPC exemptions, CCS Conduct Rules.',
     url: 'https://www.settleloans.in/government-employee-loan-default-salary-attachment',
     siteName: 'SettleLoans',
     images: [
@@ -75,8 +75,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Default Rules for Government Employees: Salary Attachment, CCS Rules & Legal Defense',
-    description: 'Worried that a personal loan default will impact your government service record or trigger salary deductions? Learn your statutory protections under Section 60 CPC.',
+    title: 'Govt Employee Loan Default & Salary Attachment Rules',
+    description: 'Can banks attach a government employee salary or report loan default to your department? Understand Section 60 CPC exemptions, CCS Conduct Rules.',
     images: ['https://www.settleloans.in/images/infographics/government-employee-loan-default-salary-attachment.jpg'],
   },
 };

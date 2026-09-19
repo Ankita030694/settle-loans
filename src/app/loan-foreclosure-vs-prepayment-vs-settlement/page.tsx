@@ -52,8 +52,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement',
   },
   openGraph: {
-    title: 'Loan Foreclosure vs Prepayment vs Settlement: Complete Regulatory & Financial Guide',
-    description: 'Comprehensive analysis of early loan exit mechanisms in India: CIBIL credit score impact, RBI foreclosure directives, financial trade-offs, and legal documentation.',
+    title: 'Foreclosure vs Prepayment vs Settlement | SettleLoans',
+    description: 'Understand the key differences between loan foreclosure, prepayment, and debt settlement. Choose the right debt strategy with SettleLoans.',
     url: 'https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Foreclosure vs Prepayment vs Settlement: RBI Rules & CIBIL Analysis',
+    title: 'Foreclosure vs Prepayment vs Settlement | SettleLoans',
     description: 'Understand the critical legal, financial, and credit score distinctions between loan foreclosure, part-prepayment, and distressed debt settlement in India.',
     images: ['https://www.settleloans.in/images/infographics/loan-foreclosure-vs-prepayment-vs-settlement.jpg'],
   },
@@ -1118,13 +1118,13 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
                   Court Recovery Case Defense
                 </Link>
                 <Link
-                  href="/personal-loan-settlement-process"
+                  href="/services/personal-loan-settlement"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
                   Personal Loan Settlement Process
                 </Link>
                 <Link
-                  href="/credit-card-settlement-process"
+                  href="/services/credit-card-settlement"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
                   Credit Card Settlement Process

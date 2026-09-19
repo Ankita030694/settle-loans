@@ -664,9 +664,9 @@ export default function SettlementTimelinePage() {
               <div className="bg-gray-50 p-6 rounded-2xl border border-gray-200">
                 <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4">Phase Guides</div>
                 <ul className="space-y-4 text-sm font-bold text-gray-900">
-                  <li><Link href="/what-is-one-time-settlement-ots-in-banking" className="hover:text-[#1F5EFF] transition-colors">OTS Explained</Link></li>
-                  <li><Link href="/how-to-rebuild-credit-score-after-loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Credit Rebuilding</Link></li>
-                  <li><Link href="/negotiation-tactics-for-debt-settlement" className="hover:text-[#1F5EFF] transition-colors">Negotiation Tips</Link></li>
+                  <li><Link href="/loan-settlement-process-in-india" className="hover:text-[#1F5EFF] transition-colors">OTS Explained</Link></li>
+                  <li><Link href="/credit-score-improvement" className="hover:text-[#1F5EFF] transition-colors">Credit Rebuilding</Link></li>
+                  <li><Link href="/find-debt-settlement-services-known-for-effective-negotiation" className="hover:text-[#1F5EFF] transition-colors">Negotiation Tips</Link></li>
                 </ul>
               </div>
             </div>

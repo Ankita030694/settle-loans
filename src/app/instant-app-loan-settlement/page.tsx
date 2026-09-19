@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'How to Settle Instant App Loan: RBI Rules & Defense',
-    description: 'Comprehensive legal and cyber defense manual for settling instant app loans. Protect your contact list, stop morphed photo blackmail, file cyber crime FIRs, and settle with RBI-regulated digital lenders.',
+    description: 'Trapped by predatory instant loan apps or fake 7-day lending platforms? Stop harassment & settle debt legally with SettleLoans.',
     url: 'https://www.settleloans.in/instant-app-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'How to Settle Instant App Loan: RBI Rules & Defense',
-    description: 'Definitive guide on dealing with predatory instant loan apps, stopping contact harassment, reporting to National Cyber Crime Portal, and resolving digital lending disputes legally.',
+    description: 'Trapped by predatory instant loan apps or fake 7-day lending platforms? Stop harassment & settle debt legally with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/instant-app-loan-settlement.jpg'],
   },
 };

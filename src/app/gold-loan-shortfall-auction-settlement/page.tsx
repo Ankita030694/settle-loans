@@ -55,8 +55,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/gold-loan-shortfall-auction-settlement',
   },
   openGraph: {
-    title: 'Gold Loan Shortfall Notice Settlement: Legal Defense & ₹0 Residual Debt Guide',
-    description: 'Master the legal defense against gold loan shortfall notices. Discover how to challenge flawed auction procedures, uncap illegal penal interest, and secure an official ₹0 No Dues Certificate.',
+    title: 'Gold Loan Shortfall Notice Settlement Guide | SettleLoans',
+    description: 'Received a gold loan shortfall notice from Muthoot, Manappuram, or bank after auction? Learn your legal rights under RBI Master Directions.',
     url: 'https://www.settleloans.in/gold-loan-shortfall-auction-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -72,8 +72,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Gold Loan Shortfall Notice Settlement: Legal Protections & ₹0 Resolution',
-    description: 'Lender auctioned your gold and demands residual shortfall? Understand RBI Fair Practices Code, contract law defenses, and how legal representation forces a complete waiver.',
+    title: 'Gold Loan Shortfall Notice Settlement Guide | SettleLoans',
+    description: 'Received a gold loan shortfall notice from Muthoot, Manappuram, or bank after auction? Learn your legal rights under RBI Master Directions.',
     images: ['https://www.settleloans.in/images/infographics/gold-loan-shortfall-auction-settlement.jpg'],
   },
 };

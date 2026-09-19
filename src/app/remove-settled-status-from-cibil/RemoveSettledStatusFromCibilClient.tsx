@@ -1026,7 +1026,7 @@ export default function RemoveSettledStatusFromCibilClient() {
                   Remove Written-Off Status from CIBIL
                 </Link>
                 <Link
-                  href="/credit-card-settlement-process"
+                  href="/services/credit-card-settlement"
                   className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
                 >
                   Credit Card Settlement Process
@@ -1038,13 +1038,13 @@ export default function RemoveSettledStatusFromCibilClient() {
                   RBI Rules for Recovery Agents
                 </Link>
                 <Link
-                  href="/lok-adalat-loan-settlement"
+                  href="/lok-adalat-me-loan-settlement-kaise-kare"
                   className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
                 >
                   Lok Adalat Loan Settlement
                 </Link>
                 <Link
-                  href="/legal-notice-for-loan-default"
+                  href="/legal-notice-for-loan-recovery"
                   className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
                 >
                   Legal Notice for Loan Default

@@ -58,7 +58,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'RBI Ombudsman Complaint for Recovery Harassment Guide',
-    description: 'Master the formal procedure for escalating loan recovery agent harassment to the RBI Integrated Ombudsman via cms.rbi.org.in. Understand statutory evidentiary requirements, mental agony compensation claims, and how regulatory oversight forces favorable loan settlements.',
+    description: 'Learn how to file an RBI Ombudsman complaint for loan recovery agent harassment on the CMS portal. Discover how to claim up to ₹1 Lakh for mental agony.',
     url: 'https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment',
     siteName: 'SettleLoans',
     images: [
@@ -74,8 +74,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to File RBI Ombudsman Complaint for Loan Recovery Harassment: Step-by-Step Guide',
-    description: 'Facing abusive recovery agents from banks or NBFCs? File a formal complaint on the RBI CMS portal, claim statutory compensation, and protect your constitutional dignity.',
+    title: 'RBI Ombudsman Complaint for Recovery Harassment Guide',
+    description: 'Learn how to file an RBI Ombudsman complaint for loan recovery agent harassment on the CMS portal. Discover how to claim up to ₹1 Lakh for mental agony.',
     images: ['https://www.settleloans.in/images/infographics/rbi-ombudsman-complaint-loan-recovery-harassment.jpg'],
   },
 };

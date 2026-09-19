@@ -56,8 +56,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/hsbc-personal-loan-credit-card-settlement',
   },
   openGraph: {
-    title: 'HSBC Loan Settlement Process in India: Premier Card & Personal Loan OTS Guide (2026)',
-    description: 'Comprehensive manual for settling defaulted HSBC Premier credit cards and high-value personal loans. Understand foreign bank NPA provisioning, workplace privacy protections, cease-and-desist protocols, and RBI compromise settlement frameworks.',
+    title: 'HSBC Loan Settlement Process in India | SettleLoans',
+    description: 'Exhaustive legal guide to HSBC personal loan and Premier credit card settlement in India. Learn corporate workplace privacy defense.',
     url: 'https://www.settleloans.in/hsbc-personal-loan-credit-card-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'HSBC Personal Loan & Credit Card Settlement: Corporate OTS & Privacy Defense',
+    title: 'HSBC Loan Settlement Process in India | SettleLoans',
     description: 'Technical and legal guide for salaried corporate professionals settling defaulted HSBC Premier credit cards and personal loans under RBI compromise frameworks.',
     images: ['https://www.settleloans.in/images/infographics/hsbc-personal-loan-credit-card-settlement.jpg'],
   },

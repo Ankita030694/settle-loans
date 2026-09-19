@@ -64,8 +64,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation',
   },
   openGraph: {
-    title: 'Recovery Agents Calling Before 8 AM or After 7 PM? RBI Rules & Injunction Guide',
-    description: 'Stop illegal late-night and early-morning debt collection calls. Understand Reserve Bank of India timing restrictions, constitutional right to sleep, Banking Ombudsman penalties, and advocate-led OTS strategies.',
+    title: 'Late Night Recovery Calls RBI Rules | SettleLoans',
+    description: 'Recovery agents calling before 8 AM or after 7 PM? Learn RBI recovery timing violation rules and how to file complaints with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation',
     siteName: 'SettleLoans',
     images: [
@@ -81,8 +81,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agents Calling Before 8 AM or After 7 PM? RBI Rules & Injunction Guide',
-    description: 'Facing abusive recovery calls at 9 PM, midnight, or 6 AM? Discover statutory RBI protections, sleep deprivation jurisprudence, and how to secure immediate Ombudsman relief.',
+    title: 'Late Night Recovery Calls RBI Rules | SettleLoans',
+    description: 'Recovery agents calling before 8 AM or after 7 PM? Learn RBI recovery timing violation rules and how to file complaints with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agent-calling-late-night-rbi-violation.jpg'],
   },
 };

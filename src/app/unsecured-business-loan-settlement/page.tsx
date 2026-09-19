@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/unsecured-business-loan-settlement',
   },
   openGraph: {
-    title: 'Unsecured Business Loan Settlement: MSME Distress & Haircut Guide',
-    description: 'A complete legal and financial guide for small business owners facing enterprise failure. Understand personal guarantees, SARFAESI limitations, and RBI OTS frameworks.',
+    title: 'Unsecured Business Loan Settlement Guide | SettleLoans',
+    description: 'Learn the unsecured business loan settlement process for failed SMEs. Understand corporate vs retail debt, personal guarantee defense, and RBI OTS rules.',
     url: 'https://www.settleloans.in/unsecured-business-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Unsecured Business Loan Settlement Process: SME Distress Guide (2026)',
+    title: 'Unsecured Business Loan Settlement Guide | SettleLoans',
     description: 'Expert guide to settling unsecured business loans and working capital defaults in India. Learn legal rights, personal guarantee defense, and bank OTS haircuts.',
     images: ['https://www.settleloans.in/images/infographics/unsecured-business-loan-settlement.jpg'],
   },

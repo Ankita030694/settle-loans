@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-coimbatore',
   },
   openGraph: {
-    title: 'Loan Settlement Company in Coimbatore: Legal Debt Relief & OTS | SettleLoans',
+    title: 'Personal Loan Settlement in Coimbatore | SettleLoans',
     description: 'Specialized advocate-led debt settlement for borrowers in Coimbatore, Tirupur, and Salem managing unsecured personal, business, and credit card debts.',
     url: 'https://www.settleloans.in/personal-loan-settlement-coimbatore',
     siteName: 'SettleLoans',
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Company in Coimbatore: Advocate-Led Debt Relief in Tamil Nadu',
+    title: 'Personal Loan Settlement in Coimbatore | SettleLoans',
     description: 'Expert legal and financial advisory for personal loan, credit card, and MSME debt settlement across Coimbatore and Western Tamil Nadu.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-coimbatore.jpg'],
   },

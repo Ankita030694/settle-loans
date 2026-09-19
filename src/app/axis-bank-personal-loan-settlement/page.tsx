@@ -23,8 +23,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/axis-bank-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Axis Bank Personal Loan Settlement: SARB Process, OTS Rules & Haircut (2026)',
-    description: 'Learn how to settle an Axis Bank personal loan, Burgundy credit card, or 24x7 instant loan. Understand SARB transfer timelines, NPA provisioning rules, recovery agent defense, and RBI compromise settlement frameworks.',
+    title: 'Axis Bank Personal Loan Settlement | SettleLoans',
+    description: 'Exhaustive guide to Axis Bank personal loan settlement. Understand SARB branch escalation, Burgundy credit card dues, NPA provisioning.',
     url: 'https://www.settleloans.in/axis-bank-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -40,8 +40,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Axis Bank Personal Loan Settlement: SARB Process, OTS Rules & Haircut',
-    description: 'Technical and legal manual for settling defaulted Axis Bank personal loans and Burgundy credit cards under RBI Compromise Settlement frameworks and SARB resolution desks.',
+    title: 'Axis Bank Personal Loan Settlement | SettleLoans',
+    description: 'Exhaustive guide to Axis Bank personal loan settlement. Understand SARB branch escalation, Burgundy credit card dues, NPA provisioning.',
     images: ['https://www.settleloans.in/images/infographics/axis-bank-personal-loan-settlement.jpg'],
   },
 };

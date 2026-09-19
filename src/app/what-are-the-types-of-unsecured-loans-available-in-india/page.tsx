@@ -523,13 +523,13 @@ export default function TypesOfUnsecuredLoansPage() {
                                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b border-[#DEDEDE] pb-4 mb-6 text-center">More Resources</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
-                                        <Link href="/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                                        <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                                             <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors flex-shrink-0"></span>
                                             Personal Loan Settlement
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/credit-card-debt-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                                        <Link href="/services/credit-card-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                                             <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors flex-shrink-0"></span>
                                             Credit Card Settlement
                                         </Link>

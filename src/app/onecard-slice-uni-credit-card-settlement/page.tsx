@@ -55,8 +55,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/onecard-slice-uni-credit-card-settlement',
   },
   openGraph: {
-    title: 'OneCard, Slice & Uni Credit Card Settlement: Partner Bank OTS Rules & Legal Defense (2026)',
-    description: 'Struggling with OneCard, Slice, or Uni card debt in India? Discover how to negotiate One-Time Settlements with partner banks (Federal, SBM, BOB Financial, NESFB), halt compounding interest, stop collection harassment, and secure ₹0 No Dues Certificates.',
+    title: 'OneCard, Slice & Uni Card Settlement | SettleLoans',
+    description: 'Learn how to settle OneCard, Slice, and Uni credit card debt legally. Stop late charges and negotiate partner bank OTS with SettleLoans.',
     url: 'https://www.settleloans.in/onecard-slice-uni-credit-card-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'OneCard, Slice & Uni Credit Card Settlement: Partner Bank OTS Rules & Legal Defense',
+    title: 'OneCard, Slice & Uni Card Settlement | SettleLoans',
     description: 'Strategic guide for settling defaulted OneCard, Slice, and Uni co-branded credit cards in India under RBI Master Directions with maximum debt haircuts.',
     images: ['https://www.settleloans.in/images/infographics/onecard-slice-uni-credit-card-settlement.jpg'],
   },
@@ -1075,7 +1075,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                   No Dues Certificate (NDC) Guide
                 </Link>
                 <Link
-                  href="/recovery-agent-threatening-me"
+                  href="/bank-recovery-agent-threatening-me"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
                   Halting Recovery Harassment &amp; RBI Rules

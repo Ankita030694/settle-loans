@@ -52,8 +52,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/hdfc-credila-education-loan-settlement',
   },
   openGraph: {
-    title: 'HDFC Credila Loan Settlement Process: OTS Rules, Moratorium Interest & Haircut (2026)',
-    description: 'Learn how to settle an HDFC Credila education loan. Understand moratorium interest capitalization, co-borrower liability defense, NPA provisioning haircuts, and step-by-step compromise settlement strategies.',
+    title: 'HDFC Credila Education Loan Settlement | SettleLoans',
+    description: 'Learn how to settle HDFC Credila education loans legally. Protect parent co-signers and negotiate structured OTS waivers with SettleLoans.',
     url: 'https://www.settleloans.in/hdfc-credila-education-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -69,8 +69,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'HDFC Credila Education Loan Settlement: OTS Rules, Grace Period Interest & Haircut',
-    description: 'Technical and legal guide for settling defaulted HDFC Credila higher education loans under RBI Compromise Settlement frameworks, protecting co-borrowers, and releasing pledged collateral.',
+    title: 'HDFC Credila Education Loan Settlement | SettleLoans',
+    description: 'Learn how to settle HDFC Credila education loans legally. Protect parent co-signers and negotiate structured OTS waivers with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/hdfc-credila-education-loan-settlement.jpg'],
   },
 };

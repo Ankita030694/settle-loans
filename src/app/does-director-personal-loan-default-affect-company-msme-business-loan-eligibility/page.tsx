@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Does a Director's Personal Loan Default Affect Their Company's MSME Loan Eligibility?",
+  title: "Does Director Loan Default Affect Company MSME Loans?",
   description: "Learn how a single director's personal loan default can impact a Private Limited Company's MSME loan and working capital eligibility.",
   alternates: {
     canonical: "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility",
@@ -128,7 +128,7 @@ export default function DirectorDefaultImpactPage() {
               <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                 <li><span className="text-gray-300">/</span></li>
-                <li><Link href="/business-loans" className="hover:text-[#1F5EFF] transition-colors">Business Loans</Link></li>
+                <li><Link href="/business-loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Business Loans</Link></li>
                 <li><span className="text-gray-300">/</span></li>
                 <li className="font-bold text-[#2E2E2E]">Director Default Impact</li>
               </ol>

@@ -53,9 +53,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-lucknow',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Advocates in Lucknow: Legal Defense & OTS Advisory',
+    title: 'Loan Settlement Advocates in Lucknow | SettleLoans',
     description:
-      'Expert legal defense and One-Time Settlement (OTS) representation for salaried executives, government staff, and business owners facing loan defaults across Lucknow, Gomti Nagar, Hazratganj, and Kanpur.',
+      'Struggling with loan default, recovery harassment, or court summons in Lucknow, Gomti Nagar, or Kanpur? Get senior advocate defense, salary protection.',
     url: 'https://www.settleloans.in/personal-loan-settlement-lucknow',
     siteName: 'SettleLoans',
     images: [
@@ -71,9 +71,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Advocates in Lucknow: Legal Defense & Lok Adalat Guide',
+    title: 'Loan Settlement Advocates in Lucknow | SettleLoans',
     description:
-      'Authoritative legal representation for bank loan defaults, Section 138/25 notices in Kaisarbagh courts, UPSLSA Lok Adalat compromise decrees, and anti-harassment shielding across Lucknow.',
+      'Struggling with loan default, recovery harassment, or court summons in Lucknow, Gomti Nagar, or Kanpur? Get senior advocate defense, salary protection.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-lucknow.jpg'],
   },
 };
@@ -1021,7 +1021,7 @@ export default function Page() {
                     SBI Personal Loan Settlement
                   </Link>
                   <Link
-                    href="/pnb-personal-loan-settlement"
+                    href="/pnb-personal-loan-settlement-process"
                     className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                   >
                     PNB Loan Settlement

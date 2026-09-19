@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/getting-home-loan-after-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Can I Get Home Loan After Loan Settlement? Step-by-Step Approval Guide (2026)',
-    description: 'Learn how to secure a home loan after settling an unsecured personal loan. Comprehensive analysis of credit bureau flags, converting Settled to Closed, and NBFC manual underwriting.',
+    title: 'Home Loan After Personal Loan Settlement | SettleLoans',
+    description: 'Can you get a home loan after settling personal loans? Discover the credit score rebuilding roadmap and lender approval rules via SettleLoans.',
     url: 'https://www.settleloans.in/getting-home-loan-after-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -70,8 +70,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Getting a Home Loan After Personal Loan Settlement: Eligibility & Roadmap',
-    description: 'Technical and legal blueprint for securing a mortgage after loan settlement. Master credit score repair, status conversion, and specialized housing finance approvals.',
+    title: 'Home Loan After Personal Loan Settlement | SettleLoans',
+    description: 'Can you get a home loan after settling personal loans? Discover the credit score rebuilding roadmap and lender approval rules via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/getting-home-loan-after-personal-loan-settlement.jpg'],
   },
 };

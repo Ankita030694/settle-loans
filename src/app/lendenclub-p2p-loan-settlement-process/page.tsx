@@ -52,8 +52,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/lendenclub-p2p-loan-settlement-process',
   },
   openGraph: {
-    title: 'LenDenClub Loan Settlement Process: Stop Recovery Harassment & Settle (2026)',
-    description: 'Expert legal and financial manual for resolving defaulted LenDenClub and Finstree P2P personal loans. Stop recovery calls, challenge digital arbitration, and negotiate direct OTS waivers under RBI compromise norms.',
+    title: 'LenDenClub P2P Loan Settlement | SettleLoans',
+    description: 'Learn how to settle LenDenClub P2P loans legally. Stop collection notices, handle partner NBFCs, and settle debt with SettleLoans.',
     url: 'https://www.settleloans.in/lendenclub-p2p-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -69,8 +69,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'LenDenClub Loan Settlement Process: Stop Recovery Harassment & Settle (2026)',
-    description: 'Definitive guide for borrowers facing LenDenClub and Finstree P2P loan default. Discover how to halt recovery harassment, defend Section 25 PSSA summons, and secure 40% to 65% OTS principal waivers.',
+    title: 'LenDenClub P2P Loan Settlement | SettleLoans',
+    description: 'Learn how to settle LenDenClub P2P loans legally. Stop collection notices, handle partner NBFCs, and settle debt with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/lendenclub-p2p-loan-settlement-process.jpg'],
   },
 };

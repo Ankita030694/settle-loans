@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-chandigarh',
   },
   openGraph: {
-    title: 'Loan Settlement Company in Chandigarh: Tricity & NRI Debt Relief (2026)',
-    description: 'Expert legal defense and One-Time Settlement (OTS) representation for high-ticket personal loans, credit card defaults, and NRI debts across Chandigarh, Mohali, and Panchkula under RBI directives.',
+    title: 'Loan Settlement Company in Chandigarh | SettleLoans',
+    description: 'Leading loan settlement company in Chandigarh, Mohali & Panchkula. Expert advocate representation for high-ticket personal loans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-chandigarh',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Company in Chandigarh: Tricity & NRI Debt Resolution',
+    title: 'Loan Settlement Company in Chandigarh | SettleLoans',
     description: 'Technical and legal manual for settling defaulted high-ticket personal loans, multi-card debts, and NRI liabilities in Chandigarh, Mohali, and Panchkula.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-chandigarh.jpg'],
   },

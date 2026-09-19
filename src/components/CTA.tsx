@@ -148,7 +148,7 @@ const CTA = () => {
           <div className="relative w-[180px] md:w-[210px] h-[43px] flex-shrink-0">
             {/* Actual Button */}
             <Link
-              href="/contact-us"
+              href="/contact"
               className="absolute left-0 top-[4px] w-[180px] md:w-[210px] h-[35px] md:h-[39px] flex items-center justify-center gap-[8px] rounded-[47px] bg-white border border-white px-[20px] md:px-[27px] py-[8px] md:py-[10px] hover:bg-[var(--color-section-light)] transition-colors z-20"
             >
               <span 
@@ -186,7 +186,7 @@ const CTA = () => {
 
           {/* Explore Link */}
           <Link
-            href="/how-it-works"
+            href="/#process"
             className="text-neutral-300 text-[15px] md:text-[19px] font-normal leading-[19px] hover:text-white transition-colors whitespace-nowrap"
           >
             See how it works →

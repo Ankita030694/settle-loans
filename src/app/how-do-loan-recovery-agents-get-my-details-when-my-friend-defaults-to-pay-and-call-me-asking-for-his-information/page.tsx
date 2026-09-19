@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Why Recovery Agents Call You for Friend's Loan | Stop Harassment Now",
+  title: "Why Recovery Agents Call You for Friend's Loan Default",
   description: "How do loan recovery agents get my details when my friend defaults to pay? Learn about contact scraping, RBI guidelines, and how to stop illegal calls legally.",
   alternates: {
     canonical: "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information",

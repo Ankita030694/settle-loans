@@ -56,8 +56,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/it-professionals-personal-loan-debt-settlement',
   },
   openGraph: {
-    title: 'Loan Settlement for IT Professionals: Tech Layoff Debt Relief & Legal OTS Guide',
-    description: 'Confidential debt resolution for software engineers and tech leaders in Bengaluru, Hyderabad, and Pune. Settle unsecured personal loans and credit cards with 45%–65% haircuts under RBI guidelines without workplace or HR exposure.',
+    title: 'Loan Settlement for IT Professionals | SettleLoans',
+    description: 'Comprehensive guide to loan settlement for IT professionals in Bengaluru, Hyderabad & Pune facing layoffs or salary cuts.',
     url: 'https://www.settleloans.in/it-professionals-personal-loan-debt-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -73,8 +73,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement for IT Professionals: Tech Layoff Debt Relief & Legal OTS Guide',
-    description: 'Strategic and confidential legal guide for IT professionals settling high-value personal loans and credit card debt following tech layoffs and variable pay reductions.',
+    title: 'Loan Settlement for IT Professionals | SettleLoans',
+    description: 'Comprehensive guide to loan settlement for IT professionals in Bengaluru, Hyderabad & Pune facing layoffs or salary cuts.',
     images: ['https://www.settleloans.in/images/infographics/it-professionals-personal-loan-debt-settlement.jpg'],
   },
 };

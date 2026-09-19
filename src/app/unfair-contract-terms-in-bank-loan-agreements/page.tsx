@@ -58,8 +58,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements',
   },
   openGraph: {
-    title: 'Unfair Contract Terms in Bank Loan Agreements: Consumer Protection Act Section 2(46) Legal Guide',
-    description: 'Learn how borrowers can legally challenge one-sided loan covenants, arbitrary interest hikes, and predatory penal charges under Section 2(46) of CPA 2019 to secure fair debt settlement.',
+    title: 'Unfair Bank Loan Agreement Terms | SettleLoans',
+    description: 'Challenging unfair loan terms in bank agreements under Consumer Protection Act Section 2(46). Protect your borrower rights with SettleLoans.',
     url: 'https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements',
     siteName: 'SettleLoans',
     images: [
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Unfair Contract Terms in Bank Loan Agreements: Section 2(46) CPA 2019 Legal Defense',
+    title: 'Unfair Bank Loan Agreement Terms | SettleLoans',
     description: 'Are your bank loan terms oppressive or one-sided? Discover how Consumer Protection Act Section 2(46) empowers borrowers to declare unfair terms null and void.',
     images: ['https://www.settleloans.in/images/infographics/unfair-contract-terms-in-bank-loan-agreements.jpg'],
   },

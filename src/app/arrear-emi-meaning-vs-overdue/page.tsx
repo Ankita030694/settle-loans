@@ -107,7 +107,7 @@ export default function ArrearEmiPage() {
           <div className="max-w-7xl mx-auto px-4 md:px-8 lg:px-12 py-4 text-xs md:text-sm text-[#747474] flex items-center gap-2">
             <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
             <span className="text-gray-300">/</span>
-            <Link href="/loans" className="hover:text-[#1F5EFF] transition-colors">Loans</Link>
+            <Link href="/loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Loans</Link>
             <span className="text-gray-300">/</span>
             <span className="font-bold text-[#2E2E2E]">Arrear EMI Meaning</span>
           </div>

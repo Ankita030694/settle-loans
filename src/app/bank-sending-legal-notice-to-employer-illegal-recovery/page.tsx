@@ -61,8 +61,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery',
   },
   openGraph: {
-    title: 'Bank Recovery Agent Contacting Employer HR? Legal Defenses & Defamation Notice Guide',
-    description: 'Stop illegal workplace debt collection. Understand your rights under Supreme Court privacy rulings, RBI Fair Practices Code, and how advocates file criminal defamation notices against banks.',
+    title: 'Bank Contacting Employer HR About Loan? Legal Defenses',
+    description: 'Is a bank recovery agent contacting your employer HR or sending legal notices to your office? Learn Supreme Court privacy protections.',
     url: 'https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery',
     siteName: 'SettleLoans',
     images: [
@@ -78,8 +78,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bank Recovery Agent Contacting Employer HR? Legal Defenses & Defamation Notice Guide',
-    description: 'Facing severe workplace harassment from recovery agents emailing HR or serving notices at your office? Discover statutory legal protections and defamation remedies.',
+    title: 'Bank Contacting Employer HR About Loan? Legal Defenses',
+    description: 'Is a bank recovery agent contacting your employer HR or sending legal notices to your office? Learn Supreme Court privacy protections.',
     images: ['https://www.settleloans.in/images/infographics/bank-sending-legal-notice-to-employer-illegal-recovery.jpg'],
   },
 };

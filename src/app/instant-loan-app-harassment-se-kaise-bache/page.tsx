@@ -55,8 +55,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache',
   },
   openGraph: {
-    title: 'Instant Loan App Harassment Se Kaise Bache: Emergency Cyber Shield & Legal Guide',
-    description: 'Trapped by 7-day instant loan apps? Learn how to neutralize morphed photo threats, stop contact harassment, lodge cybercrime.gov.in FIRs, and report on Chakshu portal.',
+    title: 'Instant Loan App Harassment Se Kaise Bache | SettleLoans',
+    description: 'Instant loan app harassment se kaise bache? Defend against 7-day Chinese loan apps, morphed photo threats, contact list calling, cybercrime.',
     url: 'https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache',
     siteName: 'SettleLoans',
     images: [
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Instant Loan App Harassment Se Kaise Bache: 4-Step Action Guide',
+    title: 'Instant Loan App Harassment Se Kaise Bache | SettleLoans',
     description: 'Immediate legal steps to stop Chinese loan app blackmail, morphed photos, contact list harassment, and file complaints on cybercrime.gov.in & Chakshu.',
     images: ['https://www.settleloans.in/images/infographics/instant-loan-app-harassment-se-kaise-bache.jpg'],
   },

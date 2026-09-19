@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence',
   },
   openGraph: {
-    title: 'How to Record Recovery Agent Calls for Court Evidence: Admissibility & Section 65B',
-    description: 'Comprehensive legal protocol on recording abusive recovery agent phone calls, preserving CCTV video, and authenticating electronic records under Section 65B IEA / Section 63 BSA for police FIRs and debt settlement.',
+    title: 'Record Recovery Agent Calls for Evidence | SettleLoans',
+    description: 'Learn how to legally record loan recovery agent calls, CCTV footage, and WhatsApp threats for court evidence in India. Understand Section 65B Evidence Act.',
     url: 'https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence',
     siteName: 'SettleLoans',
     images: [
@@ -76,8 +76,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Record Recovery Agent Calls for Court Evidence in India',
-    description: 'Master the legal steps to record harassing recovery agent calls, secure Section 65B / Section 63 BSA certificates, file criminal complaints, and secure structured loan settlement.',
+    title: 'Record Recovery Agent Calls for Evidence | SettleLoans',
+    description: 'Learn how to legally record loan recovery agent calls, CCTV footage, and WhatsApp threats for court evidence in India. Understand Section 65B Evidence Act.',
     images: ['https://www.settleloans.in/images/infographics/recording-recovery-agent-calls-legal-evidence.jpg'],
   },
 };

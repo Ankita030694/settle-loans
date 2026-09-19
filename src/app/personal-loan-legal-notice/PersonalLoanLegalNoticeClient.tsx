@@ -1170,7 +1170,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   Cheque Bounce Legal Defense
                 </Link>
                 <Link
-                  href="/lok-adalat-loan-settlement"
+                  href="/lok-adalat-me-loan-settlement-kaise-kare"
                   className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
                 >
                   Lok Adalat Loan Settlement
@@ -1200,7 +1200,7 @@ export default function PersonalLoanLegalNoticeClient() {
                   Missed Loan EMI Guide
                 </Link>
                 <Link
-                  href="/how-to-remove-settled-status-from-cibil"
+                  href="/remove-settled-status-from-cibil"
                   className="py-2 px-3.5 rounded-full bg-slate-100 hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200"
                 >
                   Remove Settled Status from CIBIL

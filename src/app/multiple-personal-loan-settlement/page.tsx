@@ -20,8 +20,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/multiple-personal-loan-settlement',
   },
   openGraph: {
-    title: 'How to Settle Multiple Personal Loans in India | Multi-Debt Resolution Guide',
-    description: 'Drowning in multiple unsecured loans and credit cards? Learn how an expert settlement agency negotiates with all lenders simultaneously into a single manageable plan.',
+    title: 'How to Settle Multiple Personal Loans | SettleLoans',
+    description: 'Drowning in multiple personal loans and credit cards? Discover how to negotiate multiple lenders simultaneously into one manageable settlement plan.',
     url: 'https://www.settleloans.in/multiple-personal-loan-settlement',
     siteName: 'SettleLoans',
     locale: 'en_IN',

@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default',
   },
   openGraph: {
-    title: 'Will Indian Loan Default Affect Overseas Credit Score? NRI CIBIL & Legal Guide',
-    description: 'A comprehensive regulatory and legal analysis on whether Indian bank loan or credit card defaults impact foreign credit scores (Equifax, Experian US, AECB) or visa renewals for NRIs in the USA, UK, Canada, and Gulf.',
+    title: 'Will Loan Default Affect Overseas Credit? | SettleLoans',
+    description: 'Will an Indian loan default affect your overseas credit score in the US, UK, Canada, or UAE? Understand cross-border credit reporting laws.',
     url: 'https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default',
     siteName: 'SettleLoans',
     images: [
@@ -67,8 +67,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Will Indian Loan Default Affect Overseas Credit Score? NRI CIBIL Guide',
-    description: 'Demystifying cross-border credit bureau sharing, immigration visa checks, and legal remedies for NRIs facing Indian loan defaults. Discover remote debt settlement solutions.',
+    title: 'Will Loan Default Affect Overseas Credit? | SettleLoans',
+    description: 'Will an Indian loan default affect your overseas credit score in the US, UK, Canada, or UAE? Understand cross-border credit reporting laws.',
     images: ['https://www.settleloans.in/images/infographics/nri-credit-bureau-mapping-cibil-overseas-default.jpg'],
   },
 };

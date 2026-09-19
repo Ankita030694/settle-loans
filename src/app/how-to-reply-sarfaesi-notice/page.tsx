@@ -217,7 +217,7 @@ export default function SarfaesiReplyPage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/legal" className="hover:text-[#1F5EFF] transition-colors">Legal Guides</Link>
+              <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Legal Guides</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">How to Reply to SARFAESI Notice</span>
             </div>
@@ -542,13 +542,13 @@ export default function SarfaesiReplyPage() {
               </div>
               <ul className="space-y-4">
                 <li>
-                  <Link href="/npa-classification" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                  <Link href="/loan-npa-status" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     RBI IRACP NPA Norms
                   </Link>
                 </li>
                 <li>
-                  <Link href="/drt-stay-order" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                  <Link href="/auction-notice-challenge" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     How to Get DRT Stay Order
                   </Link>
@@ -560,7 +560,7 @@ export default function SarfaesiReplyPage() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/property-auction" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                  <Link href="/auction-notice-challenge" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     Stop E-Auction Legally
                   </Link>

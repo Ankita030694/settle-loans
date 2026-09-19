@@ -669,25 +669,25 @@ export default function SarfaesiNoticePage() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b border-gray-100 pb-4 mb-4">Related Legal Guides</div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/what-to-do-when-you-receive-sarfaesi-act-section-13-4-possession-notice" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/auction-notice-challenge" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Dealing with Section 13(4) Notice
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-file-securitisation-application-under-section-17-of-sarfaesi" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/auction-notice-challenge" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Filing Section 17 SA in DRT
                     </Link>
                   </li>
                   <li>
-                    <Link href="/drt-stay-order-rules-and-deposit-requirements" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/auction-notice-challenge" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       DRT Stay Order Rules & Deposits
                     </Link>
                   </li>
                   <li>
-                    <Link href="/home-loan-settlement-process-before-auction" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/cashe-loan-settlement-process" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Home Loan Settlement Process
                     </Link>

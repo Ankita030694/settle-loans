@@ -107,7 +107,7 @@ export default function DownloadNOCPage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/loan-closure" className="hover:text-[#1F5EFF] transition-colors">Loan Closure</Link>
+              <Link href="/personal-loan-settlement-vs-closure" className="hover:text-[#1F5EFF] transition-colors">Loan Closure</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Download NOC Online</span>
             </div>
@@ -492,7 +492,7 @@ export default function DownloadNOCPage() {
                 <div className="relative z-10">
                   <div className="text-2xl font-black mb-4">Bank Refusing NOC?</div>
                   <p className="text-gray-300 mb-6">Let our legal experts send a strong legal notice to release your documents instantly.</p>
-                  <Link href="/services/legal-notice" className="inline-block bg-[#1F5EFF] text-white font-bold py-3 px-6 rounded-lg hover:bg-blue-600 transition-colors w-full">
+                  <Link href="/legal-notice-for-loan-recovery" className="inline-block bg-[#1F5EFF] text-white font-bold py-3 px-6 rounded-lg hover:bg-blue-600 transition-colors w-full">
                     Consult an Expert
                   </Link>
                 </div>
@@ -505,25 +505,25 @@ export default function DownloadNOCPage() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/rbi-guidelines-loan-closure" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/personal-loan-settlement-vs-closure" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Loan Closure Rules
                     </Link>
                   </li>
                   <li>
-                    <Link href="/rto-form-35-guide" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/download-noc-for-secured-loan" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RTO Form 35 Guide
                     </Link>
                   </li>
                   <li>
-                    <Link href="/duplicate-noc-application" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/download-noc-for-secured-loan" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Duplicate NOC Application
                     </Link>
                   </li>
                   <li>
-                    <Link href="/rbi-ombudsman-complaint" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/rbi-ombudsman-complaint-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Ombudsman Complaint
                     </Link>

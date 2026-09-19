@@ -762,7 +762,7 @@ export default function InterestSavingsDigitalPage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/loan-settlement-fees-and-success-rates-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/compare-debt-settlement-fees-and-success-rate" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
                       Fees & Success Rates
                     </Link>

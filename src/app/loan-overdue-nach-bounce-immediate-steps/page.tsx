@@ -221,7 +221,7 @@ export default function NachBouncePage() {
             <div className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/blog" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
+              <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Loan Overdue NACH Bounce</span>
             </div>
@@ -503,10 +503,10 @@ export default function NachBouncePage() {
                 </div>
                 <ul className="space-y-4">
                   {[
-                    { title: "Stop Recovery Agents Harassment", href: "/stop-recovery-agents" },
-                    { title: "Personal Loan Settlement Guide", href: "/personal-loan-settlement" },
-                    { title: "RBI Guidelines on Loan Default", href: "/rbi-guidelines-loan-default" },
-                    { title: "How Section 138 Works", href: "/section-138-cheque-bounce" }
+                    { title: "Stop Recovery Agents Harassment", href: "/rbi-rules-for-recovery-agents" },
+                    { title: "Personal Loan Settlement Guide", href: "/services/personal-loan-settlement" },
+                    { title: "RBI Guidelines on Loan Default", href: "/bank-loan-settlement-guidelines" },
+                    { title: "How Section 138 Works", href: "/section-138-cheque-bounce-loan-default" }
                   ].map((link, i) => (
                     <li key={i}>
                       <Link href={link.href} className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">

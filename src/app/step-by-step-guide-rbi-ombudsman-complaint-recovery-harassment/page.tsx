@@ -57,8 +57,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment',
   },
   openGraph: {
-    title: 'How to File Complaint in RBI Ombudsman Against Recovery Agents | Step-by-Step CMS Portal Guide',
-    description: 'Exhaustive regulatory and legal blueprint for filing an online grievance on the RBI CMS portal (cms.rbi.org.in) against aggressive loan recovery agents. Learn category selection, electronic evidence admissibility, and how to claim statutory compensation up to ₹20 Lakhs.',
+    title: 'File RBI Ombudsman Harassment Complaint | SettleLoans',
+    description: 'Step-by-step guide to filing an RBI Ombudsman complaint against recovery agent harassment. Claim up to ₹20 Lakh compensation with SettleLoans.',
     url: 'https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment',
     siteName: 'SettleLoans',
     images: [
@@ -74,8 +74,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to File Complaint in RBI Ombudsman Against Recovery Agents | Step-by-Step Guide',
-    description: 'Facing recovery agent harassment? Learn how to lodge an enforceable complaint on the RBI CMS portal (cms.rbi.org.in), submit digital evidence, and claim up to ₹20 Lakhs compensation under the Integrated Ombudsman Scheme.',
+    title: 'File RBI Ombudsman Harassment Complaint | SettleLoans',
+    description: 'Step-by-step guide to filing an RBI Ombudsman complaint against recovery agent harassment. Claim up to ₹20 Lakh compensation with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment.jpg'],
   },
 };

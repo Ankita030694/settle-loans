@@ -61,8 +61,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank',
   },
   openGraph: {
-    title: 'What to Do If Bank Does Not Follow Lok Adalat Settlement? Execution & Legal Remedies',
-    description: 'Enforce your Lok Adalat settlement order against non-compliant banks. Understand Section 21 LSA Act deemed civil court decrees, Order 21 CPC execution petitions, RBI ₹5,000/day NDC delay penalties, and CIBIL correction.',
+    title: 'Lok Adalat Order Non-Compliance by Bank | SettleLoans',
+    description: 'Bank refusing to honor Lok Adalat settlement order? Learn how to enforce Section 21 decree execution and obtain your NDC with SettleLoans.',
     url: 'https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank',
     siteName: 'SettleLoans',
     images: [
@@ -78,8 +78,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'What to Do If Bank Does Not Follow Lok Adalat Settlement Order? Legal Execution Guide',
-    description: 'Paid your agreed Lok Adalat settlement but the bank delayed your NDC or continues reporting overdue on CIBIL? Discover your statutory enforcement rights under Section 21 LSA Act.',
+    title: 'Lok Adalat Order Non-Compliance by Bank | SettleLoans',
+    description: 'Bank refusing to honor Lok Adalat settlement order? Learn how to enforce Section 21 decree execution and obtain your NDC with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/lok-adalat-order-non-compliance-by-bank.jpg'],
   },
 };

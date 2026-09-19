@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/5-lakh-personal-loan-settlement',
   },
   openGraph: {
-    title: 'How to Settle 5 Lakh Personal Loan: OTS Percentage, Timeline & Harassment Defense (2026)',
-    description: 'Learn how to settle a ₹5,00,000 personal loan default in India. Understand realistic 50%–70% OTS haircuts, NPA provisioning timelines, collection agent defense, and RBI compromise settlement guidelines.',
+    title: 'How to Settle 5 Lakh Personal Loan in India | SettleLoans',
+    description: 'Step-by-step legal guide to settling a ₹5 Lakh personal loan in India. Stop harassment & settle debt legally with SettleLoans.',
     url: 'https://www.settleloans.in/5-lakh-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Settle 5 Lakh Personal Loan: OTS Percentage, Timeline & Legal Defense',
+    title: 'How to Settle 5 Lakh Personal Loan in India | SettleLoans',
     description: 'Technical and legal manual for settling defaulted ₹5 Lakh personal loans across Indian banks and NBFCs under RBI compromise settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/5-lakh-personal-loan-settlement.jpg'],
   },

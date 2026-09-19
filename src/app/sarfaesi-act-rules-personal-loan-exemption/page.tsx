@@ -56,8 +56,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption',
   },
   openGraph: {
-    title: 'Does SARFAESI Act Apply to Personal Loans? Legal Rules & Exemption Breakdown',
-    description: 'Explore the absolute legal protections for personal loan borrowers under the SARFAESI Act. Learn why Section 13(2) cannot attach unencumbered residential property and how to stop illegal recovery harassment.',
+    title: 'Does SARFAESI Act Apply to Personal Loans? | SettleLoans',
+    description: 'Does the SARFAESI Act apply to personal loans or credit cards? Understand the legal reality behind Section 13(2) notices, security interest rules.',
     url: 'https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption',
     siteName: 'SettleLoans',
     images: [
@@ -73,8 +73,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Does SARFAESI Act Apply to Personal Loans? Legal Protections & OTS Reality',
-    description: 'Received a SARFAESI Section 13(2) threat for an unsecured personal loan? Discover your statutory rights, civil exemptions under Section 60 CPC, and proven debt settlement strategies.',
+    title: 'Does SARFAESI Act Apply to Personal Loans? | SettleLoans',
+    description: 'Does the SARFAESI Act apply to personal loans or credit cards? Understand the legal reality behind Section 13(2) notices, security interest rules.',
     images: ['https://www.settleloans.in/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg'],
   },
 };

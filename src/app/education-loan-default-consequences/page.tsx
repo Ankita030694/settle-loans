@@ -220,7 +220,7 @@ export default function EducationLoanDefaultPage() {
           <div className="max-w-7xl mx-auto px-4 md:px-8 lg:px-12 py-3 flex items-center gap-2 text-xs md:text-sm text-[#747474]">
             <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
             <span className="text-gray-300">/</span>
-            <Link href="/loan-default" className="hover:text-[#1F5EFF] transition-colors">Loan Default</Link>
+            <Link href="/loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Loan Default</Link>
             <span className="text-gray-300">/</span>
             <span className="font-bold text-[#2E2E2E]">Education Loan Default Consequences</span>
           </div>
@@ -600,25 +600,25 @@ export default function EducationLoanDefaultPage() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/sarfaesi-act-rules" className="flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/auction-notice-challenge" className="flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       SARFAESI Act Explained
                     </Link>
                   </li>
                   <li>
-                    <Link href="/rbi-guidelines-recovery-agents" className="flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/rbi-rules-for-recovery-agents" className="flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Rules on Harassment
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-settle-loan" className="flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/loan-settlement-process-in-india" className="flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       The OTS Settlement Process
                     </Link>
                   </li>
                   <li>
-                    <Link href="/cibil-score-after-settlement" className="flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/credit-score-improvement" className="flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       CIBIL Impact Guide
                     </Link>

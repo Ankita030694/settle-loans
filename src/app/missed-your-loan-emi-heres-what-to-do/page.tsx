@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Missed Your Loan EMI? Here's What to Do | Step-by-Step Guide 2024",
+  title: "Missed Your Loan EMI? Here's What to Do | SettleLoans",
   description: "Have you missed your loan EMI? Learn the immediate steps to take, understand grace periods, CIBIL impact, and legal rights.",
   alternates: {
     canonical: "https://www.settleloans.in/missed-your-loan-emi-heres-what-to-do",

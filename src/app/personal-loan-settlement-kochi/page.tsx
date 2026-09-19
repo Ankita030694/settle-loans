@@ -56,8 +56,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-kochi',
   },
   openGraph: {
-    title: 'Debt Settlement Advocates in Kochi Kerala: Legal Notice Defense & OTS Haircut (2026)',
-    description: 'Expert legal defense and One-Time Settlement (OTS) representation for personal loans, credit card defaults, and Gulf NRI returnee debts across Kochi, Thiruvananthapuram, and Kozhikode under RBI compromise rules.',
+    title: 'Debt Settlement Advocates in Kochi Kerala | SettleLoans',
+    description: 'Top debt settlement advocates in Kochi, Kerala. Defend against Ernakulam CJM Section 138/25 PSSA notices, stop private bank recovery harassment.',
     url: 'https://www.settleloans.in/personal-loan-settlement-kochi',
     siteName: 'SettleLoans',
     images: [
@@ -73,8 +73,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Debt Settlement Advocates in Kochi Kerala: Legal Defense & RBI OTS Relief',
-    description: 'Technical and legal manual for personal loan settlement in Kochi and Kerala. Advocate-led defense against Section 25 PSSA and Section 138 notices across Ernakulam courts with NRI returnee debt resolution.',
+    title: 'Debt Settlement Advocates in Kochi Kerala | SettleLoans',
+    description: 'Top debt settlement advocates in Kochi, Kerala. Defend against Ernakulam CJM Section 138/25 PSSA notices, stop private bank recovery harassment.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-kochi.jpg'],
   },
 };

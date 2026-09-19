@@ -119,7 +119,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/guides" className="hover:text-[#1F5EFF] transition-colors">Loan Guides</Link>
+              <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Loan Guides</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Handling Reminder Calls After an EMI Bounce</span>
             </div>
@@ -387,25 +387,25 @@ export default function ReminderCallsAfterEmiBouncePage() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/guides/rbi-guidelines-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/rbi-rules-for-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Guidelines on Recovery
                     </Link>
                   </li>
                   <li>
-                    <Link href="/guides/how-to-file-ombudsman-complaint" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/rbi-ombudsman-complaint-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Filing an Ombudsman Complaint
                     </Link>
                   </li>
                   <li>
-                    <Link href="/guides/what-is-npa" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/loan-npa-status" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Understanding NPA Accounts
                     </Link>
                   </li>
                   <li>
-                    <Link href="/guides/personal-loan-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
+                    <Link href="/services/personal-loan-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Personal Loan Settlement Guide
                     </Link>

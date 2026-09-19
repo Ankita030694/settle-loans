@@ -52,8 +52,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/stashfin-loan-default-settlement-process',
   },
   openGraph: {
-    title: 'Stashfin Loan Default Settlement Process: Akara Capital OTS & 60% Haircut (2026)',
-    description: 'Master the step-by-step roadmap to settle defaulted Stashfin card credit lines and personal loans directly with Akara Capital. Defend legal notices, stop recovery calls, and secure up to 60% principal waivers under RBI compromise guidelines.',
+    title: 'Stashfin Loan Default Settlement Guide | SettleLoans',
+    description: 'Learn how to settle Stashfin loan defaults legally. Handle Akara Capital NBFC notices and negotiate structured compromise OTS with SettleLoans.',
     url: 'https://www.settleloans.in/stashfin-loan-default-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -69,8 +69,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Stashfin Loan Default Settlement Process: Akara Capital OTS & 60% Haircut',
-    description: 'Technical and legal manual for negotiating One-Time Settlements (OTS) on defaulted Stashfin credit lines and personal loans with Akara Capital Advisors under RBI rules.',
+    title: 'Stashfin Loan Default Settlement Guide | SettleLoans',
+    description: 'Learn how to settle Stashfin loan defaults legally. Handle Akara Capital NBFC notices and negotiate structured compromise OTS with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/stashfin-loan-default-settlement-process.jpg'],
   },
 };

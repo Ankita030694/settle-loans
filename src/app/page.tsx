@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description:
     "Resolve personal loans, credit card dues, and recovery harassment with legal debt settlement and RBI-compliant advisory across India.",
   alternates: {
-    canonical: "https://www.settleloans.in",
+    canonical: "https://www.settleloans.in/",
   },
   openGraph: {
     title: "Loan Settlement & Debt Relief Services | SettleLoans",

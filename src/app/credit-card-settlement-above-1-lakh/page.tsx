@@ -23,9 +23,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/credit-card-settlement-above-1-lakh',
   },
   openGraph: {
-    title: 'Credit Card Settlement Above 1 Lakh: Haircuts, Inflation Traps & Strategy (2026)',
+    title: 'Credit Card Settlement Above 1 Lakh | SettleLoans',
     description:
-      'Discover how credit card balances above ₹1 Lakh inflate aggressively through 42%–48% APR compounding, and how legal OTS negotiations unlock 60%–70% waivers on total outstanding dues.',
+      'Settling a credit card bill above ₹1 Lakh? Learn why balances inflate from ₹1L to ₹1.65L through compounding interest, how to secure 60%–70% settlement.',
     url: 'https://www.settleloans.in/credit-card-settlement-above-1-lakh',
     siteName: 'SettleLoans',
     images: [
@@ -41,9 +41,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Credit Card Settlement Above ₹1 Lakh: The Ultimate Haircut & Negotiation Playbook',
+    title: 'Credit Card Settlement Above 1 Lakh | SettleLoans',
     description:
-      'A ₹1 Lakh credit card balance quickly spirals to ₹1.65 Lakhs due to finance charges and GST. Learn how banks calculate OTS discounts and how to resolve your debt with a single compromise payment.',
+      'Settling a credit card bill above ₹1 Lakh? Learn why balances inflate from ₹1L to ₹1.65L through compounding interest, how to secure 60%–70% settlement.',
     images: ['https://www.settleloans.in/images/infographics/credit-card-settlement-above-1-lakh.jpg'],
   },
 };

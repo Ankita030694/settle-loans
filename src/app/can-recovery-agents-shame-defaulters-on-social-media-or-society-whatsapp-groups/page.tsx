@@ -509,19 +509,19 @@ export default function SocialMediaShamingDefensePage() {
                 </div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/how-to-file-cybercrime-fir" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/cyber-crime-complaint-illegal-loan-apps-blackmail" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       How to File a Cybercrime FIR
                     </Link>
                   </li>
                   <li>
-                    <Link href="/rbi-guidelines-on-recovery-agents" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/rbi-rules-for-recovery-agents" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Guidelines on Harassment
                     </Link>
                   </li>
                   <li>
-                    <Link href="/right-to-privacy-loan-defaults" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/recording-recovery-agent-calls-legal-evidence" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Supreme Court on Privacy
                     </Link>

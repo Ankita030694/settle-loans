@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-vijayawada',
   },
   openGraph: {
-    title: 'Debt Settlement Advocates in Vijayawada: Personal Loan OTS & Legal Relief (2026)',
-    description: 'Expert legal defense and compromise One-Time Settlement (OTS) representation for agricultural traders, transport operators, and salaried employees facing loan defaults across Vijayawada, Guntur, and Krishna District.',
+    title: 'Personal Loan Settlement in Vijayawada | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Vijayawada. Stop bank recovery harassment and resolve debt with structured OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-vijayawada',
     siteName: 'SettleLoans',
     images: [
@@ -70,8 +70,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Debt Settlement Advocates in Vijayawada: Legal Notice Defense & RBI OTS Relief',
-    description: 'Authoritative legal manual for personal loan settlement in Vijayawada and Guntur. Advocate-led defense against Section 25 PSSA and Section 138 notices in local courts with DLSA Lok Adalat resolution.',
+    title: 'Personal Loan Settlement in Vijayawada | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Vijayawada. Stop bank recovery harassment and resolve debt with structured OTS via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-vijayawada.jpg'],
   },
 };

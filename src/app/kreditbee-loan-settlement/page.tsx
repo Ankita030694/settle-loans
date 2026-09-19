@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/kreditbee-loan-settlement',
   },
   openGraph: {
-    title: 'KreditBee Loan Settlement: OTS Rules, Legal Defense & Harassment Shield (2026)',
-    description: 'Struggling with defaulted KreditBee instant personal loans? Discover how to negotiate with Krazybee Services NBFC, halt third-party collection harassment, defend against legal notices, and secure a 50%–65% OTS haircut with an official zero-balance NDC.',
+    title: 'KreditBee Loan Settlement Guide | SettleLoans',
+    description: 'Complete legal guide to KreditBee and Krazybee Services personal loan settlement. Halt automated recovery calls and WhatsApp harassment.',
     url: 'https://www.settleloans.in/kreditbee-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'KreditBee Loan Settlement: OTS Process & Anti-Harassment Defense',
+    title: 'KreditBee Loan Settlement Guide | SettleLoans',
     description: 'Technical and legal defense blueprint for resolving defaulted KreditBee app loans up to ₹5 Lakhs under RBI compromise frameworks and Digital Lending Guidelines.',
     images: ['https://www.settleloans.in/images/infographics/kreditbee-loan-settlement.jpg'],
   },

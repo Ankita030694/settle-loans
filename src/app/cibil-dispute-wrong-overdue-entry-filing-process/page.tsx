@@ -204,7 +204,7 @@ export default function CibilDisputePage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/credit-repair" className="hover:text-[#1F5EFF] transition-colors">Credit Repair</Link>
+              <Link href="/credit-score-improvement" className="hover:text-[#1F5EFF] transition-colors">Credit Repair</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">CIBIL Dispute False Overdue</span>
             </div>
@@ -620,25 +620,25 @@ export default function CibilDisputePage() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/check-free-cibil" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/check-free-cibil-score" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Check Free CIBIL Score
                     </Link>
                   </li>
                   <li>
-                    <Link href="/rbi-ombudsman-complaint-guide" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/rbi-ombudsman-complaint-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Complaint Guide
                     </Link>
                   </li>
                   <li>
-                    <Link href="/loan-settlement-process" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/loan-settlement-process-in-india" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Loan Settlement Process
                     </Link>
                   </li>
                   <li>
-                    <Link href="/legal-notice-format" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/legal-notice-for-loan-recovery" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Download Legal Formats
                     </Link>

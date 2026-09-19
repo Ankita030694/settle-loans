@@ -3,7 +3,7 @@ import PersonalLoanSettlementLawyerClient from "./PersonalLoanSettlementLawyerCl
 
 export async function generateMetadata(): Promise<Metadata> {
   const url = "https://www.settleloans.in/personal-loan-settlement-lawyer";
-  const title = "Expert Personal Loan Settlement Lawyer | Stop Recovery Harassment";
+  const title = "Personal Loan Settlement Lawyer | Stop Recovery Harassment";
   const description = "Facing legal notices or bank recovery harassment? Hire a specialized personal loan settlement lawyer in India to negotiate your debt and protect your rights.";
 
   return {

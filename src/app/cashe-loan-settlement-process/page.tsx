@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/cashe-loan-settlement-process',
   },
   openGraph: {
-    title: 'CASHe App Loan Settlement: Process, Legal Notice Defense & Haircut (2026)',
-    description: 'Strategic guide to settling defaulted CASHe credit lines and Bhanix Finance personal loans. Master advocate notice defense, late fee elimination, and Credit Committee compromise negotiations.',
+    title: 'CASHe App Loan Settlement Process | SettleLoans',
+    description: 'Comprehensive guide to CASHe app loan settlement and Bhanix Finance debt resolution. Learn how to halt late fee accumulation, stop recovery harassment.',
     url: 'https://www.settleloans.in/cashe-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'CASHe App Loan Settlement: Process, Legal Notice Defense & Haircut',
+    title: 'CASHe App Loan Settlement Process | SettleLoans',
     description: 'Technical and legal manual for resolving defaulted CASHe app loans under RBI Compromise Settlement frameworks with maximum principal debt waivers.',
     images: ['https://www.settleloans.in/images/infographics/cashe-loan-settlement-process.jpg'],
   },

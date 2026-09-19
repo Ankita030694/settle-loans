@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/aditya-birla-finance-loan-settlement',
   },
   openGraph: {
-    title: 'Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
-    description: 'Learn how to settle an Aditya Birla Capital personal or business loan. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
+    title: 'Aditya Birla Loan Settlement Process | SettleLoans',
+    description: 'Comprehensive guide to Aditya Birla Capital & Finance loan settlement. Learn how to settle personal and business loans, stop NACH bounce charges.',
     url: 'https://www.settleloans.in/aditya-birla-finance-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut',
+    title: 'Aditya Birla Loan Settlement Process | SettleLoans',
     description: 'Technical and legal manual for settling defaulted Aditya Birla Capital personal loans and business credit facilities under RBI Compromise Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/aditya-birla-finance-loan-settlement.jpg'],
   },

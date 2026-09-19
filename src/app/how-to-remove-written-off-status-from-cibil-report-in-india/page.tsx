@@ -525,19 +525,19 @@ export default function RemoveWrittenOffStatusPage() {
                 </div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/settled-vs-closed-cibil-status" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/personal-loan-settlement-vs-closure" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Settled vs Closed CIBIL
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-remove-settled-status-from-cibil" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/remove-settled-status-from-cibil" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Remove Settled Status
                     </Link>
                   </li>
                   <li>
-                    <Link href="/personal-loan-default-legal-action" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/personal-loan-legal-notice" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Personal Loan Defaults
                     </Link>

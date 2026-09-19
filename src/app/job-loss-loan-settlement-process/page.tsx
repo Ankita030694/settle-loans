@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: "https://www.settleloans.in/job-loss-loan-settlement-process",
   },
   openGraph: {
-    title: "Job Loss & Layoff Loan Settlement Guide: Settle Debt After Unemployment (2026)",
-    description: "Comprehensive legal and financial manual on settling defaulted personal loans following job loss or corporate downsizing in India. Discover how to leverage documented hardship for maximum OTS waivers under RBI compromise frameworks.",
+    title: "Job Loss & Layoff Loan Settlement Guide | SettleLoans",
+    description: "Learn how to settle personal loans and credit card debt after job loss or corporate layoffs in India. Discover how to compile a formal hardship portfolio.",
     url: "https://www.settleloans.in/job-loss-loan-settlement-process",
     siteName: "SettleLoans",
     images: [
@@ -70,8 +70,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Job Loss & Layoff Loan Settlement Guide: Settle Debt After Unemployment",
-    description: "Strategic guide for borrowers facing loan defaults after layoffs. Learn how to present hardship dossiers, invoke RBI compromise settlement norms, and negotiate 50%–70% debt haircuts.",
+    title: "Job Loss & Layoff Loan Settlement Guide | SettleLoans",
+    description: "Learn how to settle personal loans and credit card debt after job loss or corporate layoffs in India. Discover how to compile a formal hardship portfolio.",
     images: ["https://www.settleloans.in/images/infographics/job-loss-loan-settlement-process.jpg"],
   },
 };

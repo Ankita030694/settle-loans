@@ -1,8 +1,35 @@
-"use client";
-
 import React from "react";
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: "Unsecured Personal Loan Definition & Guide",
+  description: "Understand the full unsecured personal loan definition. Learn about eligibility, interest rates, benefits, risks, and debt relief options in India.",
+  alternates: {
+    canonical: "https://www.settleloans.in/unsecured-personal-loan-definition",
+  },
+  openGraph: {
+    title: "Unsecured Personal Loan Definition & Guide | SettleLoans",
+    description: "Understand the full unsecured personal loan definition. Learn about eligibility, interest rates, benefits, risks, and debt relief options in India.",
+    url: "https://www.settleloans.in/unsecured-personal-loan-definition",
+    type: "article",
+    images: [
+      {
+        url: "https://www.settleloans.in/images/unsecured-loan-definition.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Unsecured Personal Loan Definition",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Unsecured Personal Loan Definition & Guide | SettleLoans",
+    description: "Understand the full unsecured personal loan definition. Learn about eligibility, interest rates, benefits, risks, and debt relief options in India.",
+    images: ["https://www.settleloans.in/images/unsecured-loan-definition.jpg"],
+  },
+};
 
 export default function UnsecuredPersonalLoanDefinitionPage() {
     const schemaData = {
@@ -207,7 +234,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                             A comprehensive guide to unsecured personal loans. Learn about eligibility, interest rates, benefits, and expert strategies for managing your financial obligations effectively.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Consult Financial Experts
                             </Link>
                         </div>
@@ -221,7 +248,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                             <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
                                 <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
-                                <li><Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
+                                <li><Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
                                 <li><span className="text-gray-300">/</span></li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">Unsecured Personal Loan Definition</li>
                             </ol>
@@ -632,7 +659,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                             <p className="text-xl mb-8 opacity-90">
                                 Struggling with high-interest personal loans or facing repayment difficulties? Our financial experts can help you navigate your options and find a sustainable solution.
                             </p>
-                            <Link href="/contact-us" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
+                            <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
                                 Request Financial Consultation
                             </Link>
                         </div>
@@ -652,7 +679,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Overwhelmed by unsecured loan debts? Get specialized guidance to negotiate settlements and protect your financial future.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
                                         Get Professional Help
                                     </Link>
                                     <p className="mt-6 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.3em] font-black">Expert Financial Advocates</p>

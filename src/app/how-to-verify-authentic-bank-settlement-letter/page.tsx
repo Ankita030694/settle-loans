@@ -53,7 +53,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Verify Authentic Bank Settlement Letter | SettleLoans",
-    description: "Protect yourself from rogue collection agent scams. Comprehensive legal guide to verifying bank OTS sanction letters, official domain headers, Credit Committee seals, and RBI-mandated remittance protocols.",
+    description: "Learn how to verify a bank loan settlement letter authenticity. Discover 7 critical forensic checks, official domain email verification, branch seal checks.",
     url: "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter",
     siteName: "SettleLoans",
     images: [
@@ -69,8 +69,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "How to Verify Authentic Bank Settlement Letter: Stop Fake OTS Scams (2026)",
-    description: "Critical E-E-A-T fraud protection manual: 7 forensic checks to verify bank loan settlement letters, spot rogue agent WhatsApp forgeries, and ensure safe debt discharge.",
+    title: "Verify Authentic Bank Settlement Letter | SettleLoans",
+    description: "Learn how to verify a bank loan settlement letter authenticity. Discover 7 critical forensic checks, official domain email verification, branch seal checks.",
     images: ["https://www.settleloans.in/images/infographics/how-to-verify-authentic-bank-settlement-letter.jpg"],
   },
 };

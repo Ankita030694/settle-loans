@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/kissht-loan-settlement-process',
   },
   openGraph: {
-    title: 'Kissht App Loan Settlement: Stop Harassment, RBI Rules & OTS Guide (2026)',
-    description: 'Definitive legal guide to settling defaulted Kissht & Ring app credit lines. Halt recovery harassment, revoke NACH sweeps, enforce RBI fair practices, and secure a verified ₹0 No Dues Certificate.',
+    title: 'Kissht App Loan Settlement Guide | SettleLoans',
+    description: 'Trapped in Kissht or Ring app debt? Learn how to stop aggressive recovery harassment, halt WhatsApp threats, invoke RBI Digital Lending Guidelines.',
     url: 'https://www.settleloans.in/kissht-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Kissht App Loan Settlement: Stop Harassment, RBI Rules & OTS Guide',
+    title: 'Kissht App Loan Settlement Guide | SettleLoans',
     description: 'Technical and legal manual for settling defaulted Kissht loans under RBI Digital Lending Guidelines and OTS compromise frameworks.',
     images: ['https://www.settleloans.in/images/infographics/kissht-loan-settlement-process.jpg'],
   },

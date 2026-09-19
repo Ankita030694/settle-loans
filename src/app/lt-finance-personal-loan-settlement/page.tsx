@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/lt-finance-personal-loan-settlement',
   },
   openGraph: {
-    title: 'L&T Finance Personal Loan Settlement: OTS Rules, Haircut Matrix & Legal Defense (2026)',
-    description: 'Definitive manual for settling defaulted L&T Finance personal and retail loans. Understand internal Stressed Assets Committee thresholds, rural vs urban recovery dynamics, and step-by-step compromise procedures.',
+    title: 'L&T Finance Personal Loan Settlement | SettleLoans',
+    description: 'Learn how to settle L&T Finance personal loans legally. Stop recovery harassment and negotiate structured OTS discount waivers with SettleLoans.',
     url: 'https://www.settleloans.in/lt-finance-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'L&T Finance Personal Loan Settlement: OTS Rules, Haircut Matrix & Legal Defense',
+    title: 'L&T Finance Personal Loan Settlement | SettleLoans',
     description: 'Technical and legal manual for negotiating One-Time Settlements on defaulted L&T Finance personal loans under RBI Compromise Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/lt-finance-personal-loan-settlement.jpg'],
   },

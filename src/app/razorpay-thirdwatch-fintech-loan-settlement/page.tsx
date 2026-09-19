@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/razorpay-thirdwatch-fintech-loan-settlement',
   },
   openGraph: {
-    title: 'Razorpay & Fintech Merchant Cash Advance Loan Settlement Guide',
+    title: 'Merchant Cash Advance Loan Settlement | SettleLoans',
     description:
       'Comprehensive legal guide for online sellers and D2C founders to settle revenue-based loans and merchant cash advances without freezing payment gateway payouts.',
     url: 'https://www.settleloans.in/razorpay-thirdwatch-fintech-loan-settlement',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Razorpay & Fintech Merchant Cash Advance Loan Settlement Guide',
+    title: 'Merchant Cash Advance Loan Settlement | SettleLoans',
     description:
       'Strategic framework to resolve defaulted fintech merchant loans, revoke daily NACH sweeps, prevent gateway payout freezes, and secure 45%–65% OTS haircuts.',
     images: ['https://www.settleloans.in/images/infographics/razorpay-thirdwatch-fintech-loan-settlement.jpg'],

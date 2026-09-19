@@ -483,9 +483,9 @@ export default function HowToSettleLoanWithBankPage() {
                                 <ul className="space-y-4 text-sm font-bold">
                                     {[
                                         { name: "Loan Settlement Near Me", href: "/loan-settlement-near-me" },
-                                        { name: "Personal Loan Settlement", href: "/personal-loan-settlement" },
-                                        { name: "Credit Card Settlement", href: "/credit-card-settlement" },
-                                        { name: "Harassment Protection", href: "/how-to-stop-recovery-agent-home-visit" }
+                                        { name: "Personal Loan Settlement", href: "/services/personal-loan-settlement" },
+                                        { name: "Credit Card Settlement", href: "/services/credit-card-settlement" },
+                                        { name: "Harassment Protection", href: "/recovery-agent-home-visit-rules" }
                                     ].map((item, i) => (
                                         <li key={i}>
                                             <Link href={item.href} className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

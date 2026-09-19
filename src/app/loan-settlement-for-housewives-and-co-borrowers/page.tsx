@@ -58,8 +58,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers',
   },
   openGraph: {
-    title: 'Loan Settlement for Non Earning Co Borrower & Housewives | SettleLoans',
-    description: 'Legal defense guide for non-earning co-borrowers and homemakers facing loan default. Understand Stridhan rights, Section 60 CPC exemptions, and RBI anti-harassment protections.',
+    title: 'Settlement for Housewives & Co-Borrowers | SettleLoans',
+    description: 'Non-earning housewives and co-borrowers facing recovery harassment? Understand Stridhan protections and legal debt relief with SettleLoans.',
     url: 'https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers',
     siteName: 'SettleLoans',
     images: [
@@ -75,8 +75,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement for Non Earning Co Borrower & Housewives | SettleLoans',
-    description: 'Are recovery agents harassing non-earning housewives or co-applicants? Discover Section 60 CPC Stridhan exemptions, zero-asset legal defense, and structured OTS resolution.',
+    title: 'Settlement for Housewives & Co-Borrowers | SettleLoans',
+    description: 'Non-earning housewives and co-borrowers facing recovery harassment? Understand Stridhan protections and legal debt relief with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/loan-settlement-for-housewives-and-co-borrowers.jpg'],
   },
 };

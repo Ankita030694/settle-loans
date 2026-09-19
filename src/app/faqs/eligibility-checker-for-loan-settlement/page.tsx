@@ -162,7 +162,7 @@ export default function EligibilityCheckerPage() {
                  <span className="text-gray-300">/</span>
               </li>
               <li>
-                <Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
+                <Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
               </li>
               <li>
                  <span className="text-gray-300">/</span>

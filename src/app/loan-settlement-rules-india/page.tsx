@@ -1,7 +1,27 @@
-"use client";
-
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Loan Settlement Rules in India | RBI Guidelines',
+  description: "The definitive guide to the legal rules governing loan settlement in India. Cover RBI's 2024 compromise settlement framework, cooling-off periods, and...",
+  alternates: {
+    canonical: 'https://www.settleloans.in/loan-settlement-rules-india',
+  },
+  openGraph: {
+    title: 'Loan Settlement Rules in India | RBI Guidelines',
+    description: "The definitive guide to the legal rules governing loan settlement in India. Cover RBI's 2024 compromise settlement framework, cooling-off periods, and...",
+    url: 'https://www.settleloans.in/loan-settlement-rules-india',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Loan Settlement Rules in India | RBI Guidelines',
+    description: "The definitive guide to the legal rules governing loan settlement in India. Cover RBI's 2024 compromise settlement framework, cooling-off periods, and...",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function LoanSettlementRulesIndiaPage() {
     const jsonLd = {

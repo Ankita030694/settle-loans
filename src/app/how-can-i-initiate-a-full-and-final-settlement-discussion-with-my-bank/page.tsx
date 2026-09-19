@@ -683,7 +683,7 @@ export default function InitiateSettlementPage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-negotiate-personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/faqs/how-to-negotiate-personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
                       Advanced Negotiation
                     </Link>

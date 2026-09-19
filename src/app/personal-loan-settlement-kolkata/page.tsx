@@ -62,8 +62,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-kolkata',
   },
   openGraph: {
-    title: 'Loan Settlement Advocates in Kolkata: Legal Defense & Lok Adalat OTS Guide',
-    description: 'Expert advocate representation for personal loan defaults, Section 138/25 notices, and Lok Adalat OTS settlements across Kolkata, Salt Lake, Rajarhat, and Howrah.',
+    title: 'Loan Settlement Advocates in Kolkata | SettleLoans',
+    description: 'Struggling with personal loan default, recovery harassment, or Bankshall / Alipore court summons in Kolkata & West Bengal?',
     url: 'https://www.settleloans.in/personal-loan-settlement-kolkata',
     siteName: 'SettleLoans',
     images: [
@@ -79,8 +79,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Advocates in Kolkata: Legal Defense & Lok Adalat Guide',
-    description: 'Technical and legal roadmap for personal loan settlement in Kolkata and West Bengal. Advocate-led defense against Section 25 PSSA and Section 138 notices across Bankshall and Alipore courts.',
+    title: 'Loan Settlement Advocates in Kolkata | SettleLoans',
+    description: 'Struggling with personal loan default, recovery harassment, or Bankshall / Alipore court summons in Kolkata & West Bengal?',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-kolkata.jpg'],
   },
 };

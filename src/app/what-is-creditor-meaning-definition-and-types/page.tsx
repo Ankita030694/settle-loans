@@ -578,7 +578,7 @@ export default function CreditorMeaningPage() {
                 </div>
                 <ul className="space-y-3">
                   <li>
-                    <Link href="/rbi-guidelines-on-loan-recovery-agents" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/rbi-rules-for-recovery-agents" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Guidelines on Recovery
                     </Link>
@@ -590,7 +590,7 @@ export default function CreditorMeaningPage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/difference-between-civil-and-criminal-liability-in-loans" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/faqs/difference-between-loan-write-off-and-loan-settlements" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Civil vs Criminal Liability
                     </Link>

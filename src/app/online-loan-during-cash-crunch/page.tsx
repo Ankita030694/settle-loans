@@ -489,7 +489,7 @@ export default function OnlineLoanDuringCashCrunch() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/cybercrime-complaint-process" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
+                    <Link href="/cyber-crime-complaint-illegal-loan-apps-blackmail" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Cybercrime Complaint Process
                     </Link>

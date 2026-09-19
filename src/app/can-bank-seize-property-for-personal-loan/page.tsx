@@ -18,8 +18,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/can-bank-seize-property-for-personal-loan',
   },
   openGraph: {
-    title: 'Can Bank Attach Property for Personal Loan in India? (2026 Legal Reality)',
-    description: 'Stop living in fear of asset seizure. Discover why personal loans are 100% unsecured, why SARFAESI Act does not apply, and how Section 60 CPC protects your home.',
+    title: 'Can Bank Seize Property for Personal Loan? | SettleLoans',
+    description: 'Terrified that a bank will seize your house, car, or salary for an unpaid personal loan? Learn why personal loans are unsecured.',
     url: 'https://www.settleloans.in/can-bank-seize-property-for-personal-loan',
     siteName: 'SettleLoans',
     images: [
@@ -35,8 +35,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Can Bank Attach Property for Personal Loan in India? Legal Reality Explained',
-    description: 'Definitive legal guide on asset attachment: Why personal loans cannot trigger direct property seizure, SARFAESI inapplicability, and borrower defense strategies.',
+    title: 'Can Bank Seize Property for Personal Loan? | SettleLoans',
+    description: 'Terrified that a bank will seize your house, car, or salary for an unpaid personal loan? Learn why personal loans are unsecured.',
     images: ['https://www.settleloans.in/images/infographics/can-bank-seize-property-for-personal-loan.jpg'],
   },
 };

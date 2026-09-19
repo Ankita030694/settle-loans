@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/incred-personal-loan-settlement-process',
   },
   openGraph: {
-    title: 'InCred Personal Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
-    description: 'Learn how to settle an InCred Financial Services personal or MSME loan. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
+    title: 'InCred Personal Loan Settlement | SettleLoans',
+    description: 'Learn how to settle InCred personal and education loans legally. Handle advocate notices and negotiate compromise OTS with SettleLoans.',
     url: 'https://www.settleloans.in/incred-personal-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'InCred Personal Loan Settlement: OTS Rules, Legal Defense & Haircut',
-    description: 'Technical and legal manual for settling defaulted InCred Financial Services personal loans and digital credit facilities under RBI Compromise Settlement frameworks.',
+    title: 'InCred Personal Loan Settlement | SettleLoans',
+    description: 'Learn how to settle InCred personal and education loans legally. Handle advocate notices and negotiate compromise OTS with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/incred-personal-loan-settlement-process.jpg'],
   },
 };

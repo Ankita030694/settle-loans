@@ -246,7 +246,7 @@ export default function Page() {
               <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
                 <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
                 <span className="text-gray-300">/</span>
-                <Link href="/auto-loans" className="hover:text-[#1F5EFF] transition-colors">Auto Loans</Link>
+                <Link href="/overdue-payment-for-auto-loan" className="hover:text-[#1F5EFF] transition-colors">Auto Loans</Link>
                 <span className="text-gray-300">/</span>
                 <span className="font-bold text-[#2E2E2E]">Overdue Payment Consequences</span>
               </div>
@@ -527,7 +527,7 @@ export default function Page() {
                   <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
                     Falling behind on your car loan payments? Understand the strict timeline before the bank sends recovery agents to seize your vehicle. Talk to our legal experts today.
                   </p>
-                  <Link href="/consultation" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-xl hover:scale-105 transition-transform text-lg shadow-xl">
+                  <Link href="/contact" className="inline-block bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-xl hover:scale-105 transition-transform text-lg shadow-xl">
                     Get Expert Legal Help
                   </Link>
                 </div>

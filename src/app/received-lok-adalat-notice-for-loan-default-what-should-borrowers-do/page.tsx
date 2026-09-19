@@ -149,11 +149,11 @@ export default function LokAdalatNoticePage() {
       "@context": "https://schema.org/",
       "@type": "Product",
       "name": "Lok Adalat Debt Settlement Service",
-      "image": "https://www.settleloan.in/logo.png",
+      "image": "https://www.settleloans.in/logo/logo.svg",
       "description": "Expert negotiation and representation for borrowers receiving Lok Adalat summons for personal and business loans.",
       "brand": {
         "@type": "Brand",
-        "name": "SettleLoan"
+        "name": "SettleLoans"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

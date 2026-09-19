@@ -668,7 +668,7 @@ export default function LoanAfterSettlementPage() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/services/credit-score-improvement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">
+                  <Link href="/credit-score-improvement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">
                     <span className="w-1.5 h-1.5 bg-gray-300 rounded-full mr-3 group-hover:bg-[var(--color-primary)] transition-colors"></span>
                     Boost Credit Score
                   </Link>

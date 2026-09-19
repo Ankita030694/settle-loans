@@ -1,7 +1,27 @@
-"use client";
-
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Gold Loan Settlement & Auction Process: Guide',
+  description: 'The complete guide to gold loan settlement, auction rules, and default procedures in India. Learn about LTV margin calls, 90% reserve price rules, and...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/gold-loan-settlement-process',
+  },
+  openGraph: {
+    title: 'Gold Loan Settlement & Auction Process: Guide',
+    description: 'The complete guide to gold loan settlement, auction rules, and default procedures in India. Learn about LTV margin calls, 90% reserve price rules, and...',
+    url: 'https://www.settleloans.in/gold-loan-settlement-process',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Gold Loan Settlement & Auction Process: Guide',
+    description: 'The complete guide to gold loan settlement, auction rules, and default procedures in India. Learn about LTV margin calls, 90% reserve price rules, and...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function GoldLoanSettlementProcessPage() {
     const jsonLd = {

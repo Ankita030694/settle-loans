@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement',
   },
   openGraph: {
-    title: 'Full and Final Settlement vs Compromise Settlement: Complete Guide',
-    description: 'Demystify the critical differences between full closure, bank compromise settlement (OTS), and credit write-offs. Ensure complete legal debt discharge and ₹0 balance credit bureau reporting.',
+    title: 'Full Settlement vs Compromise Settlement | SettleLoans',
+    description: 'Understand the technical financial difference between full and final loan closure, compromise settlement (OTS), and credit write-offs under RBI guidelines.',
     url: 'https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Full and Final Settlement vs Compromise Settlement: Legal & Financial Breakdown',
+    title: 'Full Settlement vs Compromise Settlement | SettleLoans',
     description: 'Explore the statutory and credit distinctions between 100% full closure, compromise OTS haircuts, and accounting write-offs under RBI regulations.',
     images: ['https://www.settleloans.in/images/infographics/full-and-final-settlement-vs-compromise-settlement.jpg'],
   },

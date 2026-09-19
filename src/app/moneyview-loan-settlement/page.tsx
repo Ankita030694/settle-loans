@@ -57,8 +57,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/moneyview-loan-settlement',
   },
   openGraph: {
-    title: 'MoneyView Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
-    description: 'Struggling with defaulted MoneyView personal loans? Discover how to negotiate with Whizdm Finance and co-lending NBFCs, halt automated collection harassment, defend against legal notices, and secure a 50%–60% OTS haircut with an official zero-balance NDC.',
+    title: 'MoneyView Loan Settlement: OTS Rules & Guide | SettleLoans',
+    description: 'Master the MoneyView personal loan settlement process. Learn how Whizdm Finance & partner NBFCs operate, stop NACH bounce charges, halt recovery harassment.',
     url: 'https://www.settleloans.in/moneyview-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'MoneyView Loan Settlement Guide: Legal OTS & Haircuts',
-    description: 'Technical and legal defense blueprint for resolving defaulted MoneyView app personal loans under RBI compromise settlement frameworks and Digital Lending Guidelines.',
+    description: 'Master the MoneyView personal loan settlement process. Learn how Whizdm Finance & partner NBFCs operate, stop NACH bounce charges, halt recovery harassment.',
     images: ['https://www.settleloans.in/images/infographics/moneyview-loan-settlement.jpg'],
   },
 };

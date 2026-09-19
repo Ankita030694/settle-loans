@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo',
   },
   openGraph: {
-    title: 'Recovery Agents Seizing Vehicle by Force on Road: Legal Protections & Retrieval Guide',
-    description: 'Ambushed on the highway by loan recovery musclemen? Discover Supreme Court protections, BNS criminal extortion provisions, police retrieval procedures, and zero-rupee shortfall settlements.',
+    title: 'Illegal Vehicle Repossession Rules | SettleLoans',
+    description: 'Recovery agents snatching your bike or car on the road? Understand Supreme Court bans on forceful repossession and get legal help with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agents Seizing Vehicle by Force on Road: Supreme Court Ban & Police Action',
+    title: 'Illegal Vehicle Repossession Rules | SettleLoans',
     description: 'Understand your constitutional and criminal law protections against strong-arm vehicle repossession on public roads in India.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agents-snatching-bike-on-road-illegal-repo.jpg'],
   },

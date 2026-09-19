@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-guwahati',
   },
   openGraph: {
-    title: 'Loan Settlement Company in Guwahati Assam: Legal Defense & OTS Guide',
-    description: 'Premier legal debt defense and bank OTS settlement advisory for salaried professionals and merchants in Guwahati, Kamrup Metro, and Assam. Resolve defaults with 40%–70% waivers.',
+    title: 'Personal Loan Settlement in Guwahati | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Guwahati. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-guwahati',
     siteName: 'SettleLoans',
     images: [
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Company in Guwahati Assam: Legal Defense & OTS Guide',
+    title: 'Personal Loan Settlement in Guwahati | SettleLoans',
     description: 'Expert advocate-led debt settlement in Guwahati & Assam. Protect against recovery harassment, Section 138 NI Act notices, and secure bank OTS waivers.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-guwahati.jpg'],
   },
@@ -1030,7 +1030,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
                   SBI Lok Adalat Case Study
                 </Link>
                 <Link
-                  href="/stop-recovery-agent-harassment"
+                  href="/how-to-stop-loan-recovery-harassment"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
                   Stop Recovery Harassment

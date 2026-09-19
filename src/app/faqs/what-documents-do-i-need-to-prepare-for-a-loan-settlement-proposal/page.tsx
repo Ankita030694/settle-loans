@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck, faFileInvoice, faIdCard, faHospitalUser, faScaleUnbalanced } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Documents Required for Loan Settlement | SettleLoans",
+    title: "FAQ: Documents for Settlement Proposal | SettleLoans",
     description: "The definitive checklist of documents needed for a loan settlement proposal to banks and NBFCs in India. Learn which proofs convince banks to waive interest.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal",

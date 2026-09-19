@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-hubli-dharwad',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Advocates in Hubli Dharwad | SettleLoans',
+    title: 'Personal Loan Settlement in Hubli Dharwad | SettleLoans',
     description: 'Advocate-led debt settlement for cotton traders, MSME manufacturers, logistics operators, and IT professionals across Hubli, Dharwad, and Belgaum.',
     url: 'https://www.settleloans.in/personal-loan-settlement-hubli-dharwad',
     siteName: 'SettleLoans',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Advocates in Hubli Dharwad | SettleLoans',
+    title: 'Personal Loan Settlement in Hubli Dharwad | SettleLoans',
     description: 'Expert advocate-led debt negotiation, Section 138 defense, and bank OTS waivers across North Karnataka commercial corridors.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-hubli-dharwad.jpg'],
   },

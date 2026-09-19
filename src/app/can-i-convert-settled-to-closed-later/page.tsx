@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Can I Convert a Settled Loan to 'Closed' Later? Steps to Improve CIBIL",
+  title: "Convert Settled Loan to Closed Later: Improve CIBIL",
   description: "Learn how to convert a 'Settled' loan status to 'Closed' in India. Follow our step-by-step guide to repay waived amounts, improve your CIBIL score.",
   alternates: {
     canonical: "https://www.settleloans.in/can-i-convert-settled-to-closed-later",

@@ -598,9 +598,9 @@ export default function MultiCreditorPage() {
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
                 <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Lender Specifics</div>
                 <ul className="space-y-4 text-sm font-bold">
-                  <li><Link href="/how-to-remove-loan-default-from-cibil-finances-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>CIBIL Repair Guide</Link></li>
-                  <li><Link href="/how-to-handle-a-loan-settlement-by-yourself-a-brief-guide" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>DIY Settlement Risks</Link></li>
-                  <li><Link href="/how-to-stop-harassment-by-loan-collection-agents-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Stop Harassment</Link></li>
+                  <li><Link href="/credit-score-improvement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>CIBIL Repair Guide</Link></li>
+                  <li><Link href="/can-i-settle-my-loan-without-a-lawyer" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>DIY Settlement Risks</Link></li>
+                  <li><Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Stop Harassment</Link></li>
                   <li><Link href="/is-loan-settlement-a-good-option-for-borrowers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Is Settlement for You?</Link></li>
                 </ul>
               </div>

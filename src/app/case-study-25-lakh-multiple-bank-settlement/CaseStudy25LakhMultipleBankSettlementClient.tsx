@@ -998,7 +998,7 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                   Related Multi-Debt & Legal Resources:
                 </span>
                 <div className="flex flex-wrap gap-2 text-xs">
-                  <Link href="/20-lakh-personal-loan-settlement" className="px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 hover:bg-[#1886ff] hover:text-white transition-colors">
+                  <Link href="/10-lakh-personal-loan-settlement" className="px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 hover:bg-[#1886ff] hover:text-white transition-colors">
                     ₹20 Lakh Personal Loan Settlement
                   </Link>
                   <Link href="/10-lakh-personal-loan-settlement" className="px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 hover:bg-[#1886ff] hover:text-white transition-colors">

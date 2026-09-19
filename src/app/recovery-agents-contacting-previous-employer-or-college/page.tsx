@@ -60,8 +60,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college',
   },
   openGraph: {
-    title: 'Recovery Agents Calling Previous Employer or College? DPDP Act & Legal Rights',
-    description: 'Stop illegal collection stalking. Understand statutory protections under DPDP Act 2023, RBI Fair Practices Code, and how advocates file data misuse damage claims and negotiate OTS.',
+    title: 'Stop Recovery Calls to Work & College | SettleLoans',
+    description: 'Recovery agents calling your former employer or college? Stop workplace defamation and enforce DPDP privacy violations with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college',
     siteName: 'SettleLoans',
     images: [
@@ -77,8 +77,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agents Calling Previous Employer or College? DPDP Act & Legal Rights',
-    description: 'Facing severe privacy breaches from debt collectors scraping LinkedIn, resumes, or alumni directories? Discover your statutory rights under DPDP Act 2023 and RBI directives.',
+    title: 'Stop Recovery Calls to Work & College | SettleLoans',
+    description: 'Recovery agents calling your former employer or college? Stop workplace defamation and enforce DPDP privacy violations with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agents-contacting-previous-employer-or-college.jpg'],
   },
 };

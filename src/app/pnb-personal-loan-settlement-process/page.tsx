@@ -56,8 +56,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/pnb-personal-loan-settlement-process',
   },
   openGraph: {
-    title: 'PNB Personal Loan Settlement: OTS Scheme, SASTRA Process & Rules (2026)',
-    description: 'Learn how to settle a Punjab National Bank (PNB) personal loan or digital credit facility under PNB Special OTS schemes and Circle SASTRA resolution desks. Legal protections, haircut formulas, and ₹0 NDC guidelines.',
+    title: 'PNB Personal Loan Settlement Process | SettleLoans',
+    description: 'Exhaustive guide to Punjab National Bank (PNB) personal loan settlement. Understand PNB OTS compromise schemes, Circle SASTRA escalation.',
     url: 'https://www.settleloans.in/pnb-personal-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'PNB Personal Loan Settlement: OTS Scheme, SASTRA Process & Rules',
+    title: 'PNB Personal Loan Settlement Process | SettleLoans',
     description: 'Technical and legal manual for settling defaulted Punjab National Bank personal loans under PNB Compromise Settlement schemes and Circle SASTRA frameworks.',
     images: ['https://www.settleloans.in/images/infographics/pnb-personal-loan-settlement-process.jpg'],
   },

@@ -261,7 +261,7 @@ export default function CreditCardBlockAfterSettlement() {
               <nav className="flex items-center gap-2 text-xs md:text-sm text-[#747474]">
                 <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
                 <span className="text-gray-300">/</span>
-                <Link href="/resources" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
+                <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Resources</Link>
                 <span className="text-gray-300">/</span>
                 <span className="font-bold text-[#2E2E2E]">Credit Card Block After Settlement</span>
               </nav>
@@ -513,11 +513,11 @@ export default function CreditCardBlockAfterSettlement() {
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       <span className="text-sm font-medium">What is Personal Loan Settlement?</span>
                     </Link>
-                    <Link href="/how-does-settlement-affect-cibil" className="flex items-center group text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/does-settlement-impact-a-co-borrower" className="flex items-center group text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       <span className="text-sm font-medium">How Settlement Affects CIBIL</span>
                     </Link>
-                    <Link href="/can-banks-sue-for-unpaid-loans" className="flex items-center group text-gray-700 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/can-bank-file-case-for-personal-loan" className="flex items-center group text-gray-700 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       <span className="text-sm font-medium">Can Banks Sue for Unpaid Loans?</span>
                     </Link>

@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/indifi-business-loan-settlement-process',
   },
   openGraph: {
-    title: 'Indifi Business Loan Settlement Process: Guide for MSMEs (2026)',
-    description: 'Face revenue contraction? Learn the Indifi business loan settlement process. Stop recovery agent threats, halt e-NACH bounce fees, and secure a one-time settlement.',
+    title: 'Indifi Business Loan Settlement Process | SettleLoans',
+    description: 'Learn the Indifi business loan settlement process. MSMEs, Amazon sellers, and cloud kitchens can stop collection calls and settle debt legally.',
     url: 'https://www.settleloans.in/indifi-business-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [

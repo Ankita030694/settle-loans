@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/rbi-guidelines-calling-after-7pm-complaint',
   },
   openGraph: {
-    title: 'Recovery Agent Calling After 7 PM: RBI Rules & Legal Remedies',
+    title: 'Recovery Agent Calling After 7 PM | SettleLoans',
     description: 'Did a recovery agent call you after 7 PM? Discover RBI regulations, timestamped call logging protocols, advocate legal notices, and statutory defense.',
     url: 'https://www.settleloans.in/rbi-guidelines-calling-after-7pm-complaint',
     siteName: 'SettleLoans',
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agent Calling After 7 PM: RBI Rules & Legal Remedies',
+    title: 'Recovery Agent Calling After 7 PM | SettleLoans',
     description: 'Learn your legal rights when recovery agents call after 7 PM. RBI calling hour rules, timestamped call log evidence, and advocate notices explained.',
     images: ['https://www.settleloans.in/images/infographics/rbi-guidelines-calling-after-7pm-complaint.jpg'],
   },

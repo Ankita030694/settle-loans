@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/faircent-p2p-loan-settlement-process',
   },
   openGraph: {
-    title: 'Faircent & P2P Loan Settlement: Process, RBI Rules & Haircut (2026)',
-    description: 'Strategic legal guide for resolving defaulted Peer-to-Peer loans with Faircent, LenDenClub, and LiquiLoans. Understand Trustee Escrow operations, stop predatory collection calls, and secure up to 65% OTS waivers.',
+    title: 'Faircent & P2P Loan Settlement Process | SettleLoans',
+    description: 'Complete guide to Faircent and P2P loan settlement in India. Learn how to settle Peer-to-Peer personal loans across Faircent, LenDenClub.',
     url: 'https://www.settleloans.in/faircent-p2p-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [

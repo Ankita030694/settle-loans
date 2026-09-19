@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/cooperative-bank-loan-settlement-rules',
   },
   openGraph: {
-    title: 'Cooperative Bank Loan Settlement Rules: UCB & DCCB OTS Process Guide',
-    description: 'A comprehensive regulatory and legal roadmap to settle defaulted loans in Urban Co-operative Banks and District Central Co-operative Banks. Understand dual RBI-Registrar oversight, Section 101 defense, Board OTS approvals, and securing a zero-balance No Dues Certificate.',
+    title: 'Cooperative Bank Loan Settlement Rules | SettleLoans',
+    description: 'Master the cooperative bank loan settlement process in India. Learn how One-Time Settlement (OTS) works in Urban Co-operative Banks (UCBs) & DCCBs.',
     url: 'https://www.settleloans.in/cooperative-bank-loan-settlement-rules',
     siteName: 'SettleLoans',
     images: [
@@ -70,8 +70,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Cooperative Bank Loan Settlement Rules 2026: UCB & DCCB OTS Guide',
-    description: 'Facing Section 101 recovery notices or mounting penal interest from a cooperative bank? Learn how advocate-led OTS negotiations with the Board of Directors can secure a 40%–60% settlement.',
+    title: 'Cooperative Bank Loan Settlement Rules | SettleLoans',
+    description: 'Master the cooperative bank loan settlement process in India. Learn how One-Time Settlement (OTS) works in Urban Co-operative Banks (UCBs) & DCCBs.',
     images: ['https://www.settleloans.in/images/infographics/cooperative-bank-loan-settlement-rules.jpg'],
   },
 };

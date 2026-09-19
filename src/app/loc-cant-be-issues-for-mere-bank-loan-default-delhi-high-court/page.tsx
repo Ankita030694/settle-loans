@@ -1,8 +1,35 @@
-"use client";
-
 import React from "react";
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: "Delhi HC: No LOC for Mere Bank Loan Default",
+  description: "Delhi High Court rules banks cannot issue Lookout Circulars (LOC) solely for loan defaults. Understand your right to travel and remedies under Article 21.",
+  alternates: {
+    canonical: "https://www.settleloans.in/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court",
+  },
+  openGraph: {
+    title: "Delhi HC: No LOC for Mere Bank Loan Default | SettleLoans",
+    description: "Delhi High Court rules banks cannot issue Lookout Circulars (LOC) solely for loan defaults. Understand your right to travel and remedies under Article 21.",
+    url: "https://www.settleloans.in/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court",
+    type: "article",
+    images: [
+      {
+        url: "https://www.settleloans.in/images/delhi-high-court-loc.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Delhi High Court LOC Ruling",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Delhi HC: No LOC for Mere Bank Loan Default | SettleLoans",
+    description: "Delhi High Court rules banks cannot issue Lookout Circulars (LOC) solely for loan defaults. Understand your right to travel and remedies under Article 21.",
+    images: ["https://www.settleloans.in/images/delhi-high-court-loc.jpg"],
+  },
+};
 
 export default function LOCDelhiHighCourtPage() {
     const schemaData = {
@@ -146,7 +173,7 @@ export default function LOCDelhiHighCourtPage() {
                             Understand your fundamental rights. The Delhi High Court has repeatedly quashed Lookout Circulars issued by banks against borrowers, ruling that financial defaults alone do not justify travel restrictions.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Consult Legal Expert
                             </Link>
                         </div>
@@ -479,7 +506,7 @@ export default function LOCDelhiHighCourtPage() {
                             <p className="text-xl mb-8 opacity-90">
                                 Don't let banks restrict your freedom of movement. Our legal team specializes in Delhi High Court writ petitions to quash illegal Lookout Circulars.
                             </p>
-                            <Link href="/contact-us" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
+                            <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-10 rounded-xl hover:scale-105 transition-all text-lg shadow-2xl">
                                 Request Urgent Legal Consultation
                             </Link>
                         </div>
@@ -499,7 +526,7 @@ export default function LOCDelhiHighCourtPage() {
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
                                         Stopped at the airport or facing travel threats from banks? Get expert legal defense today.
                                     </p>
-                                    <Link href="/contact-us" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-[12px] hover:scale-110 transition-all shadow-md group-hover:shadow-2xl">
                                         Get Legal Help Now
                                     </Link>
                                     <p className="mt-6 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.3em] font-black">Expert Delhi HC Lawyers</p>

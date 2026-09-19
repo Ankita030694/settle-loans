@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-bhopal',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Advocates in Bhopal: Settle Debt (2026)',
-    description: 'Comprehensive legal and financial guide for resolving delinquent personal loans, credit card balances, and MSME credit lines in Bhopal and Madhya Pradesh under RBI compromise settlement frameworks.',
+    title: 'Personal Loan Settlement in Bhopal | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Bhopal. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-bhopal',
     siteName: 'SettleLoans',
     images: [

@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process',
   },
   openGraph: {
-    title: 'MSME Loan Settlement Scheme in India: Resolve Business Debt & Protect Machinery',
-    description: 'A comprehensive regulatory and legal roadmap for Indian MSMEs to resolve stressed Cash Credit, Overdraft, and term loans. Discover how to leverage Udyam registration, MSEFC Samadhaan, and RBI OTS policies to protect manufacturing assets.',
+    title: 'MSME Samadhaan Loan Default Guide | SettleLoans',
+    description: 'Learn how to settle MSME business loan defaults legally under Udyam and RBI frameworks. Protect collateral and plant machinery with SettleLoans.',
     url: 'https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'MSME Loan Settlement Scheme in India: Resolve Business Debt & Protect Machinery',
-    description: 'Facing bank recovery on MSME working capital loans? Master RBI stressed asset restructuring, MSME Samadhaan delayed payment recovery, and advocate-led OTS settlement strategies.',
+    title: 'MSME Samadhaan Loan Default Guide | SettleLoans',
+    description: 'Learn how to settle MSME business loan defaults legally under Udyam and RBI frameworks. Protect collateral and plant machinery with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/msme-samadhaan-loan-default-settlement-process.jpg'],
   },
 };

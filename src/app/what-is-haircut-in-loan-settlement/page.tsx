@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/what-is-haircut-in-loan-settlement',
   },
   openGraph: {
-    title: 'What Is a Haircut in Loan Settlement? Meaning, Formula & RBI Limits',
-    description: 'A comprehensive technical and legal guide explaining how Indian banks calculate loan settlement haircuts, RBI compromise policies, NPV recovery formulas, and negotiation strategies.',
+    title: 'What Is a Haircut in Loan Settlement? | SettleLoans',
+    description: 'Understand what a haircut means in loan settlement, how Indian banks calculate NPA write-off discounts, RBI compromise guidelines.',
     url: 'https://www.settleloans.in/what-is-haircut-in-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'What Is a Haircut in Loan Settlement? Meaning, Formula & Limits (2026)',
+    title: 'What Is a Haircut in Loan Settlement? | SettleLoans',
     description: 'Learn what a debt haircut means in bank loan settlement, internal NPA provisioning rules, RBI compromise frameworks, and how to negotiate up to 75% waivers.',
     images: ['https://www.settleloans.in/images/infographics/what-is-haircut-in-loan-settlement.jpg'],
   },

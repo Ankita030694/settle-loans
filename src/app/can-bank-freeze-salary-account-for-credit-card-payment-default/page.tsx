@@ -495,13 +495,13 @@ export default function SalaryAccountFreezePage() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/rbi-guidelines-on-loan-recovery" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/rbi-rules-for-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                       <span className="text-sm font-medium">RBI Recovery Guidelines</span>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/how-to-file-banking-ombudsman-complaint" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/rbi-ombudsman-complaint-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                       <span className="text-sm font-medium">Ombudsman Complaint Guide</span>
                     </Link>
@@ -513,7 +513,7 @@ export default function SalaryAccountFreezePage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/harassment-by-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3"></span>
                       <span className="text-sm font-medium">Stop Agent Harassment</span>
                     </Link>

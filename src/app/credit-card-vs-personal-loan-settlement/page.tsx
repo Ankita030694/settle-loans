@@ -23,9 +23,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/credit-card-vs-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Credit Card vs Personal Loan Settlement: Difference, Haircuts & Priority Guide (2026)',
+    title: 'Credit Card vs Personal Loan Settlement | SettleLoans',
     description:
-      'Holding both credit card debt and personal loans with limited cash? In-depth legal, banking, and financial analysis on which debt yields bigger discounts and which to settle first.',
+      'Confused between credit card vs personal loan settlement? Compare 50%–75% card haircuts vs 35%–60% loan discounts, legal risks, CIBIL impact.',
     url: 'https://www.settleloans.in/credit-card-vs-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Credit Card vs Personal Loan Settlement: Which Debt Should You Settle First?',
+    title: 'Credit Card vs Personal Loan Settlement | SettleLoans',
     description:
       'Compare 50%–75% credit card discounts vs 35%–60% personal loan waivers. Learn bank accounting rules, legal exposure under Section 138, and optimal debt triage.',
     images: ['https://www.settleloans.in/images/infographics/credit-card-vs-personal-loan-settlement.jpg'],

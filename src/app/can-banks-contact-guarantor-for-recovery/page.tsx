@@ -236,7 +236,7 @@ export default function Page() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/personal-loans">Personal Loans</Link>
+              <Link href="/services/personal-loan-settlement">Personal Loans</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Guarantor Liability</span>
             </div>
@@ -609,13 +609,13 @@ export default function Page() {
               </div>
               <ul className="space-y-4">
                 <li>
-                  <Link href="/how-to-deal-with-recovery-agents" className="group flex items-center text-gray-600 hover:text-[#1F5EFF] text-sm font-medium transition-colors">
+                  <Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center text-gray-600 hover:text-[#1F5EFF] text-sm font-medium transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     How to Deal with Agents
                   </Link>
                 </li>
                 <li>
-                  <Link href="/personal-loan-settlement-process" className="group flex items-center text-gray-600 hover:text-[#1F5EFF] text-sm font-medium transition-colors">
+                  <Link href="/services/personal-loan-settlement" className="group flex items-center text-gray-600 hover:text-[#1F5EFF] text-sm font-medium transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     Loan Settlement Process
                   </Link>
@@ -627,7 +627,7 @@ export default function Page() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/can-i-go-to-jail-for-not-paying-personal-loan" className="group flex items-center text-gray-600 hover:text-[#1F5EFF] text-sm font-medium transition-colors">
+                  <Link href="/can-i-go-to-jail-for-loan-default" className="group flex items-center text-gray-600 hover:text-[#1F5EFF] text-sm font-medium transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     Can I go to Jail?
                   </Link>

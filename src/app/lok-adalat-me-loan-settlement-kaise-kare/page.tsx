@@ -21,8 +21,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare',
   },
   openGraph: {
-    title: 'Lok Adalat Me Loan Settlement Kaise Kare: Legal Process, Notice Rules & Spot OTS Haircut',
-    description: 'Received a Lok Adalat summons or pre-litigation notice for unpaid loan EMIs? Discover why attendance is 100% voluntary, arrest is legally impossible, zero court fees apply, and how to secure a 40%–75% binding OTS decree.',
+    title: 'Lok Adalat Me Loan Settlement Kaise Kare | SettleLoans',
+    description: 'Received a National Lok Adalat notice? Learn how Lok Adalat loan settlement works in India, notice rules, voluntary attendance, zero court fee benefits.',
     url: 'https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare',
     siteName: 'SettleLoans',
     images: [
@@ -38,8 +38,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Lok Adalat Me Loan Settlement Kaise Kare: Legal Process & Spot OTS Guide',
-    description: 'Comprehensive legal and tactical guide on handling Lok Adalat loan settlement notices, debunking arrest myths, negotiating on-the-spot bank haircuts, and securing non-appealable court awards.',
+    title: 'Lok Adalat Me Loan Settlement Kaise Kare | SettleLoans',
+    description: 'Received a National Lok Adalat notice? Learn how Lok Adalat loan settlement works in India, notice rules, voluntary attendance, zero court fee benefits.',
     images: ['https://www.settleloans.in/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg'],
   },
 };

@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Personal Loan Taken for Trading Loss Settlement: F&O & Crypto Debt Relief (2026)',
-    description: 'Exhaustive legal and financial guide for retail traders who defaulted on personal loans due to stock options (F&O) or cryptocurrency losses. Discover how to halt recovery harassment, build an insolvency hardship dossier, and negotiate a 40%–60% OTS haircut.',
+    title: 'Trading & Crypto Loss Loan Settlement | SettleLoans',
+    description: 'Took personal loans for F&O stock options or crypto trading and lost the capital? Learn legal defense strategies, RBI compromise settlement rules.',
     url: 'https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -66,8 +66,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Taken for Trading Loss Settlement: How to Resolve F&O and Crypto Debt',
-    description: 'Navigate severe financial ruin from trading losses. Learn statutory protections under RBI Master Directions, Section 25 PSSA defense, and advocate-led loan settlement.',
+    title: 'Trading & Crypto Loss Loan Settlement | SettleLoans',
+    description: 'Took personal loans for F&O stock options or crypto trading and lost the capital? Learn legal defense strategies, RBI compromise settlement rules.',
     images: ['https://www.settleloans.in/images/infographics/trading-crypto-loss-personal-loan-settlement.jpg'],
   },
 };

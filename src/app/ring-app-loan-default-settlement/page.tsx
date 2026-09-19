@@ -53,9 +53,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/ring-app-loan-default-settlement',
   },
   openGraph: {
-    title: 'Ring App (PayWithRing) Loan Default & Settlement: Stop Calling & OTS Guide (2026)',
+    title: 'Ring App Loan Default & Settlement Guide | SettleLoans',
     description:
-      'Trapped in Ring app (PayWithRing) revolving credit lines? Learn how to stop automated collection harassment, cancel NACH sweeps, enforce RBI Fair Practices, and secure an official ₹0 No Dues Certificate.',
+      'Trapped in Ring app (PayWithRing) revolving debt? Learn how to stop automated calling bots, halt NACH bounce penalties, invoke RBI Digital Lending.',
     url: 'https://www.settleloans.in/ring-app-loan-default-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Ring App (PayWithRing) Loan Default & Settlement: Stop Calling & OTS Guide',
+    title: 'Ring App Loan Default & Settlement Guide | SettleLoans',
     description:
       'Legal and financial manual for resolving defaulted Ring App digital credit lines under RBI Digital Lending Guidelines and One-Time Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/ring-app-loan-default-settlement.jpg'],

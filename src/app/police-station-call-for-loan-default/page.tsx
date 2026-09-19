@@ -52,7 +52,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Recovery Agent Police Call: Legal Rights & Protection',
-    description: 'Master the legal defense against recovery agents posing as police officers. Understand Supreme Court civil debt protections, verify fake FIRs, and file criminal extortion complaints against rogue agencies.',
+    description: 'Received a fake police call or Crime Branch notice from a loan recovery agent? Learn your legal protections, how to verify FIR status.',
     url: 'https://www.settleloans.in/police-station-call-for-loan-default',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agent Calling From Police Station: Legal Protections & Action Plan',
-    description: 'Threatened with arrest or fake Crime Branch summons for loan default? Learn your statutory civil protections, how to expose fake police calls, and how advocates secure official OTS settlements.',
+    title: 'Recovery Agent Police Call: Legal Rights & Protection',
+    description: 'Received a fake police call or Crime Branch notice from a loan recovery agent? Learn your legal protections, how to verify FIR status.',
     images: ['https://www.settleloans.in/images/infographics/police-station-call-for-loan-default.jpg'],
   },
 };

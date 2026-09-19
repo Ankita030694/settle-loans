@@ -54,9 +54,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-prayagraj',
   },
   openGraph: {
-    title: 'Debt Settlement Services in Prayagraj Allahabad: Legal Defense & Bank OTS Advisory',
+    title: 'Debt Settlement in Prayagraj | SettleLoans',
     description:
-      'Authoritative legal defense, Allahabad High Court safeguards, and bank OTS settlement representation for government employees, teachers, and merchants facing loan default in Prayagraj and Kaushambi.',
+      'Settle personal loans in Prayagraj. Stop recovery harassment, defend court notices, and negotiate 40%–70% bank OTS waivers with SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-prayagraj',
     siteName: 'SettleLoans',
     images: [
@@ -72,9 +72,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Debt Settlement Services in Prayagraj Allahabad: Legal Defense & Lok Adalat Guide',
+    title: 'Debt Settlement in Prayagraj | SettleLoans',
     description:
-      'Senior advocate defense for personal loan defaults, Section 138/25 notices in Prayagraj District Court, DLSA Lok Adalat compromise decrees, and anti-harassment protection in Prayagraj & Kaushambi.',
+      'Settle personal loans in Prayagraj. Stop recovery harassment, defend court notices, and negotiate 40%–70% bank OTS waivers with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-prayagraj.jpg'],
   },
 };
@@ -951,7 +951,7 @@ export default function Page() {
                     SBI Personal Loan Settlement
                   </Link>
                   <Link
-                    href="/pnb-personal-loan-settlement"
+                    href="/pnb-personal-loan-settlement-process"
                     className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                   >
                     PNB Loan Settlement

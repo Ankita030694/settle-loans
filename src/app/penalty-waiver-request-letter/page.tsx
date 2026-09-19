@@ -248,7 +248,7 @@ export default function PenaltyWaiverPage() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/templates" className="hover:text-[#1F5EFF] transition-colors">Templates</Link>
+              <Link href="/all-queries" className="hover:text-[#1F5EFF] transition-colors">Templates</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Penalty Waiver Request Letter</span>
             </div>
@@ -642,19 +642,19 @@ Email ID: [Your Email Address]`}
                 </div>
                 <ul className="space-y-4 text-sm font-medium text-gray-700">
                   <li>
-                    <Link href="/loan-foreclosure-letter" className="flex items-center group hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/business-loan-foreclosure-letter" className="flex items-center group hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Foreclosure Waiver Letter
                     </Link>
                   </li>
                   <li>
-                    <Link href="/settlement-request-letter" className="flex items-center group hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/personal-loan-settlement-letter-format" className="flex items-center group hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Loan Settlement Application
                     </Link>
                   </li>
                   <li>
-                    <Link href="/anti-harassment-letter" className="flex items-center group hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/police-complaint-format-recovery-agent-harassment" className="flex items-center group hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Anti-Harassment Notice
                     </Link>

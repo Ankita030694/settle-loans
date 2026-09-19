@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga',
   },
   openGraph: {
-    title: 'Cheque Bounce Hone Par Kya Hoga: Section 138 Legal Defence & Settlement',
-    description: 'Bank deposited your blank security cheque? Understand Section 138 notice timelines, bail rights in Magistrate Court, and how compounding under Section 147 withdraws criminal cases.',
+    title: 'Cheque Bounce Hone Par Kya Hoga: Legal Guide | SettleLoans',
+    description: 'Cheque bounce hone par kya kare? Discover your rights against bank security cheque misuse, Section 138 notice timelines, bailable offense protections.',
     url: 'https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga',
     siteName: 'SettleLoans',
     images: [
@@ -67,8 +67,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Cheque Bounce Hone Par Kya Hoga: Comprehensive Borrower Legal Guide',
-    description: 'Exhaustive defence roadmap for loan cheque dishonour: Section 138 notice audit, bailable offence bail procedures, and complete case compounding through One-Time Settlement (OTS).',
+    title: 'Cheque Bounce Hone Par Kya Hoga: Legal Guide | SettleLoans',
+    description: 'Cheque bounce hone par kya kare? Discover your rights against bank security cheque misuse, Section 138 notice timelines, bailable offense protections.',
     images: ['https://www.settleloans.in/images/infographics/cheque-bounce-hone-par-kya-hoga.jpg'],
   },
 };

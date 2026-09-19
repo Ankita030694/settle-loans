@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faScaleBalanced, faInfoCircle, faCertificate, faUniversity, faHammer, faBriefcaseMedical, faLandmark, faScaleUnbalanced, faPassport, faBuildingColumns } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Best Lawyer for Loan Recovery Cases in India',
+  description: 'Expert legal help for loan recovery in India. Resolve summary suits (Order 37 CPC), cheque bounce cases (Sec 138 NI Act), and SARFAESI actions for lenders....',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-loan-recovery-cases',
+  },
+  openGraph: {
+    title: 'Best Lawyer for Loan Recovery Cases in India',
+    description: 'Expert legal help for loan recovery in India. Resolve summary suits (Order 37 CPC), cheque bounce cases (Sec 138 NI Act), and SARFAESI actions for lenders....',
+    url: 'https://www.settleloans.in/best-lawyer-for-loan-recovery-cases',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Best Lawyer for Loan Recovery Cases in India',
+    description: 'Expert legal help for loan recovery in India. Resolve summary suits (Order 37 CPC), cheque bounce cases (Sec 138 NI Act), and SARFAESI actions for lenders....',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function LoanRecoveryCasesPage() {
     const jsonLd = {

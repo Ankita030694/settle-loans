@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/10-lakh-personal-loan-settlement',
   },
   openGraph: {
-    title: 'How to Settle 10 Lakh Personal Loan: Legal Notice Defense & 40-50% Haircut (2026)',
-    description: 'Amount-specific strategy for settling a ₹10 Lakh personal loan default in India. Discover how advocates negotiate 40%–50% OTS haircuts, defend against Section 25 PSSA notices, and secure an official bank No Dues Certificate.',
+    title: 'How to Settle 10 Lakh Personal Loan in India | SettleLoans',
+    description: 'Complete legal guide to 10 lakh loan settlement process in India. Learn how to handle Section 25 PSSA and Section 138 notices, stop recovery harassment.',
     url: 'https://www.settleloans.in/10-lakh-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Settle 10 Lakh Personal Loan: Legal Notice Defense & 40-50% Haircut',
+    title: 'How to Settle 10 Lakh Personal Loan in India | SettleLoans',
     description: 'Technical and legal manual for settling defaulted ₹10 Lakh personal loans across Indian banks and NBFCs under RBI compromise settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/10-lakh-personal-loan-settlement.jpg'],
   },

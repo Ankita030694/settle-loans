@@ -50,8 +50,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement',
   },
   openGraph: {
-    title: 'How to Waive Penal Interest and Charges on Loan Default | SettleLoans',
-    description: 'Master the financial statement forensic audit to strip predatory penal fees, late charges, and compound interest from defaulted loan balances under RBI Master Directions.',
+    title: 'Waive Penal Interest & Charges on Loan Default | SettleLoans',
+    description: 'Complete legal guide to financial statement forensic audits for loan default. Learn how to isolate genuine principal, leverage RBI fair lending directions.',
     url: 'https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Waive Penal Interest & Charges on Defaulted Loans: Forensic Audit Guide',
+    title: 'Waive Penal Interest & Charges on Loan Default | SettleLoans',
     description: 'Learn how banking advocates audit loan ledgers, invoke RBI Master Directions, and secure 100% waivers on penal interest, bounce fees, and legal charges.',
     images: ['https://www.settleloans.in/images/infographics/how-to-get-penal-interest-waived-in-loan-settlement.jpg'],
   },

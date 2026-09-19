@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/abroad-education-loan-default-settlement-process',
   },
   openGraph: {
-    title: 'Abroad Education Loan Default Settlement Process: Shield Parents & Settle NBFC Debt',
-    description: 'A comprehensive legal and financial guide for expat students in the US, UK, and Canada facing layoffs or visa expiration, and their resident Indian parents facing aggressive recovery from NBFCs and banks.',
+    title: 'Abroad Education Loan Default Options | SettleLoans',
+    description: 'Defaulting on international student loans? Learn how to protect Indian co-signers and settle abroad education debt with SettleLoans.',
     url: 'https://www.settleloans.in/abroad-education-loan-default-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Abroad Education Loan Default Settlement Process: Shield Parents & Settle NBFC Debt',
-    description: 'Expat student or parent facing education loan default with Avanse, InCred, Auxilo, or Credila? Discover how banking advocates shield parents and structure cross-border One-Time Settlements.',
+    title: 'Abroad Education Loan Default Options | SettleLoans',
+    description: 'Defaulting on international student loans? Learn how to protect Indian co-signers and settle abroad education debt with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/abroad-education-loan-default-settlement-process.jpg'],
   },
 };

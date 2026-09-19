@@ -61,8 +61,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate',
   },
   openGraph: {
-    title: 'How to Verify Bank Recovery Agent ID Card & DRA Certificate | Doorstep Defense Guide',
-    description: 'Master doorstep debt defense. Discover mandatory RBI credentials: Bank Authorization Letter, Photo ID Card, IIBF DRA Certificate, and why refusing entry is 100% legal.',
+    title: 'Check Recovery Agent ID & DRA Certificate | SettleLoans',
+    description: 'How to verify bank recovery agent ID cards and IIBF DRA certificates at your doorstep. Protect your borrower rights with SettleLoans.',
     url: 'https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate',
     siteName: 'SettleLoans',
     images: [
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Verify Bank Recovery Agent ID Card & DRA Certificate | SettleLoans',
+    title: 'Check Recovery Agent ID & DRA Certificate | SettleLoans',
     description: 'Demand mandatory RBI credentials before speaking to recovery agents. Step-by-step verification guide for Bank ID, DRA Certificate, and Authorization Letters.',
     images: ['https://www.settleloans.in/images/infographics/how-to-check-recovery-agent-id-card-and-dra-certificate.jpg'],
   },

@@ -57,8 +57,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat',
   },
   openGraph: {
-    title: 'Recovery Agent Harassment Causing Mental Agony & Despair | Legal Protection',
-    description: 'Exhaustive legal and mental health crisis guide for borrowers facing severe recovery agent harassment in India. Understand Section 108 BNS abetment deterrence, Tele-MANAS helpline access, and 24-hour advocate intervention.',
+    title: 'Stop Recovery Agent Mental Harassment | SettleLoans',
+    description: 'Facing depression and mental agony from recovery agent threats? Learn emergency Section 108 BNS legal protections and remedies with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat',
     siteName: 'SettleLoans',
     images: [
@@ -74,8 +74,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agent Harassment Causing Severe Mental Agony? Legal Rights & Life Protection',
-    description: 'Pushed to despair by relentless recovery agent calls and threats? Learn how Section 108 BNS protects you, access immediate mental health helplines, and halt all contact through legal counsel.',
+    title: 'Stop Recovery Agent Mental Harassment | SettleLoans',
+    description: 'Facing depression and mental agony from recovery agent threats? Learn emergency Section 108 BNS legal protections and remedies with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agent-harassment-mental-agony-suicide-threat.jpg'],
   },
 };
@@ -982,7 +982,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                   Bank One-Time Settlement OTS Policy
                 </Link>
                 <Link
-                  href="/best-personal-loan-settlement-company"
+                  href="/personal-loan-settlement-company"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
                   Best Personal Loan Settlement Company

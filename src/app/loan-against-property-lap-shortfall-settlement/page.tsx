@@ -57,8 +57,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-against-property-lap-shortfall-settlement',
   },
   openGraph: {
-    title: 'Loan Against Property (LAP) Shortfall Settlement: Settle Post-Auction Residual Debt & DRT Shortfall Guide',
-    description: 'Master the legal defense against post-auction LAP residual debt. Understand mortgage extinction, DRT 3-year limitation under Article 55/113, SARFAESI auction undervaluation challenges, and advocate-led OTS settlement.',
+    title: 'Property Loan (LAP) Shortfall Settlement | SettleLoans',
+    description: 'Facing residual loan shortfall after property auction? Learn how to settle post-SARFAESI unsecured debt legally with SettleLoans.',
     url: 'https://www.settleloans.in/loan-against-property-lap-shortfall-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -74,8 +74,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Against Property Shortfall Settlement: Settle Residual Debt After Bank Auction',
-    description: 'Facing a massive shortfall notice after bank auctioned your mortgaged property? Discover statutory protections under SARFAESI and DRT laws to legally settle residual debt.',
+    title: 'Property Loan (LAP) Shortfall Settlement | SettleLoans',
+    description: 'Facing residual loan shortfall after property auction? Learn how to settle post-SARFAESI unsecured debt legally with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/loan-against-property-lap-shortfall-settlement.jpg'],
   },
 };

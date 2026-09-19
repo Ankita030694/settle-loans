@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield',
   },
   openGraph: {
-    title: 'Recovery Agent Visiting Parents House for Son Loan: Legal Shield & Rights',
+    title: 'Recovery Agents Visiting Parents Address | SettleLoans',
     description: "Are recovery agents visiting your elderly parents' home for your personal loan? Discover Section 329 BNS criminal trespass laws, Supreme Court privacy rulings, and advocate-led cease-and-desist shields.",
     url: 'https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield',
     siteName: 'SettleLoans',
@@ -76,8 +76,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agent Visiting Parents House for Son Loan: Legal Rights & Protection',
-    description: "Learn how to protect elderly parents from bank recovery agents visiting their native house. Supreme Court privacy rulings, Section 329 BNS, and legal notices explained.",
+    title: 'Recovery Agents Visiting Parents Address | SettleLoans',
+    description: "Protect elderly parents from recovery agent visits. Learn your legal rights, trespass laws, and how to stop home harassment with SettleLoans.",
     images: ['https://www.settleloans.in/images/infographics/recovery-agents-visiting-parents-old-address-legal-shield.jpg'],
   },
 };

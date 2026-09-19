@@ -31,12 +31,12 @@ export default function Footer() {
 
             <div className="flex flex-col gap-4 mt-4">
               {/* Email Card */}
-              <a href="mailto:info@settleloan.in" className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md transition-shadow group">
+              <a href="mailto:info@settleloans.in" className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md transition-shadow group">
                 <div className="flex items-center gap-3">
                   <div className="text-blue-500 bg-blue-50 p-2 rounded-lg">
                     <FontAwesomeIcon icon={faEnvelope} className="w-4 h-4" />
                   </div>
-                  <span className="text-sm font-medium text-gray-700">info@settleloan.in</span>
+                  <span className="text-sm font-medium text-gray-700">info@settleloans.in</span>
                 </div>
                 <FontAwesomeIcon icon={faArrowRight} className="w-4 h-4 text-gray-400 group-hover:translate-x-1 transition-transform" />
               </a>
@@ -108,8 +108,8 @@ export default function Footer() {
               <Link href="/privacy-policy" className='text-blue-600 hover:text-blue-800 text-base'>Privacy Policy</Link>
               <Link href="/how-to-avoid-loan-settlement-scams" className='text-blue-600 hover:text-blue-800 text-base'>Avoid Settlement Scams</Link>
               <Link href="/recovery-agent-visiting-workplace-office" className='text-blue-600 hover:text-blue-800 text-base'>Recovery Agent Workplace Visits</Link>
-              <Link href="/loan-settlement-by-bank" className='text-blue-600 hover:text-blue-800 text-base'>Loan Settlement for Banks</Link>
-              <Link href = "/loan-settlement-by-city" className='text-blue-600 hover:text-blue-800 text-base'>Loan Settlement by City</Link>
+              <Link href="/loan-settlement" className='text-blue-600 hover:text-blue-800 text-base'>Loan Settlement Solutions</Link>
+              <Link href="/services/personal-loan-settlement" className='text-blue-600 hover:text-blue-800 text-base'>Personal Loan Settlement</Link>
             </div>
           </div>
 

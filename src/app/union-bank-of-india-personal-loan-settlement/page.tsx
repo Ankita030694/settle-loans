@@ -56,8 +56,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/union-bank-of-india-personal-loan-settlement',
   },
   openGraph: {
-    title: 'Union Bank of India Personal Loan Settlement: SAMB Process, RCC Limits & OTS Rules (2026)',
-    description: 'Learn how to settle an unsecured personal loan with Union Bank of India. Understand SAMB branch escalation, Regional Credit Committee financial delegation, NPA provisioning write-offs, Special Lok Adalat conciliation, and RBI compromise settlement frameworks.',
+    title: 'Union Bank Personal Loan Settlement | SettleLoans',
+    description: 'Learn how to settle Union Bank of India personal loans legally. Navigate SAMB procedures and negotiate special OTS waivers with SettleLoans.',
     url: 'https://www.settleloans.in/union-bank-of-india-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -73,8 +73,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Union Bank of India Personal Loan Settlement: SAMB Process, RCC Limits & OTS Rules',
-    description: 'Strategic and legal manual for settling defaulted Union Bank of India personal loans under RBI Compromise Settlement frameworks, SAMB desks, and Lok Adalat conciliation.',
+    title: 'Union Bank Personal Loan Settlement | SettleLoans',
+    description: 'Learn how to settle Union Bank of India personal loans legally. Navigate SAMB procedures and negotiate special OTS waivers with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/union-bank-of-india-personal-loan-settlement.jpg'],
   },
 };

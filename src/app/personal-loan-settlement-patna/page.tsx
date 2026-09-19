@@ -48,8 +48,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-patna',
   },
   openGraph: {
-    title: 'Loan Settlement Services in Patna, Bihar: SARB Notice Defense & Lok Adalat Guide',
-    description: 'Struggling with unpaid personal loans or credit cards in Patna, Gaya, or Muzaffarpur? Learn how advocate-led OTS negotiations, SARB notice legal defense, and National Lok Adalat settlements can reduce your debt by 40% to 60%.',
+    title: 'Personal Loan Settlement in Patna | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Patna Bihar. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-patna',
     siteName: 'SettleLoans',
     images: [
@@ -65,8 +65,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Services in Patna Bihar: Legal OTS & Lok Adalat Representation',
-    description: 'Facing SARB recovery notices, Section 138 summons, or collection pressure in Bihar? Settle personal loans and credit card debt legally with advocate-led bank negotiations.',
+    title: 'Personal Loan Settlement in Patna | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Patna Bihar. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-patna.jpg'],
   },
 };

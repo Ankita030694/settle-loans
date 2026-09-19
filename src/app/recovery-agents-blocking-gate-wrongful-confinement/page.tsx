@@ -58,8 +58,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement',
   },
   openGraph: {
-    title: 'Recovery Agent Blocking Door or Car From Leaving? Legal Rights & Criminal Action',
-    description: 'Exhaustive legal analysis on borrower protections against physical obstruction, vehicle blocking, and key snatching by debt recovery agents. Detailed guide on Section 127 BNS, Section 340 IPC, Article 21 rights, and police FIR filing.',
+    title: 'Recovery Agents Blocking House Gate | SettleLoans',
+    description: 'Recovery agents blocking your house gate or vehicle? File wrongful restraint and confinement charges under Section 127 BNS with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement',
     siteName: 'SettleLoans',
     images: [
@@ -75,8 +75,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agent Blocking Door or Car? Sec 127 BNS & Police FIR Guide',
-    description: 'Facing muscle tactics from loan collection agents? Learn why blocking doors or cars constitutes criminal wrongful confinement under Section 127 BNS / Section 340 IPC and how to take decisive legal action.',
+    title: 'Recovery Agents Blocking House Gate | SettleLoans',
+    description: 'Recovery agents blocking your house gate or vehicle? File wrongful restraint and confinement charges under Section 127 BNS with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agents-blocking-gate-wrongful-confinement.jpg'],
   },
 };

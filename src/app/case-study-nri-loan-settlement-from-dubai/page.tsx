@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai',
   },
   openGraph: {
-    title: 'NRI Personal Loan Settlement Case Study: ₹10L Settled From Dubai via POA',
-    description: 'In-depth case study: How an NRI settled a ₹10 Lakh unsecured bank loan in India for ₹4.10 Lakhs (60% haircut) through consular Power of Attorney and remote legal defense.',
+    title: 'NRI Personal Loan Settlement Case Study | SettleLoans',
+    description: 'Real case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian personal loan and settled it for ₹4. Get expert legal help to settle your debt for less.',
     url: 'https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai',
     siteName: 'SettleLoans',
     images: [
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'NRI Personal Loan Settlement Case Study: ₹10L Settled From Dubai via POA',
-    description: 'Proof of concept: Step-by-step breakdown of how an NRI resolved an ₹10 Lakh default in India for ₹4.10 Lakhs with zero travel and official bank No Dues Certificate.',
+    title: 'NRI Personal Loan Settlement Case Study | SettleLoans',
+    description: 'Real case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian personal loan and settled it for ₹4. Get expert legal help to settle your debt for less.',
     images: ['https://www.settleloans.in/images/infographics/case-study-nri-loan-settlement-from-dubai.jpg'],
   },
 };

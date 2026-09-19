@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/case-study-axis-bank-business-loan-settlement',
   },
   openGraph: {
-    title: 'Axis Bank Business Loan Settlement Case Study: ₹15L SME Debt Settled for ₹5.5L',
-    description: 'In-depth commercial debt resolution: How a distressed MSME owner resolved an ₹15 Lakh unsecured Axis Bank business loan for ₹5.5 Lakhs (63.3% haircut) with complete personal asset protection.',
+    title: 'Axis Bank Business Loan Settlement Case Study | SettleLoans',
+    description: 'Real case study: How an ₹15 Lakh unsecured Axis Bank business loan was settled for ₹5. Stop harassment & settle debt legally with SettleLoans.',
     url: 'https://www.settleloans.in/case-study-axis-bank-business-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Axis Bank Business Loan Settlement Case Study: ₹15L SME Debt Settled for ₹5.5L',
-    description: 'Case study proof: Step-by-step breakdown of how a ₹15 Lakh Axis Bank business loan default was settled for ₹5.5 Lakhs with official bank sanction letter and full personal guarantor immunity.',
+    title: 'Axis Bank Business Loan Settlement Case Study | SettleLoans',
+    description: 'Real case study: How an ₹15 Lakh unsecured Axis Bank business loan was settled for ₹5. Stop harassment & settle debt legally with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/case-study-axis-bank-business-loan-settlement.jpg'],
   },
 };

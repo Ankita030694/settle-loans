@@ -8,8 +8,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/check-cibil-defaulter-list',
   },
   openGraph: {
-    title: 'How to Check My Name in CIBIL Defaulter List? Myth vs Reality & Credit Guide',
-    description: 'Demystifying the CIBIL defaulter list myth: discover how credit bureaus track payment histories, how to access your official credit report, and legal recovery pathways.',
+    title: 'How to Check Name in CIBIL Defaulter List | SettleLoans',
+    description: 'Wondering how to check your name in CIBIL defaulter list? Learn why a public blacklist is a myth, what DPD & Written-Off mean, how to get your CIR.',
     url: 'https://www.settleloans.in/check-cibil-defaulter-list',
     siteName: 'SettleLoans',
     images: [
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Check My Name in CIBIL Defaulter List? Score Impact & Recovery Guide',
+    title: 'How to Check Name in CIBIL Defaulter List | SettleLoans',
     description: 'Learn the truth about CIBIL defaulter lists, understand DPD strings and written-off codes, and discover how to rebuild your score to 750+.',
     images: ['https://www.settleloans.in/images/infographics/check-cibil-defaulter-list.jpg'],
   },

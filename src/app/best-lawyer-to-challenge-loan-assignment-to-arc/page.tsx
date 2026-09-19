@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faBuilding, faShieldAlt, faFileSignature, faCheckCircle, faSearch, faExclamationTriangle, faHandshake } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Challenge Loan Assignment to ARC | Best Lawyer',
+  description: 'Expert legal advice on challenging loan assignments to ARCs in India. Learn about Section 5 SARFAESI, Assignment Deed validity, and DRT defences. 4500+ word...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc',
+  },
+  openGraph: {
+    title: 'Challenge Loan Assignment to ARC | Best Lawyer',
+    description: 'Expert legal advice on challenging loan assignments to ARCs in India. Learn about Section 5 SARFAESI, Assignment Deed validity, and DRT defences. 4500+ word...',
+    url: 'https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Challenge Loan Assignment to ARC | Best Lawyer',
+    description: 'Expert legal advice on challenging loan assignments to ARCs in India. Learn about Section 5 SARFAESI, Assignment Deed validity, and DRT defences. 4500+ word...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function ChallengeARCPage() {
     const jsonLd = {

@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement',
   },
   openGraph: {
-    title: 'How to Permanently Close Loan Account After Settlement: Complete 5-Step Protocol & Legal Clearance Guide',
-    description: 'Master the mandatory 5-step banking protocol to permanently close your loan account after settlement: ledger zeroing, physical branch NDC with official seal, NPCI NACH cancellation, ECS revocation, and CIBIL zero-balance update.',
+    title: 'How to Permanently Close Settled Loan | SettleLoans',
+    description: 'Learn the 5-step banking protocol to permanently close settled loan accounts, get the No Dues Certificate, and update CIBIL via SettleLoans.',
     url: 'https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -76,8 +76,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Steps to Permanently Close Loan Account After Settlement: 5-Step Protocol',
-    description: 'Paying your OTS amount is not enough. Discover the 5 essential legal and banking steps to permanently terminate your loan account, cancel NACH mandates, and obtain a clean CIBIL report.',
+    title: 'How to Permanently Close Settled Loan | SettleLoans',
+    description: 'Learn the 5-step banking protocol to permanently close settled loan accounts, get the No Dues Certificate, and update CIBIL via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/how-to-close-loan-account-permanently-after-settlement.jpg'],
   },
 };

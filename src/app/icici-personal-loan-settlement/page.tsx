@@ -23,8 +23,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/icici-personal-loan-settlement',
   },
   openGraph: {
-    title: 'ICICI Personal Loan Settlement: OTS Rules, Haircut Formula & Process (2026)',
-    description: 'Learn how to settle an ICICI Bank personal loan, Insta Personal Loan, or credit card. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
+    title: 'ICICI Personal Loan Settlement Guide | SettleLoans',
+    description: 'Exhaustive guide to ICICI Bank personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, recovery agent defense.',
     url: 'https://www.settleloans.in/icici-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ICICI Personal Loan Settlement: OTS Rules, Haircut Formula & Process',
+    title: 'ICICI Personal Loan Settlement Guide | SettleLoans',
     description: 'Technical and legal manual for settling defaulted ICICI Bank personal loans and credit cards under RBI Compromise Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/icici-personal-loan-settlement.jpg'],
   },

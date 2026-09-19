@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-vs-restructuring',
   },
   openGraph: {
-    title: 'Personal Loan Settlement vs Restructuring: CIBIL Impact & Decision Guide (2026)',
-    description: 'Should you lower your EMI through restructuring or settle your personal loan with a one-time haircut? In-depth legal, financial, and credit analysis under RBI guidelines.',
+    title: 'Personal Loan Settlement vs Restructuring | SettleLoans',
+    description: 'Confused between personal loan settlement vs restructuring? Compare EMI reduction vs one-time settlement haircut, CIBIL score drop (-50 vs -120 pts).',
     url: 'https://www.settleloans.in/personal-loan-settlement-vs-restructuring',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement vs Restructuring: Which Option Is Right For You?',
+    title: 'Personal Loan Settlement vs Restructuring | SettleLoans',
     description: 'Compare monthly EMI reduction vs one-time settlement haircut. Discover credit bureau impacts, total interest costs, RBI rules, and legal protections.',
     images: ['https://www.settleloans.in/images/infographics/settlement-process.jpg'],
   },

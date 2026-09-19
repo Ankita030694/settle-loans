@@ -61,7 +61,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Recovery Agent Refusing to Leave House? | SettleLoans',
-    description: 'Bank recovery agents staging a dharna outside your flat or doorstep? Learn your rights under Supreme Court privacy rulings, Section 270 BNS public nuisance, and immediate police 112 action.',
+    description: 'Recovery agent staging a dharna outside your house? Follow our emergency 112 police protocol, DD entry guide, and legal remedies with SettleLoans.',
     url: 'https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do',
     siteName: 'SettleLoans',
     images: [
@@ -77,8 +77,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Recovery Agent Sitting Outside House Refusing to Leave? Police 112 Protocol & Legal Eviction Guide',
-    description: 'Facing a doorstep standoff from bank recovery agents refusing to leave? Discover step-by-step 112 emergency police protocols, DD entry procedures, and advocate legal defenses.',
+    title: 'What to Do If Recovery Agents Won',
+    description: 'Recovery agent staging a dharna outside your house? Follow our emergency 112 police protocol, DD entry guide, and legal remedies with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/recovery-agent-refusing-to-leave-house-dharna-what-to-do.jpg'],
   },
 };

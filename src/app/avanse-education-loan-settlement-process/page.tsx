@@ -52,9 +52,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/avanse-education-loan-settlement-process',
   },
   openGraph: {
-    title: 'Avanse Education Loan Settlement: OTS Process, Co-Borrower Shield & Haircut (2026)',
+    title: 'Avanse Education Loan Settlement | SettleLoans',
     description:
-      'Learn how to negotiate a One-Time Settlement (OTS) with Avanse Financial Services. Protect co-borrower parents, halt collection harassment, eliminate moratorium compound interest, and resolve unsecured or secured higher education debt under RBI frameworks.',
+      'Learn how to settle Avanse education loans legally. Protect student and parent co-borrowers and negotiate structured OTS with SettleLoans.',
     url: 'https://www.settleloans.in/avanse-education-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -70,9 +70,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Avanse Education Loan Settlement: OTS Process, Co-Borrower Shield & Haircut',
+    title: 'Avanse Education Loan Settlement | SettleLoans',
     description:
-      'Technical and legal manual for settling defaulted Avanse higher education loans under RBI Compromise Settlement frameworks, protecting co-borrowers, and releasing pledged collateral.',
+      'Learn how to settle Avanse education loans legally. Protect student and parent co-borrowers and negotiate structured OTS with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/avanse-education-loan-settlement-process.jpg'],
   },
 };

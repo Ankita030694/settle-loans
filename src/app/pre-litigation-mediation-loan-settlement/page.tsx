@@ -56,7 +56,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Pre-Litigation Mediation for Loan Default | SettleLoans',
-    description: 'Proactively initiate free, court-backed pre-litigation mediation through DLSA for unsecured personal loans and credit cards. Halt recovery harassment and secure an official Lok Adalat compromise decree with 45%–60% principal waivers.',
+    description: 'Discover how to proactively initiate free, court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan defaults.',
     url: 'https://www.settleloans.in/pre-litigation-mediation-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -72,8 +72,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Pre-Litigation Mediation for Bank Loan Default: DLSA Process & Legal Rights',
-    description: 'Struggling with loan default or aggressive bank recovery? Learn how to file for free pre-litigation mediation at your local District Court DLSA to negotiate a binding One-Time Settlement.',
+    title: 'Pre-Litigation Mediation for Loan Default | SettleLoans',
+    description: 'Discover how to proactively initiate free, court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan defaults.',
     images: ['https://www.settleloans.in/images/infographics/pre-litigation-mediation-loan-settlement.jpg'],
   },
 };

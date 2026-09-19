@@ -1,7 +1,27 @@
-"use client";
-
 import Link from "next/link";
+import type { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+
+export const metadata: Metadata = {
+  title: 'Legal Notice for Loan Recovery: Complete Defense',
+  description: 'Received a legal notice for loan recovery? Learn how to reply to Section 13(2) SARFAESI notices and Section 138 NI Act (Cheque Bounce) demands legally.',
+  alternates: {
+    canonical: 'https://www.settleloans.in/legal-notice-for-loan-recovery',
+  },
+  openGraph: {
+    title: 'Legal Notice for Loan Recovery: Complete Defense',
+    description: 'Received a legal notice for loan recovery? Learn how to reply to Section 13(2) SARFAESI notices and Section 138 NI Act (Cheque Bounce) demands legally.',
+    url: 'https://www.settleloans.in/legal-notice-for-loan-recovery',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Legal Notice for Loan Recovery: Complete Defense',
+    description: 'Received a legal notice for loan recovery? Learn how to reply to Section 13(2) SARFAESI notices and Section 138 NI Act (Cheque Bounce) demands legally.',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function LegalNoticeForLoanRecoveryPage() {
     const jsonLd = {

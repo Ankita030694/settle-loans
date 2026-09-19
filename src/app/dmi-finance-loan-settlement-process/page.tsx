@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/dmi-finance-loan-settlement-process',
   },
   openGraph: {
-    title: 'DMI Finance Loan Settlement Process: OTS Rules, Fintech Legal Defense & Haircut (2026)',
-    description: 'Strategic guide to settling defaulted DMI Finance personal and consumer loans across Samsung Finance+, Google Pay, and Airtel. Master automated notice defense, e-NACH bounce waivers, and Credit Committee compromise negotiations.',
+    title: 'DMI Finance Loan Settlement Process Guide | SettleLoans',
+    description: 'Comprehensive guide to DMI Finance loan settlement for Samsung Finance+, Google Pay, and Airtel loans. Learn how to stop automated WhatsApp notices.',
     url: 'https://www.settleloans.in/dmi-finance-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'DMI Finance Loan Settlement Process: OTS Rules, Fintech Legal Defense & Haircut',
+    title: 'DMI Finance Loan Settlement Process Guide | SettleLoans',
     description: 'Technical and legal manual for resolving defaulted DMI Finance co-lending loans under RBI Compromise Settlement frameworks with maximum debt waivers.',
     images: ['https://www.settleloans.in/images/infographics/dmi-finance-loan-settlement-process.jpg'],
   },

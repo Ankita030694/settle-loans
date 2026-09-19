@@ -51,9 +51,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement',
   },
   openGraph: {
-    title: 'RBL Bank Credit Card Settlement: High-Risk Debt, Co-Branded Cards & OTS Guide (2026)',
+    title: 'RBL Bank Credit Card Settlement Guide | SettleLoans',
     description:
-      'Learn how to settle defaulted RBL Bank credit cards and co-branded Bajaj Finserv SuperCards. Understand revolving interest spirals, NPA provisioning rules, recovery agent defense, and RBI compromise settlement frameworks.',
+      'Exhaustive guide to RBL Bank credit card settlement. Understand Bajaj SuperCard, Zomato & BookMyShow card debt traps, 48% APR compounding, NPA provisioning.',
     url: 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'RBL Bank Credit Card Settlement: High-Risk Debt, Co-Branded Cards & OTS Guide',
+    title: 'RBL Bank Credit Card Settlement Guide | SettleLoans',
     description:
       'Technical and legal manual for settling defaulted RBL Bank credit cards and Bajaj SuperCards under RBI Compromise Settlement frameworks.',
     images: ['https://www.settleloans.in/images/infographics/rbl-bank-credit-card-loan-settlement.jpg'],

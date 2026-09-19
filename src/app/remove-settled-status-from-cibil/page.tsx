@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     'cibil score improvement after settlement'
   ],
   openGraph: {
-    title: 'How to Remove Settled Status from CIBIL: Legal Process to Upgrade to "Closed"',
+    title: 'How to Remove Settled Status from CIBIL: Legal Guide to "Closed"',
     description: 'Stuck with a "Settled" remark on your CIBIL report? Follow our proven legal roadmap to pay the waived balance, obtain an unconditional NDC, and upgrade your status to "Closed".',
     url: 'https://www.settleloans.in/remove-settled-status-from-cibil',
     siteName: 'SettleLoans',

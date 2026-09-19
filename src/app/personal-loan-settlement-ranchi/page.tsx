@@ -48,8 +48,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-ranchi',
   },
   openGraph: {
-    title: 'Personal Loan Settlement in Ranchi, Jharkhand: Advocate Defense & Bank OTS Guide',
-    description: 'Struggling with unmanageable personal loans or credit card debt in Ranchi, Jamshedpur, or Dhanbad? Learn how advocate-led OTS negotiations, SARB notice legal defense, and JHALSA Lok Adalat settlements can reduce your debt by 40% to 60%.',
+    title: 'Personal Loan Settlement in Ranchi | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Ranchi. Stop bank recovery agent calls and resolve debt with up to 60% OTS waiver via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-ranchi',
     siteName: 'SettleLoans',
     images: [
@@ -65,8 +65,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement in Ranchi Jharkhand: Legal OTS & Lok Adalat Representation',
-    description: 'Facing SARB recovery notices, Section 138 summons, or collection pressure in Jharkhand? Settle personal loans and credit card debt legally with advocate-led bank negotiations.',
+    title: 'Personal Loan Settlement in Ranchi | SettleLoans',
+    description: 'Learn how to settle personal loans legally in Ranchi. Stop bank recovery agent calls and resolve debt with up to 60% OTS waiver via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-ranchi.jpg'],
   },
 };

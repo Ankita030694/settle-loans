@@ -32,26 +32,26 @@ export default function PersonalLoanSettlementServicesClient() {
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://settleloan.in/#organization",
-        "name": "Settle Loan",
-        "url": "https://settleloan.in",
+        "@id": "https://www.settleloans.in/#organization",
+        "name": "SettleLoans",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloan.in/settleloan-logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         },
         "sameAs": [
-          "https://www.facebook.com/settleloan",
-          "https://twitter.com/settleloan",
-          "https://www.linkedin.com/company/settleloan"
+          "https://www.facebook.com/settleloans",
+          "https://twitter.com/settleloans",
+          "https://www.linkedin.com/company/settleloans"
         ]
       },
       {
         "@type": "WebPage",
-        "@id": "https://settleloan.in/personal-loan-settlement-services/#webpage",
-        "url": "https://settleloan.in/personal-loan-settlement-services",
-        "name": "Expert Personal Loan Settlement Services in India | Settle Loan",
+        "@id": "https://www.settleloans.in/personal-loan-settlement-services/#webpage",
+        "url": "https://www.settleloans.in/personal-loan-settlement-services",
+        "name": "Personal Loan Settlement Services in India | SettleLoans",
         "isPartOf": {
-          "@id": "https://settleloan.in/#website"
+          "@id": "https://www.settleloans.in/#website"
         },
         "speakable": {
           "@type": "SpeakableSpecification",
@@ -60,24 +60,24 @@ export default function PersonalLoanSettlementServicesClient() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloan.in/personal-loan-settlement-services/#article",
+        "@id": "https://www.settleloans.in/personal-loan-settlement-services/#article",
         "isPartOf": {
-          "@id": "https://settleloan.in/personal-loan-settlement-services/#webpage"
+          "@id": "https://www.settleloans.in/personal-loan-settlement-services/#webpage"
         },
         "mainEntityOfPage": {
-          "@id": "https://settleloan.in/personal-loan-settlement-services/#webpage"
+          "@id": "https://www.settleloans.in/personal-loan-settlement-services/#webpage"
         },
-        "headline": "Expert Personal Loan Settlement Services in India",
+        "headline": "Personal Loan Settlement Services in India",
         "image": [
-          "https://settleloan.in/images/og/personal-loan-settlement-services.jpg"
+          "https://www.settleloans.in/images/og/personal-loan-settlement-services.jpg"
         ],
         "author": {
           "@type": "Person",
           "name": "Advocate Aman Chawla",
-          "url": "https://settleloan.in/authors/advocate-aman-chawla"
+          "url": "https://www.settleloans.in"
         },
         "publisher": {
-          "@id": "https://settleloan.in/#organization"
+          "@id": "https://www.settleloans.in/#organization"
         },
         "reviewedBy": {
           "@type": "Person",
@@ -87,11 +87,11 @@ export default function PersonalLoanSettlementServicesClient() {
       {
         "@type": "Product",
         "name": "Personal Loan Settlement Service",
-        "image": "https://settleloan.in/images/og/personal-loan-settlement-services.jpg",
+        "image": "https://www.settleloans.in/images/og/personal-loan-settlement-services.jpg",
         "description": "Professional negotiation and legal protection services for individuals struggling with personal loan debt.",
         "brand": {
           "@type": "Organization",
-          "name": "Settle Loan"
+          "name": "SettleLoans"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -180,7 +180,7 @@ export default function PersonalLoanSettlementServicesClient() {
         {/* Breadcrumbs */}
         <div className="text-sm text-slate-500 mb-8 font-medium">
           <Link href="/" className="hover:text-slate-900 transition-colors">Home</Link> <span className="mx-2 text-slate-300">/</span>
-          <Link href="/send-a-legal-notice" className="hover:text-slate-900 transition-colors">Send a Legal Notice</Link> <span className="mx-2 text-slate-300">/</span>
+          <Link href="/legal-notice-for-loan-recovery" className="hover:text-slate-900 transition-colors">Send a Legal Notice</Link> <span className="mx-2 text-slate-300">/</span>
           <span className="text-slate-900 font-bold">Personal Loan Settlement</span>
         </div>
 
@@ -501,17 +501,17 @@ export default function PersonalLoanSettlementServicesClient() {
           <h2 className="text-2xl font-black text-slate-900 mb-6 tracking-tight">More Debt Relief Guides</h2>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
-            <Link href="/credit-card-settlement" className="bg-white border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow group">
+            <Link href="/services/credit-card-settlement" className="bg-white border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow group">
               <h3 className="text-[17px] font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors tracking-tight">Credit Card Settlement</h3>
               <p className="text-[13px] text-slate-500 leading-relaxed font-medium">Learn how to negotiate outstanding credit card dues, stop compounding interest, and settle your debt legally.</p>
             </Link>
             
-            <Link href="/banking-ombudsman-complaint" className="bg-white border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow group">
+            <Link href="/rbi-ombudsman-complaint-loan-recovery-harassment" className="bg-white border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow group">
               <h3 className="text-[17px] font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors tracking-tight">Banking Ombudsman Filing</h3>
               <p className="text-[13px] text-slate-500 leading-relaxed font-medium">Step-by-step guide to escalating your grievance against a bank's recovery harassment to the RBI Ombudsman.</p>
             </Link>
             
-            <Link href="/all-legal-notices" className="bg-white border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow group">
+            <Link href="/all-queries" className="bg-white border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow group">
               <h3 className="text-[17px] font-bold text-slate-900 mb-2 group-hover:text-[#2D68FF] transition-colors tracking-tight">All Legal Notices</h3>
               <p className="text-[13px] text-slate-500 leading-relaxed font-medium">Explore our full suite of legal notice templates and professional drafting services for various financial disputes.</p>
             </Link>
@@ -537,13 +537,13 @@ export default function PersonalLoanSettlementServicesClient() {
             <div>
               <h3 className="text-xl font-black text-slate-900 mb-6 tracking-tight">Our Solutions:</h3>
               <div className="flex flex-wrap gap-4">
-                <Link href="/send-legal-notice" className="border-2 border-[#2D68FF] text-[#2D68FF] hover:bg-[#2D68FF] hover:text-white font-bold py-3.5 px-10 rounded-xl transition-colors text-sm text-center">
+                <Link href="/legal-notice-for-loan-recovery" className="border-2 border-[#2D68FF] text-[#2D68FF] hover:bg-[#2D68FF] hover:text-white font-bold py-3.5 px-10 rounded-xl transition-colors text-sm text-center">
                   Send Legal Notice
                 </Link>
-                <Link href="/stop-recovery-harassment" className="border-2 border-[#2D68FF] text-[#2D68FF] hover:bg-[#2D68FF] hover:text-white font-bold py-3.5 px-10 rounded-xl transition-colors text-sm text-center">
+                <Link href="/how-to-stop-loan-recovery-harassment" className="border-2 border-[#2D68FF] text-[#2D68FF] hover:bg-[#2D68FF] hover:text-white font-bold py-3.5 px-10 rounded-xl transition-colors text-sm text-center">
                   Stop Recovery Harassment
                 </Link>
-                <Link href="/debt-settlement-services" className="border-2 border-[#2D68FF] text-[#2D68FF] hover:bg-[#2D68FF] hover:text-white font-bold py-3.5 px-10 rounded-xl transition-colors text-sm text-center">
+                <Link href="/services/personal-loan-settlement" className="border-2 border-[#2D68FF] text-[#2D68FF] hover:bg-[#2D68FF] hover:text-white font-bold py-3.5 px-10 rounded-xl transition-colors text-sm text-center">
                   Debt Settlement Services
                 </Link>
               </div>

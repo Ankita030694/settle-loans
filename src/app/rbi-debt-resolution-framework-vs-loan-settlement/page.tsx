@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement',
   },
   openGraph: {
-    title: 'RBI Debt Resolution Framework vs Loan Settlement: Restructuring vs OTS Compared',
-    description: 'Master the strategic choice between loan restructuring under RBI Master Directions and a definitive One Time Settlement (OTS) haircut. Learn how banking regulations, CIBIL scoring, and NPV recovery economics dictate the right debt relief path.',
+    title: 'RBI Debt Resolution vs Loan Settlement | SettleLoans',
+    description: 'Compare RBI Debt Resolution Framework restructuring with one-time loan settlement. Choose the right debt relief path with SettleLoans.',
     url: 'https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'RBI Debt Resolution Framework vs Loan Settlement: Restructuring vs OTS Compared',
-    description: 'Facing loan default in India? Discover whether you should apply for tenure extension and moratorium under the RBI Resolution Framework or negotiate a 50%–75% OTS haircut settlement.',
+    title: 'RBI Debt Resolution vs Loan Settlement | SettleLoans',
+    description: 'Compare RBI Debt Resolution Framework restructuring with one-time loan settlement. Choose the right debt relief path with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/rbi-debt-resolution-framework-vs-loan-settlement.jpg'],
   },
 };

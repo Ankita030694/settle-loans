@@ -664,19 +664,19 @@ export default function CompareLoanAppsPage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/dealing-with-harassment" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-4 transition-colors"></span>
                       Dealing with Harassment
                     </Link>
                   </li>
                   <li>
-                    <Link href="/settle-loan-legally" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/loan-settlement" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-4 transition-colors"></span>
                       Settle Your Loan Legally
                     </Link>
                   </li>
                   <li>
-                    <Link href="/filing-defamation-cases" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-4 transition-colors"></span>
                       Filing Defamation Cases
                     </Link>

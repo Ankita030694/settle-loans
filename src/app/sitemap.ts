@@ -3459,18 +3459,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
-            url: `${baseUrl}/loan-settlement-by-bank`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 0.9,
-        },
-        {
-            url: `${baseUrl}/loan-settlement-by-city`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 0.9,
-        },
-        {
             url: `${baseUrl}/mudra-loan-settlement-legal-help`,
             lastModified: new Date(),
             changeFrequency: 'weekly',

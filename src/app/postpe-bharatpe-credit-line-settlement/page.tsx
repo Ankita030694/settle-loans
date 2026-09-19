@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/postpe-bharatpe-credit-line-settlement',
   },
   openGraph: {
-    title: 'PostPe & BharatPe Credit Line Settlement: OTS Rules, Legal Defense & Harassment Protection (2026)',
-    description: 'Trapped in PostPe credit line debt or BharatPe merchant loan daily deductions? Discover how to stop recovery agent harassment, revoke e-NACH mandates, challenge partner NBFC notices, and settle with 45% to 65% OTS haircuts under RBI frameworks.',
+    title: 'PostPe & BharatPe Line Settlement | SettleLoans',
+    description: 'Learn how to settle PostPe and BharatPe credit lines legally. Stop collection agent calls and resolve partner NBFC debt with SettleLoans.',
     url: 'https://www.settleloans.in/postpe-bharatpe-credit-line-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -70,8 +70,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'PostPe & BharatPe Credit Line Settlement: OTS Rules & Legal Defense',
-    description: 'Technical and legal manual for settling defaulted PostPe consumer credit lines and BharatPe merchant loans under RBI Digital Lending Guidelines and Compromise Settlement frameworks.',
+    title: 'PostPe & BharatPe Line Settlement | SettleLoans',
+    description: 'Learn how to settle PostPe and BharatPe credit lines legally. Stop collection agent calls and resolve partner NBFC debt with SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/postpe-bharatpe-credit-line-settlement.jpg'],
   },
 };

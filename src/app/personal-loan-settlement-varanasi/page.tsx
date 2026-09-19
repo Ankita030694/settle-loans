@@ -51,9 +51,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-varanasi',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Lawyer in Varanasi: Legal Defense & OTS Advisory',
+    title: 'Personal Loan Settlement in Varanasi | SettleLoans',
     description:
-      'Authoritative legal representation and One-Time Settlement (OTS) negotiation for silk traders, business owners, and salaried employees across Varanasi, Prayagraj, and Gorakhpur.',
+      'Learn how to settle personal loans legally in Varanasi. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-varanasi',
     siteName: 'SettleLoans',
     images: [
@@ -69,9 +69,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Lawyer in Varanasi: Legal Defense & Lok Adalat Guide',
+    title: 'Personal Loan Settlement in Varanasi | SettleLoans',
     description:
-      'Strategic legal defense for bank loan defaults, Section 138 / Section 25 notices at Varanasi Kutchery, DLSA Lok Adalat compromise settlements, and anti-harassment protection across Eastern UP.',
+      'Learn how to settle personal loans legally in Varanasi. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-varanasi.jpg'],
   },
 };

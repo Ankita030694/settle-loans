@@ -1,10 +1,30 @@
-"use client";
-
 import React from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faBalanceScale, faGavel, faBriefcase, faShieldAlt, faHandshake, faUserCheck, faFileContract, faExclamationCircle, faGraduationCap, faBook, faCalendarAlt, faScaleBalanced, faInfoCircle, faCertificate, faUniversity, faUserGraduate, faSignature, faScroll, faLandmark, faFileSignature } from "@fortawesome/free-solid-svg-icons";
+
+export const metadata: Metadata = {
+  title: 'Lawyer for Loan & Mortgage Agreements | India',
+  description: 'Professional legal drafting and review of loan and mortgage agreements in India. Ensure compliance with Transfer of Property Act, Stamp Act, and...',
+  alternates: {
+    canonical: 'https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements',
+  },
+  openGraph: {
+    title: 'Lawyer for Loan & Mortgage Agreements | India',
+    description: 'Professional legal drafting and review of loan and mortgage agreements in India. Ensure compliance with Transfer of Property Act, Stamp Act, and...',
+    url: 'https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements',
+    type: "article",
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: 'Lawyer for Loan & Mortgage Agreements | India',
+    description: 'Professional legal drafting and review of loan and mortgage agreements in India. Ensure compliance with Transfer of Property Act, Stamp Act, and...',
+    images: ['https://www.settleloans.in/og-image.jpg'],
+  },
+};
 
 export default function LoanMortgageAgreementsPage() {
     const jsonLd = {

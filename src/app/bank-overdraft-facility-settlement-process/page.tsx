@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/bank-overdraft-facility-settlement-process',
   },
   openGraph: {
-    title: 'How to Settle Bank Overdraft Loan: Unsecured & Dropline OD OTS Guide',
-    description: 'Master the legal and financial roadmap to settle defaulted bank overdraft accounts and dropline facilities. Learn how advocate representation halts compounding interest, resolves banker lien freezes, and secures a 45%–65% One-Time Settlement.',
+    title: 'How to Settle Bank Overdraft Loan | SettleLoans',
+    description: 'Learn how to settle bank overdraft loans, unsecured OD limits, and dropline credit facilities in India. Discover how to freeze compounding interest.',
     url: 'https://www.settleloans.in/bank-overdraft-facility-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Settle Bank Overdraft Loan: Unsecured & Dropline OD Guide',
-    description: 'Stuck with a frozen bank overdraft account accumulating daily compounding interest? Discover the statutory OTS process to convert irregular OD limits into a compromised debt settlement.',
+    title: 'How to Settle Bank Overdraft Loan | SettleLoans',
+    description: 'Learn how to settle bank overdraft loans, unsecured OD limits, and dropline credit facilities in India. Discover how to freeze compounding interest.',
     images: ['https://www.settleloans.in/images/infographics/bank-overdraft-facility-settlement-process.jpg'],
   },
 };

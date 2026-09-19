@@ -8,8 +8,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-cibil-impact',
   },
   openGraph: {
-    title: 'Does Personal Loan Settlement Affect CIBIL Score? Everything You Must Know',
-    description: 'Learn how personal loan settlement impacts your CIBIL score, the difference between Settled and Closed, RBI rules, and proven steps to rebuild your credit score.',
+    title: 'Does Loan Settlement Affect CIBIL? | SettleLoans',
+    description: 'Does personal loan settlement affect CIBIL? Discover the exact score drop (75-150 pts), how long',
     url: 'https://www.settleloans.in/personal-loan-settlement-cibil-impact',
     siteName: 'SettleLoans',
     images: [
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Does Personal Loan Settlement Affect CIBIL? Score Impact & Recovery',
+    title: 'Does Loan Settlement Affect CIBIL? | SettleLoans',
     description: 'Understand the CIBIL impact of loan settlement, the 7-year retention rule, and how to restore your creditworthiness to 750+.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-cibil-impact.jpg'],
   },

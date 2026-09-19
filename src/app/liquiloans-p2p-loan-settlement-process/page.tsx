@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/liquiloans-p2p-loan-settlement-process',
   },
   openGraph: {
-    title: 'LiquiLoans Settlement Process: NDX P2P Loan Relief & Legal Defense (2026)',
-    description: 'Struggling with defaulted LiquiLoans zero-cost EMI or healthcare loans? Discover how to negotiate One-Time Settlements (OTS) with NDX P2P Lending, stop recovery harassment, and secure official ₹0 No Dues Certificates.',
+    title: 'LiquiLoans P2P Loan Settlement | SettleLoans',
+    description: 'Learn how to settle LiquiLoans P2P debt legally. Stop automated recovery notices and resolve overdue loans with expert help from SettleLoans.',
     url: 'https://www.settleloans.in/liquiloans-p2p-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'LiquiLoans Settlement Process: NDX P2P Loan Relief & Legal Defense',
-    description: 'Technical and legal roadmap for settling defaulted LiquiLoans consumer credit facilities under RBI compromise settlement frameworks and consumer protection directives.',
+    title: 'LiquiLoans P2P Loan Settlement | SettleLoans',
+    description: 'Learn how to settle LiquiLoans P2P debt legally. Stop automated recovery notices and resolve overdue loans with expert help from SettleLoans.',
     images: ['https://www.settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg'],
   },
 };

@@ -54,8 +54,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-na-chukane-par-kya-hoga',
   },
   openGraph: {
-    title: 'Loan Na Chukane Par Kya Hota Hai? Civil Law vs Recovery Myths & Legal Exit',
-    description: 'Comprehensive legal analysis on bank loan default in India. Clear the police arrest fear, understand civil law protections under Supreme Court rulings, CIBIL recovery, and One-Time Settlement (OTS).',
+    title: 'Loan Na Chukane Par Kya Hota Hai? | SettleLoans',
+    description: 'Bank ka loan na chukane par kya hota hai? Understand your legal rights against recovery harassment, why police cannot arrest you for loan default.',
     url: 'https://www.settleloans.in/loan-na-chukane-par-kya-hoga',
     siteName: 'SettleLoans',
     images: [
@@ -71,8 +71,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Na Chukane Par Kya Hota Hai? Legal Facts & Borrower Rights',
-    description: 'Worried about police action or court cases for unpaid loans? Discover landmark Supreme Court protections, RBI guidelines against recovery harassment, and legal debt settlement options.',
+    title: 'Loan Na Chukane Par Kya Hota Hai? | SettleLoans',
+    description: 'Bank ka loan na chukane par kya hota hai? Understand your legal rights against recovery harassment, why police cannot arrest you for loan default.',
     images: ['https://www.settleloans.in/images/infographics/loan-na-chukane-par-kya-hoga.jpg'],
   },
 };

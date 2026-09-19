@@ -54,9 +54,9 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-gwalior',
   },
   openGraph: {
-    title: 'Personal Loan Settlement Advocates in Gwalior: MP High Court Bench Defense & Bank OTS',
+    title: 'Loan Settlement Advocates Gwalior | SettleLoans',
     description:
-      'Authoritative legal defense, MP High Court Bench safeguards, and bank OTS settlement representation for salaried professionals and traders facing loan default in Gwalior, Morena, and Bhind.',
+      'Stop recovery harassment in Gwalior, Morena & Bhind. Consult expert advocates to defend court notices and negotiate 40%–70% bank OTS waivers.',
     url: 'https://www.settleloans.in/personal-loan-settlement-gwalior',
     siteName: 'SettleLoans',
     images: [
@@ -72,9 +72,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Personal Loan Settlement Advocates in Gwalior: MP High Court Bench Region Defense',
+    title: 'Loan Settlement Advocates Gwalior | SettleLoans',
     description:
-      'Senior advocate defense for personal loan defaults, Section 138/25 notices in CJM Gwalior, DLSA Lok Adalat compromise decrees, and anti-harassment protection across Gwalior, Morena, and Bhind.',
+      'Stop recovery harassment in Gwalior, Morena & Bhind. Consult expert advocates to defend court notices and negotiate 40%–70% bank OTS waivers.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-gwalior.jpg'],
   },
 };
@@ -969,7 +969,7 @@ export default function Page() {
                     SBI Personal Loan Settlement
                   </Link>
                   <Link
-                    href="/pnb-personal-loan-settlement"
+                    href="/pnb-personal-loan-settlement-process"
                     className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                   >
                     PNB Loan Settlement

@@ -2,10 +2,10 @@ import type { Metadata } from 'next';
 import PersonalLoanSettlementServicesClient from './PersonalLoanSettlementServicesClient';
 
 export async function generateMetadata(): Promise<Metadata> {
-  const title = "Expert Personal Loan Settlement Services in India | Settle Loan";
-  const description = "Looking for professional personal loan settlement services? Hire experts to negotiate with banks, stop harassment, and reduce your debt legally. Get a free consultation today.";
-  const url = "https://settleloan.in/personal-loan-settlement-services";
-  const imageUrl = "https://settleloan.in/images/og/personal-loan-settlement-services.jpg";
+  const title = "Personal Loan Settlement Assistance | SettleLoans";
+  const description = "Professional personal loan settlement in India. Negotiate with banks, stop harassment, and reduce debt legally with expert advocates. Free consultation.";
+  const url = "https://www.settleloans.in/personal-loan-settlement-services";
+  const imageUrl = "https://www.settleloans.in/images/og/personal-loan-settlement-services.jpg";
 
   return {
     title,

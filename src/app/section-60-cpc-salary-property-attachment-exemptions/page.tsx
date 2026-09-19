@@ -60,8 +60,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions',
   },
   openGraph: {
-    title: 'Section 60 CPC Property & Salary Attachment Exemptions: Bank Execution Guide',
-    description: 'Comprehensive legal analysis of Section 60 Code of Civil Procedure (CPC) statutory exemptions. Learn what banks and civil courts cannot seize during loan recovery execution.',
+    title: 'Section 60 CPC Attachment Exemptions Guide | SettleLoans',
+    description: 'What property and salary is exempted from attachment under Section 60 CPC? Understand statutory shields for wages, Stridhan, PF, gratuity.',
     url: 'https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions',
     siteName: 'SettleLoans',
     images: [
@@ -77,7 +77,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Section 60 CPC Property & Salary Attachment Exemptions: Bank Execution Guide',
+    title: 'Section 60 CPC Attachment Exemptions Guide | SettleLoans',
     description: 'Facing bank civil execution threats? Discover the non-attachable assets under Section 60 CPC: salary caps, Stridhan, PF, gratuity, pensions, and tools of trade.',
     images: ['https://www.settleloans.in/images/infographics/section-60-cpc-salary-property-attachment-exemptions.jpg'],
   },

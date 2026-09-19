@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/idfc-first-bank-loan-settlement',
   },
   openGraph: {
-    title: 'IDFC First Bank Loan Settlement: Process, OTS Policy & 60% Haircut (2026)',
-    description: 'Master IDFC First Bank personal and consumer durable loan settlement. Compare digital portal algorithms with advocate-led negotiations, handle Section 25 PSSA notices, and secure an authentic OTS sanction letter with ₹0 NDC.',
+    title: 'IDFC First Bank Loan Settlement Guide | SettleLoans',
+    description: 'Exhaustive legal guide to IDFC First Bank loan settlement. Understand consumer durable and personal loan default, digital portal vs advocate representation.',
     url: 'https://www.settleloans.in/idfc-first-bank-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'IDFC First Bank Loan Settlement Guide: Legal OTS & Haircuts',
-    description: 'Technical and legal manual for settling defaulted IDFC First Bank personal loans and consumer durable credit under RBI Compromise Settlement frameworks and SAMG desks.',
+    description: 'Exhaustive legal guide to IDFC First Bank loan settlement. Understand consumer durable and personal loan default, digital portal vs advocate representation.',
     images: ['https://www.settleloans.in/images/infographics/idfc-first-bank-loan-settlement.jpg'],
   },
 };

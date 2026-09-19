@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'How to Settle Education Loan in India | SettleLoans',
-    description: 'A comprehensive legal and financial guide on settling defaulted student loans in India, stopping recovery harassment against parents, and negotiating debt haircuts under RBI rules.',
+    description: 'Unemployed after graduation with expired moratorium? Learn how to settle education loans in India, protect parent co-applicants.',
     url: 'https://www.settleloans.in/education-loan-settlement-india',
     siteName: 'SettleLoans',
     images: [
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'How to Settle Education Loan in India | SettleLoans',
-    description: 'Expert guide for unemployed graduates facing expired moratoriums and bank recovery pressure. Understand co-applicant rights, NPA provisioning, and OTS negotiation.',
+    description: 'Unemployed after graduation with expired moratorium? Learn how to settle education loans in India, protect parent co-applicants.',
     images: ['https://www.settleloans.in/images/infographics/education-loan-settlement-india.jpg'],
   },
 };

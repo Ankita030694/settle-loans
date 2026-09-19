@@ -20,8 +20,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-fees',
   },
   openGraph: {
-    title: 'How Much Do Loan Settlement Companies Charge in India? (2026 Fee Guide & Scam Warning)',
-    description: 'Learn the exact fee structures of legitimate loan settlement firms in India. Discover percentage of savings vs enrolled debt models, upfront fee scams to avoid, and RBI legal protections.',
+    title: 'How Much Do Loan Settlement Companies Charge? | SettleLoans',
+    description: 'Wondering how much loan settlement companies charge in India? Compare standard success fee models (10–20% of savings), upfront fee red flags.',
     url: 'https://www.settleloans.in/personal-loan-settlement-fees',
     siteName: 'SettleLoans',
     images: [
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How Much Do Loan Settlement Companies Charge? Fees, Models & Scams (2026)',
+    title: 'How Much Do Loan Settlement Companies Charge? | SettleLoans',
     description: 'Exhaustive guide on loan settlement charges in India: 10%–20% success fees, upfront scam warnings, calculation worksheets, and RBI fair practice guidelines.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-debt-settlement.jpg'],
   },

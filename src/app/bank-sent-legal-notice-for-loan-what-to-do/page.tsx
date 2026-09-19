@@ -546,7 +546,7 @@ export default function BankLegalNoticeGuidePage() {
                                     <Link href="/best-nbfc-loan-settlement-lawyer" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">NBFC Notice Help</Link>
                                     <Link href="/loan-agreement-drafting-review" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Agreement Defense</Link>
                                     <Link href="/legal-notice-for-loan-recovery" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Recovery Secrets</Link>
-                                    <Link href="/is-loan-settlement-a-good-option" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Settlement Myths</Link>
+                                    <Link href="/is-loan-settlement-a-good-option-for-borrowers" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Settlement Myths</Link>
                                 </nav>
                             </div>
                         </div>

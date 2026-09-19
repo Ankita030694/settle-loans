@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/loan-settlement-during-banking-ombudsman-proceedings',
   },
   openGraph: {
-    title: 'How to Settle Loan During RBI Ombudsman Complaint: 60%–70% Haircut Guide',
-    description: 'Discover how filing a formal complaint on the RBI CMS portal empowers borrowers to negotiate maximum debt haircuts through mutual conciliation under the Integrated Ombudsman Scheme.',
+    title: 'Settle Loan During RBI Ombudsman | SettleLoans',
+    description: 'Learn how to settle loan during rbi ombudsman complaint. Use RBI CMS portal pressure to secure a 60% to 70% debt haircut via conciliation.',
     url: 'https://www.settleloans.in/loan-settlement-during-banking-ombudsman-proceedings',
     siteName: 'SettleLoans',
     images: [
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Settle Loan During RBI Ombudsman Complaint: Maximum Leverage',
+    title: 'Settle Loan During RBI Ombudsman | SettleLoans',
     description: 'Learn how filing a complaint on the RBI CMS portal creates institutional leverage, freezes recovery harassment, and yields a 60% to 70% loan settlement haircut.',
     images: ['https://www.settleloans.in/images/infographics/loan-settlement-during-banking-ombudsman-proceedings.jpg'],
   },

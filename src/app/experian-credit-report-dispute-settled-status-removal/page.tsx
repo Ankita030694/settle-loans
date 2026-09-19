@@ -61,8 +61,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal',
   },
   openGraph: {
-    title: 'How to Remove Settled Status from Experian Credit Report: Dispute Protocol & CICRA Legal Guide',
-    description: 'Master the legal and operational steps to dispute and remove Settled or Written-Off remarks from Experian India under the CICRA Act 2005 and RBI Master Directions.',
+    title: 'Remove Settled Status from Experian | SettleLoans',
+    description: 'Learn how to dispute and remove settled loan status from Experian credit reports under the CICRA Act with expert guidance from SettleLoans.',
     url: 'https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal',
     siteName: 'SettleLoans',
     images: [
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Remove Settled Status from Experian Credit Report: Dispute Protocol & CICRA Legal Guide',
+    title: 'Remove Settled Status from Experian | SettleLoans',
     description: 'Comprehensive legal blueprint to rectify Experian India credit reporting discrepancies, dispute settled remarks, and enforce RBI 30-day turnaround rules.',
     images: ['https://www.settleloans.in/images/infographics/experian-credit-report-dispute-settled-status-removal.jpg'],
   },

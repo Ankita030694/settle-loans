@@ -8,8 +8,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/section-138-cheque-bounce-loan-default',
   },
   openGraph: {
-    title: 'Cheque Bounce Case for Personal Loan Default? Section 138 Legal Defense & Settlement',
-    description: 'Did your bank deposit an undated security cheque (PDC) that bounced? Learn legal defenses against Section 138 NI Act, 15-day notice reply strategies, court bail, and OTS loan settlement.',
+    title: 'Section 138 Cheque Bounce Loan Defense | SettleLoans',
+    description: 'Facing a Section 138 cheque bounce case for personal loan default? Discover legal defense against bounced security cheques (PDC), 15-day notice response.',
     url: 'https://www.settleloans.in/section-138-cheque-bounce-loan-default',
     siteName: 'SettleLoans',
     images: [
@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Section 138 Cheque Bounce for Personal Loan Default: Legal Rights & Settlement',
-    description: 'Bounced security cheque for personal loan? Understand statutory 15-day notices, bailable court procedures, Supreme Court rulings, and compounding through One-Time Settlement (OTS).',
+    title: 'Section 138 Cheque Bounce Loan Defense | SettleLoans',
+    description: 'Facing a Section 138 cheque bounce case for personal loan default? Discover legal defense against bounced security cheques (PDC), 15-day notice response.',
     images: ['https://www.settleloans.in/images/infographics/section-138-cheque-bounce-loan-default.jpg'],
   },
 };

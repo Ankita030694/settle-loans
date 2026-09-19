@@ -226,7 +226,7 @@ export default function Page() {
             <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-3xl mx-auto leading-[1.3] font-normal">
               Is the bank trying to auction your house for pennies? Learn how to legally challenge a low 'Reserve Price' and protect your property's true value.
             </p>
-            <Link href="/contact-us" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
               Challenge Auction Value
             </Link>
           </div>
@@ -238,7 +238,7 @@ export default function Page() {
             <div className="text-xs md:text-sm text-[#747474] flex items-center gap-2">
               <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               <span className="text-gray-300">/</span>
-              <Link href="/sarfaesi-act-guide" className="hover:text-[#1F5EFF] transition-colors">SARFAESI Guide</Link>
+              <Link href="/auction-notice-challenge" className="hover:text-[#1F5EFF] transition-colors">SARFAESI Guide</Link>
               <span className="text-gray-300">/</span>
               <span className="font-bold text-[#2E2E2E]">Auction Reserve Price</span>
             </div>
@@ -604,7 +604,7 @@ export default function Page() {
                 <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto">
                   Is the bank trying to auction your house for pennies? Learn how to legally challenge a low 'Reserve Price' and protect your property's true value. Get expert legal intervention now.
                 </p>
-                <Link href="/contact-us" className="inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-xl hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                <Link href="/contact" className="inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-xl hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                   Consult a Legal Expert Now
                 </Link>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                 <div className="relative z-10">
                   <div className="text-xl font-black mb-4">Urgent Auction Notice?</div>
                   <p className="text-sm text-gray-300 mb-6">Time is critical. Challenge the reserve price before it's too late.</p>
-                  <Link href="/contact-us" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 px-4 rounded-lg hover:bg-blue-600 transition-colors text-sm">
+                  <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 px-4 rounded-lg hover:bg-blue-600 transition-colors text-sm">
                     Get Immediate Help
                   </Link>
                 </div>
@@ -641,25 +641,25 @@ export default function Page() {
                 </div>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/sarfaesi-act-guide" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group transition-colors">
+                    <Link href="/auction-notice-challenge" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Complete SARFAESI Guide
                     </Link>
                   </li>
                   <li>
-                    <Link href="/drt-appeal-process" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group transition-colors">
+                    <Link href="/auction-notice-challenge" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       How to file DRT Appeal
                     </Link>
                   </li>
                   <li>
-                    <Link href="/stop-bank-auction" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group transition-colors">
+                    <Link href="/auction-notice-challenge" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Ways to Stop Bank Auction
                     </Link>
                   </li>
                   <li>
-                    <Link href="/symbolic-possession-rules" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group transition-colors">
+                    <Link href="/sarfaesi-act-bajaj-finance-property-action-notice#symbolic-possession" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       Symbolic Possession Rules
                     </Link>

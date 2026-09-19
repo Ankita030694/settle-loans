@@ -22,8 +22,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/case-study-multiple-app-loan-settlement',
   },
   openGraph: {
-    title: 'Instant App Loan Settlement Success: ₹2L Multi-App Debt Resolved for ₹85K',
-    description: 'In-depth case study: How aggressive recovery harassment from 5 fintech loan apps was halted via RBI cease-and-desist notices and resolved through consolidated OTS settlements.',
+    title: 'Instant App Loan Settlement Case Study | SettleLoans',
+    description: 'Real case study: How SettleLoans stopped 50+ daily harassment calls across 5 instant loan apps (Navi, KreditBee, MoneyView) totaling ₹2 Lakhs.',
     url: 'https://www.settleloans.in/case-study-multiple-app-loan-settlement',
     siteName: 'SettleLoans',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Instant App Loan Settlement Success: ₹2L Multi-App Debt Resolved for ₹85K',
+    title: 'Instant App Loan Settlement Case Study | SettleLoans',
     description: 'Case study proof: Step-by-step breakdown of how 50+ daily harassment calls across 5 loan apps were stopped and ₹2 Lakhs in debt was settled for ₹85,000.',
     images: ['https://www.settleloans.in/images/infographics/case-study-multiple-app-loan-settlement.jpg'],
   },

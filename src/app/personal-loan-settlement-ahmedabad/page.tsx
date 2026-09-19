@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-ahmedabad',
   },
   openGraph: {
-    title: 'Loan Settlement Lawyer in Ahmedabad: Commercial & Personal Debt Defense',
-    description: 'Specialized legal representation for business owners, traders, and salaried professionals facing loan defaults across Ahmedabad, Surat, and Gujarat. Secure 45% to 65% OTS debt waivers.',
+    title: 'Loan Settlement Lawyer in Ahmedabad | SettleLoans',
+    description: 'Facing loan default, court summons, or recovery harassment in Ahmedabad, Surat, or Gujarat? Stop harassment & settle debt legally with SettleLoans.',
     url: 'https://www.settleloans.in/personal-loan-settlement-ahmedabad',
     siteName: 'SettleLoans',
     images: [
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Loan Settlement Lawyer in Ahmedabad: Legal Defense & OTS Guide',
+    title: 'Loan Settlement Lawyer in Ahmedabad | SettleLoans',
     description: 'Expert legal defense for personal and business loan defaults in Ahmedabad. Mirzapur Court defense, Lok Adalat conciliation, and RBI-compliant debt reduction.',
     images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-ahmedabad.jpg'],
   },
