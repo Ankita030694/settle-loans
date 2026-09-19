@@ -208,7 +208,7 @@ export default function EffectiveNegotiationPage() {
                             Negotiation Excellence
                         </span>
                         <h1 className="text-3xl md:text-5xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight text-balance">
-                            Find Debt Settlement Services <br className="hidden md:block" /> Known for Effective Negotiation
+                            Debt Settlement Services <br className="hidden md:block" /> Known for Effective Negotiation FAQ
                         </h1>
                         <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-3xl mx-auto leading-[1.2] font-normal">
                             Master the art of choosing a debt resolution partner with the leverage, data, and persistence required to secure life-changing waivers in 2025.

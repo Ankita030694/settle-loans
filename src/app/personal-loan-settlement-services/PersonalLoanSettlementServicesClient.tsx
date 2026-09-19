@@ -133,11 +133,11 @@ export default function PersonalLoanSettlementServicesClient() {
             FINANCIAL EMPOWERMENT & DEBT RESOLUTION
           </div>
           <h1 className="text-5xl md:text-6xl lg:text-[72px] font-bold tracking-tight mb-7 text-[#F8FAFC] leading-[1.1]">
-            Job Lost? No Income?<br/>
-            Still Have Loan EMIs?
+            Personal Loan Settlement<br/>
+            Services in India
           </h1>
           <p className="text-[17px] md:text-[19px] text-slate-300/90 mb-10 max-w-[850px] leading-relaxed font-normal">
-            Managing debt during unemployment is a challenge of endurance. This master guide teaches you how to protect your rights, survive recovery tactics, and negotiate a life-changing loan settlement under RBI guidelines 2026.
+            Settle your unpayable personal loans legally with expert legal advocates. Halt recovery harassment, negotiate debt haircuts up to 50%+, and secure formal debt closure.
           </p>
           <button className="bg-[#2D68FF] hover:bg-blue-600 text-white font-semibold py-3.5 px-10 rounded-lg transition-colors text-[15px] shadow-sm">
             Get Your Free Debt Analysis

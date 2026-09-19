@@ -275,7 +275,7 @@ export default function LoanSettlementInstallmentsPage() {
 
             <section id="what-is-settlement" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
-                What Exactly is a Loan Settlement?
+                What is Loan Settlement in Installments?
               </h2>
               <p className="text-lg leading-relaxed mb-6">
                 A loan settlement is a mutual agreement between a borrower and a lender where the lender agrees to accept an amount that is less than the total outstanding balance to close the loan account. In the eyes of the bank, a settlement is a compromise. They realize that the borrower is facing genuine financial distress and may never be able to repay the full amount. In such cases, the bank prefers to recover at least a portion of the money rather than writing off the entire loan as a total loss.
@@ -575,7 +575,7 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Freedom</h2>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Installment Settlement Success Stories</h2>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 {[
                   {
@@ -628,7 +628,7 @@ export default function LoanSettlementInstallmentsPage() {
             </section>
 
             <section id="faqs" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions on Installments</h2>
               <div className="space-y-4 not-prose">
                 {[
                   { q: "Is it really possible to settle a loan in installments?", a: "Yes, it is possible. Banks often agree to 3-6 monthly installments for distressed borrowers who cannot pay a lump sum." },

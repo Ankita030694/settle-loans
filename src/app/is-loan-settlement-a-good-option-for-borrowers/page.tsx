@@ -247,7 +247,7 @@ export default function LoanSettlementGoodOptionPage() {
                             { id: "tax-implications", title: "Tax Considerations" },
                             { id: "step-by-step", title: "Settlement Process" },
                             { id: "common-mistakes", title: "5 Fatal Mistakes" },
-                            { id: "success-stories", title: "Real Stories of Freedom" },
+                            { id: "success-stories", title: "Borrower Success Stories" },
                             { id: "rebuilding", title: "Rebuilding Life" },
                             { id: "faqs", title: "FAQ" }
                         ]} />
@@ -255,7 +255,7 @@ export default function LoanSettlementGoodOptionPage() {
 
                     <article className="w-full lg:w-3/5 flex-1 max-w-none font-sans text-[var(--color-text-body)] text-lg leading-relaxed">
                         <section id="what-is-settlement" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What Exactly is a Loan Settlement?</h2>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">What Does Loan Settlement Entail for Borrowers?</h2>
                             <p className="mb-6">
                                 In the context of Indian banking, a loan settlement is a mutual agreement between a borrower who is in financial distress and the lender (bank or NBFC). When a borrower is unable to pay the full outstanding amount—which includes the principal, interest, and various penalties—the bank may agree to accept a smaller, one-time lump sum payment. Once this payment is made, the bank agrees to close the loan account and stop all further recovery actions.
                             </p>
@@ -504,7 +504,7 @@ export default function LoanSettlementGoodOptionPage() {
                         </section>
 
                         <section id="success-stories" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Real Stories of Freedom</h2>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tight">Borrower Settlement Success Stories</h2>
                             <div className="grid md:grid-cols-2 gap-6 pb-2">
                                 {[
                                     {
@@ -682,7 +682,7 @@ export default function LoanSettlementGoodOptionPage() {
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions</h2>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Frequently Asked Questions on Loan Settlement</h2>
                             <div className="space-y-6">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
                                     <h3 className="font-bold text-[#1F5EFF] mb-2">1. Will I ever get a home loan after settlement?</h3>
