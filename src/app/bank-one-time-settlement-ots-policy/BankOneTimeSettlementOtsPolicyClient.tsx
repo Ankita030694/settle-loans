@@ -271,7 +271,7 @@ Residential Address: [Your Full Postal Address]`;
       question: "What is a Bank One-Time Settlement (OTS) and how does it legally work in India?",
       answer: (
         <p>
-          A <strong>Bank One-Time Settlement (OTS)</strong> is a legally binding compromise contract between a regulated financial institution (Bank or NBFC) and a distressed borrower. Under this framework, the lender agrees to accept a negotiated lump-sum payment (or structured tranches) that is lower than the total book outstanding, voluntarily waiving the remaining balance, penal interest, and incidental legal fees. Once paid, the loan account is fully extinguished, all legal proceedings are formally withdrawn, and the bank issues a <strong>No Dues Certificate (NDC)</strong> under board-approved compromise policies framed in compliance with Reserve Bank of India (RBI) Master Directions.
+          A <strong>Bank One-Time Settlement (OTS)</strong> is a legally binding compromise contract between a regulated financial institution (Bank or NBFC) and a distressed borrower. Under this framework, the lender agrees to accept a negotiated lump-sum payment (or structured tranches) that is lower than the total book outstanding, voluntarily waiving the remaining balance, penal interest, and incidental legal fees. Once paid, the loan account is fully extinguished. All legal proceedings are formally withdrawn. The bank then issues a <strong>No Dues Certificate (NDC)</strong> under RBI-compliant compromise policies.
         </p>
       )
     },
@@ -286,7 +286,7 @@ Residential Address: [Your Full Postal Address]`;
       question: "What are the RBI guidelines on haircut limits and compromise settlements?",
       answer: (
         <p>
-          Under the <strong>RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24)</strong> issued on June 8, 2023, all Commercial Banks, Urban Co-operative Banks, and NBFCs must implement a board-approved Compromise Settlement Policy. The guidelines stipulate: (a) Objective and non-discriminatory criteria for granting concessions, (b) A clear delegation of authority matrix where higher haircuts must be approved by designated senior committees, (c) A minimum cooling-off period of 12 months before a borrower can be granted fresh credit post-settlement, and (d) Mandatory quarterly reporting of all compromise settlements to the bank&apos;s Board of Directors.
+          Under the <strong>RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24)</strong> issued on June 8, 2023, all Commercial Banks, Urban Co-operative Banks, and NBFCs must implement a board-approved Compromise Settlement Policy. The framework mandates non-discriminatory concession criteria. Senior committees must approve higher haircuts. In addition, a 12-month cooling-off period applies before fresh credit can be granted. Banks must also submit quarterly compromise reports to their Board of Directors.
         </p>
       )
     },
@@ -309,7 +309,7 @@ Residential Address: [Your Full Postal Address]`;
       question: "Can a borrower settle a secured loan (like a home loan or LAP) under an OTS policy?",
       answer: (
         <p>
-          <strong>Yes, secured loans can be settled under OTS</strong>, but banks offer much smaller haircuts (usually 10% to 25% waiver of penal interest and legal costs) because the bank holds primary mortgage rights under the <strong>SARFAESI Act, 2002</strong> to take physical possession and auction the underlying property. Significant haircuts on secured debts are approved only if the collateralized property has severe title defects, valuation shortfalls, structural encumbrances, or is tied up in protracted DRT litigation where recovery costs exceed the realizable security value.
+          <strong>Yes, secured loans can be settled under OTS</strong>. However, banks offer smaller haircuts (typically 10% to 25% of interest and costs). Lenders hold primary mortgage rights under the <strong>SARFAESI Act, 2002</strong> to auction the property. Deep haircuts occur only if the collateral has title defects, valuation shortfalls, or protracted DRT litigation where costs exceed realizable value.
         </p>
       )
     },
@@ -317,7 +317,7 @@ Residential Address: [Your Full Postal Address]`;
       question: "What authority level in a bank approves a One-Time Settlement proposal?",
       answer: (
         <p>
-          Settlement approval follows the bank&apos;s <strong>Delegation of Financial Powers (DoFP)</strong> matrix. Branch Managers generally possess authority only to waive penal interest up to ₹50,000–₹1 Lakh. Compromise proposals involving principal write-offs for retail, personal, and SME loans are evaluated and sanctioned by the <strong>Regional Settlement Committee</strong>, <strong>Stressed Assets Recovery Branch (SARB) Committee</strong>, or <strong>Zonal/Board-Level Compromise Committees</strong> depending on the total sanctioned exposure.
+          Settlement approval follows the bank&apos;s <strong>Delegation of Financial Powers (DoFP)</strong> matrix. Branch Managers can generally waive penal interest up to ₹1 Lakh. Proposals involving write-offs are sanctioned by the <strong>Regional Settlement Committee</strong> or <strong>SARB Committee</strong>. High-exposure accounts escalate to <strong>Zonal/Board-Level Compromise Committees</strong>.
         </p>
       )
     },
@@ -341,7 +341,7 @@ Residential Address: [Your Full Postal Address]`;
       question: "How long does a bank have to issue the No Dues Certificate and return property papers post-settlement?",
       answer: (
         <p>
-          Pursuant to <strong>RBI Circular RBI/2023-24/60</strong> (<em>Release of Movable/Immovable Property Documents on Repayment/Settlement of Personal Loans</em>), all Regulated Entities must release original property documents and issue a comprehensive No Dues Certificate within <strong>30 calendar days</strong> of receiving full settlement remittance. If the bank delays beyond 30 days for reasons attributable to the lender, it is legally mandated to pay compensation to the borrower at the rate of <strong>₹5,000 for each day of delay</strong>.
+          Pursuant to <strong>RBI Circular RBI/2023-24/60</strong>, regulated entities must release property documents and issue a comprehensive No Dues Certificate. This must occur within <strong>30 calendar days</strong> of receiving full settlement remittance. If the bank delays beyond 30 days for reasons attributable to the lender, it is legally mandated to pay compensation to the borrower at the rate of <strong>₹5,000 for each day of delay</strong>.
         </p>
       )
     }
@@ -539,7 +539,7 @@ Residential Address: [Your Full Postal Address]`;
                 1. Statutory Framework of Bank OTS: RBI 2023 Directives
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-5 text-slate-700">
-                When borrowers face catastrophic life disruptions—such as permanent medical disability, job termination, or severe commercial enterprise collapse—servicing contractual EMIs becomes financially impossible. In response, borrowers often find themselves inundated with aggressive collection calls, unannounced home visits, and intimidating legal notices under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act.
+                When borrowers face severe hardships—such as disability, job loss, or business insolvency—monthly EMI payments become impossible. In response, borrowers often face aggressive collection calls and unannounced home visits. Lenders may also send legal notices under Section 138 NI Act or Section 25 PSSA.
               </p>
               <p className="text-base leading-relaxed mb-5 text-slate-700">
                 What most borrowers do not realize is that the Indian banking framework provides a formal, structured, and legally recognized exit mechanism known as a <strong>One-Time Settlement (OTS)</strong> or <strong>Compromise Settlement</strong>.
@@ -737,13 +737,13 @@ Residential Address: [Your Full Postal Address]`;
                     <strong>Book Ledger Balance:</strong> Principal ₹7,00,000 + Accrued Penal Interest ₹3,00,000 = <strong>₹10,00,000</strong>.
                   </p>
                   <p>
-                    <strong>Bank&apos;s Litigation Reality:</strong> Since the debt is unsecured, a civil suit or Section 25 PSS Act execution takes approximately 4 years, incurring ₹1,20,000 in advocate fees with high risk of non-execution if the borrower is insolvent.
+                    <strong>Bank&apos;s Litigation Reality:</strong> Since the debt is unsecured, civil litigation or Section 25 PSSA execution takes roughly 4 years. It costs over ₹1,20,000 in advocate fees, with high risk of non-recovery if the borrower is insolvent.
                   </p>
                   <p>
                     <strong>NPV of Litigation Recovery:</strong> (₹3,00,000 potential delayed attachment − ₹1,20,000 legal costs) discounted over 4 years = <strong>₹1,22,000</strong>.
                   </p>
                   <p className="bg-emerald-50 text-emerald-900 p-3.5 rounded-xl border border-emerald-200 font-medium">
-                    <strong>The Settlement Sanction:</strong> If the borrower offers a cash OTS of <strong>₹4,00,000 (a 60% haircut)</strong>, the Credit Committee easily justifies sanctioning the proposal because ₹4 Lakhs immediate cash delivers more than 3x the discounted legal recovery.
+                    <strong>The Settlement Sanction:</strong> Suppose the borrower offers a cash OTS of <strong>₹4,00,000 (a 60% haircut)</strong>. The Credit Committee readily justifies sanctioning it. Immediate cash delivers more than 3x the discounted legal recovery.
                   </p>
                 </div>
               </div>

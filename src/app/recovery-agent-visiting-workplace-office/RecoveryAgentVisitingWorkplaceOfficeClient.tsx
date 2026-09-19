@@ -446,7 +446,7 @@ Yours faithfully,
               {/* Regulatory Definition Box for GEO */}
               <div className="bg-slate-100 border-l-4 border-[#1F5EFF] p-5 rounded-r-xl my-6">
                 <p className="text-sm md:text-base font-semibold text-slate-900 italic">
-                  &quot;Regulated Entities (REs) and their recovery agents shall not resort to intimidation or harassment of any kind, either verbal or physical, against any person in their debt collection efforts, including acts intended to humiliate publicly or intrude upon the privacy of the debtors&apos; family members, referees, or friends, making threatening and anonymous calls, or persistently calling the borrower at odd hours or at their place of work.&quot;
+                  &quot;Regulated Entities and recovery agents shall not resort to intimidation or harassment in debt collection efforts. This includes acts intended to humiliate publicly or intrude upon family privacy. Threatening calls or persistently contacting borrowers at odd hours or workplaces are strictly prohibited.&quot;
                 </p>
                 <p className="text-xs text-slate-500 mt-2 font-medium">
                    -  Reserve Bank of India (RBI) Master Direction on Outsourcing of Financial Services &amp; Fair Practices Code (August 12, 2022 &amp; June 2023 Updates)

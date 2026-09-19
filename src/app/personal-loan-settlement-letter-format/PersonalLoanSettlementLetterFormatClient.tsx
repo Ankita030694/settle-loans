@@ -73,8 +73,342 @@ function CopyableTemplateBox({
             </span>
           )}
           <div className="text-base md:text-lg font-bold text-white leading-snug">{title}</div>
-          <p>
-          Always establish verifiable <strong>Proof of Delivery (POD)</strong> via three channels. First, send via <strong>Registered Post (RPAD)</strong> or Speed Post with online tracking. Second, make an <strong>in-person submission</strong> at the branch desk to obtain an official receiving stamp on your duplicate copy. Finally, send an <strong>official email</strong> to the Branch Manager and Nodal Officer with PDF attachments. Never rely on verbal phone calls or unacknowledged WhatsApp messages.
+          <p className="text-xs text-slate-300">{subtitle}</p>
+        </div>
+        <button
+          onClick={handleCopy}
+          className={`inline-flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-bold transition-all duration-200 shadow ${
+            copied
+              ? 'bg-emerald-600 text-white'
+              : 'bg-[#1F5EFF] hover:bg-blue-600 text-white'
+          }`}
+          aria-label="Copy template text to clipboard"
+        >
+          {copied ? (
+            <>
+              <CheckCheck className="w-4 h-4 text-white" />
+              <span>Copied to Clipboard!</span>
+            </>
+          ) : (
+            <>
+              <Copy className="w-4 h-4" />
+              <span>Copy Template</span>
+            </>
+          )}
+        </button>
+      </div>
+      <div className="p-4 md:p-6 bg-slate-50 overflow-x-auto">
+        <pre className="font-mono text-xs md:text-sm text-slate-800 whitespace-pre-wrap leading-relaxed select-all bg-white p-4 rounded-xl border border-slate-200 shadow-inner">
+          {templateText}
+        </pre>
+      </div>
+      <div className="bg-slate-100 px-4 py-3 border-t border-slate-200 flex flex-wrap items-center justify-between text-xs text-slate-600 gap-2">
+        <span className="flex items-center gap-1.5">
+          <Info className="w-3.5 h-3.5 text-[#1F5EFF]" />
+          <span>Replace all bracketed text like <strong>[Your Full Name]</strong> before printing or emailing.</span>
+        </span>
+        <span className="font-semibold text-slate-700">Standard A4 Letter Format</span>
+      </div>
+    </div>
+  );
+}
+
+// Interactive Collapsible FAQ Item Component
+const FAQItem = ({
+  question,
+  answer,
+  isOpen,
+  onClick,
+}: {
+  question: string;
+  answer: React.ReactNode;
+  isOpen: boolean;
+  onClick: () => void;
+}) => {
+  return (
+    <div className="border border-slate-200 rounded-2xl overflow-hidden mb-4 transition-all duration-200 hover:border-slate-300 bg-white shadow-sm">
+      <button
+        onClick={onClick}
+        className="w-full p-5 md:p-6 flex justify-between items-center text-left focus:outline-none gap-4"
+        aria-expanded={isOpen}
+      >
+        <span className="text-lg md:text-xl font-bold text-slate-900 leading-snug">
+          {question}
+        </span>
+        <div
+          className={`flex-shrink-0 w-8 h-8 rounded-full bg-blue-50 flex items-center justify-center text-[#1F5EFF] transition-transform duration-300 ${
+            isOpen ? 'rotate-180 bg-[#1F5EFF] text-white' : ''
+          }`}
+        >
+          <ChevronDown className="w-5 h-5" />
+        </div>
+      </button>
+      <div
+        className={`transition-all duration-300 ease-in-out overflow-hidden ${
+          isOpen ? 'max-h-[1200px] opacity-100' : 'max-h-0 opacity-0'
+        }`}
+      >
+        <div className="px-5 pb-6 md:px-6 md:pb-6 text-slate-600 text-base leading-relaxed border-t border-slate-100 pt-4">
+          {answer}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default function PersonalLoanSettlementLetterFormatClient() {
+  const [activeId, setActiveId] = useState<string>('crucial-role-of-settlement-letter');
+  const [openFaq, setOpenFaq] = useState<number | null>(0);
+
+  const tocItems = [
+    { id: 'crucial-role-of-settlement-letter', title: '1. Why a Written Letter is Essential' },
+    { id: 'anatomical-elements-checklist', title: '2. 9 Must-Have Letter Components' },
+    { id: 'comparison-letter-types', title: '3. Comparison of Settlement Letter Types' },
+    { id: 'production-ready-templates', title: '4. Copyable Settlement Letter Templates' },
+    { id: 'hardship-document-checklist', title: '5. Crucial Supporting Documents' },
+    { id: 'submission-delivery-protocol', title: '6. Proof-of-Delivery Submission Rules' },
+    { id: 'bank-evaluation-timeline', title: '7. Approval Lifecycle & Red Flags' },
+    { id: 'post-approval-noc-audit', title: '8. Sanction Audit, NDC & CIBIL Update' },
+    { id: 'faqs', title: '9. Frequently Asked Questions' },
+  ];
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const headings = tocItems.map((item) => document.getElementById(item.id));
+      const scrollPosition = window.scrollY + 200;
+
+      for (let i = headings.length - 1; i >= 0; i--) {
+        const heading = headings[i];
+        if (heading && heading.offsetTop <= scrollPosition) {
+          setActiveId(tocItems[i].id);
+          break;
+        }
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [tocItems]);
+
+  // Templates Content
+  const templateUniversal = `Date: [DD/MM/YYYY]
+
+To,
+The Branch Manager,
+[Name of the Bank / NBFC, e.g., HDFC Bank / State Bank of India / ICICI Bank],
+[Branch Name and Complete Address],
+[City, State, PIN Code]
+
+CC: 
+1. The Head, Stressed Assets Recovery Branch (SARB), [Bank Name]
+2. The Principal Nodal Officer, [Bank Name]
+
+Subject: Formal Request for One-Time Settlement (OTS) for Personal Loan Account No: [Your Loan Account Number]
+
+Respected Sir / Madam,
+
+1. BORROWER DETAILS & LOAN ACCOUNT IDENTIFICATION:
+I am writing to you as the primary borrower of Personal Loan Account Number [Your Loan Account Number], sanctioned on [Loan Disbursal Date] for a principal sum of INR [Original Loan Amount]/- at your [Branch Name] branch.
+
+2. TRACK RECORD OF REGULAR REPAYMENT:
+I wish to bring to your kind attention that since the inception of this credit facility, I have consistently honored my contractual commitments by servicing [Number of Months/EMIs, e.g., 22 consecutive EMIs] on time without any default, totaling an aggregate repayment of INR [Total Amount Paid Till Date]/-. This affirms my bona fide intent as an honest borrower.
+
+3. UNFORESEEN FINANCIAL HARDSHIP & DISTRESS:
+Unfortunately, due to unforeseen and catastrophic financial circumstances beyond my reasonable control, namely [Specify hardship: severe health crisis / involuntary job loss / complete business revenue collapse], my income stream has been severely curtailed since [Month, Year of Crisis]. Despite my best efforts to sustain living expenses and manage debts, I am currently undergoing acute financial insolvency. 
+
+4. CURRENT STATEMENT OF ACCOUNTS & ACCRUED CHARGES:
+As per your latest statement, the outstanding figure is shown as INR [Total Outstanding Amount including penal charges]/-. A substantial portion of this total comprises compounding penal interest, bounce charges, late fees, and overdue levies accrued during this distress period.
+
+5. ONE-TIME SETTLEMENT (OTS) PROPOSAL:
+Under the compromise settlement guidelines framed pursuant to Reserve Bank of India (RBI) circulars, I hereby submit my formal proposal for a full and final One-Time Settlement (OTS) of the aforementioned personal loan account.
+
+I have arranged financial assistance from close relatives to make a single lump-sum payment of:
+INR [Proposed Settlement Amount in Figures]/- 
+(Rupees [Proposed Settlement Amount in Words] Only), 
+which represents [Percentage, e.g., 40%] of the total outstanding dues, payable within [15 / 30 days] of receiving your formal written sanction letter.
+
+6. MANDATORY CONDITIONS PRECEDENT FOR SETTLEMENT:
+This offer is submitted in good faith subject to the following standard banking conditions:
+a) Complete waiver of all remaining principal, unapplied interest, penal interest, late payment penalties, and incidental charges.
+b) Issuance of a formal OTS Sanction Letter on official bank letterhead detailing the accepted settlement amount, payment schedule, and account closure terms before any remittance is made.
+c) Issuance of a Comprehensive Final No Dues Certificate (NDC) / No Objection Certificate (NOC) within 30 days of receiving the settlement remittance.
+d) Cessation of all third-party collection agency calls, recovery visits, and withdrawal of any legal proceedings or arbitration notices.
+e) Updating of the account status with credit rating agencies (CIBIL, Experian, Equifax, CRIF High Mark) as 'Settled' with INR 0 outstanding balance.
+
+7. ENCLOSURES / SUPPORTING EVIDENCE:
+I have attached the following documentary proof validating my genuine distress:
+1. Copy of PAN Card & Aadhaar Card.
+2. 6-Month Bank Account Statements showing absence/depletion of income.
+3. [Documentary proof of hardship, e.g., Medical Discharge Summary / Termination Letter / P&L Statement].
+4. Latest Loan Account Statement.
+
+I request you to sympathetically place this proposal before the Competent Credit Committee for favorable sanction at the earliest.
+
+Yours sincerely,
+
+________________________
+(Signature)
+[Your Full Name]
+PAN: [Your PAN Number]
+Contact Number: [+91-XXXXXXXXXX]
+Email Address: [your.email@example.com]
+Residential Address: [Your Full Postal Address]`;
+
+  const templateMedical = `Date: [DD/MM/YYYY]
+
+To,
+The Branch Manager,
+[Name of the Bank / NBFC],
+[Branch Address],
+[City, State, PIN Code]
+
+Subject: Application for One-Time Compromise Settlement due to Critical Medical Emergency — Personal Loan A/C: [Loan Account Number]
+
+Respected Sir / Madam,
+
+I am writing to formally request a One-Time Settlement (OTS) regarding my Personal Loan Account No: [Loan Account Number] held with your esteemed institution.
+
+1. MEDICAL HARDSHIP & LOSS OF EARNING CAPACITY:
+I have maintained a spotless repayment track record until [Month, Year]. However, on [Date/Month], [I / my immediate dependent, e.g., my spouse/parent] was diagnosed with a critical and life-threatening medical condition, namely [Diagnosis, e.g., Stage-3 Oncological Treatment / Major Cardiac Surgery / Prolonged ICU Hospitalization]. 
+
+The cumulative hospitalization and continuous treatment expenditures have exceeded INR [Total Medical Expenses Incurred, e.g., 14,50,000]/-, completely wiping out my lifetime family savings and rendering me physically unable to resume full-time employment.
+
+2. SUBMISSION OF GENUINE OTS PROPOSAL:
+Against the current book outstanding of INR [Total Outstanding Amount]/-, I am submitting a formal proposal to settle this loan for a full and final lump sum of:
+INR [Offered Amount in Figures]/- (Rupees [Offered Amount in Words] Only).
+
+This amount has been arranged through benevolent emergency contributions from family members solely to obtain a clean discharge of debt.
+
+3. WAIVER & NOC CONDITIONS:
+I request the bank to exercise compassionate discretion under the RBI Fair Practices Code by waiving all penal charges, late fees, and residual balance. Upon receipt of this lump sum, the bank must issue an official No Dues Certificate (NDC) and close the account without further legal recourse.
+
+Attached herewith are complete medical records, hospital bills, physician certificates, and bank statements for your verification.
+
+Thanking you.
+
+Yours faithfully,
+
+________________________
+(Signature)
+[Your Full Name]
+Mobile: [+91-XXXXXXXXXX]
+Address: [Your Full Residential Address]`;
+
+  const templateJobLoss = `Date: [DD/MM/YYYY]
+
+To,
+The Branch Manager / Stressed Assets Recovery Department,
+[Bank / NBFC Name],
+[Branch Address]
+
+Subject: Request for Full and Final Loan Settlement on Account of Involuntary Job Loss — Loan A/C: [Loan Account Number]
+
+Dear Sir / Madam,
+
+I hold Personal Loan Account No. [Loan Account Number] with your branch, with an original sanctioned amount of INR [Original Principal]/-.
+
+1. UNEMPLOYMENT & SEVERE LIQUIDITY CRUNCH:
+Due to corporate restructuring and macroeconomic downsizing at my former employer [Company Name], my employment was involuntarily terminated on [Date of Layoff]. Despite active job searching over the past [Number] months, I have been unable to secure alternative employment in the current hiring market.
+
+My household currently operates on zero regular income, and I am struggling to meet basic subsistence needs. 
+
+2. PROPOSED SETTLEMENT TERMS:
+The outstanding balance shown on my loan account stands at INR [Outstanding Amount]/-. To prevent prolonged non-performing asset (NPA) aging and resolve the matter amicably, I propose a One-Time Settlement of:
+INR [Settlement Offer Amount]/- (Rupees [Amount in Words] Only).
+
+I can pay this sum in a single tranche within [15 days] of receiving your formal written OTS approval letter on official letterhead.
+
+3. SUPPORTING DOCUMENTS ATTACHED:
+1. Official Employment Termination Letter / Relieving Letter.
+2. Bank Statements demonstrating zero salary credits for the last [X] months.
+3. Proof of regular payments prior to termination.
+
+I request your urgent consideration to approve this compromise and issue a formal sanction letter.
+
+Yours sincerely,
+
+________________________
+(Signature)
+[Your Full Name]
+Phone: [+91-XXXXXXXXXX]`;
+
+  const templateBusiness = `Date: [DD/MM/YYYY]
+
+To,
+The Competent Credit Authority / Recovery Department,
+[Bank / NBFC Name],
+[Branch Office Address]
+
+Subject: Compromise Settlement Proposal for Personal Loan (Business Purpose) — A/C No: [Loan Account Number]
+
+Dear Sir / Madam,
+
+I am writing regarding the Personal Loan Account No. [Loan Account Number] availed by me for working capital infusion into my proprietary/partnership enterprise [Firm/Enterprise Name].
+
+1. COMMERCIAL FAILURE & INSOLVENCY:
+Due to severe market disruption, bad debt defaults from major buyers, and subsequent business closure on [Date/Month], my enterprise has ceased commercial operations. The business has sustained complete capital erosion as verified by the enclosed audited financial statements.
+
+2. ONE-TIME SETTLEMENT OFFER:
+Against the ledger balance of INR [Total Outstanding Balance]/-, I propose a full and final compromise settlement of INR [Proposed Settlement Sum]/- (Rupees [Amount in Words] Only), sourced via liquidation of remaining personal household assets.
+
+3. CONDITIONS FOR ACCEPTANCE:
+The settlement is contingent upon 100% waiver of penal interest, closure of legal notices under Section 25 of the PSS Act / Section 138 of the NI Act, and issuance of a Final No Dues Certificate.
+
+Enclosures: GST Cancellation Certificate, Bank Statements, Audited Financials, and Identity Proof.
+
+Yours faithfully,
+
+________________________
+(Signature)
+[Your Full Name]
+PAN: [Your PAN]`;
+
+  const faqs = [
+    {
+      question: "To whom should I address my personal loan settlement letter?",
+      answer: (
+        <p>
+          You should address your settlement letter to <strong>The Branch Manager</strong> of the specific home branch where your loan was sanctioned or disbursed. Additionally, you should always mark a copy (CC) to <strong>The Head, Stressed Assets Recovery Branch (SARB) / Retail Credit Operations</strong> and the <strong>Principal Nodal Officer</strong> of the bank or NBFC. Addressing these senior compliance officers ensures your proposal bypasses rogue third-party collection agents and reaches the authorized credit committee.
+        </p>
+      )
+    },
+    {
+      question: "What are the essential details that must be included in a loan settlement letter?",
+      answer: (
+        <p>
+          A legally sound settlement letter requires clear essentials. Include borrower identity details like your Name, PAN, and address. State the loan account number and original sanctioned amount. Detail regular EMIs paid prior to default alongside your specific financial hardship. Attach documentary proof such as medical records or termination letters. Finally, specify your proposed settlement figure, payment timeframe, and sanction conditions with a ₹0 No Dues Certificate.
+        </p>
+      )
+    },
+    {
+      question: "What percentage of the outstanding loan amount should I offer in the settlement letter?",
+      answer: (
+        <p>
+          Initial settlement proposal letters typically offer <strong>25% to 40% of outstanding dues</strong> (35% to 50% of original principal). Banks generally conclude settlements between <strong>35% and 60% of total dues</strong>. Final figures depend on NPA classification (Substandard, Doubtful, or Loss Asset), substantiated insolvency, and bank compromise policy.
+        </p>
+      )
+    },
+    {
+      question: "Can a bank reject my personal loan settlement proposal letter?",
+      answer: (
+        <p>
+          <strong>Yes, banks have commercial discretion to reject an OTS proposal.</strong> Rejection occurs if lenders suspect willful default or observe ongoing salary credits in the same banking group. An offer without verifiable hardship proof also risks rejection. If rejected, you can revise the proposed sum or appeal directly to the Zonal Stressed Assets Committee with legal representation.
+        </p>
+      )
+    },
+    {
+      question: "What supporting documents must be attached with the settlement application?",
+      answer: (
+        <p>
+          Attach objective evidence of hardship. For medical crises, provide hospital discharge summaries and medical bills. For job loss, enclose employer termination letters and bank statements showing zero salary credits. For business loss, submit GST surrender certificates or audited balance sheets. For bereavement, provide the death certificate of the primary earner.
+        </p>
+      )
+    },
+    {
+      question: "How should I deliver the settlement letter to ensure legal proof of receipt?",
+      answer: (
+        <p>
+          Establish verifiable <strong>Proof of Delivery (POD)</strong> via three channels. First, send via <strong>Registered Post (RPAD)</strong> or Speed Post with postal tracking. Second, make an <strong>in-person submission</strong> at the branch desk to obtain an official receiving stamp on your duplicate. Third, send an <strong>official email</strong> to the Branch Manager and Nodal Officer with PDF attachments. Never rely on unacknowledged phone calls or WhatsApp messages.
         </p>
       )
     },
@@ -82,7 +416,7 @@ function CopyableTemplateBox({
       question: "Can I pay the settlement amount before receiving the formal bank sanction letter?",
       answer: (
         <p>
-          <strong>NEVER pay any money before receiving the formal OTS Sanction Letter on official bank letterhead.</strong> If you pay money based on verbal assurances or recovery agent promises, the bank&apos;s core banking system will automatically treat the remittance as part-payment towards overdue interest and late charges, leaving the loan active and in default. Only pay once you hold a signed, stamped sanction letter specifying the exact compromise figure.
+          <strong>NEVER pay money before receiving the formal OTS Sanction Letter on official bank letterhead.</strong> If you pay based on verbal assurances from recovery agents, the bank&apos;s system treats it as part-payment for overdue interest. This leaves the loan active and in default. Only pay once you hold a signed, stamped sanction letter specifying the exact compromise figure.
         </p>
       )
     },
@@ -90,7 +424,8 @@ function CopyableTemplateBox({
       question: "What should be stated in the final settlement agreement or approval letter?",
       answer: (
         <p>
-          The formal OTS Sanction Letter must clearly specify all key terms. First, it must state the exact accepted settlement amount in figures and words. Second, it must outline the payment deadline or installment dates. Third, it must explicitly waive all remaining balance, interest, and penal charges. Fourth, it must commit to issuing a ₹0 No Dues Certificate within 30 days. Finally, it must guarantee the withdrawal of all court notices and update credit bureaus to reflect zero outstanding balance.</p>
+          The formal OTS Sanction Letter must clearly specify key terms. It must state the accepted settlement amount in figures and words. Next, it must define strict payment deadlines and account details. The letter must explicitly waive all remaining balance, penal fees, and legal charges upon receipt. Finally, it must confirm the unconditional withdrawal of legal cases and commit to issuing the No Dues Certificate (NDC) within 30 days.
+        </p>
       )
     },
     {
@@ -535,7 +870,7 @@ function CopyableTemplateBox({
                 4. Production-Ready Settlement Letter Templates
               </h2>
               <p className="text-base md:text-lg leading-relaxed mb-6 text-slate-700">
-                Below are four legally validated, field-tested settlement request letter templates designed specifically for Indian public sector banks, private commercial banks (HDFC, ICICI, Axis, Kotak, IndusInd, IDFC FIRST), and retail NBFCs (Bajaj Finance, Tata Capital, Poonawalla Fincorp).
+                Below are four field-tested settlement request letter templates. They are designed for Indian public sector banks, private commercial banks (HDFC, ICICI, Axis, Kotak, IndusInd, IDFC FIRST), and retail NBFCs (Bajaj Finance, Tata Capital, Poonawalla Fincorp).
               </p>
 
               {/* Template 1: Universal OTS Letter */}
@@ -814,7 +1149,7 @@ function CopyableTemplateBox({
                     1. Audit the OTS Sanction Letter Before Transferring Money
                   </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
-                    Verify that the letter is printed on official bank stationery, includes a unique reference number, clearly states the compromise sum matching your negotiation, displays the signature of the Chief Manager/Authorized Signatory, and explicitly affirms that all remaining dues will be written off upon payment.
+                    Verify that the letter is printed on official bank stationery with a unique reference number. It must state the agreed compromise sum and display the Chief Manager&apos;s signature. Crucially, it must affirm that all remaining dues will be written off upon payment.
                   </p>
                 </div>
 
