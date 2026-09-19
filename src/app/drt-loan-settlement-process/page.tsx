@@ -574,7 +574,7 @@ export default function DRTLoanSettlementProcessPage() {
                     <span>Appellate Forum (DRAT) Oversight</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Orders passed by the Presiding Officer of a DRT can be appealed before the Debt Recovery Appellate Tribunal (DRAT) under Section 20 of the RDB Act or Section 18 of SARFAESI, subject to statutory pre-deposit requirements that advocates routinely petition to reduce based on demonstrated hardship.
+                    Orders passed by the DRT Presiding Officer can be appealed before the Debt Recovery Appellate Tribunal (DRAT) under Section 20 RDB Act or Section 18 SARFAESI. Debt defense advocates routinely petition to reduce statutory pre-deposit requirements based on demonstrated hardship.
                   </p>
                 </div>
               </div>
@@ -599,7 +599,7 @@ export default function DRTLoanSettlementProcessPage() {
                 The most catastrophic mistake a borrower or guarantor can make upon receiving a DRT summons is to ignore the notice or delay engaging specialized counsel. Unlike civil suits where procedural delays may temporarily stall matters, failing to enter appearance in the DRT triggers swift adverse statutory consequences under the RDB Act.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a defendant fails to file a formal Written Statement (WS) within 30 days (extendable to a maximum of 45 days under exceptional circumstances), the Presiding Officer is statutorily authorized to proceed ex-parte under Section 19(5) and issue a <strong>Recovery Certificate (RC)</strong>:
+                Defendants must file a Written Statement (WS) within 30 days (extendable to 45 days). If a defendant fails to do so, the Presiding Officer can proceed ex-parte under Section 19(5) and issue a <strong>Recovery Certificate (RC)</strong>:
               </p>
 
               <ul className="space-y-2 text-xs sm:text-sm text-slate-700">
@@ -627,7 +627,7 @@ export default function DRTLoanSettlementProcessPage() {
                   <span>Civil Imprisonment Powers Under Section 25(b)</span>
                 </span>
                 <p className="leading-relaxed">
-                  Under Section 25(b) of the RDB Act, if a judgment debtor fails to satisfy a Recovery Certificate and conceals assets or refuses compliance, the Recovery Officer possesses the statutory power to order the arrest and detention of the defaulter in civil prison. Timely advocate representation before the tribunal is therefore critical to halt coercive enforcement.
+                  Under Section 25(b) of the RDB Act, if a debtor conceals assets or refuses compliance with a Recovery Certificate, the Recovery Officer holds statutory powers. The officer can order civil detention. Timely advocate representation before the tribunal is therefore critical to halt coercive enforcement.
                 </p>
               </div>
             </section>
@@ -696,13 +696,11 @@ export default function DRTLoanSettlementProcessPage() {
                 <div className="text-center py-3 my-2 bg-slate-800/80 rounded-xl font-mono text-sm sm:text-base text-blue-200 border border-slate-700">
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
-                <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents expected recovery cash flows, r is the bank&apos;s internal discount rate, and deductions reflect 3–5 years of tribunal friction, advocate retainers, court fees, asset depreciation, and the opportunity cost of regulatory capital trapped in mandatory provisions.
-                </p>
+                <p className="text-xs text-slate-300 leading-relaxed mt-2">Where C_t represents expected recovery cash flows, r is the bank&apos;s internal discount rate, and deductions reflect 3–5 years of tribunal friction, advocate retainers, court fees, asset depreciation. Additionally, the opportunity cost of regulatory capital trapped in mandatory provisions.</p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because prosecuting a contested DRT matter to final execution requires years of judicial effort and substantial administrative expenses, the bank&apos;s credit committee frequently determines that accepting an immediate lump-sum settlement of 40% to 55% delivers a higher present-value economic recovery than waiting for uncertain future auction proceeds.
+                Prosecuting a contested DRT matter to final execution requires years of judicial effort and substantial expenses. Consequently, bank credit committees frequently find that an immediate lump-sum settlement of 40% to 55% delivers higher net recovery than waiting for uncertain future auction proceeds.
               </p>
             </section>
 
@@ -712,7 +710,7 @@ export default function DRTLoanSettlementProcessPage() {
                 5. DRT Loan Settlement Process &amp; Legal Defense Visual Roadmap
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The visual roadmap below illustrates the 5-stage institutional trajectory from receiving an Original Application or SARFAESI summons from a commercial lender to advocate defense, ledger forensics, Zonal Committee negotiations, and executing a DRT Consent Order with full No Dues Certification.
+                The visual roadmap below illustrates the 5-stage trajectory. It guides you from receiving an Original Application or SARFAESI summons to advocate defense, ledger forensics, Zonal Committee negotiations, and executing a DRT Consent Order with full No Dues Certification.
               </p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -774,7 +772,7 @@ export default function DRTLoanSettlementProcessPage() {
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Bypassing Branch Officials &amp; Engaging the Stressed Asset Resolution Branch</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    With litigation effectively tied down in tribunal hearings, our advocates bypass aggressive branch recovery officers and present a structured settlement proposal directly to the General Manager and Zonal Committee of the Stressed Asset Resolution Branch (SARB).
+                    With litigation properly managed in tribunal hearings, our advocates bypass aggressive branch recovery officers. We present a structured settlement proposal directly to the General Manager and Zonal Committee of the Stressed Asset Resolution Branch (SARB).
                   </p>
                 </div>
               </div>
@@ -803,7 +801,7 @@ export default function DRTLoanSettlementProcessPage() {
                     <span>Zonal Committee Sanction Letter</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The One Time Settlement (OTS) sanction must be issued by the competent Zonal or Head Office Credit Committee on official bank letterhead, reciting the specific OA/SA suit number, agreed compromised amount, and exact tranche payment deadlines.
+                    The OTS sanction must be issued by the competent Zonal Credit Committee on official bank letterhead. The document must recite the specific OA/SA suit number, agreed compromised amount, and exact tranche payment deadlines.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm space-y-1.5">
@@ -952,7 +950,7 @@ export default function DRTLoanSettlementProcessPage() {
                   10. SettleLoans High-Ticket DRT Legal Defense
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating a high-stakes Debt Recovery Tribunal claim from a major public or private sector bank requires seasoned legal advocates who possess deep mastery of banking law, the RDB Act, SARFAESI procedures, and RBI stressed asset directives. SettleLoans provides comprehensive legal defense for borrowers across India: entering immediate tribunal appearance, filing defensive Written Statements, obtaining interim stay orders against asset auctions, and negotiating directly with bank Zonal Committees to deliver massive principal haircuts backed by judicially binding Consent Orders and official No Dues Certificates.
+                  Navigating a high-stakes DRT claim requires seasoned legal advocates. Counsel must possess deep mastery of banking law, the RDB Act, SARFAESI procedures, and RBI directives. SettleLoans provides comprehensive defense across India. We enter immediate tribunal appearances, file Written Statements, and obtain stay orders against asset auctions. Furthermore, we negotiate directly with bank Zonal Committees to deliver massive principal haircuts backed by binding Consent Orders and official No Dues Certificates.
                 </p>
               </div>
 

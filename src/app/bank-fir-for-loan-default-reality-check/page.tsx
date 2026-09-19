@@ -513,10 +513,10 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                 1. Demystifying FIR Threats: Civil Default vs Crime
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower faces unanticipated financial catastrophe—whether triggered by sudden employment termination, catastrophic medical expenditure, severe business insolvency, or macroeconomic downturns—the inability to maintain scheduled equated monthly installments (EMIs) frequently triggers aggressive institutional recovery maneuvers. Within weeks of an unsecured personal loan or credit card portfolio slipping past the standard 90-day overdue threshold into Non-Performing Asset (NPA) classification, borrowers routinely receive alarming digital messages, simulated legal drafts, or urgent phone calls alleging that a First Information Report (FIR) has been lodged against them at a local police station.
+                When a borrower faces financial hardship—such as job loss, medical emergencies, or business insolvency—missing EMIs often triggers aggressive recovery maneuvers. Within weeks of an account slipping past the 90-day mark into Non-Performing Asset (NPA) classification, collection callers send alarming messages. They often falsely claim that a First Information Report (FIR) has been lodged at a local police station.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand the substantive legal reality, one must analyze the foundational distinction between civil law and criminal jurisprudence under the Indian legal architecture. A personal loan agreement executed between an individual and a scheduled commercial bank or Non-Banking Financial Company (NBFC) represents a bilateral commercial contract governed strictly by the Indian Contract Act, 1872. A failure to honor scheduled repayments represents a civil breach of contract, conferring upon the lender specific monetary remedies such as civil recovery suits, summary proceedings under Order 37 of the Code of Civil Procedure (CPC), or statutory arbitration. Under no provision of Indian commercial law does an honest financial default automatically transform into a penal offense.
+                To understand the legal reality, one must distinguish between civil and criminal jurisprudence in India. A personal loan agreement is a bilateral commercial contract governed by the Indian Contract Act, 1872. Missing repayments represents a civil breach of contract, entitling the lender to civil recovery suits, Order 37 CPC proceedings, or arbitration. Under no provision of Indian commercial law does an honest financial default transform into a crime.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-center gap-2 text-amber-900 font-bold text-xs uppercase tracking-wider mb-1">
@@ -535,10 +535,10 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                 2. Statutory Legal Protections: Section 420 &amp; 406 IPC Debunked
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Collection agencies and misinformed recovery personnel frequently invoke Section 420 (Cheating and dishonestly inducing delivery of property) and Section 406 (Punishment for criminal breach of trust) of the Indian Penal Code (IPC), now corresponding to the relevant clauses of the Bharatiya Nyaya Sanhita (BNS). Understanding why these provisions cannot be applied to genuine loan default requires examining their essential legal ingredients.
+                Collection agencies frequently invoke Section 420 (Cheating) and Section 406 (Criminal breach of trust) of the IPC, now under the Bharatiya Nyaya Sanhita (BNS). Understanding why these sections do not apply to genuine loan defaults requires examining their essential legal ingredients.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                For an offense under Section 420 IPC to stand, the prosecution or complainant must prove beyond reasonable doubt that the accused possessed dishonest and fraudulent intention (<em>mens rea</em>) at the very inception of the transaction. In a standard unsecured personal loan, the borrower provides legitimate Know Your Customer (KYC) documentation, bank statements, and salary certificates, and frequently services the loan faithfully for months or years prior to the default. The subsequent failure to repay due to adverse circumstances is merely a commercial inability, entirely devoid of initial deceit.
+                For an offense under Section 420 IPC to stand, the complainant must prove dishonest intention (<em>mens rea</em>) at the very inception of the transaction. In a standard personal loan, the borrower provides legitimate KYC documentation and services the loan faithfully for months before defaulting. Subsequent failure to repay due to adverse circumstances is a commercial inability, entirely devoid of initial deceit.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
                 <h3 className="text-xs sm:text-sm font-bold text-slate-900 uppercase tracking-wider flex items-center gap-2">
@@ -610,7 +610,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                 <li><strong>Doubtful-2 &amp; Loss Assets:</strong> 100% full provisioning write-down against quarterly bank profits.</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                When a bank initiates a formal civil lawsuit in a district commercial court, it must deposit 1% to 3% upfront ad-valorem court fees, retain external litigation counsel, and face a 36 to 60-month procedural trajectory with low probability of real recovery on unsecured debt. Consequently, institutional risk committees evaluate recovery using a Net Present Value (NPV) financial model:
+                When a bank initiates a civil lawsuit, it must pay 1% to 3% upfront court fees and retain external counsel. It also faces a 36 to 60-month courtroom trajectory with low probability of recovery on unsecured debt. Consequently, institutional risk committees evaluate recovery using a Net Present Value (NPV) model:
               </p>
 
               {/* NPV Formula Box */}
@@ -628,7 +628,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because protracted litigation yields a deeply negative Net Present Value on unsecured retail debt, banks possess an immense commercial incentive to execute a negotiated One-Time Settlement (OTS), waiving 45% to 65% of the ledger balance to immediately release locked regulatory provisions and recover upfront liquidity.
+                Because protracted litigation yields a negative Net Present Value on unsecured debt, banks have strong commercial incentive to execute an OTS. They routinely waive 45% to 65% of the ledger balance to release locked regulatory provisions and recover immediate liquidity.
               </p>
             </section>
 
@@ -699,7 +699,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                 7. Sanction Letter Forensics & Section 482 CrPC Quashing
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In exceedingly rare instances where an overzealous lender attempts to lodge a private criminal complaint under Section 156(3) or Section 200 of the CrPC before a local Magistrate alleging cheating, experienced defense advocates utilize high court quashing petitions under Section 482 CrPC (Section 528 of the Bharatiya Nagarik Suraksha Sanhita, BNSS).
+                In rare cases where a lender attempts a private criminal complaint under Section 156(3) or 200 CrPC alleging cheating, defense advocates act swiftly. They file High Court quashing petitions under Section 482 CrPC (now Section 528 BNSS) to dismiss groundless claims.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 High Courts across Indian jurisdictions routinely quash such malicious proceedings at the admission stage itself by performing forensic examination of the original sanction documents:
@@ -813,7 +813,7 @@ export default function BankFirForLoanDefaultRealityCheckPage() {
                   10. SettleLoans Defense Framework Across India
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating institutional recovery intimidation, fabricated police summons, and unlawful debt collection harassment requires experienced legal counsel who specialize in banking litigation, the Code of Criminal Procedure, and RBI fair practice frameworks. SettleLoans provides comprehensive legal defense for borrowers nationwide: serving cease-and-desist notices to stop unlawful harassment, holding abusive collection agencies accountable under criminal and consumer laws, and negotiating directly with bank zonal authorities to secure maximum principal haircuts backed by official, bank-stamped No Dues Certificates.
+                  Navigating recovery intimidation, false police summons, and collection harassment requires experienced legal counsel. SettleLoans provides comprehensive legal defense for borrowers nationwide. We serve cease-and-desist notices to halt unlawful harassment and hold abusive agencies accountable. Furthermore, we negotiate directly with bank zonal authorities to secure maximum principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>
               </div>
 

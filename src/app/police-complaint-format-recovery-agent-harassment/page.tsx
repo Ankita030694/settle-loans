@@ -514,7 +514,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                 Across the Indian retail credit landscape, unexpected financial setbacks—such as involuntary job separation, severe enterprise cash flow disruption, or debilitating health emergencies—often leave honest borrowers unable to meet scheduled Equated Monthly Installments (EMIs). When an unsecured personal loan or credit card facility remains overdue beyond ninety days, banking institutions classify the ledger exposure as a Non-Performing Asset (NPA). In an effort to bypass the procedural duration and cost of formal civil litigation, financial institutions frequently assign these delinquent accounts to third-party collection and recovery agencies.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A critical legal boundary exists between legitimate debt recovery and actionable criminal conduct. A loan agreement executed under the Indian Contract Act, 1872, establishes a purely civil commercial relationship. The lender’s lawful remedies are confined to civil summary recovery suits under Order 37 of the Code of Civil Procedure (CPC), commercial arbitration under the Arbitration and Conciliation Act, 1996, or proceedings before the Debt Recovery Tribunal (DRT) for claims exceeding statutory thresholds. When recovery agents resort to persistent physical stalking, abusive telephonic harassment, threats of violence, social humiliation, or unannounced visits to residential and workplace premises, their actions transcend commercial dispute resolution and enter the realm of penal offenses under the Indian criminal justice system.
+                A critical legal boundary separates legitimate recovery from actionable criminal conduct. A loan agreement under the Indian Contract Act, 1872, is purely a civil commercial contract. The lender’s lawful remedies are confined to civil suits under Order 37 CPC, commercial arbitration, or DRT proceedings. When recovery agents resort to physical stalking, abusive calls, threats of violence, or social humiliation, their actions become penal offenses under the Indian criminal justice system.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-center gap-2 text-amber-900 font-bold text-xs uppercase tracking-wider mb-1">
@@ -579,7 +579,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In addition to these core provisions, Section 504 IPC (Intentional insult with intent to provoke breach of the peace) and Section 354D IPC (Stalking and persistent digital harassment) are routinely incorporated into formal complaints where recovery agents make continuous abusive calls or monitor the physical movements of borrowers and their family members.
+                In addition to these core provisions, complaints cite Section 504 IPC (Intentional insult) and Section 354D IPC (Stalking). These sections apply when recovery agents make continuous abusive calls or track the physical movements of borrowers and their family members.
               </p>
             </section>
 
@@ -606,7 +606,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">2. Clear &amp; Specific Subject Line</p>
-                    <p className="text-slate-600 mt-1">"Complaint against illegal criminal intimidation, verbal abuse, unlawful trespassing, and extortion by recovery agents of [Lending Bank/NBFC Name] under Sections 506, 509, 383, 441, and 504 of the Indian Penal Code and RBI Fair Practices Code."</p>
+                    <p className="text-slate-600 mt-1">"Complaint against illegal criminal intimidation, verbal abuse, unlawful trespassing, and extortion by recovery agents of [Lending Bank/NBFC Name]. Filed under Sections 506, 509, 383, 441, and 504 of the Indian Penal Code and the RBI Fair Practices Code."</p>
                   </div>
 
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
@@ -631,13 +631,13 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">7. Explicit Relief &amp; Prayer Clause</p>
-                    <p className="text-slate-600 mt-1">Specifically pray for: (a) Immediate registration of an FIR against the recovery agents and lending institution; (b) Initiation of formal investigation under Section 156 CrPC; and (c) Immediate issuance of restraining directions to ensure life and liberty protection.</p>
+                    <p className="text-slate-600 mt-1">Specifically pray for: (a) Immediate registration of an FIR against the recovery agents and lending institution. (b) Initiation of formal investigation under Section 156 CrPC. And (c) Immediate issuance of restraining directions to ensure life and liberty protection.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By presenting law enforcement with a complete, statutory complaint accompanied by structured evidentiary annexures, borrowers eliminate the standard police justification that the matter is merely a civil financial dispute, compelling the investigating authority to initiate statutory inquiry.
+                Presenting law enforcement with a statutory complaint and structured evidentiary annexures is vital. It eliminates the standard police claim that the matter is merely civil. This compels investigating authorities to initiate a formal inquiry.
               </p>
             </section>
 
@@ -650,7 +650,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                 In modern criminal jurisprudence, contemporaneous electronic evidence forms the bedrock of an unassailable prosecution. Collection agencies often operate through outsourced tele-callers utilizing VoIP applications, spoofed virtual numbers, or rotating SIM cards. To legally bind both the individual perpetrator and the principal lending bank, the complainant must construct an airtight digital audit trail.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under Section 65B of the Indian Evidence Act, 1872 (corresponding to Section 63 of the Bharatiya Sakshya Adhiniyam, BSA), electronic records are admissible in judicial proceedings when accompanied by a statutory certificate verifying that the device used to capture the recording was functioning under the lawful control of the user. Borrowers must record all incoming recovery calls, preserve raw unedited audio files, capture complete mobile screenshots displaying originating caller IDs with exact timestamps, and secure timestamped residential CCTV recordings showing unauthorized entry or physical intimidation.
+                Under Section 65B of the Indian Evidence Act, 1872 (now Section 63 BSA), electronic records are admissible when accompanied by a statutory certificate. Borrowers must record incoming recovery calls and preserve raw audio files. In addition, capture screenshots displaying caller IDs with timestamps, and secure CCTV recordings showing unauthorized entry.
               </p>
 
               {/* NPV Recovery Formula Box */}
@@ -696,7 +696,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                 6. Police Escalation Ladder: CrPC & BNSS Procedures
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In many instances, local police stations may hesitate to register an FIR immediately against corporate entities or recovery agencies, casually directing the borrower to "settle the dues directly with the bank." The Code of Criminal Procedure establishes a strict, multi-tiered statutory escalation mechanism to overcome administrative inaction:
+                Local police stations sometimes hesitate to register an FIR against recovery agencies, directing borrowers to settle with the bank. The Code of Criminal Procedure establishes a strict escalation mechanism to overcome administrative inaction:
               </p>
               
               <div className="space-y-3 my-4">
@@ -726,7 +726,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                   </div>
                   <div>
                     <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 3: Judicial Magistrate Application (Section 156(3) CrPC / Section 175(3) BNSS)</h4>
-                    <p className="text-xs text-slate-600 mt-1">If police authorities remain passive, your legal counsel files an application before the Chief Judicial Magistrate (CJM) or Metropolitan Magistrate, presenting the postal receipts and praying for a judicial directive ordering the police to register an FIR and submit a compliance report.</p>
+                    <p className="text-xs text-slate-600 mt-1">If police authorities remain passive, your legal counsel files an application before the Chief Judicial Magistrate (CJM). Counsel presents postal receipts and requests a judicial directive ordering the police to register an FIR and submit a compliance report.</p>
                   </div>
                 </div>
 
@@ -868,7 +868,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                   10. SettleLoans Legal Ecosystem: Restoring Dignity
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating aggressive collection tactics, unlawful police threats, and complex banking regulations requires seasoned legal advocates who specialize in debt recovery jurisprudence. SettleLoans stands as India’s foremost legal debt defense platform, safeguarding thousands of distressed borrowers from harassment while negotiating binding, bank-approved One-Time Settlements. Our specialized team serves formal cease-and-desist notices to halt agency contact, prepares airtight police complaints under IPC Sections 506 and 509, files escalations with the RBI Ombudsman, and secures substantial principal waivers backed by official No Dues Certificates.
+                  Navigating collection tactics, false police threats, and banking regulations requires seasoned legal advocates. SettleLoans stands as India’s foremost debt defense platform. We safeguard borrowers from harassment while negotiating binding One-Time Settlements. Our team serves cease-and-desist notices, prepares police complaints under IPC Sections 506 and 509, files escalations with the RBI Ombudsman, and secures substantial principal waivers backed by official No Dues Certificates.
                 </p>
               </div>
 

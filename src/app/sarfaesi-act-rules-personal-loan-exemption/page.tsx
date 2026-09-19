@@ -585,12 +585,12 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                   <span>Statutory Violations &amp; Criminal Liability for False Recovery Notices</span>
                 </div>
                 <p className="leading-relaxed text-rose-900">
-                  Sending fraudulent statutory notices to extort debt violates the Indian Penal Code and Bharatiya Nyaya Sanhita under <strong>Extortion (IPC 383 / BNS 308)</strong>, <strong>Cheating by Personation (IPC 416 / BNS 319)</strong>, and <strong>Criminal Intimidation (IPC 503/506 / BNS 351)</strong>. It also violates the RBI Master Direction on Fair Practices Code.
+                  Sending fraudulent statutory notices to extort debt violates the Indian Penal Code and BNS. Offenses include <strong>Extortion (IPC 383 / BNS 308)</strong>, <strong>Cheating by Personation (IPC 416 / BNS 319)</strong>, and <strong>Criminal Intimidation (IPC 503/506 / BNS 351)</strong>. It also violates the RBI Master Direction on Fair Practices Code.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under RBI Master Directions (Circular DOR.ORG.REC.65/21.04.158/2022-23), recovery agents are strictly prohibited from contacting borrowers before 8:00 AM or after 7:00 PM, harassing family members or employers, using abusive language, or making false representations regarding statutory authority. Borrowers can file formal police complaints for criminal intimidation and initiate regulatory proceedings before the RBI Banking Ombudsman, where offending lenders face substantial monetary penalties.
+                Under RBI Master Directions (Circular DOR.ORG.REC.65/21.04.158/2022-23), recovery agents face strict prohibitions. They cannot contact borrowers before 8:00 AM or after 7:00 PM. Harassing family members, using abusive language, and misrepresenting statutory authority are strictly barred. Borrowers can file police complaints for criminal intimidation and initiate regulatory proceedings before the RBI Banking Ombudsman.
               </p>
             </section>
 
@@ -721,7 +721,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                   <span>The Section 60(1)(ccc) CPC Shield</span>
                 </div>
                 <p className="leading-relaxed text-amber-900">
-                  The Section 60(1)(ccc) CPC Shield: Even if a lending institution obtains an executable civil court money decree after years of trial, executing that decree against the borrower residential home is prohibited. Under Section 60(1)(ccc) of the Code of Civil Procedure (supported by consistent High Court precedents), a judgment debtor sole residential house is immune from attachment or sale for unsecured debt, preserving the fundamental constitutional right to shelter.
+                  The Section 60(1)(ccc) CPC Shield: Suppose a lender obtains an executable civil money decree after years of trial. Even then, executing that decree against the borrower&apos;s home is prohibited. Under Section 60(1)(ccc) CPC, a debtor&apos;s sole residential house is immune from attachment or sale for unsecured debt. This rule preserves the fundamental constitutional right to shelter.
                 </p>
               </div>
             </section>
@@ -901,7 +901,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                   10. SettleLoans Legal Defense &amp; Professional Advisory
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating collection harassment, fake SARFAESI notices, and unmanageable debt requires specialized legal advocacy. SettleLoans provides comprehensive defense: issuing legal notices to halt harassment, challenging defective claims in civil and consumer forums, and negotiating directly with bank authorities to secure verified One-Time Settlements with deep principal waivers and authentic No Dues Certificates.
+                  Navigating recovery harassment, fake SARFAESI notices, and unmanageable debt requires specialized advocacy. SettleLoans provides comprehensive defense. We issue legal notices to halt harassment and challenge defective claims in civil forums. Furthermore, we negotiate directly with bank authorities to secure verified One-Time Settlements with deep principal waivers and authentic No Dues Certificates.
                 </p>
               </div>
 

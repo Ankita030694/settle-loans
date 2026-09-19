@@ -508,13 +508,13 @@ export default function BankOverdraftFacilitySettlementPage() {
                 1. Demystifying Bank Overdraft Facilities: Unsecured ODs, Dropline Credit &amp; The Trap of Account Irregularity
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Bank Overdraft (OD) facilities and Dropline Overdraft lines of credit represent some of the most dynamic yet hazardous financing structures utilized by micro, small, and medium enterprises (MSMEs), self-employed professionals, and salaried individuals across India. Unlike standard term loans where a fixed principal is amortized through predictable monthly Equated Monthly Installments (EMIs), an overdraft facility functions as a flexible revolving credit window linked directly to an operational current or savings account.
+                Bank Overdraft (OD) facilities and Dropline Overdraft lines are common yet hazardous credit structures in India. They are widely used by MSMEs, self-employed professionals, and salaried individuals. Unlike term loans amortized through predictable EMIs, an overdraft facility functions as a flexible revolving credit window linked to an operational current or savings account.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under standard commercial banking agreements executed with major lenders—including State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, and Punjab National Bank—borrowers are granted a sanctioned credit limit. Interest is calculated on a daily product basis on the actual utilized balance and debited to the account at the end of each calendar month. In a <strong>Dropline Overdraft</strong>, the sanctioned limit or drawing power does not remain static; instead, the bank systematically reduces the authorized threshold on a monthly or quarterly basis over an agreed tenure of 3 to 10 years, simulating principal reduction without enforcing fixed EMI structures.
+                Under standard commercial banking agreements executed with major lenders—including State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, and Punjab National Bank—borrowers are granted a sanctioned credit limit. Interest is calculated on a daily product basis on the actual utilized balance and debited to the account at the end of each calendar month. In a <strong>Dropline Overdraft</strong>, the sanctioned limit or drawing power does not remain static. Instead, the bank systematically reduces the authorized threshold on a monthly or quarterly basis over an agreed tenure of 3 to 10 years, simulating principal reduction without enforcing fixed EMI structures.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The fundamental danger of an overdraft facility emerges when business revenue decelerates, client receivables stall, or personal financial crises occur. In a standard term loan, missing an installment creates a distinct EMI overdue entry. In an overdraft facility, when credits deposited into the account fall short of the monthly interest debits or when the outstanding balance breaches the progressively contracting drawing power, the entire account enters an <strong>&quot;irregular&quot;</strong> or <strong>&quot;out-of-order&quot;</strong> status.
+                The danger of an overdraft emerges when business revenue slows, client receivables stall, or cash flow crises hit. In a term loan, missing an installment creates an EMI overdue entry. In an overdraft facility, if credits fall short of interest debits or exceed drawing power, the entire account enters <strong>&quot;irregular&quot;</strong> or <strong>&quot;out-of-order&quot;</strong> status.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once an OD account becomes irregular, banks initiate automatic debit blocks, preventing further operational withdrawals. Deprived of liquidity, the borrower is unable to deposit fresh operational funds because any incoming capital is instantly swallowed by accumulated interest debits, penal charges, and processing penalties. This mechanical debt spiral rapidly converts a manageable short-term cash flow crunch into an insurmountable financial default, leaving formal debt settlement as the only viable exit strategy.
@@ -530,7 +530,7 @@ export default function BankOverdraftFacilitySettlementPage() {
                 Navigating an overdraft default requires an acute understanding of Indian banking jurisprudence, regulatory circulars issued by the Reserve Bank of India, and statutory civil safeguards. Commercial lenders frequently exploit borrower unfamiliarity with banking regulations to deploy aggressive recovery tactics. However, Indian statutory frameworks provide robust legal protections that govern delinquent overdraft credit facilities.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under the <strong>RBI Master Direction on Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP)</strong>, an overdraft or cash credit account is classified as Non-Performing when it remains continuously &quot;out of order.&quot; The regulatory parameters defining this classification are unambiguous:
+                Under the <strong>RBI Master Direction on IRACP Prudential Norms</strong>, an overdraft account is classified as Non-Performing when it remains continuously &quot;out of order.&quot; The regulatory parameters defining this classification are clear:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
@@ -540,7 +540,7 @@ export default function BankOverdraftFacilitySettlementPage() {
                     <span>RBI 90-Day Out-of-Order Definition</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    An OD account is treated as out of order if the outstanding balance remains continuously in excess of the sanctioned limit/drawing power for 90 days, or if there are no credits continuously for 90 days, or if credits are insufficient to cover interest debited during the same period.
+                    An OD account is out of order if the balance exceeds the sanctioned limit for 90 days. It is also out of order if there are zero credits for 90 days, or if credits fail to cover interest debited during that period.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
@@ -558,7 +558,7 @@ export default function BankOverdraftFacilitySettlementPage() {
                     <span>Section 171 Banker Lien Restrictions</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Under Section 171 of the Indian Contract Act, 1872, a bank&apos;s right of general lien cannot be exercised arbitrarily over unrelated third-party accounts, distinct corporate entities, or salary accounts without formal prior notice and judicial justification.
+                    Under Section 171 of the Indian Contract Act, 1872, banker lien rights are strictly bounded. A bank cannot arbitrarily exercise general lien over third-party accounts, distinct corporate entities, or salary accounts without prior notice and judicial justification.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
@@ -578,7 +578,7 @@ export default function BankOverdraftFacilitySettlementPage() {
                   <span>Judicial Protection Against Coercive Extra-Judicial Attachment</span>
                 </div>
                 <p className="leading-relaxed text-blue-800">
-                  In a litany of landmark High Court rulings, Indian courts have firmly established that commercial banks cannot engage in self-help recovery or forcibly seize business machinery, vehicles, or inventory for clean unsecured credit facilities without securing a formal civil court decree or arbitral execution order. Any extra-judicial property interference violates Article 300A of the Constitution of India.
+                  In landmark rulings, Indian courts have established that banks cannot engage in self-help recovery. Lenders cannot seize business machinery, vehicles, or inventory for clean unsecured credit without a civil court decree or arbitral execution order. Any extra-judicial seizure violates Article 300A of the Constitution of India.
                 </p>
               </div>
             </section>
@@ -694,12 +694,12 @@ export default function BankOverdraftFacilitySettlementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoverable cash flows over time, r is the bank&apos;s cost of capital discount rate, and deductions account for 3 to 5 years of DRT/civil court delays, advocate retainers, court fees, execution friction, and 100% capital locked in idle NPA provisioning.
+                  Here, C_t represents estimated recoveries over time, and r is the bank&apos;s cost of capital discount rate. Deductions account for 3 to 5 years of court delays and advocate retainers. They also factor in court fees, execution friction, and capital locked in NPA provisions.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When experienced debt settlement advocates present an immediate cash settlement backed by an audited hardship dossier, the bank&apos;s financial model proves that recovering 40% to 55% of the principal ledger today yields a substantially higher Net Present Value than chasing an unsecured borrower through 4 years of contested civil litigation.
+                When experienced debt advocates present an immediate cash settlement backed by audited hardship proof, the bank&apos;s financial model responds favorably. Recovering 40% to 55% of the principal today yields a higher Net Present Value than chasing an unsecured borrower through 4 years of contested litigation.
               </p>
             </section>
 
@@ -709,7 +709,7 @@ export default function BankOverdraftFacilitySettlementPage() {
                 5. Bank Overdraft Facility Settlement Visual Roadmap
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The visual roadmap below illustrates the structured 5-stage institutional progression from initial OD account irregularity and interest freezing to forensic balance sheet auditing, advocate-led zonal negotiations, official OTS sanction letter issuance, and final RBI No Dues Certificate delivery with credit bureau restoration.
+                The visual roadmap below illustrates the structured 5-stage institutional progression. It guides you from initial OD account irregularity and interest freezing to forensic auditing, advocate-led zonal negotiations, official OTS sanction issuance, and final RBI No Dues Certificate delivery with credit bureau restoration.
               </p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -851,9 +851,7 @@ export default function BankOverdraftFacilitySettlementPage() {
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
                 8. Settlement Remittance, RBI ₹0 No Dues Certificate Mandate &amp; CIBIL Bureau Restoration
               </h2>
-              <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Executing the financial settlement by remitting the agreed compromised amount represents a major victory, but the debt resolution process is complete only when the account is legally closed and credit bureau records reflect zero outstanding liability.
-              </p>
+              <p className="text-sm sm:text-base text-slate-700 leading-relaxed">Executing the financial settlement by remitting the agreed compromised amount represents a major victory. However, the debt resolution process is complete only when the account is legally closed and credit bureau records reflect zero outstanding liability.</p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under <strong>RBI Circular RBI/2023-24/60</strong> (Responsible Lending Conduct – Release of Movable/Immovable Property Documents and Issuance of NDC), all commercial banks, urban cooperative banks, and NBFCs are statutorily bound by strict timelines:
               </p>
@@ -864,7 +862,7 @@ export default function BankOverdraftFacilitySettlementPage() {
                   <span>RBI Statutory Mandate on 30-Day NDC Delivery &amp; Penalty</span>
                 </div>
                 <p className="leading-relaxed text-emerald-900">
-                  The lending bank is statutorily required to deliver an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong>, return all unencumbered original documents or security cheques, and update all credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) within <strong>30 calendar days</strong> of receiving full settlement remittance. Any unjustified delay makes the bank liable to pay statutory compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
+                  The lending bank is statutorily required to deliver an official <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> within <strong>30 calendar days</strong>. It must return unencumbered documents or security cheques and update credit bureaus. Any unjustified delay makes the bank liable to pay statutory compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
                 </p>
               </div>
 
@@ -955,7 +953,7 @@ export default function BankOverdraftFacilitySettlementPage() {
                   10. SettleLoans Legal Defense &amp; Overdraft Debt Advisory
                 </h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Resolving a delinquent bank overdraft facility requires specialized legal advocates who understand commercial banking operations, RBI prudential directives, and stressed asset resolution protocols. SettleLoans represents business owners and individual borrowers across India: issuing formal representation notices, releasing unlawful banker liens on operational accounts, conducting forensic ledger audits, and negotiating directly with bank zonal authorities to secure the deepest lawful principal haircuts backed by official, bank-stamped No Dues Certificates.
+                  Resolving a delinquent overdraft facility requires specialized legal advocates. Counsel must understand commercial banking operations, RBI directives, and stressed asset protocols. SettleLoans represents business owners and individuals across India. We issue formal notices, challenge unlawful banker liens, and conduct forensic ledger audits. Furthermore, we negotiate directly with bank zonal authorities to secure maximum lawful debt waivers backed by bank-stamped No Dues Certificates.
                 </p>
               </div>
 
