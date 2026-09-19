@@ -857,7 +857,47 @@ export default function Page() {
               </section>
 
               {/* Section 12: Comprehensive FAQ Accordion */}
-              <section id="faqs" className="scroll-mt-24 mb-12">
+                            {/* Local Judicial Forum & DLSA Legal Help Directory */}
+              <section id="local-court-dlsa-directory" className="scroll-mt-24 mb-12">
+                <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
+                  <Gavel className="w-4 h-4" />
+                  <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
+                </div>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                  District Courts &amp; DLSA Helpdesk in Jodhpur
+                </h2>
+                <p className="text-slate-700 leading-relaxed mb-6 text-base">
+                  Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Jodhpur can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
+                </p>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <Building2 className="w-5 h-5 text-[#1F5EFF]" />
+                      <div className="font-bold text-slate-900 text-base">Metropolitan Sessions Court Jodhpur</div>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed mb-3">
+                      <strong>Address:</strong> Paota Circle, High Court Colony, Jodhpur, Rajasthan - 342006
+                    </p>
+                    <p className="text-xs text-slate-500 leading-relaxed">
+                      <strong>Jurisdiction:</strong> Adjudicates Section 138 NI Act cases, commercial dispute suits, and recovery agent injunctions for handicraft exporters and local retail borrowers.
+                    </p>
+                  </div>
+                  <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <Scale className="w-5 h-5 text-[#1F5EFF]" />
+                      <div className="font-bold text-slate-900 text-base">District Legal Services Authority (DLSA) Jodhpur Metro</div>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed mb-3">
+                      <strong>Address:</strong> ADR Centre, Old Rajasthan High Court Campus, Paota, Jodhpur - 342006
+                    </p>
+                    <p className="text-xs text-slate-500 leading-relaxed">
+                      <strong>Lok Adalat Conciliation:</strong> Coordinates National Lok Adalat reconciliation panels for unsecured bank loans, issuing court decrees that permanently close default files.
+                    </p>
+                  </div>
+                </div>
+              </section>
+
+<section id="faqs" className="scroll-mt-24 mb-12">
                 <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>

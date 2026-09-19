@@ -31,6 +31,9 @@ import {
   Hotel,
 } from 'lucide-react';
 
+export const dynamic = 'force-static';
+export const revalidate = 86400;
+
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Dehradun | SettleLoans',
   description: 'Learn how to settle personal loans legally in Dehradun. Stop recovery harassment and resolve bank debt with structured OTS via SettleLoans.',
@@ -854,7 +857,47 @@ export default function PersonalLoanSettlementDehradunPage() {
             </section>
 
             {/* Section 11: Frequently Asked Questions (FAQ Accordion) */}
-            <section id="faqs" className="scroll-mt-24 mb-12">
+                          {/* Local Judicial Forum & DLSA Legal Help Directory */}
+              <section id="local-court-dlsa-directory" className="scroll-mt-24 mb-12">
+                <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
+                  <Gavel className="w-4 h-4" />
+                  <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
+                </div>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                  District Courts &amp; DLSA Helpdesk in Dehradun
+                </h2>
+                <p className="text-slate-700 leading-relaxed mb-6 text-base">
+                  Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Dehradun can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
+                </p>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <Building2 className="w-5 h-5 text-[#1F5EFF]" />
+                      <div className="font-bold text-slate-900 text-base">District & Sessions Court Dehradun</div>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed mb-3">
+                      <strong>Address:</strong> Court Road, Near Prince Chowk, Dehradun, Uttarakhand - 248001
+                    </p>
+                    <p className="text-xs text-slate-500 leading-relaxed">
+                      <strong>Jurisdiction:</strong> Primary jurisdiction for banking recovery notices in Garhwal division. Debt Recovery Tribunal (DRT) Dehradun at Rajpur Road handles high-value debts above ₹20 Lakhs.
+                    </p>
+                  </div>
+                  <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <Scale className="w-5 h-5 text-[#1F5EFF]" />
+                      <div className="font-bold text-slate-900 text-base">District Legal Services Authority (DLSA) Dehradun</div>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed mb-3">
+                      <strong>Address:</strong> Nyaya Seva Kendra, District Court Complex, Court Road, Dehradun - 248001
+                    </p>
+                    <p className="text-xs text-slate-500 leading-relaxed">
+                      <strong>Lok Adalat Conciliation:</strong> Empowers borrowers to reach mutually negotiated OTS terms with public and private banks, shielding salaried employees from coercive salary attachments.
+                    </p>
+                  </div>
+                </div>
+              </section>
+
+<section id="faqs" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions.</span>

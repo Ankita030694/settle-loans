@@ -467,10 +467,10 @@ export default function CheckFreeCibilScorePage() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</div>
                 <ul className="space-y-4">
                   {[
-                    { text: "What is a Willful Defaulter?", link: "/cibil-defaulter-list" },
-                    { text: "Remove EMI Bounce Remarks", link: "/emi-bounce-charges" },
-                    { text: "Improve Score Fast", link: "/improve-cibil-score" },
-                    { text: "Debt Settlement Process", link: "/debt-settlement" }
+                    { text: "What is a Willful Defaulter?", link: "/check-cibil-defaulter-list" },
+                    { text: "Remove EMI Bounce Remarks", link: "/personal-loan-emi-bounce-charges" },
+                    { text: "Improve Score Fast", link: "/credit-score-improvement" },
+                    { text: "Debt Settlement Process", link: "/services/personal-loan-settlement" }
                   ].map((item, i) => (
                     <li key={i} className="group">
                       <Link href={item.link} className="flex items-center text-sm text-gray-700 hover:text-[#1F5EFF] transition-colors">

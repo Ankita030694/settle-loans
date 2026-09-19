@@ -777,6 +777,28 @@ export default function IciciPersonalLoanSettlementClient() {
                 Negotiating an equitable compromise settlement with ICICI Bank requires seasoned banking litigation counsel. The advocates at SettleLoans provide comprehensive protection, stopping collection harassment, auditing NPA provisioning allocations, and engaging ICICI&apos;s Zonal Settlement Committees to secure maximum permissible debt waivers.
               </p>
 
+              {/* ICICI Institutional Dispute Architecture */}
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-8">
+                <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                  <div className="font-bold text-slate-900 text-base mb-2">Central Settlement Desk (BKC)</div>
+                  <p className="text-sm text-slate-600 leading-relaxed">
+                    Formal representation before ICICI Bank&apos;s Centralized Dispute Resolution Desk at Bandra Kurla Complex (BKC) Mumbai for institutional OTS sign-offs on written-off portfolios.
+                  </p>
+                </div>
+                <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                  <div className="font-bold text-slate-900 text-base mb-2">Amazon Pay &amp; Insta Loan Relief</div>
+                  <p className="text-sm text-slate-600 leading-relaxed">
+                    Dedicated defense strategies for ICICI Instant Personal Loans and Amazon Pay co-branded credit cards, removing illegal compounding charges and unfreezing linked savings accounts.
+                  </p>
+                </div>
+                <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                  <div className="font-bold text-slate-900 text-base mb-2">Section 25 PSSA Defense</div>
+                  <p className="text-sm text-slate-600 leading-relaxed">
+                    Advocate appearance before Metropolitan Magistrate courts to handle ICICI electronic mandate bounce complaints under Section 25 Payment and Settlement Systems Act.
+                  </p>
+                </div>
+              </div>
+
               <div className="my-4">
                 <CompanySection />
               </div>

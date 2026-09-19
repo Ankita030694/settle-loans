@@ -582,9 +582,9 @@ export default function LegalConsequencesChangingNumberPage() {
                 </div>
                 <ul className="space-y-4">
                   {[
-                    { text: "RBI Guidelines on Recovery", link: "/rbi-guidelines-for-loan-recovery-agents-in-india" },
+                    { text: "RBI Guidelines on Recovery", link: "/rbi-rules-for-recovery-agents" },
                     { text: "How Loan Settlement Works", link: "/what-is-personal-loan-settlement" },
-                    { text: "Dealing with Fake Notices", link: "/legal-notice-for-personal-loan-default" }
+                    { text: "Dealing with Fake Notices", link: "/lok-adalat-notice-for-personal-loan" }
                   ].map((item, i) => (
                     <li key={i}>
                       <Link href={item.link} className="group flex items-center text-sm text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

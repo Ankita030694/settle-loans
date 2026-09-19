@@ -961,7 +961,47 @@ export default function PersonalLoanSettlementRaipurPage() {
             </section>
 
             {/* Section 12: Frequently Asked Questions (FAQ Accordion) */}
-            <section id="faqs" className="scroll-mt-24 mb-12">
+                          {/* Local Judicial Forum & DLSA Legal Help Directory */}
+              <section id="local-court-dlsa-directory" className="scroll-mt-24 mb-12">
+                <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
+                  <Gavel className="w-4 h-4" />
+                  <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
+                </div>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                  District Courts &amp; DLSA Helpdesk in Raipur
+                </h2>
+                <p className="text-slate-700 leading-relaxed mb-6 text-base">
+                  Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Raipur can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
+                </p>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <Building2 className="w-5 h-5 text-[#1F5EFF]" />
+                      <div className="font-bold text-slate-900 text-base">District & Sessions Court Raipur</div>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed mb-3">
+                      <strong>Address:</strong> Collectorate Parisar, Ghadi Chowk, Raipur, Chhattisgarh - 492001
+                    </p>
+                    <p className="text-xs text-slate-500 leading-relaxed">
+                      <strong>Jurisdiction:</strong> Covers Section 138 and Section 25 PSSA summons for Raipur, Durg, and Bhilai commercial borrowers, with DRT Jabalpur exercising debt recovery appellate oversight.
+                    </p>
+                  </div>
+                  <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <Scale className="w-5 h-5 text-[#1F5EFF]" />
+                      <div className="font-bold text-slate-900 text-base">District Legal Services Authority (DLSA) Raipur</div>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed mb-3">
+                      <strong>Address:</strong> ADR Building, Old High Court Premises, Collectorate Chowk, Raipur - 492001
+                    </p>
+                    <p className="text-xs text-slate-500 leading-relaxed">
+                      <strong>Lok Adalat Conciliation:</strong> Under Chhattisgarh SLSA directives, conducts pre-litigation bank compromise settlements with up to 65% principal haircuts for distressed industrial borrowers.
+                    </p>
+                  </div>
+                </div>
+              </section>
+
+<section id="faqs" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>

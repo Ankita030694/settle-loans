@@ -837,7 +837,7 @@ export default function StudentLoanSettlementPage() {
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
                 <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Academic Relief</div>
                 <ul className="space-y-4 text-sm font-bold">
-                  {["/charities-that-pay-off-debt-in-india", "/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt", "/are-there-any-government-approved-loan-settlement-services-available-online", "/loan-settlement-process-step-by-step-guide"].map((href, idx) => (
+                  {["/charities-that-pay-off-debt-in-india", "/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt", "/are-there-any-government-approved-loan-settlement-services-available-online", "/loan-settlement-process-in-india"].map((href, idx) => (
                     <li key={idx}>
                       <Link href={href} className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                         <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>

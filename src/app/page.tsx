@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Loan Settlement & Debt Relief Services | SettleLoans",
     description:
       "Resolve personal loans, credit card dues, and recovery harassment with legal debt settlement and RBI-compliant advisory across India.",
-    url: "https://www.settleloans.in",
+    url: "https://www.settleloans.in/",
     siteName: "SettleLoans",
     type: "website",
   },

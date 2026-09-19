@@ -1024,7 +1024,47 @@ export default function PersonalLoanSettlementVijayawadaPage() {
             </section>
 
             {/* Section 12: Frequently Asked Questions (FAQ Accordion) */}
-            <section id="faqs" className="scroll-mt-24 mb-12">
+                          {/* Local Judicial Forum & DLSA Legal Help Directory */}
+              <section id="local-court-dlsa-directory" className="scroll-mt-24 mb-12">
+                <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
+                  <Gavel className="w-4 h-4" />
+                  <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
+                </div>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                  District Courts &amp; DLSA Helpdesk in Vijayawada
+                </h2>
+                <p className="text-slate-700 leading-relaxed mb-6 text-base">
+                  Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Vijayawada can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
+                </p>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <Building2 className="w-5 h-5 text-[#1F5EFF]" />
+                      <div className="font-bold text-slate-900 text-base">Metropolitan Sessions Court Complex Vijayawada</div>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed mb-3">
+                      <strong>Address:</strong> Gandhinagar, Near Sub Collector Office, Vijayawada, Andhra Pradesh - 520003
+                    </p>
+                    <p className="text-xs text-slate-500 leading-relaxed">
+                      <strong>Jurisdiction:</strong> Exercises criminal and civil jurisdiction over electronic mandate defaults under Section 25 PSSA and summary recovery suits across Krishna and NTR districts.
+                    </p>
+                  </div>
+                  <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <Scale className="w-5 h-5 text-[#1F5EFF]" />
+                      <div className="font-bold text-slate-900 text-base">District Legal Services Authority (DLSA) Krishna</div>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed mb-3">
+                      <strong>Address:</strong> Nyaya Seva Sadan, Metropolitan Court Premises, Gandhinagar, Vijayawada - 520003
+                    </p>
+                    <p className="text-xs text-slate-500 leading-relaxed">
+                      <strong>Lok Adalat Conciliation:</strong> Special dispute benches offer legally binding compromise decrees for agricultural and unsecured personal loan defaults under Andhra Pradesh legal aid provisions.
+                    </p>
+                  </div>
+                </div>
+              </section>
+
+<section id="faqs" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>

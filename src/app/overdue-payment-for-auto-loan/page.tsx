@@ -559,10 +559,10 @@ export default function Page() {
                 <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</div>
                 <ul className="space-y-4">
                   {[
-                    { text: 'Personal Loan Default', link: '/personal-loan-default' },
-                    { text: 'Credit Card Settlement', link: '/credit-card-settlement' },
-                    { text: 'Stop Recovery Agents', link: '/stop-recovery-agents' },
-                    { text: 'Legal Rights of Defaulters', link: '/legal-rights-of-defaulters' }
+                    { text: 'Personal Loan Default', link: '/personal-loan-legal-notice' },
+                    { text: 'Credit Card Settlement', link: '/services/credit-card-settlement' },
+                    { text: 'Stop Recovery Agents', link: '/rbi-rules-for-recovery-agents' },
+                    { text: 'Legal Rights of Defaulters', link: '/how-to-stop-loan-recovery-harassment' }
                   ].map((item, i) => (
                     <li key={i}>
                       <Link href={item.link} className="flex items-center text-gray-600 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">

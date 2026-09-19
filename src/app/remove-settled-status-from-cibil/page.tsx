@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import RemoveSettledStatusFromCibilClient from './RemoveSettledStatusFromCibilClient';
 
 export const metadata: Metadata = {
-  title: 'How to Remove Settled Status from CIBIL: Legal Guide to "Closed" (2026)',
+  title: 'How to Remove Settled Status from CIBIL | SettleLoans',
   description: 'Learn how to remove settled status from CIBIL and convert it to "Closed". Step-by-step process to pay residual balance, get No Dues Certificate.',
   alternates: {
     canonical: 'https://www.settleloans.in/remove-settled-status-from-cibil',
@@ -18,8 +18,8 @@ export const metadata: Metadata = {
     'cibil score improvement after settlement'
   ],
   openGraph: {
-    title: 'How to Remove Settled Status from CIBIL: Legal Guide to "Closed"',
-    description: 'Stuck with a "Settled" remark on your CIBIL report? Follow our proven legal roadmap to pay the waived balance, obtain an unconditional NDC, and upgrade your status to "Closed".',
+    title: 'How to Remove Settled Status from CIBIL | SettleLoans',
+    description: "Learn how to remove settled status from CIBIL and upgrade to 'Closed'. Step-by-step legal roadmap to pay residual balance and get your bank NDC.",
     url: 'https://www.settleloans.in/remove-settled-status-from-cibil',
     siteName: 'SettleLoans',
     images: [
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'How to Remove Settled Status from CIBIL | SettleLoans',
-    description: 'Step-by-step guide on converting a "Settled" status to "Closed" in CIBIL, Experian, and CRIF reports. Discover RBI rules, NDC retrieval, and score recovery.',
+    description: "Learn how to remove settled status from CIBIL and upgrade to 'Closed'. Step-by-step legal roadmap to pay residual balance and get your bank NDC.",
     images: ['https://www.settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg'],
   },
 };

@@ -752,7 +752,47 @@ export default function PersonalLoanSettlementRajkotPage() {
             </section>
 
             {/* Section 11: Frequently Asked Questions */}
-            <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
+                          {/* Local Judicial Forum & DLSA Legal Help Directory */}
+              <section id="local-court-dlsa-directory" className="scroll-mt-24 mb-12">
+                <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
+                  <Gavel className="w-4 h-4" />
+                  <span>Local Legal Jurisdiction &amp; Legal Aid Directory</span>
+                </div>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
+                  District Courts &amp; DLSA Helpdesk in Rajkot
+                </h2>
+                <p className="text-slate-700 leading-relaxed mb-6 text-base">
+                  Distressed borrowers facing recovery pressure, arbitration summons, or Section 138 NI Act notices in Rajkot can access statutory legal defense through the local District Court and District Legal Services Authority (DLSA):
+                </p>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <Building2 className="w-5 h-5 text-[#1F5EFF]" />
+                      <div className="font-bold text-slate-900 text-base">District & Sessions Court Rajkot</div>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed mb-3">
+                      <strong>Address:</strong> Race Course Road, Sadar, Rajkot, Gujarat - 360001
+                    </p>
+                    <p className="text-xs text-slate-500 leading-relaxed">
+                      <strong>Jurisdiction:</strong> Benches handle Section 138 trials and summary recovery suits for Saurashtra-based engineering and diesel engine MSMEs.
+                    </p>
+                  </div>
+                  <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <Scale className="w-5 h-5 text-[#1F5EFF]" />
+                      <div className="font-bold text-slate-900 text-base">District Legal Services Authority (DLSA) Rajkot</div>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed mb-3">
+                      <strong>Address:</strong> Nyaya Mandir, District Court Building, Rajkot - 360001
+                    </p>
+                    <p className="text-xs text-slate-500 leading-relaxed">
+                      <strong>Lok Adalat Conciliation:</strong> Administers pre-litigation settlement conferences through Gujarat SLSA, delivering final civil court decrees on loan waivers.
+                    </p>
+                  </div>
+                </div>
+              </section>
+
+<section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Debt Settlement in Rajkot</h2>

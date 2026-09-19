@@ -833,6 +833,28 @@ export default function HdfcPersonalLoanSettlementClient() {
                 Negotiating an equitable compromise settlement with a major financial institution like HDFC Bank requires experienced banking litigation counsel. The legal and financial strategists at SettleLoans provide comprehensive defense, halting third-party harassment through formal cease-and-desist notices, auditing NPA provisioning allocations, and directly engaging HDFC&apos;s Zonal Settlement Committees to secure the maximum legally permissible debt waiver.
               </p>
 
+              {/* HDFC Institutional Escalation Architecture */}
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-8">
+                <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                  <div className="font-bold text-slate-900 text-base mb-2">Zonal SARB Escalation</div>
+                  <p className="text-sm text-slate-600 leading-relaxed">
+                    Direct access to HDFC Stressed Assets Resolution Branches in Mumbai, Delhi, Bengaluru, and Chennai, bypassing third-party collection agencies for accounts exceeding ₹5 Lakhs.
+                  </p>
+                </div>
+                <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                  <div className="font-bold text-slate-900 text-base mb-2">Jumbo Loan &amp; SmartDraft OTS</div>
+                  <p className="text-sm text-slate-600 leading-relaxed">
+                    Custom compromise formulas for HDFC credit card Jumbo loans and SmartDraft overdraft lines, ensuring principal-focused haircuts under RBI Master Directions.
+                  </p>
+                </div>
+                <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
+                  <div className="font-bold text-slate-900 text-base mb-2">Agency Registry Compliance</div>
+                  <p className="text-sm text-slate-600 leading-relaxed">
+                    Enforcing Indian Banks&apos; Association (IBA) code of conduct against HDFC empanelled recovery agents, halting calling outside 8 AM - 7 PM and workplace visit violations.
+                  </p>
+                </div>
+              </div>
+
               {/* Placement of Reusable CompanySection */}
               <div className="my-8">
                 <CompanySection />

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: pageTitle,
   description: pageDescription,
   alternates: {
-    canonical: `https://www.settleloans.in/${urlSlug}`,
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-company',
   },
   openGraph: {
     title: pageTitle,
