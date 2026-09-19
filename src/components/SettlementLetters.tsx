@@ -107,8 +107,9 @@ export default function SettlementLetters() {
                         <Image
                           src={letter.src}
                           alt={letter.alt}
-                          fill
-                          className="object-contain"
+                          width={707}
+                          height={1000}
+                          className="w-full h-full object-contain"
                           sizes="(max-width: 768px) 70vw, (max-width: 1200px) 40vw, 30vw"
                         />
                       </div>

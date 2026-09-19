@@ -199,7 +199,9 @@ export default function PersonalLoanDebtSettlementClient() {
 
               {/* Infographic */}
               <div className="my-12 relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-100">
-                <img 
+                <img
+                      width={1200}
+                      height={675} 
                   src="/images/infographics/personal-loan-debt-settlement.jpg" 
                   alt="Personal Loan Debt Settlement vs Debt Consolidation Infographic" 
                   className="w-full h-auto object-cover object-center m-0" 

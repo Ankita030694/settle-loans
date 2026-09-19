@@ -106,6 +106,8 @@ const Testimonials2 = () => {
                         <img 
                             src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" 
                             alt="Google" 
+                            width={96}
+                            height={32}
                             className="w-full h-full object-contain object-left"
                         />
                     </div>

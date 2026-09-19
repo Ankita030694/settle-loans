@@ -728,10 +728,11 @@ export default function PoliceStationCallForLoanDefaultPage() {
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
                 <Image
+                  width={1200}
+                  height={675}
                   src="/images/infographics/police-station-call-for-loan-default.jpg"
                   alt="Police Station Call for Loan Default Borrower Rights and Anti-Extortion Resolution Infographic"
-                  fill
-                  className="object-contain"
+                  className="w-full h-full object-contain"
                   sizes="(max-width: 1200px) 100vw, 900px"
                   priority
                 />

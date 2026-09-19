@@ -416,6 +416,8 @@ export default function LokAdalatMeLoanSettlementClient() {
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg"
                   alt="National Lok Adalat Loan Settlement Process, DLSA Conciliation Roadmap and Section 21 Award Workflow"
                   className="w-full h-auto object-cover"

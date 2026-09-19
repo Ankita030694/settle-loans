@@ -734,6 +734,8 @@ export default function CasheLoanSettlementProcessPage() {
               <div className="w-full rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950 mb-6">
                 <div className="relative aspect-[16/9] w-full bg-slate-900 flex items-center justify-center overflow-hidden">
                   <img
+                      width={1200}
+                      height={675}
                     src="/images/infographics/cashe-loan-settlement-process.jpg"
                     alt="CASHe App Loan Settlement Process and Bhanix Finance Resolution Blueprint"
                     className="w-full h-full object-contain hover:scale-[1.01] transition-transform duration-300"

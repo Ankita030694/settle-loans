@@ -713,10 +713,11 @@ export default function PnbPersonalLoanSettlementPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-900 my-6">
                 <div className="relative w-full aspect-video">
                   <Image
+                  width={1200}
+                  height={675}
                     src="/images/infographics/pnb-personal-loan-settlement-process.jpg"
                     alt="Punjab National Bank Personal Loan Settlement Process Flowchart and SASTRA Resolution Blueprint"
-                    fill
-                    className="object-cover"
+                    className="w-full h-full object-cover"
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 75vw, 900px"
                   />
                 </div>

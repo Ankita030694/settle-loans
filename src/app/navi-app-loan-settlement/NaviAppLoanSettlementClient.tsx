@@ -458,10 +458,11 @@ export default function NaviAppLoanSettlementClient() {
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <div className="relative w-full aspect-video">
                   <Image
+                  width={1200}
+                  height={675}
                     src="/images/infographics/navi-app-loan-settlement.jpg"
                     alt="Navi App Personal Loan Settlement Process, NACH Bounce Defense, and OTS Haircut Blueprint"
-                    fill
-                    className="object-cover"
+                    className="w-full h-full object-cover"
                     priority
                   />
                 </div>

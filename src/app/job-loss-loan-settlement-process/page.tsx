@@ -758,6 +758,8 @@ export default function JobLossLoanSettlementPage() {
               
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-lg bg-slate-900 my-6">
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/job-loss-loan-settlement-process.jpg"
                   alt="Job Loss and Layoff Loan Settlement Process, Hardship Portfolio Checklist, and OTS Haircut Guide"
                   className="w-full h-auto object-cover"

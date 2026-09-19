@@ -724,6 +724,8 @@ export default function PersonalLoanSettlementNashikPage() {
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-100">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/personal-loan-settlement-nashik.jpg"
                   alt="Nashik Debt Settlement Framework: Advocate-Led Legal Defense and OTS Haircut Protocol"
                   className="w-full h-auto aspect-video object-cover"

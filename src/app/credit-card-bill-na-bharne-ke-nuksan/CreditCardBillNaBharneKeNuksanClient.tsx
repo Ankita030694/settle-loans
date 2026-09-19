@@ -590,6 +590,8 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
               <div className="w-full rounded-2xl overflow-hidden shadow-xl border border-slate-200 bg-slate-950 my-6">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg"
                   alt="Credit Card Bill Na Bharne Ke Nuksan, 42% APR Compounding Trap, and 60-70% One Time Settlement Blueprint"
                   className="w-full h-auto object-cover"

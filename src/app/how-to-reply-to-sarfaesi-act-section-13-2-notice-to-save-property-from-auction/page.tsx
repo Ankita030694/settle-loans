@@ -658,7 +658,7 @@ export default function SarfaesiNoticePage() {
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm flex flex-col items-center text-center">
                 <div className="w-20 h-20 rounded-full bg-gray-100 mb-4 flex items-center justify-center border-4 border-white shadow-lg overflow-hidden">
-                  <img src="https://ui-avatars.com/api/?name=Settle+Loans&background=1F5EFF&color=fff&size=80" alt="SettleLoans Legal Expert" />
+                  <img src="https://ui-avatars.com/api/?name=Settle+Loans&background=1F5EFF&color=fff&size=80" alt="SettleLoans Legal Expert" width={80} height={80} />
                 </div>
                 <div className="text-lg font-black text-[#2E2E2E] mb-1">Reviewed by DRT Experts</div>
                 <p className="text-xs text-gray-500 mb-4">SettleLoans Legal Advocacy Team</p>

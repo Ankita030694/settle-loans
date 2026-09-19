@@ -705,6 +705,8 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/bank-of-baroda-personal-loan-settlement.jpg"
                   alt="Bank of Baroda Personal Loan Settlement Process, SARB Resolution Workflow and Zonal Office Approval Flow"
                   className="w-full h-auto object-cover"

@@ -630,10 +630,11 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
                 <Image
+                  width={1200}
+                  height={675}
                   src="/images/infographics/limitation-act-3-years-time-barred-loan-recovery.jpg"
                   alt="Limitation Act 1963 3-Year Bank Loan Recovery Rule in India Visual Roadmap Infographic"
-                  fill
-                  className="object-contain"
+                  className="w-full h-full object-contain"
                   sizes="(max-width: 1200px) 100vw, 900px"
                   priority
                 />

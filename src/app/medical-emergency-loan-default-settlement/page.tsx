@@ -785,6 +785,8 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
               
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-lg bg-slate-900 my-6">
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/medical-emergency-loan-default-settlement.jpg"
                   alt="Medical Emergency Loan Default Settlement, Hospital Discharge Evidence, and Compassionate Grounds OTS Guide"
                   className="w-full h-auto object-cover"

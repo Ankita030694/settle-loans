@@ -578,10 +578,11 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
               <div className="relative w-full aspect-video rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-4 bg-slate-900">
                 <Image
+                  width={1200}
+                  height={675}
                   src="/images/infographics/loan-settlement-for-housewives-and-co-borrowers.jpg"
                   alt="Loan Settlement for Non-Earning Co-Borrowers and Housewives Legal Architecture"
-                  fill
-                  className="object-cover"
+                  className="w-full h-full object-cover"
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 70vw, 800px"
                   priority
                 />

@@ -73,8 +73,9 @@ export default function ProcessSection() {
                   <Image 
                     src={item.icon} 
                     alt={item.title} 
-                    fill 
-                    className="object-contain filter transition-all duration-300 group-hover:scale-110"
+                    width={64}
+                    height={64}
+                    className="w-full h-full object-contain filter transition-all duration-300 group-hover:scale-110"
                   />
                 </div>
                 <div className="space-y-2">

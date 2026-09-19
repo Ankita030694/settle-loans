@@ -634,10 +634,11 @@ export default function FullAndFinalVsCompromiseSettlementPage() {
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-sm bg-slate-50">
                 <div className="relative aspect-[16/9] w-full">
                   <Image
+                  width={1200}
+                  height={675}
                     src="/images/infographics/full-and-final-settlement-vs-compromise-settlement.jpg"
                     alt="Full and Final Settlement vs Compromise Settlement vs Technical Write-Off Infographic"
-                    fill
-                    className="object-cover"
+                    className="w-full h-full object-cover"
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 70vw, 800px"
                     priority
                   />

@@ -755,6 +755,8 @@ export default function FederalBankLoanSettlementPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md my-6 bg-slate-900">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/federal-bank-loan-settlement-process.jpg"
                   alt="Federal Bank Loan Settlement Process Infographic Blueprint"
                   className="w-full h-auto object-cover"

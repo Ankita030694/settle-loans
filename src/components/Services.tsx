@@ -148,8 +148,9 @@ export default function Services() {
         <Image
           src="/Service.jpg"
           alt="Services Background"
-          fill
-          className="object-cover"
+          width={1200}
+          height={768}
+          className="w-full h-full object-cover"
           priority
         />
         {/* Subtle Overlay */}

@@ -658,10 +658,11 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                 </div>
                 <div className="relative w-full aspect-[16/9] bg-slate-100">
                   <Image
+                  width={1200}
+                  height={675}
                     src="/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg"
                     alt="Infographic illustrating SARFAESI Act Rules, Secured vs Unsecured Loans, Section 13 Exemption and Borrower Protections"
-                    fill
-                    className="object-contain"
+                    className="w-full h-full object-contain"
                     priority
                   />
                 </div>

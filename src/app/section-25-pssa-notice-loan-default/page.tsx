@@ -687,6 +687,8 @@ export default function Page() {
 
                 <div className="relative rounded-2xl overflow-hidden border border-slate-200 shadow-lg my-8 bg-slate-900">
                   <img
+                      width={1200}
+                      height={675}
                     src="/images/infographics/section-25-pssa-notice-loan-default.jpg"
                     alt="Section 25 PSSA Notice Loan Default Legal Defense Roadmap and One Time Settlement Architecture"
                     className="w-full h-auto object-cover"

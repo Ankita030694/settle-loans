@@ -537,6 +537,8 @@ export default function AxisBankPersonalLoanSettlementClient() {
 
               <div className="relative rounded-2xl overflow-hidden border border-slate-200 shadow-lg my-8 bg-slate-900">
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/axis-bank-personal-loan-settlement.jpg"
                   alt="Axis Bank Personal Loan Settlement Process and OTS Haircut Matrix"
                   className="w-full h-auto object-cover"

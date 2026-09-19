@@ -777,6 +777,8 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <div className="p-3 md:p-4 bg-slate-50">
                   <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-sm bg-white">
                     <img
+                      width={1200}
+                      height={675}
                       src="/images/infographics/american-express-amex-credit-card-settlement-india.jpg"
                       alt="American Express Credit Card Settlement Process and OTS Framework Infographic India"
                       className="w-full h-auto object-contain max-h-[440px] mx-auto hover:scale-[1.01] transition-transform duration-300"

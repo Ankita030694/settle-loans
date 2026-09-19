@@ -561,11 +561,12 @@ export default function CaseStudy25LakhMultipleBankSettlementClient() {
               <div className="my-6 rounded-2xl border border-slate-200/80 overflow-hidden bg-slate-900 shadow-lg">
                 <div className="relative w-full aspect-[16/9] bg-slate-950">
                   <Image
+                  width={1200}
+                  height={675}
                     src="/images/infographics/case-study-25-lakh-multiple-bank-settlement-settleloans.jpg"
                     alt="Multi-Bank Debt Settlement Case Study: ₹25 Lakh Settled for ₹10.5 Lakh Infographic"
-                    fill
                     priority
-                    className="object-cover"
+                    className="w-full h-full object-cover"
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 75vw, 60vw"
                   />
                 </div>

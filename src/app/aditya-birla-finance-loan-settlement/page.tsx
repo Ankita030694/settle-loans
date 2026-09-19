@@ -798,6 +798,8 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <div className="p-3 md:p-4 bg-slate-50">
                   <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-sm bg-white">
                     <img
+                      width={1200}
+                      height={675}
                       src="/images/infographics/aditya-birla-finance-loan-settlement.jpg"
                       alt="Aditya Birla Finance Loan Settlement and OTS Framework Infographic"
                       className="w-full h-auto object-contain max-h-[440px] mx-auto hover:scale-[1.01] transition-transform duration-300"

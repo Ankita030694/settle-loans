@@ -88,7 +88,7 @@ const FAQ: React.FC<FAQProps> = ({
                   "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop"
                 ].map((src, i) => (
                   <div key={i} className="inline-block h-12 w-12 rounded-full ring-2 ring-white overflow-hidden relative">
-                    <Image src={src} alt="User" fill className="object-cover" />
+                    <Image src={src} alt="User" width={48} height={48} className="w-full h-full object-cover" />
                   </div>
                 ))}
               </div>

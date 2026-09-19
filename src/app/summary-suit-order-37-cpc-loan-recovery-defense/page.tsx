@@ -707,10 +707,11 @@ export default function Order37SummarySuitDefensePage() {
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
                 <Image
+                  width={1200}
+                  height={675}
                   src="/images/infographics/summary-suit-order-37-cpc-loan-recovery-defense.jpg"
                   alt="Order 37 CPC Summary Suit Loan Recovery Timeline and Defense Strategy in India"
-                  fill
-                  className="object-contain"
+                  className="w-full h-full object-contain"
                   sizes="(max-width: 1200px) 100vw, 900px"
                   priority
                 />

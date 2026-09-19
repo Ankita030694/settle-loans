@@ -728,10 +728,11 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
                 <Image
+                  width={1200}
+                  height={675}
                   src="/images/infographics/recovery-agent-refusing-to-leave-house-dharna-what-to-do.jpg"
                   alt="Doorstep Standoff and Recovery Agent Dharna Legal Defense Protocol Infographic"
-                  fill
-                  className="object-contain"
+                  className="w-full h-full object-contain"
                   sizes="(max-width: 1200px) 100vw, 900px"
                   priority
                 />

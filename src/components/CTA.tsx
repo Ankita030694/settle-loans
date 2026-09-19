@@ -122,8 +122,9 @@ const CTA = () => {
              <Image 
                 src="/logo/logo1.png"
                 alt="SettleLoans Logo"
-                fill
-                className="object-contain p-2"
+                width={71}
+                height={71}
+                className="w-full h-full object-contain p-2"
              />
           </div>
         </div>

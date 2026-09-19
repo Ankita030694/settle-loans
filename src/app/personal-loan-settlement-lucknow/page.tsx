@@ -678,6 +678,8 @@ export default function Page() {
 
                 <div className="relative rounded-2xl overflow-hidden border border-slate-200 shadow-lg my-8 bg-slate-900">
                   <img
+                      width={1200}
+                      height={675}
                     src="/images/infographics/personal-loan-settlement-lucknow.jpg"
                     alt="Personal Loan Settlement Process in Lucknow and Uttar Pradesh Resolution Roadmap"
                     className="w-full h-auto object-cover"

@@ -775,10 +775,11 @@ export default function Section60CpcExemptionsPage() {
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
                 <Image
+                  width={1200}
+                  height={675}
                   src="/images/infographics/section-60-cpc-salary-property-attachment-exemptions.jpg"
                   alt="Section 60 CPC Property and Salary Attachment Exemptions Legal Shield Guide"
-                  fill
-                  className="object-contain"
+                  className="w-full h-full object-contain"
                   sizes="(max-width: 1200px) 100vw, 900px"
                   priority
                 />

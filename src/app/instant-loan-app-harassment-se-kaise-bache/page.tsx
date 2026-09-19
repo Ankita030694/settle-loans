@@ -669,6 +669,8 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 <div className="p-3 md:p-4 bg-slate-50">
                   <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-sm bg-white">
                     <img
+                      width={1200}
+                      height={675}
                       src="/images/infographics/instant-loan-app-harassment-se-kaise-bache.jpg"
                       alt="Instant Loan App Harassment Se Kaise Bache 4-Stage Action Blueprint Infographic"
                       className="w-full h-auto object-contain max-h-[440px] mx-auto hover:scale-[1.01] transition-transform duration-300"

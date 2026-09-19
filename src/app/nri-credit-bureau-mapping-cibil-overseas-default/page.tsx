@@ -666,10 +666,11 @@ export default function NriCreditBureauMappingPage() {
                 </div>
                 <div className="relative aspect-[16/9] w-full bg-slate-900">
                   <Image
+                  width={1200}
+                  height={675}
                     src="/images/infographics/nri-credit-bureau-mapping-cibil-overseas-default.jpg"
                     alt="NRI Cross-Border Credit Bureau Mapping: CIBIL vs Overseas Credit Scores (US, UK, UAE, Canada)"
-                    fill
-                    className="object-cover"
+                    className="w-full h-full object-cover"
                     priority
                   />
                 </div>

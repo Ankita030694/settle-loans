@@ -624,6 +624,8 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/union-bank-of-india-personal-loan-settlement.jpg"
                   alt="Union Bank of India Personal Loan Settlement Process, SAMB Resolution Workflow and Regional Credit Committee Approval Flow"
                   className="w-full h-auto object-cover"

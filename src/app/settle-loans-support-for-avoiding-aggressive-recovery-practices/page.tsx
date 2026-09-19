@@ -776,7 +776,7 @@ export default function AggressiveRecoverySupportPage() {
                    Get Your Life Back Now
                 </Link>
                 <div className="mt-16 flex justify-center gap-10 grayscale opacity-40">
-                    <img src="/logo/logo.svg" alt="SettleLoans" className="h-10" />
+                    <img src="/logo/logo.svg" alt="SettleLoans" width={140} height={40} className="h-10 w-auto" />
                     <span className="text-white text-2xl font-black italic">AMALEGAL SOLUTIONS</span>
                 </div>
             </div>

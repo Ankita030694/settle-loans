@@ -699,10 +699,11 @@ export default function RecoveryAgentCallingLateNightPage() {
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 bg-slate-50 shadow-sm">
                 <div className="relative aspect-[16/9] w-full">
                   <Image
+                  width={1200}
+                  height={675}
                     src="/images/infographics/recovery-agent-calling-late-night-rbi-violation.jpg"
                     alt="RBI Calling Time Window Regulations for Debt Recovery Agents Infographic"
-                    fill
-                    className="object-cover"
+                    className="w-full h-full object-cover"
                     priority
                   />
                 </div>

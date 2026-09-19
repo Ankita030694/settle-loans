@@ -709,6 +709,8 @@ export default function CanaraBankPersonalLoanSettlementPage() {
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/canara-bank-personal-loan-settlement.jpg"
                   alt="Canara Bank Personal Loan Settlement Process, SAMB OTS Haircut Hierarchy and Circle Office Approval Flow"
                   className="w-full h-auto object-cover"

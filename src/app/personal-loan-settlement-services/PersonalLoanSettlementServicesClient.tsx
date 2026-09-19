@@ -384,6 +384,8 @@ export default function PersonalLoanSettlementServicesClient() {
                   <img 
                     src="/images/og/personal-loan-settlement-services.jpg" 
                     alt="Process of Personal Loan Settlement Services" 
+                    width={1200}
+                    height={630}
                     className="w-full h-auto object-cover object-center m-0"
                   />
                 </div>

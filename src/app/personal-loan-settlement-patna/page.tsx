@@ -720,10 +720,11 @@ export default function PersonalLoanSettlementPatnaPage() {
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
                 <Image
+                  width={1200}
+                  height={675}
                   src="/images/infographics/personal-loan-settlement-patna.jpg"
                   alt="Personal Loan Settlement Process in Patna & Bihar Infographic Roadmap"
-                  fill
-                  className="object-contain"
+                  className="w-full h-full object-contain"
                   sizes="(max-width: 1200px) 100vw, 900px"
                   priority
                 />

@@ -216,7 +216,9 @@ export default function PersonalLoanSettlementLawyerClient() {
               {/* Full Width Infographic */}
               <div className="my-12 relative w-full">
                 <div className="bg-slate-50 rounded-xl overflow-hidden border border-slate-200 shadow-sm">
-                  <img 
+                  <img
+                      width={1200}
+                      height={675} 
                     src="/images/infographics/personal-loan-settlement-lawyer.jpg" 
                     alt="Infographic detailing the legal debt settlement process" 
                     className="w-full h-auto object-cover object-center m-0"

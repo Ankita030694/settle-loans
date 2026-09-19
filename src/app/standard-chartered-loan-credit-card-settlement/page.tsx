@@ -670,6 +670,8 @@ export default function StandardCharteredLoanCreditCardSettlementPage() {
                 <div className="p-4 sm:p-6 bg-white flex flex-col items-center justify-center">
                   <div className="w-full rounded-xl overflow-hidden border border-slate-200 bg-slate-100 shadow-inner">
                     <img
+                      width={1200}
+                      height={675}
                       src="/images/infographics/standard-chartered-loan-credit-card-settlement.jpg"
                       alt="Standard Chartered Loan and Credit Card Settlement Blueprint and OTS Haircut Guide"
                       className="w-full h-auto object-contain max-h-[460px] mx-auto hover:scale-[1.01] transition-transform duration-300"

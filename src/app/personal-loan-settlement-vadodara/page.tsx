@@ -636,6 +636,8 @@ export default function PersonalLoanSettlementVadodaraPage() {
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/personal-loan-settlement-vadodara.jpg"
                   alt="Debt Settlement Services in Vadodara: Gujarat Industrial Corridor Legal OTS Blueprint and Bank NPA Resolution Process"
                   className="w-full h-auto object-cover"

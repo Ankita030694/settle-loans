@@ -667,6 +667,8 @@ export default function HubliDharwadLoanSettlementPage() {
                 <div className="p-3 md:p-4 bg-slate-50">
                   <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-sm bg-white">
                     <img
+                      width={1200}
+                      height={675}
                       src="/images/infographics/personal-loan-settlement-hubli-dharwad.jpg"
                       alt="Personal Loan Settlement Process Framework in Hubli-Dharwad and North Karnataka"
                       className="w-full h-auto object-contain max-h-[440px] mx-auto hover:scale-[1.01] transition-transform duration-300"

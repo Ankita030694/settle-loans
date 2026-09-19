@@ -342,8 +342,9 @@ export default function ContactForm({
                 <Image
                     src="/contact-bg(1).png"
                     alt="Contact Background"
-                    fill
-                    className="object-cover object-left"
+                    width={1600}
+                    height={836}
+                    className="w-full h-full object-cover object-left"
                     priority
                 />
             </div>

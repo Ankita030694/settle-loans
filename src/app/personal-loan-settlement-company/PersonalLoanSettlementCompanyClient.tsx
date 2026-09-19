@@ -222,7 +222,9 @@ export default function PersonalLoanSettlementCompanyClient() {
               {/* Full Width Infographic */}
               <div className="my-12 relative w-[calc(100%+4rem)] -ml-8 px-4 sm:w-[calc(100%+5rem)] sm:-ml-10 sm:px-0">
                 <div className="bg-slate-50 rounded-xl overflow-hidden border border-slate-200 shadow-sm">
-                  <img 
+                  <img
+                      width={1200}
+                      height={675} 
                     src="/images/infographics/best-personal-loan-settlement-company.jpg" 
                     alt="Infographic detailing how to choose the best personal loan settlement company" 
                     className="w-full h-auto object-cover object-center m-0"

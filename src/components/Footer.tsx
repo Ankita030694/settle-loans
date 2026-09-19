@@ -24,8 +24,9 @@ export default function Footer() {
               <Image
                 src="/logo/logo.svg"
                 alt="SettleLoans Logo"
-                fill
-                className="object-contain object-left"
+                width={144}
+                height={144}
+                className="w-full h-full object-contain object-left"
               />
             </div>
 

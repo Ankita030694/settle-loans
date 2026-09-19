@@ -106,6 +106,8 @@ export default function BankGrid() {
                 <img 
                   src={bank.logo} 
                   alt={bank.name} 
+                  width={200}
+                  height={48}
                   className="max-h-12 max-w-[200px] object-contain"
                 />
               </div>

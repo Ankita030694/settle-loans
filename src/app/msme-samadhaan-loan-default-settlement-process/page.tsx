@@ -567,10 +567,11 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
               <div className="border border-slate-200 rounded-2xl overflow-hidden bg-slate-50 p-2 sm:p-4 shadow-sm">
                 <div className="relative w-full aspect-[16/9] rounded-xl overflow-hidden shadow-inner">
                   <Image
+                  width={1200}
+                  height={675}
                     src="/images/infographics/msme-samadhaan-loan-default-settlement-process.jpg"
                     alt="MSME Loan Resolution Roadmap: 5-Step Scheme for Debt Settlement and Asset Protection"
-                    fill
-                    className="object-cover"
+                    className="w-full h-full object-cover"
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 70vw, 800px"
                     priority
                   />

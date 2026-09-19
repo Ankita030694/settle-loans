@@ -691,10 +691,11 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <div className="relative aspect-[16/9] w-full">
                   <Image
+                  width={1200}
+                  height={675}
                     src="/images/infographics/senior-citizen-pensioner-loan-settlement-relief.jpg"
                     alt="Senior Citizen and Pensioner Loan Default & Pension Protection Legal Guide India"
-                    fill
-                    className="object-cover"
+                    className="w-full h-full object-cover"
                     priority
                   />
                 </div>

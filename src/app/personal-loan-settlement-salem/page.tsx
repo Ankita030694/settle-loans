@@ -632,6 +632,8 @@ export default function Page() {
                 </h2>
                 <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                   <img
+                      width={1200}
+                      height={675}
                     src="/images/infographics/personal-loan-settlement-salem.jpg"
                     alt="Loan Settlement Company in Salem Tamil Nadu Legal Defense and OTS Blueprint"
                     className="w-full h-auto object-cover"

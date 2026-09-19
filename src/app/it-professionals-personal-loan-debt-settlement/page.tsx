@@ -760,6 +760,8 @@ export default function ITProfessionalsLoanSettlementPage() {
               
               <div className="my-8 rounded-2xl overflow-hidden border border-slate-200 shadow-xl bg-slate-900">
                 <img
+                      width={1200}
+                      height={675}
                   src="/images/infographics/it-professionals-personal-loan-debt-settlement.jpg"
                   alt="Personal Loan & Credit Card Debt Settlement Process for IT Professionals in Bengaluru, Hyderabad and Pune"
                   className="w-full h-auto object-cover"

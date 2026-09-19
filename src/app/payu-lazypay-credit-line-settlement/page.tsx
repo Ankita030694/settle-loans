@@ -779,6 +779,8 @@ export default function PayULazyPayLoanSettlementPage() {
                 <div className="p-3 md:p-4 bg-slate-50">
                   <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-sm bg-white">
                     <img
+                      width={1200}
+                      height={675}
                       src="/images/infographics/payu-lazypay-credit-line-settlement.jpg"
                       alt="PayU LazyPay Credit Line and Personal Loan Settlement Process Infographic"
                       className="w-full h-auto object-contain max-h-[440px] mx-auto hover:scale-[1.01] transition-transform duration-300"
